@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_16e79e27e14d19c94c82cc6c",
+  "sha256": "e821aee202d2c259db861cd67c4a3384a85c9c41fff5040378a95bf65c831763",
+  "all_references": [
+    {
+      "document_id": "cc973cfa33ac453a690952ff",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/fr/assets/342/document/513141/rapport-developpement-durable-2024.pdf?p_enDocType=EDMS&p_File_Name=Rapport+D%C3%A9veloppement+Durable+2024",
+      "source_title": "[PDF] Rapport Développement Durable 2024 - Schneider Electric",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 20.3544,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T18:46:02+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    },
+    {
+      "document_id": "78dbed39cf972e4d6b23735d",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/fr/assets/342/document/513141/rapport-developpement-durable-2024.pdf?p_enDocType=EDMS&p_File_Name=Rapport+D%C3%A9veloppement+Durable+2024",
+      "source_title": "[PDF] Rapport Développement Durable 2024 - Schneider Electric",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_004_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 20.3544,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T17:40:05+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json"
+    }
+  ]
+}

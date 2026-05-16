@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 14,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Raising-the-Bar-Report-on-BVCM.pdf",
+    "title": "Raising the Bar: An SBTi report on accelerating corporate adoption of BVCM",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/net-zero. Titre page : The Corporate Net-Zero Standard - Science Based Targets Initiative. Texte du lien : Raising the Bar: An SBTi report on accelerating corporate adoption of BVCM.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_014_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_014_manifest.json",
+    "sha256": "d7a00ea0de641481d93704cc0863f9a184c523ac7aab53459fd91696745050b6",
+    "file_size_mb": 4.6932,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_Raising-the-Bar-Report-on-BVCM.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:30+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

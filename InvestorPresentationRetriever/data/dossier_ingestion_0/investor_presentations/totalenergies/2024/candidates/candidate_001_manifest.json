@@ -1,0 +1,44 @@
+{
+  "document_type": "investor_presentation_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_journal-actionnaires-75_2024_fr_pdf.pdf",
+    "title": "JDA#75 Le journal des actionnaires Automne 2024",
+    "snippet": "Automne 2024. Plus d’énergies, moins d’émissions, plus de free cash-flow.Chers actionnaires, À l’occasion de la dernière journée Investisseurs à New York, j’ai pu présenter, aux côtés du Comité exécutif, la stratégie et les perspectives de votre Compagnie pour la fin de la décennie.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts présentation : ['journée investisseurs']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : investor_presentation"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\investor_presentations\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\investor_presentations\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "c9eaa784b07391fe7b01bd8b40a4aa6cffaa9576db0394421fac2777aebaad6a",
+    "file_size_mb": 5.1848,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_journal-actionnaires-75_2024_fr_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:44+00:00",
+    "storage_version": "investor_presentation_candidate_storage_v0"
+  }
+}

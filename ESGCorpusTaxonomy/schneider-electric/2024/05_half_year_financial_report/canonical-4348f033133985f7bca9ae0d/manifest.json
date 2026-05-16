@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_4348f033133985f7bca9ae0d",
+  "sha256": "43e167d4fa066cf8d70c7face89ecb51059e2a0aee9da30674a12e2ae5676eb4",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "half_year_report",
+  "official_doc_type": "05_half_year_financial_report",
+  "official_doc_type_label": "Half-year financial report",
+  "doc_type_stratum": "financial_reporting",
+  "doc_subtype": "half_year_report",
+  "period_type": "half_year",
+  "regulatory_status": "regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\half-year-report\\canonical-4348f033133985f7bca9ae0d\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\05_half_year_financial_report\\canonical-4348f033133985f7bca9ae0d\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:03+00:00"
+}

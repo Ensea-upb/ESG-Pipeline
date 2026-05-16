@@ -1,0 +1,47 @@
+{
+  "document_type": "corporate_policy_code_of_conduct",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 9,
+  "policy_type": "code_of_conduct",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zqyfgh5LeNNTxwD3_LVMH_CodeOfConduct_DUTCH.pdf",
+    "title": "Download",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct. Titre page : The LVMH Code of Conduct - LVMH. Texte du lien : Download.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['code of conduct']",
+      "mots-clés secondaires : ['compliance']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier politique : ['codeofconduct']",
+      "CDN / asset domain",
+      "classe documentaire : standalone_code_of_conduct"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_manifest.json",
+    "sha256": "b424fdc7da2749adbb859a518a255d837fd98766212f6aad51a6946cc5d12094",
+    "file_size_mb": 3.3677,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_code_of_conduct_Zqyfgh5LeNNTxwD3_LVMH_CodeOfConduct_DUTCH.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:25+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

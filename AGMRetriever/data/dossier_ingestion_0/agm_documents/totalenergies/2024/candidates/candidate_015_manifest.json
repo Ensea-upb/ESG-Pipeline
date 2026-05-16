@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 15,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq111/files/atoms/files/renseignements_concernant_les_administrateurs_dont_le_renouvellement_ou_la_nomination_est_propose_a_lassemblee_generale.pdf",
+    "title": "Renseignements concernant les administrateurs dont le renouvellement ou la nomination est proposé à l’Assemblée générale (pdf - 136 Ko)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/fr/investisseurs/assemblees-generales/archives. Titre page : Archives Assemblées générales TotalEnergies | TotalEnergies.com. Texte du lien : Renseignements concernant les administrateurs dont le renouvellement ou la nomination est proposé à l’Assemblée générale (pdf - 136 Ko).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 93.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier AGM : ['assemblée-générale']",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_015_score_93_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_015_manifest.json",
+    "sha256": "4e056b1ef6453f7cf1ec1bd82df581b5bb08f5f550317ad668bc7d991267bfb8",
+    "file_size_mb": 0.1341,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_renseignements_concernant_les_administrateurs_dont_le_renouvellement_ou_la_nomination_est_propose_a_lassemblee_generale.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:57+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

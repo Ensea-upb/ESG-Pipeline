@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d1b000a51778316aa96a4b11",
+  "sha256": "f75e77db6fe9af4b06a4faf0c31807bc95bf84f55afc964c642c2cea2ee54029",
+  "all_references": [
+    {
+      "document_id": "977c1a126625aa7199f27d85",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://irp.cdn-website.com/2600b7b6/files/uploaded/Politique+environnementale.pdf",
+      "source_title": "Politique environnementale",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.548,
+      "document_type": "corporate_policy_environmental",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:51:03+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

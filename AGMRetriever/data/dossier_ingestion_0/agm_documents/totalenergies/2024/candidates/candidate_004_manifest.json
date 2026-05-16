@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+    "title": "AG 2024 Résultats des votes par résolution - VF - TotalEnergies",
+    "snippet": "Conformément à l’article R. 22-10-14 IV du Code de commerce, les politiques de rémunération des administrateurs et du Président-directeur général pour l’exercice 2024 telles qu’approuvées par l’Assemblée générale des actionnaires du 24 mai 2024 (11ème et 13ème résolutions) sont disponibles, respectivement en pages 238-239 ...",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 98.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale', 'résolutions', 'resolutions']",
+      "mots-clés faibles : ['assemblée', 'actionnaires', 'vote']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_score_98_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "d8135fcc2fb6614634c916dd5b419677d0a9bcc16d3b1142d65338f50c84ea2d",
+    "file_size_mb": 0.1999,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:49+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

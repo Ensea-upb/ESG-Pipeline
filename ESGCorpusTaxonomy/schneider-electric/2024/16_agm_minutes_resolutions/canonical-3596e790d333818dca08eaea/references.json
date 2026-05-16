@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_3596e790d333818dca08eaea",
+  "sha256": "69ee1346e401d3b243d38de5329b737aa13f128259c7d8c64fb0e24a8fb6e2e9",
+  "all_references": [
+    {
+      "document_id": "6a744abfb782112d35c87bd9",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://guocoland.com.my/wp-content/uploads/2024/10/Notice-of-AGM.pdf",
+      "source_title": "Notice of annual general meeting",
+      "source_name": "ddgs",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_003_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 0.2135,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:44:38+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

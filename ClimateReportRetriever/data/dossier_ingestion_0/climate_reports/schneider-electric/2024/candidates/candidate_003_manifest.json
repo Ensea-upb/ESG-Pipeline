@@ -1,0 +1,45 @@
+{
+  "document_type": "climate_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/466151/2023-climate-report.pdf",
+    "title": "[PDF] 2023 Climate Report - Schneider Electric",
+    "snippet": "Starting 2024, Schneider Electric looks to accelerate progress across all of these dimensions: continue to speed actions to further slash emissions in operations, accelerate support for suppliers in scaling the opportunities for high-integrity green materials, advance the work with external stakeholders to accelerate grid decarbonization and drive deeper emissions reductions from the use of the products the company sells, and use the company voice and expertise to support efforts aimed at tackling remaining carbon accounting and measurement challenges. To deliver its “Net-Zero ready” target on these emissions by 2030, the Group leverages its Power and Building EcoStruxure ™ IoT architectures, to monitor and optimize energy consumption, manage assets and grid infrastructure, manage distributed renewable energy resources and electricity load, and power EVs. Schneider set best-in-class operational ambitions engaging with the Climate Group on their EP100, EV100, and RE100 programs.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés forts climat : ['climate report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier compatible climat : ['climatereport']",
+      "classe documentaire : standalone_climate_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "a479aa243964ca928068a8058a6577c51ef093611e5b342d1d5fbb8928c2632e",
+    "file_size_mb": 6.0229,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2023-climate-report.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:19:01+00:00",
+    "storage_version": "climate_report_candidate_storage_v0"
+  }
+}

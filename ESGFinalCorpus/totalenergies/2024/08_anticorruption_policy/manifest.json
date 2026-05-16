@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_4530a62fa5f85cf1ae6d0d1b",
+  "sha256": "57d879543b9e0796d0641e08460dc76c80da93b1821f3eb8ec729dc3f68d7470",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "corporate_policy",
+  "official_doc_type": "08_anticorruption_policy",
+  "official_doc_type_label": "Anti-corruption policy",
+  "doc_type_stratum": "policy",
+  "doc_subtype": "anticorruption_policy",
+  "period_type": "perpetual",
+  "regulatory_status": "policy",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\corporate-policy\\canonical-4530a62fa5f85cf1ae6d0d1b\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\08_anticorruption_policy\\canonical-4530a62fa5f85cf1ae6d0d1b\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:03+00:00"
+}

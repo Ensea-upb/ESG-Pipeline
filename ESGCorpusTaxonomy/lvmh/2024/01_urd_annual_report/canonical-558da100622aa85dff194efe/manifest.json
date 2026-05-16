@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_558da100622aa85dff194efe",
+  "sha256": "344e51fa8b0fce588abb1fe44dba4eda378a840f9377c7b5a7b17cbfd33bef26",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "annual_report",
+  "official_doc_type": "01_urd_annual_report",
+  "official_doc_type_label": "URD / annual report",
+  "doc_type_stratum": "core_reporting",
+  "doc_subtype": "annual_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_standard_reporting",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\annual-report\\canonical-558da100622aa85dff194efe\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\01_urd_annual_report\\canonical-558da100622aa85dff194efe\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:03+00:00"
+}

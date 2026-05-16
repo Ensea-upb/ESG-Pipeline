@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_8ea72b68b9db46e754f01e5a",
+  "sha256": "86ba4dc8c87ced86f4197ad81e5542e07e916659fa80280d57ff3a82e1c9697f",
+  "all_references": [
+    {
+      "document_id": "7d8966026323fef7ab2ae327",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmB-2Zm069VX1fEl_formulaire-unique-de-participation-single-attendance-form.pdf",
+      "source_title": "Formulaire Unique de Participation",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_025_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_025_manifest.json",
+      "file_size_mb": 0.5694,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 25,
+      "stored_at": "2026-05-09T20:41:51+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_025_manifest.json"
+    }
+  ]
+}

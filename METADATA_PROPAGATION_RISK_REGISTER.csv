@@ -1,0 +1,11 @@
+risk_id,module,description,probability,impact,mitigation
+R01,ESGInformationExtraction,run_pdf_extraction.py called without --company or --fiscal-year — metadata missing from all downstream outputs,HIGH,HIGH,Document in contract; upstream caller must pass args; audit tool detects absence
+R02,ESGVisualExtraction,document_record.json or document_inventory.json absent in input_dir — company/fiscal_year fall back to empty,MEDIUM,HIGH,_resolve_company_year() logs warning; audit tool flags; path inference as last resort
+R03,ESGExtractionOrchestrator,All candidates have empty company (e.g. CSV/Table also failed) — backfill produces nothing,LOW,HIGH,Backfill only applies when at least one non-empty source exists; empty company is logged
+R04,ESGIndicatorDatabase,accepted_candidate_inputs.csv has empty company — propagates to indicator_preparation_database,MEDIUM,HIGH,metadata_missing_company_count in summary; logger.warning raised
+R05,ESGVariableDatasetBuilder,--override-empty-company-from-cli used with multi-document input without --single-document-mode — mixes companies,LOW,CRITICAL,Explicit ValueError raised if multiple document_ids detected without single_document_mode
+R06,ESGVariableDatasetBuilder,Directory-name guessing (heuristic) returns wrong company for non-ESGFinalCorpus paths,MEDIUM,HIGH,Heuristic only used as fallback (level 3); always logs warning; audit tool detects
+R07,ESGInformationExtraction,fiscal_year accidentally set to year found in evidence text (content year),LOW,HIGH,fiscal_year injected from CLI at document_record construction; evidence records get additive field; never modified downstream
+R08,ESGExtractionOrchestrator,Visual candidates from a different document share same document_id — backfill applies wrong company,LOW,CRITICAL,Only backfills when company is empty; correct company must come from extraction; document_id collision is upstream error
+R09,ESGIndicatorValidation,normalizer uses fiscal_year as year fallback — could be confused with year_raw,LOW,MEDIUM,Normalizer writes to normalized_year field; fiscal_year field is read-only in normalizer; verified in tests
+R10,all,New metadata fields break existing output contract validators,LOW,HIGH,All injections are additive (at end of records); existing required fields preserved; backward compat tests cover this

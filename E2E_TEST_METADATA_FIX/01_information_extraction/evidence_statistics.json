@@ -1,0 +1,830 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "evidence_count": 411,
+  "evidence_type_distribution": {
+    "section_heading": 13,
+    "paragraph": 298,
+    "table": 57,
+    "figure": 43
+  },
+  "evidence_by_section": {
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0001": 7,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0002": 22,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0003": 14,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0004": 57,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0005": 10,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0006": 1,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0007": 19,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0008": 153,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0009": 70,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0010": 24,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0011": 2,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0012": 6,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0013": 17
+  },
+  "evidence_without_section_count": 9,
+  "evidence_review_required_count": 165,
+  "average_quote_length": 205.114355,
+  "median_quote_length": 92,
+  "short_evidence_count": 101,
+  "merged_evidence_count": 188,
+  "unmerged_evidence_count": 223,
+  "average_merged_blocks_count": 2.832215,
+  "evidence_share_by_section": {
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0001": 0.017032,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0002": 0.053528,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0003": 0.034063,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0004": 0.138686,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0005": 0.024331,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0006": 0.002433,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0007": 0.046229,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0008": 0.372263,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0009": 0.170316,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0010": 0.058394,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0011": 0.004866,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0012": 0.014599,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0013": 0.041363
+  },
+  "sections_with_high_evidence_density": [],
+  "sections_with_front_matter_warning": [],
+  "sample_short_evidence": [
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000001",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "VALUES ANCHORED IN OUR DAILY ACTIVITIES"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000003",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0003",
+      "page_number": 8,
+      "quote": "OUR OPERATIONAL PERFORMANCE ON OUR 2 PILLARS(1)(2)(3)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000004",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "OUR OPERATIONAL PERFORMANCE"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000005",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0005",
+      "page_number": 14,
+      "quote": "ENERGY ACCESS AND HUMAN DEVELOPMENT INDEX"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000006",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0006",
+      "page_number": 14,
+      "quote": "AVAILABLE TECHNOLOGIES TO REDUCE GHG"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000007",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0007",
+      "page_number": 14,
+      "quote": "EMISSIONS AND THEIR POTENTIAL IMPACT"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000008",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0008",
+      "page_number": 16,
+      "quote": "LIFECYCLE CARBON INTENSITY OF SALES"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000009",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0009",
+      "page_number": 25,
+      "quote": "LEVERS TO THE REDUCTION OF THE LIFECYCLE"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000011",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0011",
+      "page_number": 29,
+      "quote": "OOUURR LLOOCCAALL AACCTTIIOONN PPLLAANNSS"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000012",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0012",
+      "page_number": 29,
+      "quote": "TARGETS AND PROGRESS INDICATORS"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000013",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0013",
+      "page_number": 30,
+      "quote": "2030 worldwide targets (Scope 3(d))"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000018",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "by geographical area by gender"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000019",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Rest of Europe Employees in 2024"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000021",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "managers hired were non-French nationals"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000022",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Workforce as of December 31, 2024: 102,887"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000025",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Individual Company Institutional"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000026",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Rest of shareholders employees(2) shareholders"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000035",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0003",
+      "page_number": 8,
+      "quote": "Hydrocarbon production(1) Net power production(2)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000038",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0003",
+      "page_number": 8,
+      "quote": "number of BtB and BtC client sites (millions)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000043",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "Europe and Central Asia Africa Middle East(7)"
+    }
+  ],
+  "sample_merged_evidence": [
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000014",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "1.1.1 An integrated energy company TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables and"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000015",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Safety, Respect for Each Other, Pioneer Spirit, Stand Together and It is through the strict adherence of our employees to these values and to Performance-Minded are what drive us. These values guide d"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000016",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "These five values also require all of TotalEnergies' employees to behave in In this way, we deliver on our commitment to better energy. an exemplary manner. Priority is given to safety, security, heal"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000020",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Rest of the world • 92.7% of employees on permanent contracts, and women account for 42.2% of employees hired on"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000024",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Estimate as of December 31, 2024, based on the request for the identification of shareholders Estimate as of December 31, 2024, based on the request for the made on that date, pursuant to Article L. 2"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000027",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "(1) Excluding treasury shares. (2) On the basis of employee shareholding as defined in Article L. 225-102 of the French Commercial Code and Article 11 paragraph 6 of the Articles of Association of the"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000029",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Adjusted net income Return on equity (ROE) Return on average Cash flow from (TotalEnergies share) capital employed operations excluding (ROACE) working capital (CFFO)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000030",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Dividend per share for Gearing ratio(3) Net investment Pre-dividend organic the fiscal year 2024(2) ($4.8 billion for low- cash breakeven"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000031",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Greenhouse gas (GHG) emissions Scope 1+2 Methane emissions from operated facilities (vs 2020) from operated facilities (Mt CO e)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000036",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0003",
+      "page_number": 8,
+      "quote": "● Oil (including bitumen) From gas flexible capacities ● Gas (including condensates and associated NGL) LNG production Gross installed power generation capacities at year-end"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000040",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "Africa (excluding North Africa) Americas Asia-Pacific Africa (excluding North Africa) Americas Asia-Pacific Europe Middle East and North africa Europe Middle East and North africa Crude oil refining c"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000041",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "Europe Americas Asia – Middle East – Africa Europe Rest of the world Petrochemical production capacity by geographic area Petrochemical products production volume"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000042",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "Europe Americas(4) Asia – Middle East(4) Monomers(5) Polymers Marketing & Services(6) petroleum product sales Production of biofuels by geographic area (kb/d) (kt)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000044",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "(1) Based on SEC rules (Brent at $81.17/b in 2024, $83.27/b in 2023 and $101.24/b in 2022). (2) Capacity data based on crude distillation unit stream-day capacities under normal operating conditions, "
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000046",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 10,
+      "quote": "The Company was founded on March 28, 1924. Ever since it took its first steps in oil production in Iraq back in 1927, the Company has continually transformed and forged a reputation for its pioneering"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000048",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 10,
+      "quote": "By changing its name to TotalEnergies in 2021, the Company has ensured that its identity reflects the strong ambition driving the Company, and is committed to a balanced transition strategy for the be"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000049",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 10,
+      "quote": "Creation of Listing of CFP Discovery of the the Compagnie shares on the Saint-Marcet gas field, Française des Paris Stock the first hydrocarbon Pétroles (CFP). Exchange. reserves found in France."
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000050",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 10,
+      "quote": "Initial discovery Production start-up Creation of Société at the Kirkuk field at the Gonfreville Nationale des pétroles in Iraq. refinery in d’Aquitaine (SNPA)."
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000051",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 10,
+      "quote": "SNPA discovers Discovery of the Edjeleh, Discovery of the Lacq gas field Hassi R’Mel (gas) and the first offshore in France. Hassi Messaoud (oil) fields in Gabon."
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000052",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 10,
+      "quote": "the Total brand. First offshore well Inauguration Creating our own on Umm Shaif of the Feyzin distribution network. (Abu Dhabi). Refinery."
+    }
+  ],
+  "sample_section_mismatch_warnings": [],
+  "short_evidence_skipped_count": 351,
+  "short_evidence_review_required_count": 37,
+  "suspicious_sections_count": 0,
+  "quarantined_evidence_count": 0,
+  "review_required_due_to_section_count": 0,
+  "evidence_policy_distribution": {
+    "normal": 411
+  },
+  "evidence_by_section_policy": {
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0001": {
+      "normal": 7
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0002": {
+      "normal": 22
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0003": {
+      "normal": 14
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0004": {
+      "normal": 57
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0005": {
+      "normal": 10
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0006": {
+      "normal": 1
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0007": {
+      "normal": 19
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0008": {
+      "normal": 153
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0009": {
+      "normal": 70
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0010": {
+      "normal": 24
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0011": {
+      "normal": 2
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0012": {
+      "normal": 6
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0013": {
+      "normal": 17
+    }
+  },
+  "suspicious_sections": [],
+  "sample_quarantined_evidence": [],
+  "sample_review_required_due_to_section": [],
+  "sample_evidence": [
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000001",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "VALUES ANCHORED IN OUR DAILY ACTIVITIES"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000002",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "37.9% • $9.5 billion payroll (including social security charges)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000003",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0003",
+      "page_number": 8,
+      "quote": "OUR OPERATIONAL PERFORMANCE ON OUR 2 PILLARS(1)(2)(3)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000004",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "OUR OPERATIONAL PERFORMANCE"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000005",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0005",
+      "page_number": 14,
+      "quote": "ENERGY ACCESS AND HUMAN DEVELOPMENT INDEX"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000006",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0006",
+      "page_number": 14,
+      "quote": "AVAILABLE TECHNOLOGIES TO REDUCE GHG"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000007",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0007",
+      "page_number": 14,
+      "quote": "EMISSIONS AND THEIR POTENTIAL IMPACT"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000008",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0008",
+      "page_number": 16,
+      "quote": "LIFECYCLE CARBON INTENSITY OF SALES"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000009",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0009",
+      "page_number": 25,
+      "quote": "LEVERS TO THE REDUCTION OF THE LIFECYCLE"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000010",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0010",
+      "page_number": 29,
+      "quote": "OOUURR 44 AAXXEESS OOFF SSUUSSTTAAIINNAABBLLEE DDEEVVEELLOOPPMMEENNTT"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000011",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0011",
+      "page_number": 29,
+      "quote": "OOUURR LLOOCCAALL AACCTTIIOONN PPLLAANNSS"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000012",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0012",
+      "page_number": 29,
+      "quote": "TARGETS AND PROGRESS INDICATORS"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000013",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0013",
+      "page_number": 30,
+      "quote": "2030 worldwide targets (Scope 3(d))"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000014",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "1.1.1 An integrated energy company TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables and"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000015",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Safety, Respect for Each Other, Pioneer Spirit, Stand Together and It is through the strict adherence of our employees to these values and to Performance-Minded are what drive us. These values guide d"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000016",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "These five values also require all of TotalEnergies' employees to behave in In this way, we deliver on our commitment to better energy. an exemplary manner. Priority is given to safety, security, heal"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000017",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Employees breakdown Employees breakdown Proven expertise in 2024"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000018",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "by geographical area by gender"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000019",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Rest of Europe Employees in 2024"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000020",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Rest of the world • 92.7% of employees on permanent contracts, and women account for 42.2% of employees hired on"
+    }
+  ],
+  "sample_evidence_without_section": [
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_tbl_ev_totalenergies_2024_urd_e2e_metadata_fix_page_0002_tbl_001",
+      "evidence_type": "table",
+      "section_id": null,
+      "page_number": 2,
+      "quote": "Low-confidence table detected on page 2 with 46 rows and 9 columns."
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_tbl_ev_totalenergies_2024_urd_e2e_metadata_fix_page_0003_tbl_001",
+      "evidence_type": "table",
+      "section_id": null,
+      "page_number": 3,
+      "quote": "Table parsed on page 3 with 33 rows and 10 columns."
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_tbl_ev_totalenergies_2024_urd_e2e_metadata_fix_page_0005_tbl_001",
+      "evidence_type": "table",
+      "section_id": null,
+      "page_number": 5,
+      "quote": "Table parsed on page 5 with 24 rows and 12 columns."
+    },
+    {
+      "evidence_id": "ev_fig_e916b68e832cef825fe2",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "evidence_id": "ev_fig_ddb7a10b3666c70ca7c9",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "evidence_id": "ev_fig_d03b36f328e9e1fb6090",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "evidence_id": "ev_fig_52b684ff0dc0652bd7b9",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "evidence_id": "ev_fig_627eded44023c03b8d35",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "evidence_id": "ev_fig_cbf172ee3129c871aaa1",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    }
+  ],
+  "sample_section_heading_evidence": [
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000001",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "VALUES ANCHORED IN OUR DAILY ACTIVITIES"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000002",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "37.9% • $9.5 billion payroll (including social security charges)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000003",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0003",
+      "page_number": 8,
+      "quote": "OUR OPERATIONAL PERFORMANCE ON OUR 2 PILLARS(1)(2)(3)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000004",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0004",
+      "page_number": 9,
+      "quote": "OUR OPERATIONAL PERFORMANCE"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000005",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0005",
+      "page_number": 14,
+      "quote": "ENERGY ACCESS AND HUMAN DEVELOPMENT INDEX"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000006",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0006",
+      "page_number": 14,
+      "quote": "AVAILABLE TECHNOLOGIES TO REDUCE GHG"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000007",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0007",
+      "page_number": 14,
+      "quote": "EMISSIONS AND THEIR POTENTIAL IMPACT"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000008",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0008",
+      "page_number": 16,
+      "quote": "LIFECYCLE CARBON INTENSITY OF SALES"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000009",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0009",
+      "page_number": 25,
+      "quote": "LEVERS TO THE REDUCTION OF THE LIFECYCLE"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000010",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0010",
+      "page_number": 29,
+      "quote": "OOUURR 44 AAXXEESS OOFF SSUUSSTTAAIINNAABBLLEE DDEEVVEELLOOPPMMEENNTT"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000011",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0011",
+      "page_number": 29,
+      "quote": "OOUURR LLOOCCAALL AACCTTIIOONN PPLLAANNSS"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000012",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0012",
+      "page_number": 29,
+      "quote": "TARGETS AND PROGRESS INDICATORS"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000013",
+      "evidence_type": "section_heading",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0013",
+      "page_number": 30,
+      "quote": "2030 worldwide targets (Scope 3(d))"
+    }
+  ],
+  "sample_paragraph_evidence": [
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000014",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "1.1.1 An integrated energy company TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables and"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000015",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Safety, Respect for Each Other, Pioneer Spirit, Stand Together and It is through the strict adherence of our employees to these values and to Performance-Minded are what drive us. These values guide d"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000016",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "These five values also require all of TotalEnergies' employees to behave in In this way, we deliver on our commitment to better energy. an exemplary manner. Priority is given to safety, security, heal"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000017",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Employees breakdown Employees breakdown Proven expertise in 2024"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000018",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "by geographical area by gender"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000019",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0001",
+      "page_number": 6,
+      "quote": "Rest of Europe Employees in 2024"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000020",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Rest of the world • 92.7% of employees on permanent contracts, and women account for 42.2% of employees hired on"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000021",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "managers hired were non-French nationals"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000022",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Workforce as of December 31, 2024: 102,887"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000023",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Shareholding structure Shareholding structure by shareholder type(1)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000024",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Estimate as of December 31, 2024, based on the request for the identification of shareholders Estimate as of December 31, 2024, based on the request for the made on that date, pursuant to Article L. 2"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000025",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Individual Company Institutional"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000026",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Rest of shareholders employees(2) shareholders"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000027",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "(1) Excluding treasury shares. (2) On the basis of employee shareholding as defined in Article L. 225-102 of the French Commercial Code and Article 11 paragraph 6 of the Articles of Association of the"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000028",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 6,
+      "quote": "Our climate ambition: AMBITION OF CARBON NEUTRALITY BY 2050, together with society."
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000029",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Adjusted net income Return on equity (ROE) Return on average Cash flow from (TotalEnergies share) capital employed operations excluding (ROACE) working capital (CFFO)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000030",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Dividend per share for Gearing ratio(3) Net investment Pre-dividend organic the fiscal year 2024(2) ($4.8 billion for low- cash breakeven"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000031",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Greenhouse gas (GHG) emissions Scope 1+2 Methane emissions from operated facilities (vs 2020) from operated facilities (Mt CO e)"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000032",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Carbon intensity of energy products sold Total recordable injury rate"
+    },
+    {
+      "evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_evidence_000033",
+      "evidence_type": "paragraph",
+      "section_id": "totalenergies_2024_urd_e2e_metadata_fix_section_0002",
+      "page_number": 7,
+      "quote": "Share of women among senior executives (%) Share of non-French nationals among senior executives (%)"
+    }
+  ]
+}

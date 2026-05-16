@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_anticorruption",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "policy_type": "anticorruption",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.hexis-graphics.com/hexisgraphics/2023/11/Politique-anti-corruption-HEXIS-2023.pdf",
+    "title": "POLITIQUE",
+    "snippet": "Politique anticorruption HEXIS - 2023.La présente Politique Anticorruption s'applique à tous les établissements présents et futurs de l'Entreprise HEXIS. A ce jour, l'Entreprise est constituée des 4 établissements suivants",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['politique anticorruption', 'politique anti-corruption']",
+      "année récente détectée : 2023",
+      "URL PDF directe",
+      "nom de fichier politique : ['anti-corruption', 'anti_corruption']",
+      "classe documentaire : standalone_anticorruption"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_manifest.json",
+    "sha256": "957a082a37541b30edfd7c3a3af4341aa2acf1ba5a4dacc14645f573cb71e4b5",
+    "file_size_mb": 0.4444,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_anticorruption_Politique-anti-corruption-HEXIS-2023.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:11+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

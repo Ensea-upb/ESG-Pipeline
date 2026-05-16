@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_70030ed9076c47c252a34766",
+  "sha256": "211e11ee38f4f48237e948220f33d99f9d81cf27c8d8a277049328a84d922901",
+  "all_references": [
+    {
+      "document_id": "ec94b3588c752d80feb9a19a",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKkNpm069VX132J_compensation-policies-in-respect-of-directors-and-senior-executive-officers.pdf",
+      "source_title": "Compensation policies in respect of Directors and Senior executive officers",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_035_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_035_manifest.json",
+      "file_size_mb": 0.064,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 35,
+      "stored_at": "2026-05-09T20:42:04+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_035_manifest.json"
+    }
+  ]
+}

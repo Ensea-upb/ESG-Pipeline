@@ -1,0 +1,46 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 6,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NYSE_TTE_2021.pdf",
+    "title": "View Responsibility Report",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.responsibilityreports.com/Company/totalenergies. Titre page : TotalEnergies - ResponsibilityReports.com. Texte du lien : View Responsibility Report.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts durabilité : ['responsibility report']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier compatible durabilité : ['responsibilityreport']",
+      "classe documentaire : standalone_sustainability_report"
+    ],
+    "negative_signals": [
+      "aucune année détectée",
+      "domaine non officiel : responsibilityreports.com"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_006_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_006_manifest.json",
+    "sha256": "9913025d1626b18764d4e6307cd90d3d0f09f3696aea23e70eedea1c46e0e12c",
+    "file_size_mb": 8.1396,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_NYSE_TTE_2021.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:39:27+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

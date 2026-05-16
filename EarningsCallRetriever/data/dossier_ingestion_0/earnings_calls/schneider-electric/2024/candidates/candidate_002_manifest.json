@@ -1,0 +1,43 @@
+{
+  "document_type": "earnings_call_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Terms-of-Use.pdf",
+    "title": "Terms of Use",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.ainvest.com/news/antero-resources-ar-q3-earnings-call-transcript-oct-31-2024-24111010bea40314dcbbdedf/. Titre page : Antero Resources (AR) Q3 Earnings call transcript Oct 31, 2024. Texte du lien : Terms of Use.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts earnings call : ['earnings call transcript', 'call transcript']",
+      "mots-clés secondaires : ['earnings call']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : earnings_call_transcript"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "9c5c4949b391f334bb5fa48e37f255512d61ccf6308de9b56c1545b4f6cfa3e2",
+    "file_size_mb": 0.0833,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_Ainvest-Fintech-Terms-of-Use.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:16+00:00",
+    "storage_version": "earnings_call_candidate_storage_v0"
+  }
+}

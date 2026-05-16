@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_b8fba7197954a65f9876b0cd",
+  "sha256": "4e056b1ef6453f7cf1ec1bd82df581b5bb08f5f550317ad668bc7d991267bfb8",
+  "all_references": [
+    {
+      "document_id": "16b3106f0481708747951dbf",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq111/files/atoms/files/renseignements_concernant_les_administrateurs_dont_le_renouvellement_ou_la_nomination_est_propose_a_lassemblee_generale.pdf",
+      "source_title": "Renseignements concernant les administrateurs dont le renouvellement ou la nomination est proposé à l’Assemblée générale (pdf - 136 Ko)",
+      "source_name": "html_pdf_resolver",
+      "score": 93,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_015_score_93_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_015_manifest.json",
+      "file_size_mb": 0.1341,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 15,
+      "stored_at": "2026-05-09T20:49:57+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_015_manifest.json"
+    }
+  ]
+}

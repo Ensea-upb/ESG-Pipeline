@@ -1,0 +1,45 @@
+{
+  "document_type": "governance_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_index-gri-2025_2025.pdf",
+    "title": "[PDF] GRI Content Index 2024 GRI Standards 2021 - TotalEnergies",
+    "snippet": "11-21-4 Approach to tax Tax Transparency Report p.17-35 11-21-5 Tax governance, control, and risk management Tax Transparency Report p.7 Tax Transparency Report p.21-22 11-21-6 Stakeholder engagement and management of concerns related to tax Tax Transparency Report p.17-35 11-21-7 Financial assistance received from government Tax Transparency Report p.40 11-21-8 Additional sector disclosure URD 2024 - p.587 URD 2024 - p.613-615 Public policy 11-22-1 Management of material topics URD 2024 -p.33-34 URD 2024 -p.297-306 TotalEnergies website, Advocacy Principles TotalEnergies company’s Advocacy Directive TotalEnergies website, professional associations membership Review 2023 professional associations and chambers of commerce Review of industry associations 38 Assessing the effectiveness of our actions is part of a continuous improvement approach, integrated into our daily processes for updating actions and policies.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles gouvernance : ['governance']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux gouvernance : ['urd']",
+      "classe documentaire : annual_report_with_governance_section"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "fb384aeac5d75e35dd79f55f6bb09299a53bddb7536fa2d3ffee72e5df4a0a35",
+    "file_size_mb": 0.5986,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_index-gri-2025_2025.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:32:24+00:00",
+    "storage_version": "governance_report_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 18,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Financial-Sector-Science-Based-Targets-Guidance.pdf",
+    "title": "View the previous version (V1.2) here",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/resources. Titre page : Resources - Science Based Targets Initiative. Texte du lien : View the previous version (V1.2) here.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['science-based-targets']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_018_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_018_manifest.json",
+    "sha256": "ada723f63fd95afc284ab42f21b59f3d6d7885e16aa360ee480bda221c8b6771",
+    "file_size_mb": 6.0846,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Financial-Sector-Science-Based-Targets-Guidance.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:39+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

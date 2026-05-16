@@ -1,0 +1,43 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://guocoland.com.my/wp-content/uploads/2024/10/Notice-of-AGM.pdf",
+    "title": "Notice of annual general meeting",
+    "snippet": "(i) the conclusion of the next Annual General Meeting (“AGM”) of the Company at which time it will lapse, unless by a resolution passed at the meeting, the authority is renewed; or.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts AGM : ['notice of annual general meeting']",
+      "mots-clés secondaires AGM : ['AGM', 'annual general meeting']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_003_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "69ee1346e401d3b243d38de5329b737aa13f128259c7d8c64fb0e24a8fb6e2e9",
+    "file_size_mb": 0.2135,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_Notice-of-AGM.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:38+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

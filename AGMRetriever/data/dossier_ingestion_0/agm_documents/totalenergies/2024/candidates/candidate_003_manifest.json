@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/2024-03/CP_Convocation_AG2024.pdf",
+    "title": "Téléchargez le communiqué de presse (PDF)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/fr/actualites/communiques-de-presse/convocation-de-lassemblee-generale-du-24-mai-2024. Titre page : Convocation de l’Assemblée Générale du 24 mai 2024 | TotalEnergies.com. Texte du lien : Téléchargez le communiqué de presse (PDF).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 98.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_003_score_98_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "15b7ef28e9526712546179e458071ba2ad64287ad663031eecf1e8b41c76aef8",
+    "file_size_mb": 0.2226,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_CP_Convocation_AG2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:48+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

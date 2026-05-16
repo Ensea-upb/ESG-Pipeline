@@ -1,0 +1,44 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/fr/assets/342/document/513141/rapport-developpement-durable-2024.pdf?p_enDocType=EDMS&p_File_Name=Rapport+D%C3%A9veloppement+Durable+2024",
+    "title": "[PDF] Rapport Développement Durable 2024 - Schneider Electric",
+    "snippet": "Preuve de notre engagement, nous sommes arrivé en tête de la liste des « Entreprises les plus durables au monde en 2024 » par. TIME Magazine and Statista. Début",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés forts durabilité : ['rapport développement durable', 'rapport developpement durable']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "classe documentaire : standalone_sustainability_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "e821aee202d2c259db861cd67c4a3384a85c9c41fff5040378a95bf65c831763",
+    "file_size_mb": 20.3544,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_rapport-developpement-durable-2024.pdf_p_enDocType_EDMS_p_File_Name_Rapport_D_C3_A9veloppement_Durable_2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:46:02+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

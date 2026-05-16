@@ -1,0 +1,47 @@
+{
+  "document_type": "corporate_policy_code_of_conduct",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 28,
+  "policy_type": "code_of_conduct",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBVRJm069VX10DR_210324_lvmh_codeofconduct_cn.pdf",
+    "title": "下载",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct. Titre page : LVMH行为准则 - LVMH. Texte du lien : 下载.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['code of conduct']",
+      "mots-clés secondaires : ['compliance']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier politique : ['codeofconduct']",
+      "CDN / asset domain",
+      "classe documentaire : standalone_code_of_conduct"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_028_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_028_manifest.json",
+    "sha256": "06ae7c56a149067b2a614758bf2688e41c698e9b666f5292fca58cd31c9739d9",
+    "file_size_mb": 1.6891,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_code_of_conduct_ZnBVRJm069VX10DR_210324_lvmh_codeofconduct_cn.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:38+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 8,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.fmc.com/sites/default/files/2023-06/FMC%20CDP%20Climate%202021.pdf",
+    "title": "2021 FMC CDP Climate Change Response PDF (602.42 k)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.fmc.com/en/cdp-responses. Titre page : CDP Responses | FMC Corp. Texte du lien : 2021 FMC CDP Climate Change Response PDF (602.42 k).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp climate change response']",
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_008_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_008_manifest.json",
+    "sha256": "de359431b5696ddf22486aaf6e4bcdedfbe0d22585efac0aaa721640de5d0d19",
+    "file_size_mb": 0.5883,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_FMC_20CDP_20Climate_202021.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:24+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

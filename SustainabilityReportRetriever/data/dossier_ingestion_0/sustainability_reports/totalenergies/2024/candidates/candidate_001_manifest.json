@@ -1,0 +1,45 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+    "title": "[PDF] Total Energies - Sustainability & Climate 2024 Progress Report",
+    "snippet": "NOTRE DÉMARCHE NOTRE DÉMARCHE NOTRE RAISON D’ÊTRE Fournir au plus grand nombre une énergie plus abordable, plus disponible et plus durable NOTRE AMBITION Être un acteur majeur de la transition énergétique, engagé vers la neutralité carbone en 2050, ensemble avec la société 10 INDICATEURS SUR LA PÉRIODE 2023-2025 POUR ACCOMPAGNER NOTRE TRANSITION 10 INDICATEURS SUR LA PÉRIODE 2023-2025 POUR ACCOMPAGNER NOTRE TRANSITION CLIMAT ET ÉNERGIE DURABLE PRENDRE SOIN DE L’ENVIRONNEMENT AGIR POUR LE BIEN-ÊTRE DES COLLABORATEURS AVOIR UN IMPACT POSITIF POUR LES PARTIES PRENANTES Énergie & Climat : notre transition énergétique ordonnée Notre ambition et nos progrès Agir pour le bien-être des collaborateurs Avoir un impact positif pour les parties prenantes \u0007 Prendre soin de l’environnement Indicateurs de performance Sommaire Introduction Édito de Patrick Pouyanné, Président-directeur général 3 Message de Jacques Aschenbroich, Administrateur référent 6 Gouvernance 7 Nos risques relatifs au climat 9 Notre ambition et nos progrès 10 Enjeux mondiaux : plus d’énergies, moins d’émissions 11 Enjeux mondiaux : la COP28 et les actions à mener 12 Une stratégie multi-énergies en deux piliers 13 Une Compagnie Net Zéro en 2050, ensemble avec la société 14 2030 : nos objectifs pour plus d’énergie et moins d’émissions 15 \u0007 Positionnement des objectifs de TotalEnergies à l’horizon 2030 au regard des scénarios de l’AIE 16 Focus : accompagner l’Irak dans son indépendance énergétique 17 Une stratégie au service de la réduction des émissions de nos clients 18 Accompagner nos clients dans leur démarche de décarbonation 19 Focus : Texas, États-Unis : une intégration multi-énergies 20 Des investissements disciplinés et durables pour assurer notre stratégie 21 Un portefeuille résilient 23 Taxonomie 2023 : une Compagnie en transition 25 \u0007 Évaluation de notre transition par des tiers 26 ÉNERGIE & CLIMAT : NOTRE TRANSITION ÉNERGÉTIQUE ORDONNÉE 27 Impact climat de notre stratégie : nos résultats 2023 et nos objectifs 2025 - 2030 28 Pétrole : l’énergie d’aujourd’hui 29 Produire autrement du pétrole : focus",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles durabilité : ['sustainability', 'climate']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux durabilité : ['urd', 'deu']",
+      "classe documentaire : annual_report_with_sustainability_content"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "65b02fcd781febf91dfc3c3ac4117cdeeb2c7af67ca847c366c2aebac9c390e3",
+    "file_size_mb": 10.0654,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:45:15+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

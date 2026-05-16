@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_54c471640d0e79f5536b8c05",
+  "sha256": "901b24689be5ea3ce8b938d825e1b557905223ff7d2fa873c2a42fe00dad2f1e",
+  "all_references": [
+    {
+      "document_id": "3be09cab3709ed3d12e0a73f",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmCCFpm069VX1fHO_lvmh-rapport-du-ca-sur-resolutions-v.f.pdf",
+      "source_title": "Rapport du Conseil d’administration sur les projets de résolutions",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_030_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_030_manifest.json",
+      "file_size_mb": 1.1039,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 30,
+      "stored_at": "2026-05-09T20:41:58+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_030_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_dfeddcdfb54be14e2230ab70",
+  "sha256": "3cc00dd7f31db7f369b6b158838b5424a90206554d95d9f1d64fe1c2ff98d80c",
+  "all_references": [
+    {
+      "document_id": "4f56d070d33592199943c2db",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-SEG-CN.pdf",
+      "source_title": "Chinese translation",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_019_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_019_manifest.json",
+      "file_size_mb": 1.8352,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 19,
+      "stored_at": "2026-05-09T20:41:41+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_019_manifest.json"
+    }
+  ]
+}

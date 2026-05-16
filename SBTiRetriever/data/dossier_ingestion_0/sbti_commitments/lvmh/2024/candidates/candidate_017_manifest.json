@@ -1,0 +1,44 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 17,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/SBTi-Corporate-Net-Zero-Standard-KR.pdf",
+    "title": "Korean Translation (v1.0)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/resources. Titre page : Resources - Science Based Targets Initiative. Texte du lien : Korean Translation (v1.0).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['sbti']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_017_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_017_manifest.json",
+    "sha256": "1ec38e1550cabcef2fa46624f789ce5503098fada7acf55d0208f214f5ab1c74",
+    "file_size_mb": 2.5096,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_SBTi-Corporate-Net-Zero-Standard-KR.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:36+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

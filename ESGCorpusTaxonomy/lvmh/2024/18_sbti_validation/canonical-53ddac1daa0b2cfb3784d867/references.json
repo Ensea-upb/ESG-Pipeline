@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_53ddac1daa0b2cfb3784d867",
+  "sha256": "d539858a2b97e2e86a6d62ceaee7328d84460b72b935c7bfcc1694b1e54e6a10",
+  "all_references": [
+    {
+      "document_id": "f89a468453ae1eb4f4f58a7a",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Legacy-Net-Zero-Standard-Criteria-V1.0.pdf",
+      "source_title": "View the previous version (1.0) here.",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_023_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_023_manifest.json",
+      "file_size_mb": 0.4711,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 23,
+      "stored_at": "2026-05-09T20:41:48+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_023_manifest.json"
+    }
+  ]
+}

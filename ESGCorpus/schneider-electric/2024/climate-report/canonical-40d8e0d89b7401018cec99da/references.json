@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_40d8e0d89b7401018cec99da",
+  "sha256": "a479aa243964ca928068a8058a6577c51ef093611e5b342d1d5fbb8928c2632e",
+  "all_references": [
+    {
+      "document_id": "55a9ddd617b06a61f2a06816",
+      "retriever_name": "ClimateReportRetriever",
+      "document_family": "climate_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/466151/2023-climate-report.pdf",
+      "source_title": "[PDF] 2023 Climate Report - Schneider Electric",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 6.0229,
+      "document_type": "climate_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T19:19:01+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "document_type": "corporate_policy_code_of_conduct",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "code_of_conduct",
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://dev-backoffice.totalenergies.com/sites/g/files/nytnzq121/files/atoms/files/total_code_of_conduct_va_0.pdf",
+    "title": "Code of",
+    "snippet": "Our Code of Conduct. Is informed by our five values, including our two core values (Safety and Respect for Each Other) that guide all our actions. Describes the practices to maintain with respect to safety, integrity, respect for human rights and other areas.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['code of conduct']",
+      "mots-clés secondaires : ['integrity']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier politique : ['code-of-conduct', 'code_of_conduct']",
+      "classe documentaire : standalone_code_of_conduct"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_manifest.json",
+    "sha256": "7c248032a782cb90c847cfecbbfedf25c7965438e759dd08be103c78a2bab216",
+    "file_size_mb": 2.6378,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_code_of_conduct_total_code_of_conduct_va_0.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:52:23+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

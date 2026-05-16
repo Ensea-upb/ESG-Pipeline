@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "lvmh_2024_02_sustainability_statement_csrd_esrs",
+  "figures_count": 9,
+  "detected_figures_count": 0,
+  "low_confidence_figures_count": 0,
+  "detected_not_interpreted_figures_count": 9,
+  "failed_figures_count": 0,
+  "page_level_visual_count": 9,
+  "embedded_visual_count": 0,
+  "captioned_figure_count": 0,
+  "visual_page_candidates_count": 9,
+  "figures_without_bbox_count": 9,
+  "weak_visual_detections_count": 9,
+  "possible_cover_or_separator_figures_count": 9,
+  "figure_object_level_distribution": {
+    "page_level_visual": 9
+  },
+  "figure_type_distribution": {
+    "unknown_visual": 9
+  },
+  "figures_by_page": {
+    "1": 1,
+    "6": 1,
+    "10": 1,
+    "26": 1,
+    "46": 1,
+    "48": 1,
+    "256": 1,
+    "472": 1,
+    "482": 1
+  },
+  "figures_by_section": {
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0002": 1,
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0004": 1,
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0007": 2,
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0008": 1,
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0030": 1,
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0114": 1,
+    "lvmh_2024_02_sustainability_statement_csrd_esrs_section_0123": 1
+  },
+  "quarantined_figures_count": 0,
+  "review_required_figures_count": 9,
+  "figures_with_caption_count": 0,
+  "figures_without_caption_count": 9,
+  "figure_evidence_count": 9,
+  "sample_figures": [
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0001_0000",
+      "page_number": 1,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0006_0000",
+      "page_number": 6,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0010_0000",
+      "page_number": 10,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0026_0000",
+      "page_number": 26,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0046_0000",
+      "page_number": 46,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0048_0000",
+      "page_number": 48,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0256_0000",
+      "page_number": 256,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0472_0000",
+      "page_number": 472,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0482_0000",
+      "page_number": 482,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    }
+  ],
+  "sample_figures_with_caption": [],
+  "sample_low_confidence_figures": [],
+  "sample_page_level_visuals": [
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0001_0000",
+      "page_number": 1,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0006_0000",
+      "page_number": 6,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0010_0000",
+      "page_number": 10,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0026_0000",
+      "page_number": 26,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0046_0000",
+      "page_number": 46,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0048_0000",
+      "page_number": 48,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0256_0000",
+      "page_number": 256,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0472_0000",
+      "page_number": 472,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0482_0000",
+      "page_number": 482,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    }
+  ],
+  "sample_weak_visual_detections": [
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0001_0000",
+      "page_number": 1,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0006_0000",
+      "page_number": 6,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0010_0000",
+      "page_number": 10,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0026_0000",
+      "page_number": 26,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0046_0000",
+      "page_number": 46,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0048_0000",
+      "page_number": 48,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0256_0000",
+      "page_number": 256,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0472_0000",
+      "page_number": 472,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    },
+    {
+      "figure_id": "fig_lvmh_2024_02_sustainability_statement_csrd_esrs_p0482_0000",
+      "page_number": 482,
+      "figure_type": "unknown_visual",
+      "visual_object_level": "page_level_visual",
+      "detection_method": "page_visual_heuristic",
+      "nearby_caption_text": null,
+      "extraction_status": "detected_not_interpreted"
+    }
+  ]
+}

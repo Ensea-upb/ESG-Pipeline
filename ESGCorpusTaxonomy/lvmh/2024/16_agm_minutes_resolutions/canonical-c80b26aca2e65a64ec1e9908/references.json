@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_c80b26aca2e65a64ec1e9908",
+  "sha256": "75d86fd7e15768db053bd7f048939e322abcc2a5ef573a188196eaa9794bdebe",
+  "all_references": [
+    {
+      "document_id": "ea4f8da521e1c09f7f4c803f",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKgHJm069VX13yZ_lvmh-modalites-de-participation-a-lassemblee-generale-18-avril-2024.pdf",
+      "source_title": "Modalités de participation à l’Assemblée générale",
+      "source_name": "html_pdf_resolver",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_002_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 2.7844,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:48:41+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

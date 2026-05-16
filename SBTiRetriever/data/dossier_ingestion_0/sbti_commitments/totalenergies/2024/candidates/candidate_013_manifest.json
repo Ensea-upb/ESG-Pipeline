@@ -1,0 +1,44 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 13,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/SBTi-Criteria-Assessment-Indicators.pdf",
+    "title": "SBTi Criteria Assessment Indicators",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/sectors/steel. Titre page : Steel - Science Based Targets Initiative. Texte du lien : SBTi Criteria Assessment Indicators.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['sbti']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_manifest.json",
+    "sha256": "af3e861ccd5b9bce07cc6e078a5d820c898fbf5cc680c6700edd1f0117245785",
+    "file_size_mb": 3.4952,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_SBTi-Criteria-Assessment-Indicators.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:32+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_96e73eb10f790674189730e2",
+  "sha256": "5e0002469d5015dd95e0c4e2504de393cf962c0767932c6974fe248163a9abf5",
+  "all_references": [
+    {
+      "document_id": "901542b5c53445aa2399c798",
+      "retriever_name": "InvestorPresentationRetriever",
+      "document_family": "investor_presentation",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.SE.com/ww/fr/assets/342/document/260774/communique-journee-investisseurs.pdf",
+      "source_title": "Schneider Electric organise une journée investisseurs virtuelle",
+      "source_name": "ddgs",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_004_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 0.1536,
+      "document_type": "investor_presentation_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T20:43:58+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json"
+    }
+  ]
+}

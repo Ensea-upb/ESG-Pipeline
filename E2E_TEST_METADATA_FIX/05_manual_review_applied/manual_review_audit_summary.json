@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "checks": {
+    "review_items_count": 335,
+    "decisions_count": 2,
+    "accepted_candidates_count": 2,
+    "rejected_candidates_count": 0,
+    "needs_more_evidence_count": 0,
+    "deferred_candidates_count": 0,
+    "missing_decision_count": 333,
+    "invalid_decision_count": 0,
+    "accepted_without_reviewer_count": 0,
+    "accepted_without_reason_count": 0,
+    "corrected_value_count": 2,
+    "corrected_unit_count": 2,
+    "corrected_year_count": 2,
+    "validated_indicator_detected_count": 0,
+    "score_detected_count": 0,
+    "missing_traceability": 0,
+    "correction_without_reason": 0,
+    "input_modified_check": 0
+  },
+  "findings_count": 18,
+  "errors_count": 0,
+  "warnings_count": 1
+}

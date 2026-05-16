@@ -1,0 +1,167 @@
+{
+  "benchmark_name": "EARNINGS CALL_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T22:50:14",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats transcripts earnings calls terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 3,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "LVMH Moët Hennessy – Louis Vuitton, Société... - Insider Monkey",
+          "url": "https://www.insidermonkey.com/blog/lvmh-moet-hennessy-louis-vuitton-societe-europeenne-pnklvmuy-q2-2024-earnings-call-transcript-1326880/",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne...",
+          "url": "https://seekingalpha.com/symbol/LVMHF?source=content_type:all|first_level_url:latest-articles|section:content|line:35|symbol:LVMHF",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne...",
+          "url": "https://seekingalpha.com/symbol/LVMUY?source=content_type:all|first_level_url:latest-articles|section:content|line:29|symbol:LVMUY",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats transcripts earnings calls terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 8,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Q1 2024 TotalEnergies SE Earnings Call Transcript",
+          "url": "https://www.gurufocus.com/news/2420129/q1-2024-totalenergies-se-earnings-call-transcript",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Q3 2021 TotalEnergies SE Earnings Call Transcript",
+          "url": "https://www.gurufocus.com/stock/XTER:TOTB/transcripts/2279296",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Total SA Investor Day Transcript",
+          "url": "https://www.gurufocus.com/stock/XTER:TOTB/transcripts/2279281",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "TotalEnergies SE (TTE) Q4 2024 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4755293-totalenergies-se-tte-q4-2024-earnings-call-transcript",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "TotalEnergies SE (TTE) Q1 2024 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4686741-totalenergies-se-tte-q1-2024-earnings-call-transcript",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "TotalEnergies SE (TTE) Q2 2024 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4706708-totalenergies-se-tte-q2-2024-earnings-call-transcript",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 7,
+          "source_search_rank": 7,
+          "title": "TotalEnergies SE (TTE) Q3 2024 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4731431-totalenergies-se-tte-q3-2024-earnings-call-transcript",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 8,
+          "source_search_rank": 8,
+          "title": "TotalEnergies SE Annual Shareholders Meeting Transcript",
+          "url": "https://www.gurufocus.com/stock/XTER:TOTB/transcripts/2279300",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats transcripts earnings calls terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Schneider Electric S.E. (SBGSY) Shareholder/Analyst Call Transcript",
+          "url": "https://seekingalpha.com/article/4900452-schneider-electric-s-e-sbgsy-shareholder-analyst-call-transcript",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    }
+  ]
+}

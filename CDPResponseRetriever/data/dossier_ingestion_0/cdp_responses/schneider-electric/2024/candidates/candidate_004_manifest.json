@@ -1,0 +1,43 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.gstatic.com/gumdrop/sustainability/2024-google-statement-against-modern-slavery.pdf",
+    "title": "Declaración en contra de la esclavitud moderna (2024)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sustainability.google/intl/es-419/reports/alphabet-2024-cdp-climate-change-response/. Titre page : Respuesta de Alphabet al cuestionario de cambio climático de CDP (2024). Texte du lien : Declaración en contra de la esclavitud moderna (2024).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp climate change response']",
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_004_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "0f019457e993d0a078f19b99aa7088198008eeecab7c079df58c48852e70ef37",
+    "file_size_mb": 0.1422,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2024-google-statement-against-modern-slavery.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:41+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

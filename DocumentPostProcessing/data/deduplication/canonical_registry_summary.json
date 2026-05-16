@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "message": "Registre canonique construit : 229 document(s) unique(s), 48 groupe(s) de doublons exacts.",
+  "total_input_documents": 296,
+  "total_documents_with_sha256": 296,
+  "total_unique_documents": 229,
+  "total_duplicate_groups": 48,
+  "total_duplicate_documents": 115,
+  "total_multi_family_groups": 8,
+  "output_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\deduplication\\canonical_documents.json",
+  "output_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\deduplication\\canonical_documents.csv",
+  "summary_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\deduplication\\canonical_registry_summary.json",
+  "errors": []
+}

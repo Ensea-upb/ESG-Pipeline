@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 46,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Spanish_BVCM-Above-and-Beyond-Report-Executive-Summary.pdf",
+    "title": "[Spanish translation] Executive Summary - Above and Beyond Report",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/resources. Titre page : Resources - Science Based Targets Initiative. Texte du lien : [Spanish translation] Executive Summary - Above and Beyond Report.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_046_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_046_manifest.json",
+    "sha256": "b2fb92c196a275d9eb8769a897b9b574d178856c13818c57301c3abc33ca9f08",
+    "file_size_mb": 1.4085,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Spanish_BVCM-Above-and-Beyond-Report-Executive-Summary.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:22+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

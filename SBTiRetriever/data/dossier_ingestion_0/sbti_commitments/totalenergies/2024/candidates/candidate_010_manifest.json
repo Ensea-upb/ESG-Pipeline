@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 10,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Above-and-Beyond-Report-on-BVCM.pdf",
+    "title": "Above and Beyond: An SBTi report on the design and implementation of beyond value chain mitigation (BVCM)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/net-zero. Titre page : The Corporate Net-Zero Standard - Science Based Targets Initiative. Texte du lien : Above and Beyond: An SBTi report on the design and implementation of beyond value chain mitigation (BVCM).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_010_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_010_manifest.json",
+    "sha256": "b322846a21ab10cee9a7056b598f07afebb87397810f878191c4b7f1621d626b",
+    "file_size_mb": 8.8254,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_Above-and-Beyond-Report-on-BVCM.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:28+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

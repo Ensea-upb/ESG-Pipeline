@@ -1,0 +1,46 @@
+{
+  "document_type": "corporate_policy_anticorruption",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "anticorruption",
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://s29.q4cdn.com/769728925/files/doc_downloads/2024/01/23/HFS-Global-Anticorruption-Policy.pdf",
+    "title": "Microsoft Word - HFS Global Anticorruption Policy (8.30.23) FINAL",
+    "snippet": "Global Anticorruption Policy Revised August 30, 2023 Page 3. V. No Bribes Kickbacks, or Improper Payments. For purposes of this Policy, whether the recipient of any bribe or corrupt payment works in the public or private sector is irrelevant.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 85.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['anticorruption policy']",
+      "année récente détectée : 2024",
+      "URL PDF directe",
+      "nom de fichier politique : ['anticorruption', 'corruption-policy']",
+      "CDN / asset domain",
+      "classe documentaire : standalone_anticorruption"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_score_85_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_manifest.json",
+    "sha256": "97d562b899055eeaddecc8808af1469c384bb62d77bab918702fdaecc5d17cc3",
+    "file_size_mb": 0.2736,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_anticorruption_HFS-Global-Anticorruption-Policy.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:55:37+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

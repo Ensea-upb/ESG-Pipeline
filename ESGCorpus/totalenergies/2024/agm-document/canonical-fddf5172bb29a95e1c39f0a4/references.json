@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_fddf5172bb29a95e1c39f0a4",
+  "sha256": "6c78a4386e87c388104e63b88813e53f8c7cb3072cf8eb4c2b3e1485a30af804",
+  "all_references": [
+    {
+      "document_id": "0e815f5beb6ba4804b7509c9",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/2024-05/TotalEnergies_CP-post-AG-2024_VF_PDF.pdf",
+      "source_title": "Assemblée générale ordinaire et extraordinaire du 24 mai 2",
+      "source_name": "ddgs",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_005_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_005_manifest.json",
+      "file_size_mb": 0.1854,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 5,
+      "stored_at": "2026-05-09T20:49:49+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_005_manifest.json"
+    }
+  ]
+}

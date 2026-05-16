@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_anticorruption",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "policy_type": "anticorruption",
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.fmsfoils.co.uk/wp-content/uploads/2024/06/Anti-Bribery-Policy.pdf",
+    "title": "Anti Bribery Policy",
+    "snippet": "Anti Bribery Policy. FMS FOILS GROUP LTD, Unit 1 The Forum, Coopers Way, Temple Farm Industrial Estate, Southend-on-Sea, SS2 5TE.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['anti-bribery policy']",
+      "année récente détectée : 2024",
+      "URL PDF directe",
+      "nom de fichier politique : ['anti-bribery']",
+      "classe documentaire : standalone_anticorruption"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_002_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_002_manifest.json",
+    "sha256": "40ab287bed8360c6d97086cfdd82c5ea7196fd888cd102aaa83fe87592567bc6",
+    "file_size_mb": 0.2282,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_anticorruption_Anti-Bribery-Policy.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:55:37+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

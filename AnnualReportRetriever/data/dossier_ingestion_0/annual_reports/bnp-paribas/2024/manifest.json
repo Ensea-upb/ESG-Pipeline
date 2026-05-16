@@ -1,0 +1,47 @@
+{
+  "document_type": "annual_report",
+  "storage_role": "final_selected_document",
+  "company": {
+    "name": "BNP Paribas",
+    "official_domain": "bnpparibas.com",
+    "ticker": "BNP",
+    "isin": "FR0000131104",
+    "jurisdiction": "France"
+  },
+  "company_slug": "bnp-paribas",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn-group.bnpparibas.com/uploads/file/BNP-Paribas-Integrated-Report-2024.pdf",
+    "title": "[PDF] 2024 INTEGRATED REPORT - Groupe BNP Paribas",
+    "snippet": "As a leader in banking and financial services in Europe,  BNP Paribas is  strong, resilient and profitable and is a major player in financing the economy, the transformations under way, and in supporting Europe’s sovereignty in strategic sectors. This will be particularly beneficial to our division given the launch, by Commercial & Personal Banking in France (CPBF) and BNP Paribas Personal Finance, of a strategic roadmap aimed at increasing their profitability. BNP Paribas’ support is multidimensional: in addition to this investment, Meet My Mama is also a client of CPBF’s Act for Impact programme and its Mamas benefit from a dedicated banking offer (see page 76). In order to put into perspective all of our progress in financial and social inclusion, BNP Paribas published, for the first time in 2024, the Positive Impact Business Accelerator’s activity and social performance report, as well as its third microfinance social performance report. A subsidiary of EDF and BNP Paribas Personal Finance, Domofinance is the only financial institution in France dedicated to financing energy renovation and home improvement projects.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['integrated report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : cdn-group.bnpparibas.com",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['integratedreport']",
+      "signaux de périmètre groupe : ['group', 'groupe']",
+      "classe documentaire : integrated_report"
+    ],
+    "negative_signals": [
+      "contexte filiale / produit / émetteur spécifique : ['subsidiary']"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\bnp-paribas\\2024\\annual_report.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\bnp-paribas\\2024\\manifest.json",
+    "sha256": "9fc754d47162512181a6f7cef448ba76a78ece624fe335f6abfdcc12930e0a7b",
+    "file_size_mb": 6.2106,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\bnp-paribas_2024_BNP-Paribas-Integrated-Report-2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:49:33+00:00",
+    "storage_version": "annual_report_storage_v0"
+  }
+}

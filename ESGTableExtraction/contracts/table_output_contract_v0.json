@@ -1,0 +1,72 @@
+{
+  "schema_version": "0.8.0",
+  "contract_version": "0.8.0",
+  "engine_release_target": "1.0.0",
+  "required_files": [
+    "table_input_inventory.json",
+    "table_items.jsonl",
+    "table_cells_loaded.jsonl",
+    "reconstructed_tables.jsonl",
+    "table_reconstruction_audit.jsonl",
+    "table_reconstruction_summary.json",
+    "table_structure_index.jsonl",
+    "table_structure_summary.json",
+    "table_row_classification.jsonl",
+    "table_row_classification_summary.json",
+    "table_metric_candidates.csv",
+    "table_metric_candidates.jsonl",
+    "table_candidate_extraction_summary.json",
+    "table_observed_metrics.csv",
+    "table_targets.csv",
+    "table_contexts.csv",
+    "table_rejected_candidates.csv",
+    "table_audit_summary.json",
+    "table_audit_findings.jsonl",
+    "table_audit_samples.csv",
+    "table_extraction_summary.json"
+  ],
+  "candidate_csv_files": [
+    "table_metric_candidates.csv",
+    "table_observed_metrics.csv",
+    "table_targets.csv",
+    "table_contexts.csv",
+    "table_rejected_candidates.csv"
+  ],
+  "required_candidate_columns": [
+    "document_id",
+    "company",
+    "fiscal_year",
+    "table_id",
+    "cell_id",
+    "row_index",
+    "column_index",
+    "page_number",
+    "section_id",
+    "metric_key",
+    "metric_label",
+    "metric_family",
+    "raw_value",
+    "raw_unit",
+    "reported_year",
+    "confidence",
+    "review_required",
+    "extraction_status",
+    "validation_notes"
+  ],
+  "allowed_values": {
+    "metric_family": [
+      "ghg_emissions",
+      "energy",
+      "water",
+      "waste",
+      "workforce",
+      "diversity",
+      "health_safety",
+      "governance",
+      "financial_context",
+      "unknown"
+    ],
+    "extraction_status": ["candidate_only"],
+    "review_required": ["True"]
+  }
+}

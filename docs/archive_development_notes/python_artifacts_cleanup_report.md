@@ -1,0 +1,92 @@
+# Python Artifacts Cleanup Report
+
+- Total candidates: `83`
+- OK: `83`
+- Permission errors: `0`
+- Other errors: `0`
+
+## Items
+
+- `would_delete` `directory` `VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__`: ok
+- `would_delete` `directory` `SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `SBTiRetriever/src/sbti_retriever/__pycache__`: ok
+- `would_delete` `directory` `RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__`: ok
+- `would_delete` `directory` `HalfYearReportRetriever/src/half_year_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `GovernanceReportRetriever/src/governance_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `EarningsCallRetriever/src/earnings_call_retriever/__pycache__`: ok
+- `would_delete` `directory` `ESGVisualExtraction/src/esg_visual_extraction/__pycache__`: ok
+- `would_delete` `directory` `ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__`: ok
+- `would_delete` `directory` `ESGTableExtraction/src/esg_table_extraction/__pycache__`: ok
+- `would_delete` `directory` `ESGProductionControlCenter/src/esg_production_control_center/__pycache__`: ok
+- `would_delete` `directory` `ESGOrchestrator/src/esg_orchestrator/__pycache__`: ok
+- `would_delete` `directory` `ESGManualReview/src/esg_manual_review/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorValidation/src/esg_indicator_validation/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorDatabase/src/esg_indicator_database/__pycache__`: ok
+- `would_delete` `directory` `ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__`: ok
+- `would_delete` `directory` `ESGCSVExtraction/src/esg_csv_extraction/__pycache__`: ok
+- `would_delete` `directory` `DocumentPostProcessing/src/document_postprocessing/__pycache__`: ok
+- `would_delete` `directory` `CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__`: ok
+- `would_delete` `directory` `ClimateReportRetriever/src/climate_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `CDPResponseRetriever/src/cdp_response_retriever/__pycache__`: ok
+- `would_delete` `directory` `AssuranceReportRetriever/src/assurance_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `AnnualReportRetriever/src/annual_report_retriever/__pycache__`: ok
+- `would_delete` `directory` `AGMRetriever/src/agm_retriever/__pycache__`: ok
+- `would_delete` `directory` `tests/project_hygiene/__pycache__`: ok
+- `would_delete` `directory` `VigilancePlanRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `SBTiRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `InvestorPresentationRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `HalfYearReportRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `EarningsCallRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGVisualExtraction/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGVisualExtraction/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGVariableDatasetBuilder/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGVariableDatasetBuilder/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGTableExtraction/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGTableExtraction/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGProductionControlCenter/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGProductionControlCenter/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGOrchestrator/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGOrchestrator/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGManualReview/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGManualReview/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/tools/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/section_detection/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/schemas/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/quality_control/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/parsing/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/extraction/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/evidence/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/document_base/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorValidation/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorValidation/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorDatabase/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorDatabase/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGExtractionOrchestrator/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGExtractionOrchestrator/scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGCSVExtraction/tests/__pycache__`: ok
+- `would_delete` `directory` `ESGCSVExtraction/scripts/__pycache__`: ok
+- `would_delete` `directory` `DocumentPostProcessing/tests/__pycache__`: ok
+- `would_delete` `directory` `DocumentPostProcessing/scripts/__pycache__`: ok
+- `would_delete` `directory` `CorporatePolicyRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `ClimateReportRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `CDPResponseRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `AssuranceReportRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `AnnualReportRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `AGMRetriever/scripts/__pycache__`: ok
+- `would_delete` `directory` `tools/__pycache__`: ok
+- `would_delete` `directory` `scripts/__pycache__`: ok
+- `would_delete` `directory` `ESGVisualExtraction/__pycache__`: ok
+- `would_delete` `directory` `ESGVariableDatasetBuilder/__pycache__`: ok
+- `would_delete` `directory` `ESGTableExtraction/__pycache__`: ok
+- `would_delete` `directory` `ESGProductionControlCenter/__pycache__`: ok
+- `would_delete` `directory` `ESGManualReview/__pycache__`: ok
+- `would_delete` `directory` `ESGInformationExtraction/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorValidation/__pycache__`: ok
+- `would_delete` `directory` `ESGIndicatorDatabase/__pycache__`: ok
+- `would_delete` `directory` `ESGExtractionOrchestrator/__pycache__`: ok
+- `would_delete` `directory` `ESGCSVExtraction/__pycache__`: ok
+- `would_delete` `directory` `__pycache__`: ok
+- `would_delete` `directory` `.pytest_tmp`: ok
+- `would_delete` `directory` `.pytest_cache`: ok

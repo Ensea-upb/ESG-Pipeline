@@ -1,0 +1,11 @@
+{"schema_version":"0.6.0","finding_id":"visual_audit_0001","check_name":"crops_not_created","severity":"info","status":"pass","count":0,"message":"crops_not_created: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0002","check_name":"ocr_unavailable_or_failed","severity":"info","status":"pass","count":0,"message":"ocr_unavailable_or_failed: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0003","check_name":"candidates_without_source_image_path","severity":"info","status":"pass","count":0,"message":"candidates_without_source_image_path: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0004","check_name":"candidates_without_figure_id","severity":"info","status":"pass","count":0,"message":"candidates_without_figure_id: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0005","check_name":"confidence_above_0_5","severity":"info","status":"pass","count":0,"message":"confidence_above_0_5: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0006","check_name":"review_required_missing_or_false","severity":"info","status":"pass","count":0,"message":"review_required_missing_or_false: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0007","check_name":"visual_type_unknown","severity":"warning","status":"needs_review","count":37,"message":"visual_type_unknown: 37 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0008","check_name":"raw_value_without_unit","severity":"warning","status":"needs_review","count":43,"message":"raw_value_without_unit: 43 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0009","check_name":"chart_candidate_without_ocr_text","severity":"info","status":"pass","count":0,"message":"chart_candidate_without_ocr_text: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0010","check_name":"scanned_table_candidate_without_ocr_text","severity":"info","status":"pass","count":0,"message":"scanned_table_candidate_without_ocr_text: 0 item(s)."}
+{"schema_version":"0.6.0","finding_id":"visual_audit_0011","check_name":"invalid_visual_type","severity":"info","status":"pass","count":0,"message":"invalid_visual_type: 0 item(s)."}

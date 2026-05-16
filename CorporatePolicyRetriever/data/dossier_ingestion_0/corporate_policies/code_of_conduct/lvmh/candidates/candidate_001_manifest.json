@@ -1,0 +1,46 @@
+{
+  "document_type": "corporate_policy_code_of_conduct",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "code_of_conduct",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://metal-on-demand.com/wp-content/uploads/2024/07/040424_LVMH_CodeOfConduct_EN.pdf",
+    "title": "Code",
+    "snippet": "This Code of Conduct is available on the LVMH website and the Group’s intranet, and can be downloaded in several languages. Each manager is responsible for embodying the Code of Conduct’s commitments and pro-moting them within their teams.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['code of conduct']",
+      "année récente détectée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier politique : ['codeofconduct']",
+      "classe documentaire : standalone_code_of_conduct"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_manifest.json",
+    "sha256": "8c0b520ba84ce75ca7b77ddc6345c3f570b2ad5e0b9beab7016293265a8c2812",
+    "file_size_mb": 0.6601,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_code_of_conduct_040424_LVMH_CodeOfConduct_EN.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:21+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

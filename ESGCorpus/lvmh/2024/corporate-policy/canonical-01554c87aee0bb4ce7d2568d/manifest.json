@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_01554c87aee0bb4ce7d2568d",
+  "sha256": "30fb774f8c30ee16e1c52fd801855a7310c5ad6db3287af503fb6dc80b00d9e5",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "corporate_policy",
+  "document_families_detected": [
+    "corporate_policy"
+  ],
+  "retrievers_detected": [
+    "CorporatePolicyRetriever"
+  ],
+  "canonical_source_title": "Download",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQSZm069VX1z-V_lvmh_codeofconduct_greek-1.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_011_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\corporate-policy\\canonical-01554c87aee0bb4ce7d2568d\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

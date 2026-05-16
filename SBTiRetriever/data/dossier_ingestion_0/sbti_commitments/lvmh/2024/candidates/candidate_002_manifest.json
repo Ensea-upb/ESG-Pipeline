@@ -1,0 +1,44 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf",
+    "title": "Corporate Near-Term Criteria",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/net-zero. Titre page : The Corporate Net-Zero Standard - Science Based Targets Initiative. Texte du lien : Corporate Near-Term Criteria.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['sbti']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "5224b460bdd5a179676525f3fc6f8fb2a65dc21e86e03d7f672f1dd6b6624724",
+    "file_size_mb": 0.3944,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_SBTi-criteria.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:11+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_e18c875dba0235c213167d3a",
+  "sha256": "8db4cbab391687deb6cafc6963cf0bc430b0195712f9c002498a5d7aad9b3fb5",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "agm_document",
+  "official_doc_type": "16_agm_minutes_resolutions",
+  "official_doc_type_label": "AGM minutes / resolutions",
+  "doc_type_stratum": "governance",
+  "doc_subtype": "agm_document",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "regulated_or_official",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\agm-document\\canonical-e18c875dba0235c213167d3a\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\16_agm_minutes_resolutions\\canonical-e18c875dba0235c213167d3a\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:05+00:00"
+}

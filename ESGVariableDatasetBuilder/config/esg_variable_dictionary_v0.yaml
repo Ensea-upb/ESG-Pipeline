@@ -1,0 +1,441 @@
+﻿schema_version: "0.1"
+source_policy: "pdf_corpus_only"
+no_external_sources: true
+no_esg_score: true
+missing_default_status: "missing_from_corpus"
+variables:
+  - variable_name: co2_emissions
+    variable_family: environment
+    variable_domain: climate
+    definition: Total greenhouse gas or CO2 equivalent emissions disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: tCO2e
+    accepted_units: [tCO2e, ktCO2e, MtCO2e, tonnes CO2e, tons CO2e]
+    keywords_en: [ghg emissions, greenhouse gas, co2 emissions, scope 1, scope 2, scope 3, emissions]
+    keywords_fr: [emissions ges, gaz a effet de serre, emissions co2, scope 1, scope 2, scope 3]
+    mapped_indicator_families: [ghg_emissions, climate]
+    mapped_indicator_keys: [ghg, scope_1, scope_2, scope_3, co2]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values when incompatible numeric emissions are present.
+  - variable_name: carbon_intensity
+    variable_family: environment
+    variable_domain: climate
+    definition: Carbon emissions intensity disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: intensity
+    accepted_units: [tCO2e/revenue, tCO2e/unit, kgCO2e/unit, intensity]
+    keywords_en: [carbon intensity, emissions intensity, co2 intensity]
+    keywords_fr: [intensite carbone, intensite des emissions]
+    mapped_indicator_families: [carbon_intensity, climate]
+    mapped_indicator_keys: [carbon_intensity, emissions_intensity]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible intensity values.
+  - variable_name: energy_consumption
+    variable_family: environment
+    variable_domain: energy
+    definition: Energy consumption disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: MWh
+    accepted_units: [MWh, GWh, kWh, TJ]
+    keywords_en: [energy consumption, energy use, electricity consumption, gwh, mwh]
+    keywords_fr: [consommation energie, consommation energetique, electricite]
+    mapped_indicator_families: [energy, energy_consumption]
+    mapped_indicator_keys: [energy_consumption, energy_use, electricity]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible energy values.
+  - variable_name: water_consumption
+    variable_family: environment
+    variable_domain: water
+    definition: Water withdrawal or consumption disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: m3
+    accepted_units: [m3, ML, L, cubic meters]
+    keywords_en: [water consumption, water withdrawal, water use]
+    keywords_fr: [consommation eau, prelevement eau, eau]
+    mapped_indicator_families: [water, water_consumption]
+    mapped_indicator_keys: [water_consumption, water_withdrawal]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible water values.
+  - variable_name: waste
+    variable_family: environment
+    variable_domain: waste
+    definition: Waste generated or managed disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: tonnes
+    accepted_units: [t, tonnes, tons, kg]
+    keywords_en: [waste, waste generated, hazardous waste]
+    keywords_fr: [dechets, dechets dangereux]
+    mapped_indicator_families: [waste]
+    mapped_indicator_keys: [waste, waste_generated]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible waste values.
+  - variable_name: biodiversity
+    variable_family: environment
+    variable_domain: biodiversity
+    definition: Biodiversity exposure, policy or metric disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, sites, hectares]
+    keywords_en: [biodiversity, nature, protected areas, ecosystem]
+    keywords_fr: [biodiversite, nature, ecosysteme]
+    mapped_indicator_families: [biodiversity]
+    mapped_indicator_keys: [biodiversity, nature]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if no numeric value is disclosed.
+  - variable_name: fossil_exposure
+    variable_family: environment
+    variable_domain: fossil
+    definition: Fossil fuel exposure disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, percent, revenue_share]
+    keywords_en: [fossil, coal, oil, gas exposure, fossil fuel]
+    keywords_fr: [fossile, charbon, petrole, gaz]
+    mapped_indicator_families: [fossil_exposure, climate]
+    mapped_indicator_keys: [fossil, coal, oil, gas]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible fossil exposure values.
+  - variable_name: turnover
+    variable_family: social
+    variable_domain: workforce
+    definition: Employee turnover disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, headcount]
+    keywords_en: [employee turnover, staff turnover, attrition]
+    keywords_fr: [turnover, rotation du personnel, attrition]
+    mapped_indicator_families: [workforce, turnover]
+    mapped_indicator_keys: [turnover, attrition]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible turnover values.
+  - variable_name: diversity
+    variable_family: social
+    variable_domain: diversity
+    definition: Gender or workforce diversity disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, qualitative]
+    keywords_en: [diversity, women, gender diversity, female]
+    keywords_fr: [diversite, femmes, egalite femmes hommes]
+    mapped_indicator_families: [diversity]
+    mapped_indicator_keys: [diversity, women, gender]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible diversity values.
+  - variable_name: work_accidents
+    variable_family: social
+    variable_domain: health_safety
+    definition: Workplace accidents, injury or safety rates disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: rate
+    accepted_units: [rate, number, frequency rate, LTIFR]
+    keywords_en: [work accident, injury rate, lost time injury, safety]
+    keywords_fr: [accident du travail, taux de frequence, securite]
+    mapped_indicator_families: [health_safety, work_accidents]
+    mapped_indicator_keys: [accident, injury, ltifr, safety]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible safety values.
+  - variable_name: human_capital
+    variable_family: social
+    variable_domain: human_capital
+    definition: Human capital development, training or workforce investment disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [hours, euro, qualitative]
+    keywords_en: [human capital, training, employee development]
+    keywords_fr: [capital humain, formation, developpement des collaborateurs]
+    mapped_indicator_families: [human_capital, training]
+    mapped_indicator_keys: [human_capital, training]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: supply_chain
+    variable_family: social
+    variable_domain: supply_chain
+    definition: Supply chain ESG practices or incidents disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, suppliers, percent]
+    keywords_en: [supply chain, suppliers, responsible sourcing]
+    keywords_fr: [chaine d approvisionnement, fournisseurs, achats responsables]
+    mapped_indicator_families: [supply_chain]
+    mapped_indicator_keys: [supply_chain, supplier]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: human_rights
+    variable_family: social
+    variable_domain: human_rights
+    definition: Human rights policies, risks or incidents disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, incidents]
+    keywords_en: [human rights, forced labor, child labor]
+    keywords_fr: [droits humains, travail force, travail des enfants]
+    mapped_indicator_families: [human_rights]
+    mapped_indicator_keys: [human_rights, forced_labor, child_labor]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: board_independence
+    variable_family: governance
+    variable_domain: board
+    definition: Board independence disclosed in corpus PDFs.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, directors]
+    keywords_en: [independent directors, board independence, independent board]
+    keywords_fr: [administrateurs independants, independance du conseil]
+    mapped_indicator_families: [board, governance]
+    mapped_indicator_keys: [board_independence, independent_directors]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible board independence values.
+  - variable_name: ceo_chairman_separation
+    variable_family: governance
+    variable_domain: board
+    definition: Separation of CEO and chairman roles disclosed in corpus PDFs.
+    expected_type: boolean_or_qualitative
+    expected_unit: qualitative
+    accepted_units: [yes_no, qualitative]
+    keywords_en: [ceo chairman separation, chairman and ceo, separation of powers]
+    keywords_fr: [separation des fonctions, president directeur general, gouvernance]
+    mapped_indicator_families: [board, governance]
+    mapped_indicator_keys: [ceo_chairman_separation, chairman_ceo]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for contradictory disclosures.
+  - variable_name: remuneration
+    variable_family: governance
+    variable_domain: remuneration
+    definition: Executive remuneration information disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [euro, percent, qualitative]
+    keywords_en: [remuneration, compensation, executive pay]
+    keywords_fr: [remuneration, politique de remuneration]
+    mapped_indicator_families: [remuneration, governance]
+    mapped_indicator_keys: [remuneration, compensation]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible remuneration values.
+  - variable_name: shareholder_rights
+    variable_family: governance
+    variable_domain: shareholder_rights
+    definition: Shareholder rights information disclosed in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, votes, percent]
+    keywords_en: [shareholder rights, voting rights, shareholders]
+    keywords_fr: [droits des actionnaires, droits de vote, actionnaires]
+    mapped_indicator_families: [shareholder_rights, governance]
+    mapped_indicator_keys: [shareholder_rights, voting_rights]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: transparency
+    variable_family: governance
+    variable_domain: transparency
+    definition: Transparency, reporting or disclosure practices found in corpus PDFs.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, percent]
+    keywords_en: [transparency, disclosure, reporting]
+    keywords_fr: [transparence, publication, reporting]
+    mapped_indicator_families: [transparency, governance]
+    mapped_indicator_keys: [transparency, disclosure]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: esg_scandals
+    variable_family: controversy
+    variable_domain: scandals
+    definition: ESG scandals disclosed in corpus PDFs only.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, incidents]
+    keywords_en: [esg scandal, scandal, controversy]
+    keywords_fr: [scandale esg, scandale, controverse]
+    mapped_indicator_families: [controversy, scandals]
+    mapped_indicator_keys: [scandal, controversy]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: fraud
+    variable_family: controversy
+    variable_domain: fraud
+    definition: Fraud controversies disclosed in corpus PDFs only.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, incidents]
+    keywords_en: [fraud, fraudulent]
+    keywords_fr: [fraude, frauduleux]
+    mapped_indicator_families: [controversy, fraud]
+    mapped_indicator_keys: [fraud]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: corruption
+    variable_family: controversy
+    variable_domain: corruption
+    definition: Corruption or bribery controversies disclosed in corpus PDFs only.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, incidents]
+    keywords_en: [corruption, bribery, anti corruption]
+    keywords_fr: [corruption, pot de vin, anti corruption]
+    mapped_indicator_families: [controversy, corruption]
+    mapped_indicator_keys: [corruption, bribery]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: pollution
+    variable_family: controversy
+    variable_domain: pollution
+    definition: Pollution controversies disclosed in corpus PDFs only.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, incidents]
+    keywords_en: [pollution, spill, environmental incident]
+    keywords_fr: [pollution, incident environnemental]
+    mapped_indicator_families: [controversy, pollution]
+    mapped_indicator_keys: [pollution, spill]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: lawsuits
+    variable_family: controversy
+    variable_domain: lawsuits
+    definition: Lawsuits or litigation disclosed in corpus PDFs only.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, cases, euro]
+    keywords_en: [lawsuit, litigation, legal proceedings]
+    keywords_fr: [litige, contentieux, procedure judiciaire]
+    mapped_indicator_families: [controversy, lawsuits]
+    mapped_indicator_keys: [lawsuit, litigation]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible lawsuit amounts.
+  - variable_name: social_controversies
+    variable_family: controversy
+    variable_domain: social
+    definition: Social controversies disclosed in corpus PDFs only.
+    expected_type: qualitative_or_numeric
+    expected_unit: qualitative
+    accepted_units: [qualitative, incidents]
+    keywords_en: [social controversy, labor dispute, strike]
+    keywords_fr: [controverse sociale, conflit social, greve]
+    mapped_indicator_families: [controversy, social]
+    mapped_indicator_keys: [social_controversy, labor_dispute, strike]
+    priority_rules: [human_review, corrected_value, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: qualitative_only if only narrative evidence exists.
+  - variable_name: market_cap
+    variable_family: financial
+    variable_domain: market
+    definition: Market capitalization disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: currency
+    accepted_units: [EUR, USD, million EUR, billion EUR]
+    keywords_en: [market capitalization, market cap]
+    keywords_fr: [capitalisation boursiere]
+    mapped_indicator_families: [financial, market_cap]
+    mapped_indicator_keys: [market_cap, market_capitalization]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible market capitalization values.
+  - variable_name: volatility
+    variable_family: financial
+    variable_domain: market
+    definition: Share price or financial volatility disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, volatility]
+    keywords_en: [volatility, share volatility]
+    keywords_fr: [volatilite]
+    mapped_indicator_families: [financial, volatility]
+    mapped_indicator_keys: [volatility]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible volatility values.
+  - variable_name: leverage
+    variable_family: financial
+    variable_domain: balance_sheet
+    definition: Leverage, gearing or net debt ratio disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: ratio
+    accepted_units: [ratio, x, percent]
+    keywords_en: [leverage, gearing, net debt, debt ratio]
+    keywords_fr: [levier, endettement net, ratio dette]
+    mapped_indicator_families: [financial, leverage]
+    mapped_indicator_keys: [leverage, gearing, net_debt]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible leverage values.
+  - variable_name: roa
+    variable_family: financial
+    variable_domain: profitability
+    definition: Return on assets disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, ratio]
+    keywords_en: [roa, return on assets]
+    keywords_fr: [rentabilite des actifs, roa]
+    mapped_indicator_families: [financial, profitability]
+    mapped_indicator_keys: [roa, return_on_assets]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible ROA values.
+  - variable_name: roe
+    variable_family: financial
+    variable_domain: profitability
+    definition: Return on equity disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, ratio]
+    keywords_en: [roe, return on equity]
+    keywords_fr: [rentabilite des capitaux propres, roe]
+    mapped_indicator_families: [financial, profitability]
+    mapped_indicator_keys: [roe, return_on_equity]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible ROE values.
+  - variable_name: liquidity
+    variable_family: financial
+    variable_domain: liquidity
+    definition: Liquidity measure disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: ratio
+    accepted_units: [ratio, x, currency]
+    keywords_en: [liquidity, current ratio, cash]
+    keywords_fr: [liquidite, ratio courant, tresorerie]
+    mapped_indicator_families: [financial, liquidity]
+    mapped_indicator_keys: [liquidity, current_ratio, cash]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible liquidity values.
+  - variable_name: stock_returns
+    variable_family: financial
+    variable_domain: market
+    definition: Stock returns disclosed in corpus PDFs only.
+    expected_type: numeric
+    expected_unit: percent
+    accepted_units: ["%", percent, return]
+    keywords_en: [stock return, share return, total shareholder return, TSR]
+    keywords_fr: [rendement de l action, performance boursiere, rendement total actionnaire]
+    mapped_indicator_families: [financial, market_return]
+    mapped_indicator_keys: [stock_return, share_return, tsr]
+    priority_rules: [human_review, corrected_value, table_cell, text_quote]
+    missing_rule: missing_from_corpus when no PDF evidence is available.
+    multiple_values_rule: conflicting_values for incompatible return values.
+

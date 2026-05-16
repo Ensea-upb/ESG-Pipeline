@@ -1,0 +1,46 @@
+{
+  "document_type": "corporate_policy_anticorruption",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "anticorruption",
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-03/SASB-Reporting-VEN.pdf",
+    "title": "TotalEnergies_DEU_2022_VA",
+    "snippet": "To prevent risks of corruption, TotalEnergies has implemented a robust and regularly updated anti-corruption compliance program. The aim of this program is to promote a culture of compliance and transparency, which is key in ensuring the sustainability of the Company’s activities.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['anti-corruption compliance program']",
+      "année récente détectée : 2023",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : standalone_anticorruption"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_manifest.json",
+    "sha256": "57d879543b9e0796d0641e08460dc76c80da93b1821f3eb8ec729dc3f68d7470",
+    "file_size_mb": 0.3813,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_anticorruption_SASB-Reporting-VEN.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:52:50+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

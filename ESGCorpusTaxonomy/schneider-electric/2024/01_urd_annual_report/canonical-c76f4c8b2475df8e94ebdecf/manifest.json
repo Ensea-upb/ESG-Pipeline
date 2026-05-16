@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_c76f4c8b2475df8e94ebdecf",
+  "sha256": "b29c2caed223376c4fc95b6bc45e0102cfef042bff8f276f8cfefe60e50356aa",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "annual_report",
+  "official_doc_type": "01_urd_annual_report",
+  "official_doc_type_label": "URD / annual report",
+  "doc_type_stratum": "core_reporting",
+  "doc_subtype": "annual_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_standard_reporting",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\annual-report\\canonical-c76f4c8b2475df8e94ebdecf\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\01_urd_annual_report\\canonical-c76f4c8b2475df8e94ebdecf\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

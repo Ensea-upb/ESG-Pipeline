@@ -1,0 +1,95 @@
+document_types:
+  - official_doc_type: 01_urd_annual_report
+    label: URD / annual report
+    retriever: AnnualReportRetriever
+    enabled: true
+  - official_doc_type: 02_sustainability_statement_csrd_esrs
+    label: Sustainability statement / CSRD / ESRS
+    retriever: SustainabilityReportRetriever
+    enabled: true
+  - official_doc_type: 03_climate_report_tcfd_transition_plan
+    label: Climate report / TCFD / transition plan
+    retriever: ClimateReportRetriever
+    enabled: true
+  - official_doc_type: 04_vigilance_plan
+    label: Vigilance plan
+    retriever: VigilancePlanRetriever
+    enabled: true
+  - official_doc_type: 05_half_year_financial_report
+    label: Half-year financial report
+    retriever: HalfYearReportRetriever
+    enabled: true
+  - official_doc_type: 06_us_sec_filing
+    label: US SEC filing
+    retriever: null
+    enabled: true
+  - official_doc_type: 07_code_ethique
+    label: Code ethique / code of conduct
+    retriever: CorporatePolicyRetriever
+    policy_type: code_of_conduct
+    enabled: true
+  - official_doc_type: 08_anticorruption_policy
+    label: Anti-corruption policy
+    retriever: CorporatePolicyRetriever
+    policy_type: anticorruption
+    enabled: true
+  - official_doc_type: 09_human_rights_policy
+    label: Human rights policy
+    retriever: CorporatePolicyRetriever
+    policy_type: human_rights
+    enabled: true
+  - official_doc_type: 10_dei_policy
+    label: DEI policy
+    retriever: CorporatePolicyRetriever
+    policy_type: dei
+    enabled: true
+  - official_doc_type: 11_environmental_policy
+    label: Environmental policy
+    retriever: CorporatePolicyRetriever
+    policy_type: environmental
+    enabled: true
+  - official_doc_type: 12_supplier_code_of_conduct
+    label: Supplier code of conduct
+    retriever: CorporatePolicyRetriever
+    policy_type: supplier_code
+    enabled: true
+  - official_doc_type: 13_investor_presentations
+    label: Investor presentations
+    retriever: InvestorPresentationRetriever
+    enabled: true
+  - official_doc_type: 14_earnings_call_transcripts
+    label: Earnings call transcripts
+    retriever: EarningsCallRetriever
+    enabled: true
+  - official_doc_type: 15_official_esg_press_releases
+    label: Official ESG press releases
+    retriever: null
+    enabled: true
+  - official_doc_type: 16_agm_minutes_resolutions
+    label: AGM minutes / resolutions
+    retriever: AGMRetriever
+    enabled: true
+  - official_doc_type: 17_cdp_response
+    label: CDP response
+    retriever: CDPResponseRetriever
+    enabled: true
+  - official_doc_type: 18_sbti_validation
+    label: SBTi validation
+    retriever: SBTiRetriever
+    enabled: true
+  - official_doc_type: 19_third_party_assurance_report
+    label: Third-party assurance report
+    retriever: AssuranceReportRetriever
+    enabled: true
+  - official_doc_type: 20_controversies_database
+    label: Controversies database
+    retriever: null
+    enabled: true
+  - official_doc_type: 21_climate_human_rights_litigation
+    label: Climate / human rights litigation
+    retriever: null
+    enabled: true
+  - official_doc_type: 22_critical_coverage
+    label: Critical coverage
+    retriever: null
+    enabled: true

@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_4c8949ad2788d82743abe454",
+  "sha256": "c414387fbd2a50f0a1f1c78d492bc1e4b867977df6187d012e48ac1a8b8d2485",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "assurance_report",
+  "official_doc_type": "19_third_party_assurance_report",
+  "official_doc_type_label": "Third-party assurance report",
+  "doc_type_stratum": "assurance",
+  "doc_subtype": "assurance_report",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "regulated_or_voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\assurance-report\\canonical-4c8949ad2788d82743abe454\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\19_third_party_assurance_report\\canonical-4c8949ad2788d82743abe454\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

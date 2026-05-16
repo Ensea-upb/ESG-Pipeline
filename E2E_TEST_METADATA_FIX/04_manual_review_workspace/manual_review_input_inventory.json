@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\03_indicator_validation",
+  "critical_files_present": true,
+  "loaded_candidates_count": 335,
+  "indicator_validation_summary": {
+    "schema_version": "1.0.0",
+    "module": "ESGIndicatorValidation",
+    "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\02_orchestrator",
+    "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\03_indicator_validation",
+    "input_candidates_file": "consolidated_unique_candidates.csv",
+    "started_at": "2026-05-14T05:06:00+00:00",
+    "finished_at": "2026-05-14T05:06:00+00:00",
+    "status": "success",
+    "input_candidates_count": 335,
+    "validations_count": 335,
+    "possible_indicators_count": 96,
+    "needs_review_count": 172,
+    "rejected_candidates_count": 67,
+    "validated_indicators_count": 0,
+    "score_produced_count": 0,
+    "validation_status_distribution": {
+      "possible_indicator": 96,
+      "reject_candidate": 67,
+      "needs_review": 172
+    },
+    "indicator_family_distribution": {
+      "boundary": 44,
+      "unknown": 101,
+      "ghg_emissions": 96,
+      "policy": 19,
+      "workforce": 10,
+      "energy": 39,
+      "methodology": 15,
+      "risk": 3,
+      "water": 4,
+      "diversity": 1,
+      "health_safety": 2,
+      "governance": 1
+    },
+    "review_priority_distribution": {
+      "high": 52,
+      "low": 185,
+      "medium": 98
+    },
+    "duplicate_groups_count": 0,
+    "duplicate_candidates_count": 0,
+    "audit_errors_count": 0,
+    "audit_warnings_count": 2,
+    "candidate_only": true,
+    "review_required": true,
+    "is_validated_indicator": false,
+    "scores_produced": false
+  },
+  "indicator_validation_audit_summary": {
+    "schema_version": "1.0.0",
+    "input_candidates_count": 335,
+    "validation_records_count": 335,
+    "validation_status_distribution": {
+      "possible_indicator": 96,
+      "reject_candidate": 67,
+      "needs_review": 172
+    },
+    "indicator_family_distribution": {
+      "boundary": 44,
+      "unknown": 101,
+      "ghg_emissions": 96,
+      "policy": 19,
+      "workforce": 10,
+      "energy": 39,
+      "methodology": 15,
+      "risk": 3,
+      "water": 4,
+      "diversity": 1,
+      "health_safety": 2,
+      "governance": 1
+    },
+    "review_priority_distribution": {
+      "high": 52,
+      "low": 185,
+      "medium": 98
+    },
+    "checks": {
+      "input_candidates_count": 335,
+      "validation_records_count": 335,
+      "possible_indicators_count": 96,
+      "rejected_candidates_count": 67,
+      "needs_review_count": 172,
+      "validated_indicators_count": 0,
+      "score_produced_count": 0,
+      "records_without_quote_count": 0,
+      "records_without_source_count": 0,
+      "records_without_page_count": 0,
+      "possible_indicator_without_value_count": 0,
+      "possible_indicator_without_unit_count": 44,
+      "possible_indicator_without_year_count": 0,
+      "duplicate_groups_count": 0,
+      "duplicate_candidates_count": 0,
+      "unknown_indicator_family": 101
+    },
+    "findings_count": 16,
+    "errors_count": 0,
+    "warnings_count": 2
+  }
+}

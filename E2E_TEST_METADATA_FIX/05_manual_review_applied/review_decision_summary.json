@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "module": "ESGManualReview",
+  "workspace_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\04_manual_review_workspace",
+  "decisions_file": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\04_manual_review_workspace\\review_decisions_filled_e2e.csv",
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\05_manual_review_applied",
+  "generated_at": "2026-05-14T05:06:40+00:00",
+  "review_items_count": 335,
+  "decisions_count": 2,
+  "accepted_candidates_count": 2,
+  "rejected_candidates_count": 0,
+  "needs_more_evidence_count": 0,
+  "deferred_candidates_count": 0,
+  "missing_decision_count": 333,
+  "invalid_decision_count": 0,
+  "review_status_distribution": {
+    "accepted_candidate": 2,
+    "missing_decision": 333
+  },
+  "validated_indicators_count": 0,
+  "score_produced_count": 0,
+  "audit_errors_count": 0,
+  "audit_warnings_count": 1
+}

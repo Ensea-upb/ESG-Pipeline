@@ -1,0 +1,589 @@
+{
+  "total": 83,
+  "ok": 83,
+  "permission_errors": 0,
+  "errors": 0,
+  "items": [
+    {
+      "path": "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "SBTiRetriever/src/sbti_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "GovernanceReportRetriever/src/governance_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "EarningsCallRetriever/src/earnings_call_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVisualExtraction/src/esg_visual_extraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGTableExtraction/src/esg_table_extraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGProductionControlCenter/src/esg_production_control_center/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGOrchestrator/src/esg_orchestrator/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGManualReview/src/esg_manual_review/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGCSVExtraction/src/esg_csv_extraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "DocumentPostProcessing/src/document_postprocessing/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ClimateReportRetriever/src/climate_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "CDPResponseRetriever/src/cdp_response_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "AnnualReportRetriever/src/annual_report_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "AGMRetriever/src/agm_retriever/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "tests/project_hygiene/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "VigilancePlanRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "SBTiRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "InvestorPresentationRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "HalfYearReportRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "EarningsCallRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVisualExtraction/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVisualExtraction/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVariableDatasetBuilder/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVariableDatasetBuilder/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGTableExtraction/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGTableExtraction/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGProductionControlCenter/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGProductionControlCenter/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGOrchestrator/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGOrchestrator/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGManualReview/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGManualReview/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/tools/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/section_detection/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/schemas/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/quality_control/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/parsing/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/extraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/evidence/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/document_base/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorValidation/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorValidation/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorDatabase/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorDatabase/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGExtractionOrchestrator/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGExtractionOrchestrator/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGCSVExtraction/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGCSVExtraction/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "DocumentPostProcessing/tests/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "DocumentPostProcessing/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "CorporatePolicyRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ClimateReportRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "CDPResponseRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "AssuranceReportRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "AnnualReportRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "AGMRetriever/scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "tools/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "scripts/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVisualExtraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGVariableDatasetBuilder/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGTableExtraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGProductionControlCenter/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGManualReview/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGInformationExtraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorValidation/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGIndicatorDatabase/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGExtractionOrchestrator/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "ESGCSVExtraction/__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": "__pycache__",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": ".pytest_tmp",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    },
+    {
+      "path": ".pytest_cache",
+      "kind": "directory",
+      "action": "would_delete",
+      "status": "ok",
+      "message": ""
+    }
+  ]
+}

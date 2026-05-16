@@ -1,0 +1,44 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://resource.indegene.com/indegene/pdf/policies/sbti-commitment-letter.pdf",
+    "title": "SBT-Commitment-Letter_Jul_13_2023.pdf",
+    "snippet": "SBTi COMMITMENT LETTER. Version 1.2. April 2023.online, submitting your commitment letter to commitments@sciencebasedtargets.org, and passing as. well as on our partner websites at We Mean Business.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['sbti', 'sbti commitment', 'sbti commitment letter']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['sbti', 'sbti-commitment']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "4020c6f831bf1ea8f07305115a1554044684bfa027ed2521e1a5a6e59c9bbb4e",
+    "file_size_mb": 0.6298,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_sbti-commitment-letter.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:04+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

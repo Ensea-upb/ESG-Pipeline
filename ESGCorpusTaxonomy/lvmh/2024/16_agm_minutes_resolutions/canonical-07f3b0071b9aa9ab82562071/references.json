@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_07f3b0071b9aa9ab82562071",
+  "sha256": "06cc343bbe92b12c7e2a413d3673bafb99515be1140741b0072f396dcdc64d48",
+  "all_references": [
+    {
+      "document_id": "32c15156e84444fe4633ea69",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKd55m069VX13xF_formulaire-doption-pour-le-convocation.pdf",
+      "source_title": "Formulaire d’option pour l’e-convocation",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_009_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_009_manifest.json",
+      "file_size_mb": 0.2106,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 9,
+      "stored_at": "2026-05-09T20:48:45+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_009_manifest.json"
+    }
+  ]
+}

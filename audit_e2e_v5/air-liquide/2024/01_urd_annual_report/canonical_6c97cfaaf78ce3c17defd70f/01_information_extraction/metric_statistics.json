@@ -1,0 +1,18 @@
+{
+  "document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "status": "success",
+  "pages_processed": 57,
+  "regex_candidates_count": 92,
+  "gliner_candidates_count": 9,
+  "gliner_status": "success",
+  "merged_candidates_count": 94,
+  "candidates_with_value": 30,
+  "candidates_with_unit": 9,
+  "candidates_with_normalized_unit": 9,
+  "unique_metric_ids": 18,
+  "candidates_current_year": 35,
+  "candidates_historical": 22,
+  "candidates_year_unknown": 37,
+  "docling_status": "enriched:1_pages",
+  "ocr_available": true
+}

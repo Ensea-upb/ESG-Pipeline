@@ -1,0 +1,220 @@
+{
+  "status": "failed",
+  "steps_total": 14,
+  "steps_passed": 13,
+  "steps_failed": 1,
+  "steps": [
+    {
+      "name": "check_test_helper_imports",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "tools/check_test_helper_imports.py",
+        "--project-root",
+        "."
+      ],
+      "returncode": 1,
+      "status": "failed",
+      "stdout_tail": "",
+      "stderr_tail": ".pytest_tmp_run/test_project_hygiene_audit_pro0/project/SampleModule/tests has helpers.py but no __init__.py\n.pytest_tmp_run/test_project_hygiene_audit_pro0/project/SampleModule/tests/test_sample.py:1 uses absolute helpers import\n.pytest_tmp_robustness/test_project_hygiene_audit_pro0/project/SampleModule/tests has helpers.py but no __init__.py\n.pytest_tmp_robustness/test_project_hygiene_audit_pro0/project/SampleModule/tests/test_sample.py:1 uses absolute helpers import\n.pytest_tmp_fresh/test_project_hygiene_audit_pro0/project/SampleModule/tests has helpers.py but no __init__.py\n.pytest_tmp_fresh/test_project_hygiene_audit_pro0/project/SampleModule/tests/test_sample.py:1 uses absolute helpers import\n"
+    },
+    {
+      "name": "check_requirements",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "tools/check_requirements.py",
+        "--project-root",
+        "."
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "OK: requirements files are bounded and readable.\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "compileall_core_modules",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "compileall",
+        "-q",
+        "ESGInformationExtraction",
+        "ESGCSVExtraction",
+        "ESGVisualExtraction",
+        "ESGTableExtraction",
+        "ESGExtractionOrchestrator",
+        "ESGIndicatorValidation",
+        "ESGManualReview",
+        "ESGIndicatorDatabase",
+        "ESGProductionControlCenter"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGInformationExtraction",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGInformationExtraction/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGInformationExtraction"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "nce_policy_contract_v051.py ... [ 16%]\n...                                                                      [ 17%]\nESGInformationExtraction\\tests\\test_jsonl_validity.py .                  [ 18%]\nESGInformationExtraction\\tests\\test_metadata_propagation_v03.py .......  [ 20%]\nESGInformationExtraction\\tests\\test_multimodal_inventory_v07.py ........ [ 24%]\n                                                                         [ 24%]\nESGInformationExtraction\\tests\\test_non_destructive_behavior.py ..       [ 25%]\nESGInformationExtraction\\tests\\test_output_compatibility_v11.py ........ [ 28%]\n.                                                                        [ 28%]\nESGInformationExtraction\\tests\\test_output_contract_notes_v15.py .       [ 29%]\nESGInformationExtraction\\tests\\test_output_contract_v10.py .........     [ 32%]\nESGInformationExtraction\\tests\\test_output_contracts.py ..               [ 33%]\nESGInformationExtraction\\tests\\test_overwrite_behavior.py ..             [ 34%]\nESGInformationExtraction\\tests\\test_pdf_block_classification_v02.py .... [ 36%]\n...                                                                      [ 37%]\nESGInformationExtraction\\tests\\test_pdf_block_classification_v021.py ... [ 38%]\n....                                                                     [ 40%]\nESGInformationExtraction\\tests\\test_pdf_diagnostics_v01.py .....         [ 42%]\nESGInformationExtraction\\tests\\test_pdf_evidence_store_v04.py .........  [ 46%]\nESGInformationExtraction\\tests\\test_pdf_evidence_store_v041.py ......... [ 49%]\n                                                                         [ 49%]\nESGInformationExtraction\\tests\\test_pdf_evidence_store_v042.py ........  [ 53%]\nESGInformationExtraction\\tests\\test_pdf_figure_detection_v06.py ........ [ 56%]\n..........                                                               [ 60%]\nESGInformationExtraction\\tests\\test_pdf_figure_detection_v061.py ....... [ 63%]\n.........                                                                [ 67%]\nESGInformationExtraction\\tests\\test_pdf_section_detection_v03.py ....... [ 69%]\n.                                                                        [ 70%]\nESGInformationExtraction\\tests\\test_pdf_section_detection_v031.py ...... [ 72%]\n....                                                                     [ 74%]\nESGInformationExtraction\\tests\\test_pdf_section_detection_v032.py ...... [ 76%]\n...                                                                      [ 78%]\nESGInformationExtraction\\tests\\test_pdf_table_extraction_v05.py ........ [ 81%]\n.......                                                                  [ 84%]\nESGInformationExtraction\\tests\\test_pdf_table_quality_v052.py .......... [ 88%]\n...............                                                          [ 94%]\nESGInformationExtraction\\tests\\test_quality_report.py ..                 [ 95%]\nESGInformationExtraction\\tests\\test_real_output_schema_alignment_v15.py . [ 95%]\n.                                                                        [ 96%]\nESGInformationExtraction\\tests\\test_run_pdf_extraction_cli.py .          [ 96%]\nESGInformationExtraction\\tests\\test_schema_evidence_alignment_v15.py ..  [ 97%]\nESGInformationExtraction\\tests\\test_schemas.py ......                    [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n================== 243 passed, 1 warning in 70.23s (0:01:10) ==================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGCSVExtraction",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGCSVExtraction/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGCSVExtraction"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 31 items\n\nESGCSVExtraction\\tests\\test_boundary_methodology_v08.py .                [  3%]\nESGCSVExtraction\\tests\\test_csv_contract_v09.py .....                    [ 19%]\nESGCSVExtraction\\tests\\test_csv_extraction_v01.py ........               [ 45%]\nESGCSVExtraction\\tests\\test_multi_document_audit_v03.py ......           [ 64%]\nESGCSVExtraction\\tests\\test_observed_metrics_v05.py ..                   [ 70%]\nESGCSVExtraction\\tests\\test_policies_risks_v07.py ..                     [ 77%]\nESGCSVExtraction\\tests\\test_release_v10.py ...                           [ 87%]\nESGCSVExtraction\\tests\\test_targets_v06.py .                             [ 90%]\nESGCSVExtraction\\tests\\test_typed_csv_outputs_v04.py ...                 [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 31 passed, 1 warning in 3.49s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGVisualExtraction",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGVisualExtraction/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGVisualExtraction"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 28 items\n\nESGVisualExtraction\\tests\\test_metadata_propagation_v04_visual.py ...... [ 21%]\n.                                                                        [ 25%]\nESGVisualExtraction\\tests\\test_visual_audit_v06.py .                     [ 28%]\nESGVisualExtraction\\tests\\test_visual_candidates_v05.py .                [ 32%]\nESGVisualExtraction\\tests\\test_visual_classifier_v04.py .                [ 35%]\nESGVisualExtraction\\tests\\test_visual_contract_v07.py ....               [ 50%]\nESGVisualExtraction\\tests\\test_visual_crop_robustness_v03.py .......     [ 75%]\nESGVisualExtraction\\tests\\test_visual_cropper_v02.py ..                  [ 82%]\nESGVisualExtraction\\tests\\test_visual_loader_v01.py ..                   [ 89%]\nESGVisualExtraction\\tests\\test_visual_ocr_v03.py .                       [ 92%]\nESGVisualExtraction\\tests\\test_visual_release_v10.py ..                  [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 28 passed, 1 warning in 9.43s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGTableExtraction",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGTableExtraction/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGTableExtraction"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 13 items\n\nESGTableExtraction\\tests\\test_table_audit_v06.py .                       [  7%]\nESGTableExtraction\\tests\\test_table_candidate_extraction_v05.py .        [ 15%]\nESGTableExtraction\\tests\\test_table_contract_v08.py ..                   [ 30%]\nESGTableExtraction\\tests\\test_table_loader_v01.py ..                     [ 46%]\nESGTableExtraction\\tests\\test_table_metric_classification_v04.py .       [ 53%]\nESGTableExtraction\\tests\\test_table_multi_document_v09.py .              [ 61%]\nESGTableExtraction\\tests\\test_table_reconstruction_v02.py .              [ 69%]\nESGTableExtraction\\tests\\test_table_release_v10.py ..                    [ 84%]\nESGTableExtraction\\tests\\test_table_structure_v03.py .                   [ 92%]\nESGTableExtraction\\tests\\test_table_typed_csv_v07.py .                   [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 13 passed, 1 warning in 1.57s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGExtractionOrchestrator",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGExtractionOrchestrator/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGExtractionOrchestrator"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 21 items\n\nESGExtractionOrchestrator\\tests\\test_full_orchestrator_v10.py ......     [ 28%]\nESGExtractionOrchestrator\\tests\\test_full_orchestrator_v11.py ....       [ 47%]\nESGExtractionOrchestrator\\tests\\test_metadata_propagation_v04_orchestrator.py . [ 52%]\n.....                                                                    [ 76%]\nESGExtractionOrchestrator\\tests\\test_orchestrator_visual_robustness_v01.py . [ 80%]\n....                                                                     [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 21 passed, 1 warning in 7.84s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGIndicatorValidation",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGIndicatorValidation/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGIndicatorValidation"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 19 items\n\nESGIndicatorValidation\\tests\\test_indicator_validation_audit_v07.py .    [  5%]\nESGIndicatorValidation\\tests\\test_indicator_validation_contract_v08.py . [ 10%]\n..                                                                       [ 21%]\nESGIndicatorValidation\\tests\\test_indicator_validation_dedup_v05.py .    [ 26%]\nESGIndicatorValidation\\tests\\test_indicator_validation_family_mapping_v04.py . [ 31%]\n                                                                         [ 31%]\nESGIndicatorValidation\\tests\\test_indicator_validation_loader_v01.py ..  [ 42%]\nESGIndicatorValidation\\tests\\test_indicator_validation_multi_document_v09.py . [ 47%]\n                                                                         [ 47%]\nESGIndicatorValidation\\tests\\test_indicator_validation_normalization_v03.py . [ 52%]\n                                                                         [ 52%]\nESGIndicatorValidation\\tests\\test_indicator_validation_release_v10.py .  [ 57%]\nESGIndicatorValidation\\tests\\test_indicator_validation_review_queue_v06.py . [ 63%]\n                                                                         [ 63%]\nESGIndicatorValidation\\tests\\test_indicator_validation_status_v02.py ..  [ 73%]\nESGIndicatorValidation\\tests\\test_metadata_propagation_v05_validation.py . [ 78%]\n....                                                                     [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 19 passed, 1 warning in 1.67s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGManualReview",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGManualReview/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGManualReview"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 14 items\n\nESGManualReview\\tests\\test_apply_review_decisions_v04.py ..              [ 14%]\nESGManualReview\\tests\\test_decision_template_v03.py .                    [ 21%]\nESGManualReview\\tests\\test_manual_review_audit_v05.py .                  [ 28%]\nESGManualReview\\tests\\test_manual_review_contract_v06.py ..              [ 42%]\nESGManualReview\\tests\\test_manual_review_loader_v01.py ..                [ 57%]\nESGManualReview\\tests\\test_manual_review_multi_document_v07.py .         [ 64%]\nESGManualReview\\tests\\test_manual_review_release_v10.py .                [ 71%]\nESGManualReview\\tests\\test_metadata_propagation_v05_review.py ...        [ 92%]\nESGManualReview\\tests\\test_review_workspace_v02.py .                     [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 14 passed, 1 warning in 1.70s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGIndicatorDatabase",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGIndicatorDatabase/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGIndicatorDatabase"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 17 items\n\nESGIndicatorDatabase\\tests\\test_indicator_database_audit_v06.py .        [  5%]\nESGIndicatorDatabase\\tests\\test_indicator_database_builder_v02.py .      [ 11%]\nESGIndicatorDatabase\\tests\\test_indicator_database_contract_v07.py ..    [ 23%]\nESGIndicatorDatabase\\tests\\test_indicator_database_loader_v01.py ..      [ 35%]\nESGIndicatorDatabase\\tests\\test_indicator_database_multi_document_v08.py . [ 41%]\n                                                                         [ 41%]\nESGIndicatorDatabase\\tests\\test_indicator_database_release_v10.py .      [ 47%]\nESGIndicatorDatabase\\tests\\test_indicator_evidence_links_v04.py .        [ 52%]\nESGIndicatorDatabase\\tests\\test_indicator_lineage_v05.py .               [ 58%]\nESGIndicatorDatabase\\tests\\test_indicator_schema_mapping_v03.py .        [ 64%]\nESGIndicatorDatabase\\tests\\test_metadata_propagation_v06_database.py ... [ 82%]\n...                                                                      [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 17 passed, 1 warning in 1.70s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_ESGProductionControlCenter",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "ESGProductionControlCenter/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_ESGProductionControlCenter"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 27 items\n\nESGProductionControlCenter\\tests\\test_batch_control_v09.py .             [  3%]\nESGProductionControlCenter\\tests\\test_business_ui_v11.py ....            [ 18%]\nESGProductionControlCenter\\tests\\test_command_builder_v02.py ...         [ 29%]\nESGProductionControlCenter\\tests\\test_command_runner_v03.py ...          [ 40%]\nESGProductionControlCenter\\tests\\test_contract_checker_v05.py .          [ 44%]\nESGProductionControlCenter\\tests\\test_control_center_contract_v10.py ..  [ 51%]\nESGProductionControlCenter\\tests\\test_dashboard_data_v06.py ..           [ 59%]\nESGProductionControlCenter\\tests\\test_demo_mode_v12.py ..                [ 66%]\nESGProductionControlCenter\\tests\\test_output_discovery_v01.py ..         [ 74%]\nESGProductionControlCenter\\tests\\test_pipeline_control_v11.py ...        [ 85%]\nESGProductionControlCenter\\tests\\test_review_editor_v07.py ..            [ 92%]\nESGProductionControlCenter\\tests\\test_run_state_v04.py .                 [ 96%]\nESGProductionControlCenter\\tests\\test_streamlit_app_v08.py .             [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 27 passed, 1 warning in 2.28s ========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_retrievers",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "AnnualReportRetriever/tests",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_retrievers"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "============================= test session starts =============================\nplatform win32 -- Python 3.13.12, pytest-9.0.3, pluggy-1.6.0\ncachedir: .pytest_tmp\\cache\nrootdir: C:\\Users\\hp\\Desktop\\ESG\nconfigfile: pytest.ini\nplugins: anyio-4.13.0\ncollected 6 items\n\nAnnualReportRetriever\\tests\\test_retriever.py ....                       [ 66%]\nAnnualReportRetriever\\tests\\test_scorer.py ..                            [100%]\n\n============================== warnings summary ===============================\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: could not create cache path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [WinError 5] Accès refusé: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 6 passed, 1 warning in 0.28s =========================\n",
+      "stderr_tail": ""
+    },
+    {
+      "name": "pytest_global",
+      "command": [
+        "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+        "-m",
+        "pytest",
+        "--basetemp",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\esg_pytest_validation_tvb096gn\\validation_global"
+      ],
+      "returncode": 0,
+      "status": "passed",
+      "stdout_tail": "[ 79%]\nESGVariableDatasetBuilder\\tests\\test_metadata_propagation_v07_builder.py . [ 79%]\n.......                                                                  [ 80%]\nESGVariableDatasetBuilder\\tests\\test_multi_company_year_v10.py .         [ 81%]\nESGVariableDatasetBuilder\\tests\\test_preparation_loader_v03.py ...       [ 81%]\nESGVariableDatasetBuilder\\tests\\test_quality_report_v08.py .             [ 81%]\nESGVariableDatasetBuilder\\tests\\test_value_selection_v05.py ....         [ 82%]\nESGVariableDatasetBuilder\\tests\\test_variable_dictionary_v01.py ..       [ 83%]\nESGVariableDatasetBuilder\\tests\\test_variable_mapping_v04.py ..          [ 83%]\nESGVisualExtraction\\tests\\test_metadata_propagation_v04_visual.py ...... [ 84%]\n.                                                                        [ 84%]\nESGVisualExtraction\\tests\\test_visual_audit_v06.py .                     [ 85%]\nESGVisualExtraction\\tests\\test_visual_candidates_v05.py .                [ 85%]\nESGVisualExtraction\\tests\\test_visual_classifier_v04.py .                [ 85%]\nESGVisualExtraction\\tests\\test_visual_contract_v07.py ....               [ 86%]\nESGVisualExtraction\\tests\\test_visual_crop_robustness_v03.py .......     [ 87%]\nESGVisualExtraction\\tests\\test_visual_cropper_v02.py ..                  [ 88%]\nESGVisualExtraction\\tests\\test_visual_loader_v01.py ..                   [ 88%]\nESGVisualExtraction\\tests\\test_visual_ocr_v03.py .                       [ 88%]\nESGVisualExtraction\\tests\\test_visual_release_v10.py ..                  [ 89%]\ntests\\project_hygiene\\test_clean_python_artifacts.py ..                  [ 89%]\ntests\\project_hygiene\\test_git_readiness.py ..                           [ 89%]\ntests\\project_hygiene\\test_legacy_scripts.py ..                          [ 90%]\ntests\\project_hygiene\\test_project_hygiene_audit.py .                    [ 90%]\ntests\\project_hygiene\\test_project_validation_runner.py ..               [ 90%]\ntests\\project_hygiene\\test_requirements_hygiene.py ..                    [ 91%]\ntests\\test_e2e_metadata_regression_v08.py ........                       [ 92%]\ntests\\test_metadata_propagation_audit_v01.py .......                     [ 94%]\ntests\\test_pilot_review_quality_audit_v10.py ...........                 [ 96%]\ntests\\test_strict_index_pilot_runner_v10.py ..................           [100%]\n\n============================== warnings summary ===============================\ntests/test_strict_index_pilot_runner_v10.py::test_dry_run_default_no_subprocess\ntests/test_strict_index_pilot_runner_v10.py::test_summary_schema_keys\n  C:\\Users\\hp\\Desktop\\ESG\\run_strict_index_pilot.py:971: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n    corpus_run_id = args.corpus_run_id or f\"pilot_{datetime.utcnow().strftime('%Y%m%d_%H%M%S')}\"\n\ntests/test_strict_index_pilot_runner_v10.py::test_dry_run_default_no_subprocess\ntests/test_strict_index_pilot_runner_v10.py::test_summary_schema_keys\n  C:\\Users\\hp\\Desktop\\ESG\\run_strict_index_pilot.py:921: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n    f\"**Date:** {datetime.utcnow().isoformat()}Z\",\n\n..\\..\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475\n  C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_pytest\\cacheprovider.py:475: PytestCacheWarning: cache could not write path C:\\Users\\hp\\Desktop\\ESG\\.pytest_tmp\\cache\\v\\cache\\nodeids: [Errno 13] Permission denied: 'C:\\\\Users\\\\hp\\\\Desktop\\\\ESG\\\\.pytest_tmp\\\\cache\\\\v\\\\cache\\\\nodeids'\n    config.cache.set(\"cache/nodeids\", sorted(self.cached_nodeids))\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n================= 504 passed, 5 warnings in 107.08s (0:01:47) =================\n",
+      "stderr_tail": ""
+    }
+  ]
+}

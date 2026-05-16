@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_20da77a537a4d8d4858a20cd",
+  "sha256": "e8b5c6aba7158e3a27111808d94eb53723df10b2ccf8b964e4236b94bdc5b4ae",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Avis de convocation - TotalEnergies",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Brochure-avis-convocation_2024_fr_PDF.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_006_score_98_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\agm-document\\canonical-20da77a537a4d8d4858a20cd\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:01+00:00"
+}

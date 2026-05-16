@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_4bd8297272a14a4f007b1fea",
+  "sha256": "9f8eca45a6639e43271bd88b6f0c63a985a3560b785d8b5f4e4bc96b45f5505f",
+  "all_references": [
+    {
+      "document_id": "9043eddec6501eb55194c501",
+      "retriever_name": "AssuranceReportRetriever",
+      "document_family": "assurance_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://cdn.prod.website-files.com/66b2233d3c4dc3712ce73ffe/66ecbe92e3fc032a43d59fbc_AA1000-Assurance-Standard-Application-Guide.pdf",
+      "source_title": "AA1000",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 1.6204,
+      "document_type": "assurance_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T20:42:21+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json"
+    }
+  ]
+}

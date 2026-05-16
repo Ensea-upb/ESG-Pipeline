@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_97e2650c47e0819c57f151d3",
+  "sha256": "58195ccf2c7899cad88e9cebee0aa0bc5fd46c45be0dfddf2f0057bc787d00f9",
+  "all_references": [
+    {
+      "document_id": "8bfe463f169af7f57830cd62",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKq9Jm069VX138F_lvmh-terms-and-conditions-of-participation-in-the-shareholders-meeting-april-18-2024.pdf",
+      "source_title": "Terms and conditions of participation in the Shareholders’ Meeting",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_045_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_045_manifest.json",
+      "file_size_mb": 2.0306,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 45,
+      "stored_at": "2026-05-09T20:42:18+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_045_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 48,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKrsZm069VX138z_lvmh-resolutions-combined-shareholders-meeting-april-18-2024-def-13.03.pdf",
+    "title": "Resolutions for the approval of the combined shareholders’ meeting",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/en/financial-calendar/2024-annual-general-meeting. Titre page : 2024 Annual General Meeting - LVMH. Texte du lien : Resolutions for the approval of the combined shareholders’ meeting.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 83.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['annual general meeting', 'résolutions', 'resolutions']",
+      "mots-clés faibles : ['general meeting', 'shareholders', 'résolution']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_048_score_83_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_048_manifest.json",
+    "sha256": "c461f7adf4692fb3d5aea688facd6735ebb05ba53307a2115a0d302493afcd81",
+    "file_size_mb": 0.3375,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZnKrsZm069VX138z_lvmh-resolutions-combined-shareholders-meeting-april-18-2024-def-13.03.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:22+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

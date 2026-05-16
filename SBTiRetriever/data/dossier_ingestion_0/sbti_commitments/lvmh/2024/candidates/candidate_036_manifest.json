@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 36,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Land-Transport-Guidance.pdf",
+    "title": "Land Transport Guidance",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/resources. Titre page : Resources - Science Based Targets Initiative. Texte du lien : Land Transport Guidance.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_036_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_036_manifest.json",
+    "sha256": "efd21914f860b85541543b05b9e79318f1a18f0b776dd578fa9e6cc70d9a24f2",
+    "file_size_mb": 5.4377,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Land-Transport-Guidance.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:06+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

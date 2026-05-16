@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "records_count": 2,
+  "indicator_domain_distribution": {
+    "social": 1,
+    "environmental": 1
+  },
+  "indicator_topic_distribution": {
+    "workforce": 1,
+    "ghg_emissions": 1
+  }
+}

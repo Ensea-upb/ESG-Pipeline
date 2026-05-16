@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_f12b0c63b76fc137f15f857c",
+  "sha256": "f1122487b81978221c7f865fc1524b1fe1ae654072113ecbd93bcd82b7cad69b",
+  "all_references": [
+    {
+      "document_id": "aead64b02868cd3440a7ee79",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PdQHdAxsiBv60m_Mise%C3%A0dispositionduDocumentd%27enregistrementuniversel2024.pdf",
+      "source_title": "Communiqué de mise à disposition du Document d’enregistrement universel 2024",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_018_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_018_manifest.json",
+      "file_size_mb": 0.1305,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 18,
+      "stored_at": "2026-05-09T20:48:51+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_018_manifest.json"
+    },
+    {
+      "document_id": "fd32c28b95e83c94b259163c",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PdQHdAxsiBv60m_Mise%C3%A0dispositionduDocumentd%27enregistrementuniversel2024.pdf",
+      "source_title": "Communiqué de mise à disposition du Document d’enregistrement universel 2024",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_051_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_051_manifest.json",
+      "file_size_mb": 0.1305,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 51,
+      "stored_at": "2026-05-09T20:42:27+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_051_manifest.json"
+    }
+  ]
+}

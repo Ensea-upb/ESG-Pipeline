@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_954844900cd35090c1570872",
+  "sha256": "2827d430de5f8b1cc0e7deb6c9d193b225b8a45a34fcff1367c9022ff6c6cf07",
+  "all_references": [
+    {
+      "document_id": "dd6c9f9d9be90555ece2b1ca",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://ddd.uab.cat/pub/infsos/146081/irsLVMHa2024ieng.pdf",
+      "source_title": "[PDF] 2024 SOCIAL AND ENVIRONMENTAL RESPONSIBILITY REPORT",
+      "source_name": "tavily",
+      "score": 93,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_score_93_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 14.4757,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T18:44:53+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

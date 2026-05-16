@@ -1,0 +1,45 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/fr/assets/342/document/510443/2024-document-enregistrement-universel.pdf",
+    "title": "[PDF] Document d'Enregistrement Universel 2024 - Schneider Electric",
+    "snippet": "Page 1. se.com. RAPPORT FINANCIER ET DÉVELOPPEMENT DURABLE. Document d'Enregistrement. Universel 2024. Technologie pour l'Impact. Page 2",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles durabilité : ['rse', 'développement durable', 'developpement durable']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux durabilité : [\"document d'enregistrement universel\", 'document d enregistrement universel']",
+      "classe documentaire : annual_report_with_sustainability_content"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "89d162c4a20b0b532fd6c15021ed8bf6cf65551b34fa5c5a0b757b0fa03ce25d",
+    "file_size_mb": 13.9201,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2024-document-enregistrement-universel.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:46:04+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

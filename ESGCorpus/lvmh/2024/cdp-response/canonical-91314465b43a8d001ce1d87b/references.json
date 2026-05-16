@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_91314465b43a8d001ce1d87b",
+  "sha256": "b7f093e41a9f6f834185e116d954b0b4d630b20f7994c64cda867074ef8ec446",
+  "all_references": [
+    {
+      "document_id": "338ca774138a2c866454472f",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://group.bnpparibas/uploads/file/bnpparibas_cdp_climate_change_questionnaire_2024.pdf",
+      "source_title": "BNP Paribas CDP Climate Change Questionnaire 2024 - October 2024",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_003_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 1.2442,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:41:17+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

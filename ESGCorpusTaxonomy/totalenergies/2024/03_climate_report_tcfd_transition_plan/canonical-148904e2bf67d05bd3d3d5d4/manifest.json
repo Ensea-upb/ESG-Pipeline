@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_148904e2bf67d05bd3d3d5d4",
+  "sha256": "047837ccb89b3da4a94ced2d32fa126014ac9f75da2933a2a3412338b7902df4",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "climate_report",
+  "official_doc_type": "03_climate_report_tcfd_transition_plan",
+  "official_doc_type_label": "Climate report / TCFD / transition plan",
+  "doc_type_stratum": "climate",
+  "doc_subtype": "climate_report",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "voluntary_or_regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\climate-report\\canonical-148904e2bf67d05bd3d3d5d4\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\03_climate_report_tcfd_transition_plan\\canonical-148904e2bf67d05bd3d3d5d4\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:02+00:00"
+}

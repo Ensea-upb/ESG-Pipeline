@@ -1,0 +1,48 @@
+{
+  "document_type": "annual_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/510443/2024-universal-registration-document.pdf?",
+    "title": "[PDF] 2024 Universal Registration Document - Schneider Electric",
+    "snippet": "5.1 Principal activities 5.1.1 Nature of transactions made by the Company and its principal activities Integrated Report 6–9, 23–27 5.1.2 New products/services launched on the market Integrated Report 20–21 5.2 Principal markets Integrated Report 23–27 5.3 Exceptional events N/A N/A 5.4 Strategy and objectives Integrated Report Chapter 1, section 1.1 Chapter 1, section 1.4 Chapter 1, section 1.5 2–9 50 59–60 61–64 5.5 Dependence on patents, licenses, contracts, or new manufacturing processes Chapter 3, section 3.4 374–375, 384 5.6 Competitive position N/A N/A 5.7 Investments 5.7.1 Principle investments realized during each year of the period covered by the historical financial information until the date of the Universal Registration Document Chapter 5, section 5.7 567 5.7.2 Major investments planned by the issuer and for which the management bodies have already taken a firm commitment N/A N/A 5.7.3 Information on significant shareholdings in companies Chapter 5, section 5.5 555–561 5.7.4 Environmental issues potentially affecting the use of the tangible fixed assets N/A N/A.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['universal registration document', 'integrated report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['universalregistrationdocument']",
+      "signaux de périmètre groupe : ['universal registration document']",
+      "classe documentaire : universal_registration_document"
+    ],
+    "negative_signals": [
+      "contexte filiale / produit / émetteur spécifique : ['issuer']"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "88c05720bf7d3f9e3ae2e4fc69c45687da3d7cc88d002f338f538003c4e8e98a",
+    "file_size_mb": 13.9516,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2024-universal-registration-document.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T16:23:44+00:00",
+    "storage_version": "annual_report_candidate_storage_v0"
+  }
+}

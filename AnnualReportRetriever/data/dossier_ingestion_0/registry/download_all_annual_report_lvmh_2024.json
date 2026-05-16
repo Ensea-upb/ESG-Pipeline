@@ -1,0 +1,296 @@
+{
+  "company_name": "LVMH",
+  "fiscal_year": 2024,
+  "min_score": 80.0,
+  "total_raw_candidates": 34,
+  "total_ranked_candidates": 34,
+  "total_selected_candidates": 9,
+  "downloaded_count": 1,
+  "failed_count": 1,
+  "skipped_count": 29,
+  "downloaded": [
+    {
+      "candidate_rank": 2,
+      "source_search_rank": 2,
+      "title": "LVMH 2024 Universal Registration Document. - Prismic",
+      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+      "score": 100.0,
+      "decision": "auto_download",
+      "local_path": "data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+      "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+      "sha256": "4e67ffaaae7f880fd24e837c30f10c08b0a087ca1b4314dade86e7b5d32c12cb"
+    }
+  ],
+  "failed": [
+    {
+      "candidate_rank": 1,
+      "source_search_rank": 1,
+      "title": "[PDF] Consolidated financial statements as of December 31, 2024",
+      "url": "https://docs.publicnow.com/viewDoc.aspx?filename=25108%5CEXT%5C54D05746592EC8DA81CB5314E977BC37476A2AB3_1523221F42F7847AE0CBF701E14D2C905CA244FF.PDF",
+      "score": 100.0,
+      "decision": "auto_download",
+      "download_status": "forbidden_403",
+      "message": "Accès refusé par le serveur pour toutes les stratégies.",
+      "attempts": 6
+    }
+  ],
+  "skipped": [
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2023.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2022.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2021.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2020.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2019.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2018.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2017.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2016.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2015.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2014.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2013.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2012.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2011.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2010.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2009.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2008.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2007.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2006.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2005.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2004.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2003.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 3,
+      "title": "View Annual Report",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/OTC_LVMUY_2002.pdf",
+      "score": 50,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.annualreports.com/Company/lvmh"
+    },
+    {
+      "source_search_rank": 4,
+      "title": "LVMH – URD 2024",
+      "url": "https://urd.lvmh.com/en/2024",
+      "score": 85.0,
+      "decision": "pdf_resolution_required",
+      "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : success - 0 lien(s) PDF extrait(s)."
+    },
+    {
+      "source_search_rank": 5,
+      "title": "Présentation",
+      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z5j64JbqstJ998kr_LVMH-Resultatsannuels2024.pdf",
+      "score": 42.0,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.lvmh.com/fr/le-calendrier-des-evenements-financiers/resultats-annuels-2024"
+    },
+    {
+      "source_search_rank": 5,
+      "title": "Documents financiers 2024",
+      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z5kVRZbqstJ999KV_Documentsfinanciers-31d%C3%A9cembre2024.pdf",
+      "score": 42.0,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.lvmh.com/fr/le-calendrier-des-evenements-financiers/resultats-annuels-2024"
+    },
+    {
+      "source_search_rank": 6,
+      "title": "Télécharger",
+      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z5j9lpbqstJ998sF_Communiqu%C3%A9-LVMHR%C3%A9sultatsannuels2024.pdf",
+      "score": 7.0,
+      "decision": "reject",
+      "reason": "PDF extrait de HTML mais score inférieur au seuil.",
+      "resolved_from": "https://www.lvmh.com/fr/publications/performance-solide-de-lvmh-malgre-un-contexte-economique-mondial-defavorable"
+    },
+    {
+      "source_search_rank": 7,
+      "title": "Rapport annuel interactif 2024 - LVMH - Fluidbook",
+      "url": "https://hosting.fluidbook.com/LVMH/rapportannuelinteractif2024/fr/24-Rapport-annuel-interactif-2024-LVMH.html",
+      "score": 80.0,
+      "decision": "pdf_resolution_required",
+      "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : success - 0 lien(s) PDF extrait(s)."
+    },
+    {
+      "source_search_rank": 8,
+      "title": "Document d'enregistrement universel LVMH MOET HENNESSY ...",
+      "url": "https://bdif.amf-france.org/fr/details/D_24-0182",
+      "score": 80.0,
+      "decision": "pdf_resolution_required",
+      "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : success - 0 lien(s) PDF extrait(s)."
+    },
+    {
+      "source_search_rank": 9,
+      "title": "2024 Interactive Annual Report - LVMH",
+      "url": "https://hosting.fluidbook.com/LVMH/2024interactiveannualreport/en/36-2024-Interactive-Annual-Report-LVMH.html",
+      "score": 80.0,
+      "decision": "pdf_resolution_required",
+      "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : success - 0 lien(s) PDF extrait(s)."
+    }
+  ]
+}

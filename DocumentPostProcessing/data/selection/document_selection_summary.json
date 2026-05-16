@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "message": "Selection finale terminee : 37 document(s) selectionne(s), 203 document(s) rejetes.",
+  "total_batches": 5,
+  "total_input_documents": 240,
+  "total_selected_documents": 37,
+  "total_rejected_documents": 203,
+  "total_selected_needs_review": 21,
+  "total_redundant_same_hash": 0,
+  "total_integrated_in_urd": 0,
+  "total_superseded_by_csrd_statement": 0,
+  "total_likely_wrong_company": 18,
+  "total_errors": 0,
+  "output_final_corpus_root": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus",
+  "selected_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\selection\\selected_documents.csv",
+  "selected_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\selection\\selected_documents.json",
+  "rejected_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\selection\\rejected_documents.csv",
+  "summary_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\selection\\document_selection_summary.json",
+  "errors": []
+}

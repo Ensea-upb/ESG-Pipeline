@@ -1,0 +1,1 @@
+schema_version,document_id,company,fiscal_year,table_id,cell_id,row_index,column_index,page_number,section_id,metric_key,metric_label,metric_family,esg_category,raw_value,raw_unit,reported_year,inferred_year,row_label,column_label,source_cell_text,source_row_text,confidence,review_required,extraction_status,validation_notes

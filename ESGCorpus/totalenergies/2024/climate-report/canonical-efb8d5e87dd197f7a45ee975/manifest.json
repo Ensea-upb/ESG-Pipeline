@@ -1,0 +1,23 @@
+{
+  "canonical_document_id": "canonical_efb8d5e87dd197f7a45ee975",
+  "sha256": "65b02fcd781febf91dfc3c3ac4117cdeeb2c7af67ca847c366c2aebac9c390e3",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "climate_report",
+  "document_families_detected": [
+    "sustainability_report",
+    "climate_report"
+  ],
+  "retrievers_detected": [
+    "SustainabilityReportRetriever",
+    "ClimateReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] Total Energies - Sustainability & Climate 2024 Progress Report",
+  "canonical_source_url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\climate-report\\canonical-efb8d5e87dd197f7a45ee975\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

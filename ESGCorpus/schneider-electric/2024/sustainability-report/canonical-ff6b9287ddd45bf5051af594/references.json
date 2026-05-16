@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_ff6b9287ddd45bf5051af594",
+  "sha256": "4f0ecf1a668fa80cca0983a42f49f183912c23ac7636a3b4386614c1d5c108e6",
+  "all_references": [
+    {
+      "document_id": "708ed75ded32a486183df699",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/396659/2022-sustainability-report.pdf",
+      "source_title": "[PDF] 2022 Sustainable Development Report - Schneider Electric",
+      "source_name": "tavily",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_008_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_008_manifest.json",
+      "file_size_mb": 4.6754,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 8,
+      "stored_at": "2026-05-09T17:40:17+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_008_manifest.json"
+    }
+  ]
+}

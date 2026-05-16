@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 10,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-05/AG_2023_Brochure_avis_convocation_fr.pdf",
+    "title": "Brochure Avis de Convocation – Assemblée générale mixte 2023",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/fr/investisseurs/assemblees-generales/archives. Titre page : Archives Assemblées générales TotalEnergies | TotalEnergies.com. Texte du lien : Brochure Avis de Convocation – Assemblée générale mixte 2023.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts AGM : ['avis de convocation assemblée', 'convocation assemblée générale']",
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_010_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_010_manifest.json",
+    "sha256": "488f12e9408f4cfdf26894f3dee374dc993adc3bd9fd69e21a30b5bcb12c9136",
+    "file_size_mb": 2.6395,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_AG_2023_Brochure_avis_convocation_fr.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:55+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_b7698e394e13f9321acd26e1",
+  "sha256": "6139aafb0a1b9991083922122b1bfe0d68c41e87722a2ac71b217538c836e701",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "agm_document",
+  "official_doc_type": "16_agm_minutes_resolutions",
+  "official_doc_type_label": "AGM minutes / resolutions",
+  "doc_type_stratum": "governance",
+  "doc_subtype": "agm_document",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "regulated_or_official",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\agm-document\\canonical-b7698e394e13f9321acd26e1\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\16_agm_minutes_resolutions\\canonical-b7698e394e13f9321acd26e1\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:04+00:00"
+}

@@ -1,0 +1,130 @@
+# ESGInformationExtraction — taxonomie de sections v0
+# Référentiel des types de sections attendus dans les rapports ESG.
+# Utilisé par section_detection/heading_detector.py pour classifier les sections.
+#
+# Format :
+#   <section_type>:
+#     label_fr: <libellé français>
+#     label_en: <libellé anglais>
+#     heading_keywords_fr: [<mots-clés titres français>]
+#     heading_keywords_en: [<mots-clés titres anglais>]
+#     parent_types: [<types parents possibles>]  # pour l'arborescence
+
+climate:
+  label_fr: "Climat et transition énergétique"
+  label_en: "Climate and energy transition"
+  heading_keywords_fr: ["climat", "transition énergétique", "TCFD", "plan de transition", "stratégie climatique"]
+  heading_keywords_en: ["climate", "energy transition", "TCFD", "transition plan", "climate strategy"]
+  parent_types: []
+
+emissions:
+  label_fr: "Émissions de gaz à effet de serre"
+  label_en: "Greenhouse gas emissions"
+  heading_keywords_fr: ["émissions", "GES", "carbone", "scope 1", "scope 2", "scope 3", "bilan carbone"]
+  heading_keywords_en: ["emissions", "GHG", "carbon", "scope 1", "scope 2", "scope 3", "carbon footprint"]
+  parent_types: ["climate"]
+
+energy:
+  label_fr: "Énergie"
+  label_en: "Energy"
+  heading_keywords_fr: ["énergie", "consommation énergétique", "efficacité énergétique", "renouvelable"]
+  heading_keywords_en: ["energy", "energy consumption", "energy efficiency", "renewable"]
+  parent_types: ["climate"]
+
+water:
+  label_fr: "Eau"
+  label_en: "Water"
+  heading_keywords_fr: ["eau", "ressources en eau", "consommation d'eau", "gestion de l'eau"]
+  heading_keywords_en: ["water", "water resources", "water consumption", "water management"]
+  parent_types: []
+
+waste:
+  label_fr: "Déchets"
+  label_en: "Waste"
+  heading_keywords_fr: ["déchets", "gestion des déchets", "économie circulaire", "recyclage"]
+  heading_keywords_en: ["waste", "waste management", "circular economy", "recycling"]
+  parent_types: []
+
+biodiversity:
+  label_fr: "Biodiversité"
+  label_en: "Biodiversity"
+  heading_keywords_fr: ["biodiversité", "nature", "écosystèmes", "TNFD"]
+  heading_keywords_en: ["biodiversity", "nature", "ecosystems", "TNFD"]
+  parent_types: []
+
+workforce:
+  label_fr: "Ressources humaines et effectifs"
+  label_en: "Workforce and employees"
+  heading_keywords_fr: ["effectifs", "ressources humaines", "emploi", "salariés", "collaborateurs"]
+  heading_keywords_en: ["workforce", "employees", "headcount", "human resources", "employment"]
+  parent_types: []
+
+health_safety:
+  label_fr: "Santé et sécurité"
+  label_en: "Health and safety"
+  heading_keywords_fr: ["santé", "sécurité", "accidents", "SST", "SSCT", "bien-être"]
+  heading_keywords_en: ["health", "safety", "accidents", "HSE", "well-being"]
+  parent_types: ["workforce"]
+
+diversity:
+  label_fr: "Diversité et inclusion"
+  label_en: "Diversity and inclusion"
+  heading_keywords_fr: ["diversité", "inclusion", "égalité", "DEI", "parité", "discrimination"]
+  heading_keywords_en: ["diversity", "inclusion", "equality", "DEI", "gender parity"]
+  parent_types: ["workforce"]
+
+human_rights:
+  label_fr: "Droits humains"
+  label_en: "Human rights"
+  heading_keywords_fr: ["droits humains", "droits fondamentaux", "travail forcé", "travail des enfants"]
+  heading_keywords_en: ["human rights", "fundamental rights", "forced labour", "child labour"]
+  parent_types: []
+
+vigilance:
+  label_fr: "Devoir de vigilance"
+  label_en: "Duty of vigilance"
+  heading_keywords_fr: ["vigilance", "devoir de vigilance", "plan de vigilance", "diligence raisonnée", "modern slavery"]
+  heading_keywords_en: ["vigilance", "duty of vigilance", "vigilance plan", "due diligence", "modern slavery"]
+  parent_types: ["human_rights"]
+
+governance:
+  label_fr: "Gouvernance"
+  label_en: "Governance"
+  heading_keywords_fr: ["gouvernance", "conseil d'administration", "direction", "comité"]
+  heading_keywords_en: ["governance", "board of directors", "management", "committee"]
+  parent_types: []
+
+remuneration:
+  label_fr: "Rémunération"
+  label_en: "Remuneration"
+  heading_keywords_fr: ["rémunération", "salaires", "say on pay", "mandataires sociaux"]
+  heading_keywords_en: ["remuneration", "compensation", "say on pay", "executive pay"]
+  parent_types: ["governance"]
+
+ethics:
+  label_fr: "Éthique des affaires"
+  label_en: "Business ethics"
+  heading_keywords_fr: ["éthique", "code de conduite", "intégrité", "conformité"]
+  heading_keywords_en: ["ethics", "code of conduct", "integrity", "compliance"]
+  parent_types: ["governance"]
+
+anti_corruption:
+  label_fr: "Anticorruption"
+  label_en: "Anti-corruption"
+  heading_keywords_fr: ["anticorruption", "anti-corruption", "corruption", "SAPIN", "FCPA"]
+  heading_keywords_en: ["anti-corruption", "anticorruption", "bribery", "FCPA"]
+  parent_types: ["ethics"]
+
+risk_management:
+  label_fr: "Gestion des risques"
+  label_en: "Risk management"
+  heading_keywords_fr: ["risques", "gestion des risques", "facteurs de risque", "cartographie"]
+  heading_keywords_en: ["risks", "risk management", "risk factors", "risk mapping"]
+  parent_types: []
+
+assurance:
+  label_fr: "Vérification et assurance"
+  label_en: "Assurance and verification"
+  heading_keywords_fr: ["vérification", "assurance", "commissaire", "tiers indépendant", "ISAE"]
+  heading_keywords_en: ["assurance", "verification", "independent third party", "ISAE", "AA1000"]
+  parent_types: []

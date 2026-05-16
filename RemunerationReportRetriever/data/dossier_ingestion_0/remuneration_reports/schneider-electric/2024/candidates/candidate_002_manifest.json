@@ -1,0 +1,47 @@
+{
+  "document_type": "remuneration_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/235887/annual-report-governance-report-compensation-report.pdf",
+    "title": "[PDF] 2. Compensation Report - Schneider Electric",
+    "snippet": "Theoretical gross annual fixed compensation of €1,000,000 for the fiscal year 2020 according to the compensation policy was set by the Board of Directors on",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 93.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts rémunération : ['compensation report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier compatible rémunération : ['compensationreport']",
+      "rapport annuel/URD contenant signaux rémunération : ['annual report']",
+      "classe documentaire : standalone_remuneration_report"
+    ],
+    "negative_signals": [
+      "année demandée absente, années détectées : [2020]"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_93_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "a05e0402777fc4dd5bffb0e5365b6161529d8430065adf3736905fda473d3a02",
+    "file_size_mb": 0.417,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_annual-report-governance-report-compensation-report.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:47:34+00:00",
+    "storage_version": "remuneration_report_candidate_storage_v0"
+  }
+}

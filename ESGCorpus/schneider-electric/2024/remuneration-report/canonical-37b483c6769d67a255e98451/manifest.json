@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_37b483c6769d67a255e98451",
+  "sha256": "9fff4f49b1c77aeaac3521438ad34bd802764e3877ec4fd7b3c5a887948ddde0",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "remuneration_report",
+  "document_families_detected": [
+    "remuneration_report"
+  ],
+  "retrievers_detected": [
+    "RemunerationReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] Rémunération d'Olivier Blum - Schneider Electric",
+  "canonical_source_url": "https://www.se.com/ww/fr/Images/Conseil_d_administration_du_7_novembre_2024%E2%80%93remuneration_d_olivier_Blum_tcm342-496809.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\remuneration-report\\canonical-37b483c6769d67a255e98451\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

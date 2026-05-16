@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_522e69c63a2502d73e785619",
+  "sha256": "1cd15932407bb13b1f2fa2c8f757191801e8d363ac099b50c69c7ffb5ff152d8",
+  "all_references": [
+    {
+      "document_id": "427c602e531585e135600bc5",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://corporate.visa.com/content/dam/VCOM/regional/na/us/about-visa/esg/2024-visa-cdp-response.pdf",
+      "source_title": "2024 CDP Climate Response Report",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 1.9518,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:41:14+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

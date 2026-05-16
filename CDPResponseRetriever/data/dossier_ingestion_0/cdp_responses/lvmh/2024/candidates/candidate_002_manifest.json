@@ -1,0 +1,44 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Microsoft-Corporation-2024-CDP-Response.pdf",
+    "title": "Microsoft Corporation: 2024 CDP Corporate Questionnaire",
+    "snippet": "175. Microsoft_2024_Environmental_Sustainability_Report_Data_Fact_Sheet.pdf. (13.3) Provide the following information for the person that has signed off (approved) your CDP response. (13.3.1) Job title.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp response pdf']",
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier CDP : ['cdp-response']",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "e962c84ade0da841402efae2d3bae52cc7a66260b00fae933ff22e5ff7806d9b",
+    "file_size_mb": 0.7206,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Microsoft-Corporation-2024-CDP-Response.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:15+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

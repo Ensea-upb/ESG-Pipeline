@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_2090c0ddfd28e34681f51662",
+  "sha256": "e6be49e90b30d6ec6c4f8afaf64d35f14e27bda7c9378e79e035273eb8debc5e",
+  "all_references": [
+    {
+      "document_id": "6e514651b051709b3ab4ea12",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-05/AG2023_Resultats-des-votes-par-resolution_FR.pdf",
+      "source_title": "Résultats des votes des résolutions (PDF)",
+      "source_name": "html_pdf_resolver",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_013_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_013_manifest.json",
+      "file_size_mb": 0.2788,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 13,
+      "stored_at": "2026-05-09T20:49:56+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_013_manifest.json"
+    }
+  ]
+}

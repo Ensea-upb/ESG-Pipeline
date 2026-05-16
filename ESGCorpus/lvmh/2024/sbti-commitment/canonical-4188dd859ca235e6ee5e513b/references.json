@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_4188dd859ca235e6ee5e513b",
+  "sha256": "2e67a9172bcfc91a8b00282de61fa9c73674b99bbe6587871a534032c5ea608d",
+  "all_references": [
+    {
+      "document_id": "00a8edb0015bba3e198ce84c",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Supplier-Engagement-Guidance.pdf",
+      "source_title": "Supplier Engagement Guidance",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_037_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_037_manifest.json",
+      "file_size_mb": 7.9589,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 37,
+      "stored_at": "2026-05-09T20:42:08+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_037_manifest.json"
+    }
+  ]
+}

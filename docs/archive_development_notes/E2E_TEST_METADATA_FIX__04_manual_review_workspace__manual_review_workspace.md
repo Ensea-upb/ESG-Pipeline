@@ -1,0 +1,54 @@
+# Manual Review Workspace
+
+No decision is prefilled. `accept_candidate` is not a final ESG indicator.
+
+- review_item_000017 | possible_indicator | workforce | page 13 | q 102,887 employees q $9.5 billion payroll (including social security charges) q Close to 170 nationalities q More than €220 million for training q More than 51
+- review_item_000018 | possible_indicator | workforce | page 13 | q Cash flow from operations excluding working capital (CFFO): q $7.7 billion distributed as dividends(2) $29.9 billion q More than 1.8 million individual shareh
+- review_item_000019 | possible_indicator | ghg_emissions | page 13 | q Fresh water withdrawal: 92 Mm3 (ESRS perimeter)(3) q Reducing GHG emissions (Scope 1+2) from operated facilities q Net primary energy consumption: 156 TWh (op
+- review_item_000022 | possible_indicator | ghg_emissions | page 13 | q Reducing Scope 3 GHG emissions of the petroleum products sold worldwide by 38% in 2024, compared to 2015 q Reducing life carbon intensity(6) of energy product
+- review_item_000327 | possible_indicator | energy | page 13 | (1) Includes 20% of Adani Green Energy Ltd's gross capac ity, 50% of Clearway Energy Group’s gross c apacity effective third qu arter 2022 and 4 9% of Casa dos 
+- review_item_000328 | possible_indicator | workforce | page 13 | (2) Excluding dividends paid to n on-controlling minority inte rests.
+- review_item_000329 | possible_indicator | workforce | page 13 | (4) Excluding biogenic methan.
+- review_item_000330 | possible_indicator | ghg_emissions | page 13 | (5) GHG Protocol – Category 11 (refer to the glossary).
+- review_item_000331 | possible_indicator | ghg_emissions | page 13 | (6) Lifecycle carbon intensity of energy products sold (refer to the glos sary).
+- review_item_000028 | possible_indicator | energy | page 14 | Renewables combined with Flexible Other e m m e i t s h s a io n n e s Methane from fossil fuels ge E n le e c r t a r t i i c o it n y (a) 74% 4% 22% 14 G el a
+- review_item_000029 | possible_indicator | ghg_emissions | page 15 | In 2023, GHG emissions from the energy system accounted for 39 billion – electric vehicles and heat pumps to use it, and tonnes of the 57 billion tonnes of anth
+- review_item_000031 | possible_indicator | ghg_emissions | page 15 | TotalEnergies reaffirms the relevance of its balanced integrated multi- advantage of energy prices evolution. Thanks to the refocusing of the Oil energy strateg
+- review_item_000033 | possible_indicator | ghg_emissions | page 15 | While drastically lowering the emissions of greenhouse gas from its In 2027 and 2028, the start-ups of LNG projects will follow in Qatar, the operations, TotalE
+- review_item_000038 | possible_indicator | ghg_emissions | page 15 | The key indicator of its progress to measure our transition towards low- TotalEnergies also uses the strength of its balance sheet to increase its carbon energy
+- review_item_000051 | possible_indicator | ghg_emissions | page 17 | NBS: 10 MtCO e to abate Scope 1+2(b)
+- review_item_000053 | possible_indicator | ghg_emissions | page 17 | CCU/CCS: ~100 MtCO e to abate Scope 3(c)
+- review_item_000056 | possible_indicator | ghg_emissions | page 17 | slower rate than the current natural decline rate of existing fields (around safety, emissions reduction and environmental impact. The cash flow 5% per year). g
+- review_item_000058 | possible_indicator | ghg_emissions | page 17 | will require an increase in flexible power generation resources. The In line with its balanced multi-energy strategy, TotalEnergies intends to dispatchable gene
+- review_item_000059 | possible_indicator | ghg_emissions | page 17 | replacement of coal, emitting half as much greenhouse gas for the same resilience of its LNG portfolio by investing in low-cost liquefaction amount of electrici
+- review_item_000065 | possible_indicator | energy | page 18 | The Company’ levers to grow with a return on average capital employed of around 12% are selectivity in its choices of projects; integration across the entire el
+- review_item_000076 | possible_indicator | workforce | page 20 | Workforce Disclosure Initiative : TotalEnergies has made further (tie) progress with a score of 89% in 2024, above the industry average (76%)
+- review_item_000089 | possible_indicator | ghg_emissions | page 20 | the Company’s lifecycle carbon intensity(3) trajectory (“Carbon lifecycle carbon intensity(1) of energy products sold (a 17% reduction by Performance"(4)) and c
+- review_item_000093 | possible_indicator | ghg_emissions | page 21 | emissions from energy combustion and industrial processes. For TotalEnergies, (a) Lifecycle carbon intensity of energy products sold (refer to definitions in po
+- review_item_000104 | possible_indicator | ghg_emissions | page 21 | integrated low-carbon electricity offer. As a result, the Company's overall approximately 10% per year of the stock of carbon credits of the operated emissions 
+- review_item_000332 | possible_indicator | energy | page 21 | 46 Oil & Gas Assets Operat -36% -2 vs. 2015 vs. ed Assets 5% 2015 37 Mt CO New 2 Target 202 e 5 em vs issio 201 ns 5 60 46 CCGT Portfolio Energ y Flarin g
+- review_item_000333 | possible_indicator | energy | page 21 | 2015 4 30 2023 5 29 2024 2025 Oil CC & Gas GT 2030 2015 & Meth ane Low-carb electricity Electrificati H2 on CCS , on, Nat bas solutio 25-30 ure ed ns (b) 2030
+- review_item_000334 | possible_indicator | energy | page 21 | 2015 4 30 2023 5 29 2024 2025 Oil CC & Gas GT 2030 2015 & Meth ane Low-carb electricity Electrificati H2 on CCS , on, Nat bas solutio 25-30 ure ed ns (b) 2030
+- review_item_000111 | possible_indicator | ghg_emissions | page 22 | gas turbines on its operated assets. Since 2021, 74% of Exploration & CCGT in 2025. Over a large part of the power station fleet, high-power Production assets h
+- review_item_000112 | possible_indicator | ghg_emissions | page 22 | 1.3.3.3 Decarbonizing our operated sites through low-carbon electricity supply and electrification Low-carbon electricity supply own operations and will enable 
+- review_item_000114 | possible_indicator | ghg_emissions | page 22 | 2 MW electric heater, reducing emissions by 4.8 kt COe per year. In the United States, around 1.5 TWh/year will gradually be supplied to 2 At the Exploration & 
+- review_item_000120 | possible_indicator | ghg_emissions | page 23 | sensors to provide complete, accurate coverage of the entire installation. In addition to actions on each of these sources, all new projects include strict desi
+- review_item_000124 | possible_indicator | ghg_emissions | page 23 | gas emissions is around 330 kt COe/year, including 1.3 kt CH/year.
+- review_item_000130 | possible_indicator | ghg_emissions | page 23 | capacity increased, enabling the gas – previously routinely flared – to be vs 2020 -80% sent for treatment and compression in order to be recovered. The vs 2020
+- review_item_000131 | possible_indicator | boundary | page 23 | by around 120 kt COe/year, including more than 1 kt CH/year, while
+- review_item_000140 | possible_indicator | ghg_emissions | page 24 | 11 Mt COe are included in Scope 1+2 of the ESRS perimeter. Chairman and CEO of TotalEnergies.
+- review_item_000143 | possible_indicator | ghg_emissions | page 24 | TotalEnergies is working to mobilize its partners to reduce emissions This initiative now brings together more than 55 companies representing from the assets th
+- review_item_000152 | possible_indicator | ghg_emissions | page 24 | ● for an equivalent quantity of emissions (Scope 1+2+3), the Company TotalEnergies has been leading among its peers in terms of actually would supply 33% more e
+- review_item_000154 | possible_indicator | ghg_emissions | page 25 | Growth in electricity shall drive more than half the reduction in roadmaps and offers low-carbon solutions tailored to their needs from TotalEnergies' lifecycle
+- review_item_000160 | possible_indicator | ghg_emissions | page 25 | The energy transition also requires the development of low-carbon decarbonize the aviation industry. To avoid conflicts of land usage, energy based on the conve
+- review_item_000161 | possible_indicator | energy | page 25 | Biogas, produced from the decomposition of organic waste, is a Today, biofuels emit over their life cycle more than 50% less CO than renewable gas. Injected int
+- review_item_000165 | possible_indicator | energy | page 26 | half as much CO for the same amount of energy produced. than 70% of the world market (compared with around 1.5% for
+- review_item_000175 | possible_indicator | energy | page 27 | reductions by about 65 Mt CO 2 e in 2024. <400 Mt CO 2 e E e A l s e s t c i i m m tr il a i a c t r i e t a d y p p g e r n e oa n a c b e h r l e a h d t a i 
+- review_item_000184 | possible_indicator | ghg_emissions | page 27 | per year in 2050, in order to reduce some of the emissions from residual order to contribute to a gross storage capacity of 10 Mt CO per year by
+- review_item_000188 | possible_indicator | energy | page 27 | liquefaction trains, currently under development in Qatar, will be stored by The Company has entered the United States CCS market in 2024, with a QatarEnergy. F
+- review_item_000194 | possible_indicator | water | page 28 | reductions and sequestration achieved by the activities financed in this way. In this context and based on a consumption rate of 10% of the stock per year from 
+- review_item_000199 | possible_indicator | ghg_emissions | page 28 | solutions to optimize TotalEnergies’ industrial tools (environmental In 2024, 68% of TotalEnergies’ R&D budget was devoted to new impact, availability, costs) a
+- review_item_000206 | possible_indicator | workforce | page 29 | Company has mobilized its 100,000 employees through the progress
+- review_item_000221 | possible_indicator | ghg_emissions | page 30 | a reduction of at least 40% of the net emissions(a) compared to 2015 for its operated activities, i.e.,
+- review_item_000001 | possible_indicator | boundary | page 6 | 37.9% • $9.5 billion payroll (including social security charges)
+- review_item_000005 | possible_indicator | ghg_emissions | page 6 | 1.1.1 An integrated energy company TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas, biogas

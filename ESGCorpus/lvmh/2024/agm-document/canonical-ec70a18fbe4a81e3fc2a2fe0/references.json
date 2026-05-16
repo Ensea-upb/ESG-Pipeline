@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_ec70a18fbe4a81e3fc2a2fe0",
+  "sha256": "0040b3612bd5f18caffe67f994f1dbc5c1d8aa4889bd9a12ce5a9bf444886722",
+  "all_references": [
+    {
+      "document_id": "69a795b761f12567643c6b91",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKdr5m069VX13w8_lvmh_brochure_de_convocation_fr.pdf",
+      "source_title": "Brochure de convocation à l’Assemblée générale mixte du 18 avril 2024 (e-accessible)",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_007_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_007_manifest.json",
+      "file_size_mb": 3.7943,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 7,
+      "stored_at": "2026-05-09T20:48:44+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_007_manifest.json"
+    },
+    {
+      "document_id": "35f9d2080fff09d3f4cd6df0",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKf0Zm069VX13x-_lvmh_brochure_de_convocation_fr-1-.pdf",
+      "source_title": "Rapports des Commissaires aux comptes sur les projets de résolutions",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_011_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_011_manifest.json",
+      "file_size_mb": 3.7943,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 11,
+      "stored_at": "2026-05-09T20:48:46+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_011_manifest.json"
+    }
+  ]
+}

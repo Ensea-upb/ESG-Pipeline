@@ -1,0 +1,2130 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "schneider_electric_2024_csrd_v5",
+  "total_multimodal_evidences": 10307,
+  "evidence_by_modality": {
+    "text": 8717,
+    "table": 1088,
+    "figure": 502
+  },
+  "evidence_by_type": {
+    "section_heading": 324,
+    "paragraph": 8393,
+    "table": 1088,
+    "figure": 502
+  },
+  "evidence_policy_distribution": {
+    "review_required": 853,
+    "normal": 9454
+  },
+  "downstream_use_policy_distribution": {
+    "review_before_extraction": 4044,
+    "eligible_for_future_extraction": 6010,
+    "exclude_from_automatic_extraction": 253
+  },
+  "review_required_count": 4297,
+  "quarantined_count": 0,
+  "eligible_for_future_extraction_count": 6010,
+  "evidence_by_section": {
+    "schneider_electric_2024_csrd_v5_section_0001": 11,
+    "schneider_electric_2024_csrd_v5_section_0002": 11,
+    "schneider_electric_2024_csrd_v5_section_0003": 25,
+    "schneider_electric_2024_csrd_v5_section_0004": 9,
+    "schneider_electric_2024_csrd_v5_section_0005": 2,
+    "schneider_electric_2024_csrd_v5_section_0006": 38,
+    "schneider_electric_2024_csrd_v5_section_0007": 11,
+    "schneider_electric_2024_csrd_v5_section_0008": 67,
+    "schneider_electric_2024_csrd_v5_section_0009": 41,
+    "schneider_electric_2024_csrd_v5_section_0010": 143,
+    "schneider_electric_2024_csrd_v5_section_0011": 76,
+    "schneider_electric_2024_csrd_v5_section_0012": 41,
+    "schneider_electric_2024_csrd_v5_section_0013": 40,
+    "schneider_electric_2024_csrd_v5_section_0014": 2,
+    "schneider_electric_2024_csrd_v5_section_0015": 44,
+    "schneider_electric_2024_csrd_v5_section_0016": 118,
+    "schneider_electric_2024_csrd_v5_section_0017": 105,
+    "schneider_electric_2024_csrd_v5_section_0018": 144,
+    "schneider_electric_2024_csrd_v5_section_0019": 104,
+    "schneider_electric_2024_csrd_v5_section_0020": 47,
+    "schneider_electric_2024_csrd_v5_section_0021": 16,
+    "schneider_electric_2024_csrd_v5_section_0022": 46,
+    "schneider_electric_2024_csrd_v5_section_0023": 16,
+    "schneider_electric_2024_csrd_v5_section_0024": 2,
+    "schneider_electric_2024_csrd_v5_section_0025": 27,
+    "schneider_electric_2024_csrd_v5_section_0026": 254,
+    "schneider_electric_2024_csrd_v5_section_0027": 187,
+    "schneider_electric_2024_csrd_v5_section_0028": 119,
+    "schneider_electric_2024_csrd_v5_section_0029": 6,
+    "schneider_electric_2024_csrd_v5_section_0030": 52,
+    "schneider_electric_2024_csrd_v5_section_0031": 54,
+    "schneider_electric_2024_csrd_v5_section_0032": 150,
+    "schneider_electric_2024_csrd_v5_section_0033": 15,
+    "schneider_electric_2024_csrd_v5_section_0034": 23,
+    "schneider_electric_2024_csrd_v5_section_0035": 113,
+    "schneider_electric_2024_csrd_v5_section_0036": 64,
+    "schneider_electric_2024_csrd_v5_section_0037": 328,
+    "schneider_electric_2024_csrd_v5_section_0038": 110,
+    "schneider_electric_2024_csrd_v5_section_0039": 299,
+    "schneider_electric_2024_csrd_v5_section_0040": 8,
+    "schneider_electric_2024_csrd_v5_section_0041": 1,
+    "schneider_electric_2024_csrd_v5_section_0042": 1,
+    "schneider_electric_2024_csrd_v5_section_0043": 1,
+    "schneider_electric_2024_csrd_v5_section_0044": 1,
+    "schneider_electric_2024_csrd_v5_section_0045": 1,
+    "schneider_electric_2024_csrd_v5_section_0046": 1,
+    "schneider_electric_2024_csrd_v5_section_0047": 1,
+    "schneider_electric_2024_csrd_v5_section_0048": 1,
+    "schneider_electric_2024_csrd_v5_section_0049": 1,
+    "schneider_electric_2024_csrd_v5_section_0050": 1,
+    "schneider_electric_2024_csrd_v5_section_0051": 1,
+    "schneider_electric_2024_csrd_v5_section_0052": 1,
+    "schneider_electric_2024_csrd_v5_section_0053": 1,
+    "schneider_electric_2024_csrd_v5_section_0054": 1,
+    "schneider_electric_2024_csrd_v5_section_0055": 1,
+    "schneider_electric_2024_csrd_v5_section_0056": 1,
+    "schneider_electric_2024_csrd_v5_section_0057": 1,
+    "schneider_electric_2024_csrd_v5_section_0058": 1,
+    "schneider_electric_2024_csrd_v5_section_0059": 3,
+    "schneider_electric_2024_csrd_v5_section_0060": 50,
+    "schneider_electric_2024_csrd_v5_section_0061": 8,
+    "schneider_electric_2024_csrd_v5_section_0062": 1,
+    "schneider_electric_2024_csrd_v5_section_0063": 1,
+    "schneider_electric_2024_csrd_v5_section_0064": 1,
+    "schneider_electric_2024_csrd_v5_section_0065": 1,
+    "schneider_electric_2024_csrd_v5_section_0066": 1,
+    "schneider_electric_2024_csrd_v5_section_0067": 1,
+    "schneider_electric_2024_csrd_v5_section_0068": 1,
+    "schneider_electric_2024_csrd_v5_section_0069": 1,
+    "schneider_electric_2024_csrd_v5_section_0070": 1,
+    "schneider_electric_2024_csrd_v5_section_0071": 1,
+    "schneider_electric_2024_csrd_v5_section_0072": 1,
+    "schneider_electric_2024_csrd_v5_section_0073": 1,
+    "schneider_electric_2024_csrd_v5_section_0074": 1,
+    "schneider_electric_2024_csrd_v5_section_0075": 1,
+    "schneider_electric_2024_csrd_v5_section_0076": 1,
+    "schneider_electric_2024_csrd_v5_section_0077": 1,
+    "schneider_electric_2024_csrd_v5_section_0078": 1,
+    "schneider_electric_2024_csrd_v5_section_0079": 1,
+    "schneider_electric_2024_csrd_v5_section_0080": 3,
+    "schneider_electric_2024_csrd_v5_section_0081": 40,
+    "schneider_electric_2024_csrd_v5_section_0082": 9,
+    "schneider_electric_2024_csrd_v5_section_0083": 1,
+    "schneider_electric_2024_csrd_v5_section_0084": 1,
+    "schneider_electric_2024_csrd_v5_section_0085": 1,
+    "schneider_electric_2024_csrd_v5_section_0086": 202,
+    "schneider_electric_2024_csrd_v5_section_0087": 36,
+    "schneider_electric_2024_csrd_v5_section_0088": 94,
+    "schneider_electric_2024_csrd_v5_section_0089": 17,
+    "schneider_electric_2024_csrd_v5_section_0090": 2,
+    "schneider_electric_2024_csrd_v5_section_0091": 149,
+    "schneider_electric_2024_csrd_v5_section_0092": 438,
+    "schneider_electric_2024_csrd_v5_section_0093": 571,
+    "schneider_electric_2024_csrd_v5_section_0094": 26,
+    "schneider_electric_2024_csrd_v5_section_0095": 20,
+    "schneider_electric_2024_csrd_v5_section_0096": 73,
+    "schneider_electric_2024_csrd_v5_section_0097": 12,
+    "schneider_electric_2024_csrd_v5_section_0098": 170,
+    "schneider_electric_2024_csrd_v5_section_0099": 31,
+    "schneider_electric_2024_csrd_v5_section_0100": 15,
+    "schneider_electric_2024_csrd_v5_section_0101": 2,
+    "schneider_electric_2024_csrd_v5_section_0102": 57,
+    "schneider_electric_2024_csrd_v5_section_0103": 136,
+    "schneider_electric_2024_csrd_v5_section_0104": 21,
+    "schneider_electric_2024_csrd_v5_section_0105": 1,
+    "schneider_electric_2024_csrd_v5_section_0106": 122,
+    "schneider_electric_2024_csrd_v5_section_0107": 26,
+    "schneider_electric_2024_csrd_v5_section_0108": 17,
+    "schneider_electric_2024_csrd_v5_section_0109": 13,
+    "schneider_electric_2024_csrd_v5_section_0110": 5,
+    "schneider_electric_2024_csrd_v5_section_0111": 20,
+    "schneider_electric_2024_csrd_v5_section_0112": 2,
+    "schneider_electric_2024_csrd_v5_section_0113": 18,
+    "schneider_electric_2024_csrd_v5_section_0114": 1,
+    "schneider_electric_2024_csrd_v5_section_0115": 6,
+    "schneider_electric_2024_csrd_v5_section_0116": 16,
+    "schneider_electric_2024_csrd_v5_section_0117": 86,
+    "schneider_electric_2024_csrd_v5_section_0118": 13,
+    "schneider_electric_2024_csrd_v5_section_0119": 2,
+    "schneider_electric_2024_csrd_v5_section_0120": 1,
+    "schneider_electric_2024_csrd_v5_section_0121": 1,
+    "schneider_electric_2024_csrd_v5_section_0122": 3,
+    "schneider_electric_2024_csrd_v5_section_0123": 4,
+    "schneider_electric_2024_csrd_v5_section_0124": 2,
+    "schneider_electric_2024_csrd_v5_section_0125": 6,
+    "schneider_electric_2024_csrd_v5_section_0126": 4,
+    "schneider_electric_2024_csrd_v5_section_0127": 7,
+    "schneider_electric_2024_csrd_v5_section_0128": 1,
+    "schneider_electric_2024_csrd_v5_section_0129": 9,
+    "schneider_electric_2024_csrd_v5_section_0130": 9,
+    "schneider_electric_2024_csrd_v5_section_0131": 3,
+    "schneider_electric_2024_csrd_v5_section_0132": 11,
+    "schneider_electric_2024_csrd_v5_section_0133": 6,
+    "schneider_electric_2024_csrd_v5_section_0134": 400,
+    "schneider_electric_2024_csrd_v5_section_0135": 9,
+    "schneider_electric_2024_csrd_v5_section_0136": 144,
+    "schneider_electric_2024_csrd_v5_section_0137": 118,
+    "schneider_electric_2024_csrd_v5_section_0138": 104,
+    "schneider_electric_2024_csrd_v5_section_0139": 314,
+    "schneider_electric_2024_csrd_v5_section_0140": 12,
+    "schneider_electric_2024_csrd_v5_section_0141": 114,
+    "schneider_electric_2024_csrd_v5_section_0142": 33,
+    "schneider_electric_2024_csrd_v5_section_0143": 111,
+    "schneider_electric_2024_csrd_v5_section_0144": 109,
+    "schneider_electric_2024_csrd_v5_section_0145": 14,
+    "schneider_electric_2024_csrd_v5_section_0146": 7,
+    "schneider_electric_2024_csrd_v5_section_0147": 34,
+    "schneider_electric_2024_csrd_v5_section_0148": 31,
+    "schneider_electric_2024_csrd_v5_section_0149": 103,
+    "schneider_electric_2024_csrd_v5_section_0150": 7,
+    "schneider_electric_2024_csrd_v5_section_0151": 1,
+    "schneider_electric_2024_csrd_v5_section_0152": 2,
+    "schneider_electric_2024_csrd_v5_section_0153": 2,
+    "schneider_electric_2024_csrd_v5_section_0154": 2,
+    "schneider_electric_2024_csrd_v5_section_0155": 1,
+    "schneider_electric_2024_csrd_v5_section_0156": 7,
+    "schneider_electric_2024_csrd_v5_section_0157": 15,
+    "schneider_electric_2024_csrd_v5_section_0158": 3,
+    "schneider_electric_2024_csrd_v5_section_0159": 17,
+    "schneider_electric_2024_csrd_v5_section_0160": 21,
+    "schneider_electric_2024_csrd_v5_section_0161": 15,
+    "schneider_electric_2024_csrd_v5_section_0162": 5,
+    "schneider_electric_2024_csrd_v5_section_0163": 18,
+    "schneider_electric_2024_csrd_v5_section_0164": 44,
+    "schneider_electric_2024_csrd_v5_section_0165": 8,
+    "schneider_electric_2024_csrd_v5_section_0166": 14,
+    "schneider_electric_2024_csrd_v5_section_0167": 13,
+    "schneider_electric_2024_csrd_v5_section_0168": 3,
+    "schneider_electric_2024_csrd_v5_section_0169": 33,
+    "schneider_electric_2024_csrd_v5_section_0170": 8,
+    "schneider_electric_2024_csrd_v5_section_0171": 51,
+    "schneider_electric_2024_csrd_v5_section_0172": 14,
+    "schneider_electric_2024_csrd_v5_section_0173": 3,
+    "schneider_electric_2024_csrd_v5_section_0174": 4,
+    "schneider_electric_2024_csrd_v5_section_0175": 9,
+    "schneider_electric_2024_csrd_v5_section_0176": 9,
+    "schneider_electric_2024_csrd_v5_section_0177": 120,
+    "schneider_electric_2024_csrd_v5_section_0178": 22,
+    "schneider_electric_2024_csrd_v5_section_0179": 16,
+    "schneider_electric_2024_csrd_v5_section_0180": 157,
+    "schneider_electric_2024_csrd_v5_section_0181": 18,
+    "schneider_electric_2024_csrd_v5_section_0182": 47,
+    "schneider_electric_2024_csrd_v5_section_0183": 27,
+    "schneider_electric_2024_csrd_v5_section_0184": 17,
+    "schneider_electric_2024_csrd_v5_section_0185": 7,
+    "schneider_electric_2024_csrd_v5_section_0186": 8,
+    "schneider_electric_2024_csrd_v5_section_0187": 1,
+    "schneider_electric_2024_csrd_v5_section_0188": 1,
+    "schneider_electric_2024_csrd_v5_section_0189": 2,
+    "schneider_electric_2024_csrd_v5_section_0190": 2,
+    "schneider_electric_2024_csrd_v5_section_0191": 7,
+    "schneider_electric_2024_csrd_v5_section_0192": 258,
+    "schneider_electric_2024_csrd_v5_section_0193": 7,
+    "schneider_electric_2024_csrd_v5_section_0194": 1,
+    "schneider_electric_2024_csrd_v5_section_0195": 11,
+    "schneider_electric_2024_csrd_v5_section_0196": 16,
+    "schneider_electric_2024_csrd_v5_section_0197": 12,
+    "schneider_electric_2024_csrd_v5_section_0198": 5,
+    "schneider_electric_2024_csrd_v5_section_0199": 3,
+    "schneider_electric_2024_csrd_v5_section_0200": 1,
+    "schneider_electric_2024_csrd_v5_section_0201": 12,
+    "schneider_electric_2024_csrd_v5_section_0202": 19,
+    "schneider_electric_2024_csrd_v5_section_0203": 16,
+    "schneider_electric_2024_csrd_v5_section_0204": 9,
+    "schneider_electric_2024_csrd_v5_section_0205": 34,
+    "schneider_electric_2024_csrd_v5_section_0206": 10,
+    "schneider_electric_2024_csrd_v5_section_0207": 5,
+    "schneider_electric_2024_csrd_v5_section_0208": 1,
+    "schneider_electric_2024_csrd_v5_section_0209": 10,
+    "schneider_electric_2024_csrd_v5_section_0210": 3,
+    "schneider_electric_2024_csrd_v5_section_0211": 2,
+    "schneider_electric_2024_csrd_v5_section_0212": 2,
+    "schneider_electric_2024_csrd_v5_section_0213": 1,
+    "schneider_electric_2024_csrd_v5_section_0214": 16,
+    "schneider_electric_2024_csrd_v5_section_0215": 3,
+    "schneider_electric_2024_csrd_v5_section_0216": 6,
+    "schneider_electric_2024_csrd_v5_section_0217": 1,
+    "schneider_electric_2024_csrd_v5_section_0218": 7,
+    "schneider_electric_2024_csrd_v5_section_0219": 9,
+    "schneider_electric_2024_csrd_v5_section_0220": 2,
+    "schneider_electric_2024_csrd_v5_section_0221": 10,
+    "schneider_electric_2024_csrd_v5_section_0222": 67,
+    "schneider_electric_2024_csrd_v5_section_0223": 11,
+    "schneider_electric_2024_csrd_v5_section_0224": 4,
+    "schneider_electric_2024_csrd_v5_section_0225": 3,
+    "schneider_electric_2024_csrd_v5_section_0226": 13,
+    "schneider_electric_2024_csrd_v5_section_0227": 7,
+    "schneider_electric_2024_csrd_v5_section_0228": 2,
+    "schneider_electric_2024_csrd_v5_section_0229": 3,
+    "schneider_electric_2024_csrd_v5_section_0230": 11,
+    "schneider_electric_2024_csrd_v5_section_0231": 12,
+    "schneider_electric_2024_csrd_v5_section_0232": 3,
+    "schneider_electric_2024_csrd_v5_section_0233": 3,
+    "schneider_electric_2024_csrd_v5_section_0234": 6,
+    "schneider_electric_2024_csrd_v5_section_0235": 3,
+    "schneider_electric_2024_csrd_v5_section_0236": 3,
+    "schneider_electric_2024_csrd_v5_section_0237": 15,
+    "schneider_electric_2024_csrd_v5_section_0238": 16,
+    "schneider_electric_2024_csrd_v5_section_0239": 3,
+    "schneider_electric_2024_csrd_v5_section_0240": 7,
+    "schneider_electric_2024_csrd_v5_section_0241": 8,
+    "schneider_electric_2024_csrd_v5_section_0242": 4,
+    "schneider_electric_2024_csrd_v5_section_0243": 2,
+    "schneider_electric_2024_csrd_v5_section_0244": 2,
+    "schneider_electric_2024_csrd_v5_section_0245": 9,
+    "schneider_electric_2024_csrd_v5_section_0246": 6,
+    "schneider_electric_2024_csrd_v5_section_0247": 4,
+    "schneider_electric_2024_csrd_v5_section_0248": 145,
+    "schneider_electric_2024_csrd_v5_section_0249": 73,
+    "schneider_electric_2024_csrd_v5_section_0250": 6,
+    "schneider_electric_2024_csrd_v5_section_0251": 2,
+    "schneider_electric_2024_csrd_v5_section_0252": 1,
+    "schneider_electric_2024_csrd_v5_section_0253": 2,
+    "schneider_electric_2024_csrd_v5_section_0254": 1,
+    "schneider_electric_2024_csrd_v5_section_0255": 1,
+    "schneider_electric_2024_csrd_v5_section_0256": 1,
+    "schneider_electric_2024_csrd_v5_section_0257": 1,
+    "schneider_electric_2024_csrd_v5_section_0258": 2,
+    "schneider_electric_2024_csrd_v5_section_0259": 33,
+    "schneider_electric_2024_csrd_v5_section_0260": 18,
+    "schneider_electric_2024_csrd_v5_section_0261": 90,
+    "schneider_electric_2024_csrd_v5_section_0262": 26,
+    "schneider_electric_2024_csrd_v5_section_0263": 19,
+    "schneider_electric_2024_csrd_v5_section_0264": 11,
+    "schneider_electric_2024_csrd_v5_section_0265": 5,
+    "schneider_electric_2024_csrd_v5_section_0266": 8,
+    "schneider_electric_2024_csrd_v5_section_0267": 2,
+    "schneider_electric_2024_csrd_v5_section_0268": 6,
+    "schneider_electric_2024_csrd_v5_section_0269": 2,
+    "schneider_electric_2024_csrd_v5_section_0270": 7,
+    "schneider_electric_2024_csrd_v5_section_0271": 6,
+    "schneider_electric_2024_csrd_v5_section_0272": 6,
+    "schneider_electric_2024_csrd_v5_section_0273": 2,
+    "schneider_electric_2024_csrd_v5_section_0274": 56,
+    "schneider_electric_2024_csrd_v5_section_0275": 7,
+    "schneider_electric_2024_csrd_v5_section_0276": 2,
+    "schneider_electric_2024_csrd_v5_section_0277": 6,
+    "schneider_electric_2024_csrd_v5_section_0278": 7,
+    "schneider_electric_2024_csrd_v5_section_0279": 5,
+    "schneider_electric_2024_csrd_v5_section_0280": 2,
+    "schneider_electric_2024_csrd_v5_section_0281": 46,
+    "schneider_electric_2024_csrd_v5_section_0282": 90,
+    "schneider_electric_2024_csrd_v5_section_0283": 12,
+    "schneider_electric_2024_csrd_v5_section_0284": 66,
+    "schneider_electric_2024_csrd_v5_section_0285": 4,
+    "schneider_electric_2024_csrd_v5_section_0286": 20,
+    "schneider_electric_2024_csrd_v5_section_0287": 106,
+    "schneider_electric_2024_csrd_v5_section_0288": 67,
+    "schneider_electric_2024_csrd_v5_section_0289": 26,
+    "schneider_electric_2024_csrd_v5_section_0290": 18,
+    "schneider_electric_2024_csrd_v5_section_0291": 5,
+    "schneider_electric_2024_csrd_v5_section_0292": 3,
+    "schneider_electric_2024_csrd_v5_section_0293": 2,
+    "schneider_electric_2024_csrd_v5_section_0294": 8,
+    "schneider_electric_2024_csrd_v5_section_0295": 7,
+    "schneider_electric_2024_csrd_v5_section_0296": 2,
+    "schneider_electric_2024_csrd_v5_section_0297": 3,
+    "schneider_electric_2024_csrd_v5_section_0298": 9,
+    "schneider_electric_2024_csrd_v5_section_0299": 2,
+    "schneider_electric_2024_csrd_v5_section_0300": 2,
+    "schneider_electric_2024_csrd_v5_section_0301": 3,
+    "schneider_electric_2024_csrd_v5_section_0302": 16,
+    "schneider_electric_2024_csrd_v5_section_0303": 29,
+    "schneider_electric_2024_csrd_v5_section_0304": 10,
+    "schneider_electric_2024_csrd_v5_section_0305": 20,
+    "schneider_electric_2024_csrd_v5_section_0306": 15,
+    "schneider_electric_2024_csrd_v5_section_0307": 30,
+    "schneider_electric_2024_csrd_v5_section_0308": 16,
+    "schneider_electric_2024_csrd_v5_section_0309": 44,
+    "schneider_electric_2024_csrd_v5_section_0310": 7,
+    "schneider_electric_2024_csrd_v5_section_0311": 24,
+    "schneider_electric_2024_csrd_v5_section_0312": 32,
+    "schneider_electric_2024_csrd_v5_section_0313": 35,
+    "schneider_electric_2024_csrd_v5_section_0314": 18,
+    "schneider_electric_2024_csrd_v5_section_0315": 77,
+    "schneider_electric_2024_csrd_v5_section_0316": 29,
+    "schneider_electric_2024_csrd_v5_section_0317": 7,
+    "schneider_electric_2024_csrd_v5_section_0318": 2,
+    "schneider_electric_2024_csrd_v5_section_0319": 2,
+    "schneider_electric_2024_csrd_v5_section_0320": 2,
+    "schneider_electric_2024_csrd_v5_section_0321": 7,
+    "schneider_electric_2024_csrd_v5_section_0322": 53,
+    "schneider_electric_2024_csrd_v5_section_0323": 4,
+    "schneider_electric_2024_csrd_v5_section_0324": 2
+  },
+  "modality_by_section": {
+    "schneider_electric_2024_csrd_v5_section_0001": {
+      "text": 6,
+      "table": 2,
+      "figure": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0002": {
+      "text": 10,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0003": {
+      "text": 22,
+      "table": 2,
+      "figure": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0004": {
+      "text": 4,
+      "table": 1,
+      "figure": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0005": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0006": {
+      "text": 34,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0007": {
+      "text": 6,
+      "table": 1,
+      "figure": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0008": {
+      "text": 50,
+      "table": 5,
+      "figure": 12
+    },
+    "schneider_electric_2024_csrd_v5_section_0009": {
+      "text": 38,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0010": {
+      "text": 95,
+      "table": 14,
+      "figure": 34
+    },
+    "schneider_electric_2024_csrd_v5_section_0011": {
+      "text": 51,
+      "table": 10,
+      "figure": 15
+    },
+    "schneider_electric_2024_csrd_v5_section_0012": {
+      "text": 20,
+      "table": 1,
+      "figure": 20
+    },
+    "schneider_electric_2024_csrd_v5_section_0013": {
+      "text": 13,
+      "table": 1,
+      "figure": 26
+    },
+    "schneider_electric_2024_csrd_v5_section_0014": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0015": {
+      "text": 35,
+      "table": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0016": {
+      "text": 90,
+      "table": 8,
+      "figure": 20
+    },
+    "schneider_electric_2024_csrd_v5_section_0017": {
+      "text": 75,
+      "table": 18,
+      "figure": 12
+    },
+    "schneider_electric_2024_csrd_v5_section_0018": {
+      "text": 99,
+      "table": 18,
+      "figure": 27
+    },
+    "schneider_electric_2024_csrd_v5_section_0019": {
+      "text": 50,
+      "table": 7,
+      "figure": 47
+    },
+    "schneider_electric_2024_csrd_v5_section_0020": {
+      "text": 43,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0021": {
+      "text": 15,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0022": {
+      "text": 33,
+      "table": 13
+    },
+    "schneider_electric_2024_csrd_v5_section_0023": {
+      "text": 14,
+      "table": 1,
+      "figure": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0024": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0025": {
+      "text": 22,
+      "table": 3,
+      "figure": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0026": {
+      "text": 201,
+      "table": 23,
+      "figure": 30
+    },
+    "schneider_electric_2024_csrd_v5_section_0027": {
+      "text": 156,
+      "table": 31
+    },
+    "schneider_electric_2024_csrd_v5_section_0028": {
+      "text": 110,
+      "table": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0029": {
+      "text": 5,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0030": {
+      "text": 47,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0031": {
+      "text": 4,
+      "table": 1,
+      "figure": 49
+    },
+    "schneider_electric_2024_csrd_v5_section_0032": {
+      "text": 136,
+      "table": 14
+    },
+    "schneider_electric_2024_csrd_v5_section_0033": {
+      "text": 14,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0034": {
+      "text": 22,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0035": {
+      "text": 106,
+      "table": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0036": {
+      "text": 59,
+      "table": 3,
+      "figure": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0037": {
+      "text": 296,
+      "table": 32
+    },
+    "schneider_electric_2024_csrd_v5_section_0038": {
+      "text": 96,
+      "table": 7,
+      "figure": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0039": {
+      "text": 277,
+      "table": 22
+    },
+    "schneider_electric_2024_csrd_v5_section_0040": {
+      "text": 7,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0041": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0042": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0043": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0044": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0045": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0046": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0047": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0048": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0049": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0050": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0051": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0052": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0053": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0054": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0055": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0056": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0057": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0058": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0059": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0060": {
+      "text": 46,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0061": {
+      "text": 7,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0062": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0063": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0064": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0065": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0066": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0067": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0068": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0069": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0070": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0071": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0072": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0073": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0074": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0075": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0076": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0077": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0078": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0079": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0080": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0081": {
+      "text": 36,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0082": {
+      "text": 7,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0083": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0084": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0085": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0086": {
+      "text": 187,
+      "table": 14,
+      "figure": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0087": {
+      "text": 34,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0088": {
+      "text": 86,
+      "table": 8
+    },
+    "schneider_electric_2024_csrd_v5_section_0089": {
+      "text": 16,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0090": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0091": {
+      "text": 136,
+      "table": 13
+    },
+    "schneider_electric_2024_csrd_v5_section_0092": {
+      "text": 388,
+      "table": 50
+    },
+    "schneider_electric_2024_csrd_v5_section_0093": {
+      "text": 452,
+      "table": 59,
+      "figure": 60
+    },
+    "schneider_electric_2024_csrd_v5_section_0094": {
+      "text": 13,
+      "table": 5,
+      "figure": 8
+    },
+    "schneider_electric_2024_csrd_v5_section_0095": {
+      "text": 19,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0096": {
+      "text": 62,
+      "table": 6,
+      "figure": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0097": {
+      "text": 9,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0098": {
+      "text": 152,
+      "table": 12,
+      "figure": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0099": {
+      "text": 29,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0100": {
+      "text": 14,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0101": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0102": {
+      "text": 54,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0103": {
+      "text": 127,
+      "table": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0104": {
+      "text": 20,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0105": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0106": {
+      "text": 112,
+      "table": 10
+    },
+    "schneider_electric_2024_csrd_v5_section_0107": {
+      "text": 24,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0108": {
+      "text": 12,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0109": {
+      "text": 10,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0110": {
+      "text": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0111": {
+      "text": 17,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0112": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0113": {
+      "text": 15,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0114": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0115": {
+      "text": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0116": {
+      "text": 14,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0117": {
+      "text": 76,
+      "table": 10
+    },
+    "schneider_electric_2024_csrd_v5_section_0118": {
+      "text": 10,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0119": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0120": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0121": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0122": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0123": {
+      "text": 2,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0124": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0125": {
+      "text": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0126": {
+      "text": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0127": {
+      "text": 3,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0128": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0129": {
+      "text": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0130": {
+      "text": 8,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0131": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0132": {
+      "text": 11
+    },
+    "schneider_electric_2024_csrd_v5_section_0133": {
+      "text": 4,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0134": {
+      "text": 324,
+      "table": 65,
+      "figure": 11
+    },
+    "schneider_electric_2024_csrd_v5_section_0135": {
+      "text": 8,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0136": {
+      "text": 120,
+      "table": 13,
+      "figure": 11
+    },
+    "schneider_electric_2024_csrd_v5_section_0137": {
+      "text": 77,
+      "table": 19,
+      "figure": 22
+    },
+    "schneider_electric_2024_csrd_v5_section_0138": {
+      "text": 77,
+      "table": 13,
+      "figure": 14
+    },
+    "schneider_electric_2024_csrd_v5_section_0139": {
+      "text": 260,
+      "table": 42,
+      "figure": 12
+    },
+    "schneider_electric_2024_csrd_v5_section_0140": {
+      "text": 11,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0141": {
+      "text": 106,
+      "table": 8
+    },
+    "schneider_electric_2024_csrd_v5_section_0142": {
+      "text": 28,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0143": {
+      "text": 100,
+      "table": 11
+    },
+    "schneider_electric_2024_csrd_v5_section_0144": {
+      "text": 104,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0145": {
+      "text": 13,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0146": {
+      "text": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0147": {
+      "text": 32,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0148": {
+      "text": 6,
+      "table": 9,
+      "figure": 16
+    },
+    "schneider_electric_2024_csrd_v5_section_0149": {
+      "text": 81,
+      "table": 22
+    },
+    "schneider_electric_2024_csrd_v5_section_0150": {
+      "text": 6,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0151": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0152": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0153": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0154": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0155": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0156": {
+      "text": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0157": {
+      "text": 13,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0158": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0159": {
+      "text": 16,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0160": {
+      "text": 18,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0161": {
+      "text": 14,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0162": {
+      "text": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0163": {
+      "text": 16,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0164": {
+      "text": 35,
+      "table": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0165": {
+      "text": 5,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0166": {
+      "text": 14
+    },
+    "schneider_electric_2024_csrd_v5_section_0167": {
+      "text": 12,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0168": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0169": {
+      "text": 29,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0170": {
+      "text": 6,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0171": {
+      "text": 48,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0172": {
+      "text": 11,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0173": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0174": {
+      "text": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0175": {
+      "text": 8,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0176": {
+      "text": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0177": {
+      "text": 97,
+      "table": 23
+    },
+    "schneider_electric_2024_csrd_v5_section_0178": {
+      "text": 18,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0179": {
+      "text": 11,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0180": {
+      "text": 145,
+      "table": 12
+    },
+    "schneider_electric_2024_csrd_v5_section_0181": {
+      "text": 17,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0182": {
+      "text": 44,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0183": {
+      "text": 25,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0184": {
+      "text": 12,
+      "table": 3,
+      "figure": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0185": {
+      "text": 5,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0186": {
+      "text": 7,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0187": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0188": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0189": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0190": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0191": {
+      "text": 5,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0192": {
+      "text": 240,
+      "table": 18
+    },
+    "schneider_electric_2024_csrd_v5_section_0193": {
+      "text": 5,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0194": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0195": {
+      "text": 11
+    },
+    "schneider_electric_2024_csrd_v5_section_0196": {
+      "text": 13,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0197": {
+      "text": 7,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0198": {
+      "text": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0199": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0200": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0201": {
+      "text": 10,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0202": {
+      "text": 17,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0203": {
+      "text": 13,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0204": {
+      "text": 6,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0205": {
+      "text": 25,
+      "table": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0206": {
+      "text": 8,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0207": {
+      "text": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0208": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0209": {
+      "text": 7,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0210": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0211": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0212": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0213": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0214": {
+      "text": 11,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0215": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0216": {
+      "text": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0217": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0218": {
+      "text": 5,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0219": {
+      "text": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0220": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0221": {
+      "text": 8,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0222": {
+      "text": 60,
+      "table": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0223": {
+      "text": 7,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0224": {
+      "text": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0225": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0226": {
+      "text": 11,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0227": {
+      "text": 3,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0228": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0229": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0230": {
+      "text": 10,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0231": {
+      "text": 9,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0232": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0233": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0234": {
+      "text": 5,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0235": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0236": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0237": {
+      "text": 13,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0238": {
+      "text": 13,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0239": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0240": {
+      "text": 5,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0241": {
+      "text": 8
+    },
+    "schneider_electric_2024_csrd_v5_section_0242": {
+      "text": 2,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0243": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0244": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0245": {
+      "text": 9
+    },
+    "schneider_electric_2024_csrd_v5_section_0246": {
+      "text": 4,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0247": {
+      "text": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0248": {
+      "text": 127,
+      "table": 18
+    },
+    "schneider_electric_2024_csrd_v5_section_0249": {
+      "text": 67,
+      "table": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0250": {
+      "text": 5,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0251": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0252": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0253": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0254": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0255": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0256": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0257": {
+      "text": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0258": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0259": {
+      "text": 25,
+      "table": 4,
+      "figure": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0260": {
+      "text": 15,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0261": {
+      "text": 77,
+      "table": 13
+    },
+    "schneider_electric_2024_csrd_v5_section_0262": {
+      "text": 21,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0263": {
+      "text": 17,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0264": {
+      "text": 8,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0265": {
+      "text": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0266": {
+      "text": 7,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0267": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0268": {
+      "text": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0269": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0270": {
+      "text": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0271": {
+      "text": 5,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0272": {
+      "text": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0273": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0274": {
+      "text": 52,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0275": {
+      "text": 6,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0276": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0277": {
+      "text": 5,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0278": {
+      "text": 6,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0279": {
+      "text": 4,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0280": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0281": {
+      "text": 38,
+      "table": 5,
+      "figure": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0282": {
+      "text": 83,
+      "table": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0283": {
+      "text": 11,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0284": {
+      "text": 61,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0285": {
+      "text": 3,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0286": {
+      "text": 16,
+      "table": 2,
+      "figure": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0287": {
+      "text": 96,
+      "table": 10
+    },
+    "schneider_electric_2024_csrd_v5_section_0288": {
+      "text": 56,
+      "table": 5,
+      "figure": 6
+    },
+    "schneider_electric_2024_csrd_v5_section_0289": {
+      "text": 23,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0290": {
+      "text": 16,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0291": {
+      "text": 4,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0292": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0293": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0294": {
+      "text": 8
+    },
+    "schneider_electric_2024_csrd_v5_section_0295": {
+      "text": 7
+    },
+    "schneider_electric_2024_csrd_v5_section_0296": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0297": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0298": {
+      "text": 8,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0299": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0300": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0301": {
+      "text": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0302": {
+      "text": 15,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0303": {
+      "text": 27,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0304": {
+      "text": 9,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0305": {
+      "text": 19,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0306": {
+      "text": 14,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0307": {
+      "text": 28,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0308": {
+      "text": 15,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0309": {
+      "text": 40,
+      "table": 4
+    },
+    "schneider_electric_2024_csrd_v5_section_0310": {
+      "text": 6,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0311": {
+      "text": 23,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0312": {
+      "text": 29,
+      "table": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0313": {
+      "text": 33,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0314": {
+      "text": 17,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0315": {
+      "text": 66,
+      "table": 8,
+      "figure": 3
+    },
+    "schneider_electric_2024_csrd_v5_section_0316": {
+      "text": 27,
+      "table": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0317": {
+      "text": 6,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0318": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0319": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0320": {
+      "text": 2
+    },
+    "schneider_electric_2024_csrd_v5_section_0321": {
+      "text": 6,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0322": {
+      "text": 48,
+      "table": 5
+    },
+    "schneider_electric_2024_csrd_v5_section_0323": {
+      "text": 3,
+      "table": 1
+    },
+    "schneider_electric_2024_csrd_v5_section_0324": {
+      "text": 2
+    }
+  },
+  "suspicious_sections_count": 2,
+  "tables_summary": {
+    "tables_count": 1148,
+    "parsed_tables_count": 331,
+    "low_confidence_tables_count": 763,
+    "empty_tables_count": 54
+  },
+  "figures_summary": {
+    "figures_count": 502,
+    "page_level_visual_count": 0,
+    "embedded_visual_count": 498,
+    "captioned_figure_count": 4
+  },
+  "sample_eligible_evidence": [
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000017",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "25 % de réduction absolue sur l’ensemble de notre « Zéro émission nette »"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000020",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "25 % de réduction en valeur absolue sur « Zéro émission nette » de"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000023",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "63 % des fournisseurs"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000027",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "17 membres non exécutifs ; (ii) d’un Dirigeant mandataire social,"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000028",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "14 % provenant des fournisseurs en amont (matières premières et"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000029",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "13 Substances préoccupantes 31 Eau"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000030",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "14 Égalité de traitement et égalité des chances pour tous 32 Déchets"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000031",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "AMONT FOURNISSEURS FOURNISSEURS FOURNISSEURS FOURNISSEURS"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000033",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "90 % ses émissions absolues des scopes 1 et 2 par rapport"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000036",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "85 % de l’empreinte carbone totale"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000088",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "43 % des salariés travaillent sur des sites de Schneider Electric"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000093",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "98,9 % violations potentielles de la Politique anticorruption en contactant"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000103",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "90 % des effectifs éligibles atteignent le niveau intermédiaire,"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000104",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "90 % en termes absolus d’ici 2050 et de neutraliser les émissions résiduelles grâce"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000113",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "303-3 Prélèvements d’eau/chiffre d'affaires(3) m3/million € 48,3 52,9 56,2 71,7"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000114",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "302-1, Consommation d’énergie estimée totale par MWh/million € 31,9 31,3 35,1 45,9"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000117",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "305-4 Emissions de GES totales des Scopes 1 et 2 par TCOe/ 3,8 5,6 6,7 10,2"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000133",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "404-1 Nombre moyen d’heures de formation par # 22,5 24,1 24,1 24,5"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000137",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "2025 : (i) une augmentation de la rémunération variable annuelle à la"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000150",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "A – RÉMUNÉRATION EN NUMÉRAIRE"
+    }
+  ],
+  "sample_review_required_evidence": [
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000001",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "RAPPORT FINANCIER ET DÉVELOPPEMENT DURABLE"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000002",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "RAPPORT STRATÉGIQUE COMPTES"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000003",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "INFORMATIONS ACTIONNAIRES"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000004",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "24 % Asie-Pacifique"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000005",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "26 % Europe de l’Ouest"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000006",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "A M É R I Q U E D U N O R D E U R O P E"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000007",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "ÉLECTRIFICATION AUTOMATISMES NUMÉRISATION"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000008",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "BÂTIMENTS CENTRES DE DONNÉES INFRASTRUCTURES INDUSTRIE"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000009",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "RÉSULTATS FINANCIERS RÉSUMÉS"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000010",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "31 décembre"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000011",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "30 pays Chain(1)"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000012",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "100 % de taux de participation"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000013",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "52 ans, nationalité allemande"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000014",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "63 ans, nationalité égyptienne"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000015",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "65 ans, nationalité chinoise"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000016",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "19 fois depuis sa création."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000018",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "54 Md de tonnes 45 % 1,7 à 3,4 bn $"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000019",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "50 Mns 1 Mn 100 Mns Neutre ÷2 80 %"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000021",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "2023), notamment grâce à la solarisation de centres de santé"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_000022",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "85 % des employés concernés ont bénéficié de ces"
+    }
+  ],
+  "sample_quarantined_evidence": [],
+  "sample_table_evidence": [
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008718",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 1 with 7 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008719",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 2 with 2 rows and 3 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008720",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 3 with 10 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008721",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 4 with 2 rows and 3 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008722",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 5 with 10 rows and 2 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008723",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 6 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008724",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 7 with 11 rows and 2 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008725",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 8 with 3 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008726",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 9 with 10 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008727",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 9 with 2 rows and 2 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008728",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 10 with 3 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008729",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 11 with 10 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008730",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 12 with 61 rows and 9 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008731",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 13 with 12 rows and 2 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008732",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 14 with 68 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008733",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 15 with 10 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008734",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 16 with 15 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008735",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 17 with 10 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008736",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 18 with 2 rows and 3 columns."
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_008737",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 19 with 10 rows and 1 columns."
+    }
+  ],
+  "sample_figure_evidence": [
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009806",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009807",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 2"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009808",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 2"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009809",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 4"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009810",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 6"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009811",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 6"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009812",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 6"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009813",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 6"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009814",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009815",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009816",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009817",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009818",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009819",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 13"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009820",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 14"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009821",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 14"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009822",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 14"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009823",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 14"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009824",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 14"
+    },
+    {
+      "multimodal_evidence_id": "schneider_electric_2024_csrd_v5_mm_ev_009825",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 14"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_57760ae1d7a83787976185e7",
+  "sha256": "2275703136143c027bb67f92a02d879a93d2d762ff4715afbee458f4598960d1",
+  "all_references": [
+    {
+      "document_id": "98cfddd04be47e467f78fc27",
+      "retriever_name": "AssuranceReportRetriever",
+      "document_family": "assurance_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.segro.com/media/3o1fmmrn/41006590200001-segro-2024-isae-3000-statement-final-4225.pdf",
+      "source_title": "ISAE 3000 Assurance Statement",
+      "source_name": "ddgs",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 0.2649,
+      "document_type": "assurance_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:43:03+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

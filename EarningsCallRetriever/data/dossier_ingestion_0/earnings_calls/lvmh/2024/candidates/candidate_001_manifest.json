@@ -1,0 +1,43 @@
+{
+  "document_type": "earnings_call_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Inc-Privacy-Policy.pdf",
+    "title": "Privacy Policy",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.ainvest.com/news/hecla-mining-hl-7-nov-24-2024-q3-earnings-call-transcript-24111010a233fd1190c1eae0/. Titre page : Hecla Mining (HL) 7 Nov 24 2024 Q3 Earnings call transcript. Texte du lien : Privacy Policy.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts earnings call : ['earnings call transcript', 'call transcript']",
+      "mots-clés secondaires : ['earnings call']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : earnings_call_transcript"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_001_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "539e75ccbf37782bb95f6b0d461d50cf615c40798d8a6746f3aeb4915f9e3c8c",
+    "file_size_mb": 0.2563,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Ainvest-Fintech-Inc-Privacy-Policy.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:07+00:00",
+    "storage_version": "earnings_call_candidate_storage_v0"
+  }
+}

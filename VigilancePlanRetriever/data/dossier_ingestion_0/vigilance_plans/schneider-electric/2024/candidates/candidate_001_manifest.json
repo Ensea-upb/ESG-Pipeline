@@ -1,0 +1,45 @@
+{
+  "document_type": "vigilance_plan_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.SE.com/ww/fr/assets/342/document/466150/plan-de-vigilance-2023.pdf",
+    "title": "Plan de vigilance 2023",
+    "snippet": "Plan de vigilance 2023. 5. ème. édition. Mai 2024. Table des matières.3.1 Empreinte carbone de Schneider Electric 3.2 Chaîne de valeur et canaux d’accès au marché 3.3 Devoir de vigilance - scope.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés forts vigilance : ['plan de vigilance', 'devoir de vigilance']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier compatible vigilance : ['plandevigilance', 'vigilance']",
+      "classe documentaire : standalone_vigilance_plan"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "db86f699776ee068551a1ee263dafdc1943a869b983fa7e8120238504cdb8a02",
+    "file_size_mb": 3.3289,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_plan-de-vigilance-2023.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:28:18+00:00",
+    "storage_version": "vigilance_plan_candidate_storage_v0"
+  }
+}

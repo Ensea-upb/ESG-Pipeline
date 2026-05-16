@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_47de06f925af68fdcacbbe19",
+  "sha256": "463f616eab04d3e3a1ac1e9d5fbb3a1d52e3a32ae84df916dad56352ab3e8b44",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "2023 Universal Registration Document",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKrfZm069VX138m_urd-2023-va_vdef.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_047_score_83_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\agm-document\\canonical-47de06f925af68fdcacbbe19\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

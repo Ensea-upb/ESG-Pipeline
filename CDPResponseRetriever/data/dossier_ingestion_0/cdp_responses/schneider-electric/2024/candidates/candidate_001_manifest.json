@@ -1,0 +1,43 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.stantec.com/content/dam/stantec/files/PDFAssets/2024/2024-cdp-disclosure.pdf",
+    "title": "Stantec 2024 CDP Climate Change Questionnaire",
+    "snippet": "Stantec Inc. CDP Climate Change Questionnaire 2024 - Friday, September 27, 2024. possible benefits; providing an inclusive and equitable workplace for our employees; actively volunteering in and engaging with our communities; and demonstrating ethical business behavior.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp climate change questionnaire']",
+      "mots-clés CDP secondaires : ['cdp', 'climate change questionnaire']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "816c7d20ecc27c264a489d5dc3fce8de799e4f1cf4c35415b6469e3f9aaf5106",
+    "file_size_mb": 1.1906,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2024-cdp-disclosure.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:29+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

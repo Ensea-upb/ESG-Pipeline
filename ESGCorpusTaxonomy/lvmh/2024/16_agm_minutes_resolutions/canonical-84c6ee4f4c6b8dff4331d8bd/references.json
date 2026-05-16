@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_84c6ee4f4c6b8dff4331d8bd",
+  "sha256": "bafa52260427ac4d23bf9113c65e8036e4cb3e2d7751b134931602dab9077a65",
+  "all_references": [
+    {
+      "document_id": "7679547efa68d5b07669f960",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmB_RJm069VX1fE7_lvmh-rapports-des-commissaires-aux-comptes-sur-les-projets-de-resolutions-1.pdf",
+      "source_title": "Rapports des Commissaires aux comptes sur les projets de résolutions (inclus dans la Brochure de convocation)",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_028_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_028_manifest.json",
+      "file_size_mb": 0.3029,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 28,
+      "stored_at": "2026-05-09T20:41:55+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_028_manifest.json"
+    }
+  ]
+}

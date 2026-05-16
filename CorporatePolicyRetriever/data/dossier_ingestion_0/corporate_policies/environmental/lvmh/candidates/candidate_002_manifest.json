@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_environmental",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "policy_type": "environmental",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.engie.com/sites/default/files/assets/documents/2023-06/Engie_Politique+environnementale.pdf",
+    "title": "POLITIQUE",
+    "snippet": "La présente politique environnementale est complétée des politiques Climat (atténuation et adaptation), Biodiversité, Eau, Forêt, Économie circulaire qui détaillent les engagements et les objectifs pris spécifiquement dans ces domaines.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['politique environnementale']",
+      "année récente détectée : 2023",
+      "URL PDF directe",
+      "nom de fichier politique : ['politique-environnementale']",
+      "classe documentaire : standalone_environmental"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_manifest.json",
+    "sha256": "f9fc9f8d8cc014eb059ca6adebf141b2db9f4365acb839d9f149ce6330e5bdf4",
+    "file_size_mb": 1.1534,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_environmental_Engie_Politique_environnementale.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:51:04+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_86cd6702a4c56825a3fee6ba",
+  "sha256": "b8f92e18ee957ceb3c3a85221caabb334ba0351d64d2704db983cc8bfe563d26",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "cdp_response",
+  "official_doc_type": "17_cdp_response",
+  "official_doc_type_label": "CDP response",
+  "doc_type_stratum": "external_questionnaire",
+  "doc_subtype": "cdp_response",
+  "period_type": "annual",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\cdp-response\\canonical-86cd6702a4c56825a3fee6ba\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\17_cdp_response\\canonical-86cd6702a4c56825a3fee6ba\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

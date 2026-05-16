@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_f659a6d92b0104d34757e1d1",
+  "sha256": "8b5dda203d109ab2d207db2deedda355a58e2ecc10a99d0401f9212346916513",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "sbti_commitment",
+  "document_families_detected": [
+    "sbti_commitment"
+  ],
+  "retrievers_detected": [
+    "SBTiRetriever"
+  ],
+  "canonical_source_title": "Corporate Net-Zero Standard V1.3.1 Method Appendix",
+  "canonical_source_url": "https://files.sciencebasedtargets.org/production/files/CNZS-V1.3.1-Method-Appendix.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_008_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\sbti-commitment\\canonical-f659a6d92b0104d34757e1d1\\document.pdf",
+  "duplicate_count": 3,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

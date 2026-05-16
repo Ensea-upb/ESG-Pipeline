@@ -1,0 +1,46 @@
+{
+  "document_type": "corporate_policy_code_of_conduct",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "policy_type": "code_of_conduct",
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_code-of-conduct_2025.pdf",
+    "title": "View the Code of Conduct",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/company/identity/ethics. Titre page : Our Ethics Policy | TotalEnergies.com. Texte du lien : View the Code of Conduct.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['code of conduct']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier politique : ['code-of-conduct', 'code_of_conduct']",
+      "classe documentaire : standalone_code_of_conduct"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_002_manifest.json",
+    "sha256": "5a7eb9e6b9876af8f50eb012ed0bbefe75225ba021e3664311d35f077cd94fd3",
+    "file_size_mb": 34.9663,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_code_of_conduct_totalenergies_code-of-conduct_2025.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:52:31+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

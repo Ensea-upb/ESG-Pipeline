@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_38d0cc68d7d303a45ebd230d",
+  "sha256": "d34f43ad366577ccc5574c99bfa7776f381b197f825272b9134b1999675fd084",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "sustainability_report",
+  "document_families_detected": [
+    "sustainability_report"
+  ],
+  "retrievers_detected": [
+    "SustainabilityReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] document d'enregistrement universel 2023 - Schneider Electric",
+  "canonical_source_url": "https://www.se.com/ww/fr/assets/342/document/462018/2023-document-enregistrement-universel.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_005_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\sustainability-report\\canonical-38d0cc68d7d303a45ebd230d\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:01+00:00"
+}

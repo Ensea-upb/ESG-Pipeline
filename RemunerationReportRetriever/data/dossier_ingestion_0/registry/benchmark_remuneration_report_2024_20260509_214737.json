@@ -1,0 +1,149 @@
+{
+  "benchmark_name": "remuneration_report_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T21:47:37",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports de rémunération terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "LVMH – DEU 2024",
+          "url": "https://urd.lvmh.com/fr/2024",
+          "score": 83.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports de rémunération terminée.",
+      "downloaded_count": 3,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] Total Energies - Rapport spécial sur les attributions gratuites d'actions",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Rapport-special-sur-attributions-gratuites-d-actions_PDF.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "ad9a34d297c6b6449538ade2021c61d7e05d530779dc291fc5079cb9e790120d"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "[PDF] TotalEnergies SDG REPORTING",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_sdg-reporting-2024_2025.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "2d8daae3c9f81be34bd568c751cc0e45269f45e214c9ad323681b4b1dbc6b295"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "[PDF] AG 2024 Résultats des votes par résolution - Total Energies",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "d8135fcc2fb6614634c916dd5b419677d0a9bcc16d3b1142d65338f50c84ea2d"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": "?",
+          "title": "Candidats directs hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 candidat(s) hors période. Acceptés : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports de rémunération terminée.",
+      "downloaded_count": 3,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] Rémunération d'Olivier Blum - Schneider Electric",
+          "url": "https://www.se.com/ww/fr/Images/Conseil_d_administration_du_7_novembre_2024%E2%80%93remuneration_d_olivier_Blum_tcm342-496809.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "9fff4f49b1c77aeaac3521438ad34bd802764e3877ec4fd7b3c5a887948ddde0"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "[PDF] 2. Compensation Report - Schneider Electric",
+          "url": "https://www.se.com/ww/en/assets/564/document/235887/annual-report-governance-report-compensation-report.pdf",
+          "score": 93.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_93_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "a05e0402777fc4dd5bffb0e5365b6161529d8430065adf3736905fda473d3a02"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "2. Rapport sur les rémunérations - Schneider Electric",
+          "url": "https://www.se.com/ww/fr/assets/342/document/235887/rapport-annuel-rapport-remunerations.pdf",
+          "score": 93.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_93_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "aa93340c64910d9ae4bbd1f8936f3cda1d0f7f509b7e09420bbe199ee32dbd11"
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    }
+  ]
+}

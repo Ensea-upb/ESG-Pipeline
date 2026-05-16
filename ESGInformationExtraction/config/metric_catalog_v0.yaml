@@ -1,0 +1,278 @@
+# ESGInformationExtraction — catalogue de métriques ESG v0
+# Version initiale couvrant les indicateurs les plus fréquents dans les rapports
+# de durabilité, DPEF, CSRD et rapports annuels de grandes entreprises cotées.
+#
+# Chaque entrée est un metric_name attendu dans MetricRecord.
+# Ce catalogue servira de référence pour metric_candidate_extractor.py.
+#
+# Format :
+#   <categorie>:
+#     <metric_name>:
+#       label_fr: <libellé français>
+#       label_en: <libellé anglais>
+#       unit_expected: <unité cible normalisée>
+#       keywords_fr: [<mots-clés>]
+#       keywords_en: [<mots-clés>]
+#       scope: <portée habituelle>  # ex: scope_1, scope_2, total, board, etc.
+
+environment:
+  ghg_scope_1:
+    label_fr: "Émissions GES scope 1"
+    label_en: "GHG emissions scope 1"
+    unit_expected: "tCO2e"
+    keywords_fr: ["scope 1", "émissions directes", "GES scope 1", "émissions scope 1"]
+    keywords_en: ["scope 1", "direct emissions", "GHG scope 1", "scope 1 emissions"]
+    scope: "scope_1"
+
+  ghg_scope_2:
+    label_fr: "Émissions GES scope 2"
+    label_en: "GHG emissions scope 2"
+    unit_expected: "tCO2e"
+    keywords_fr: ["scope 2", "émissions indirectes énergie", "GES scope 2", "émissions scope 2"]
+    keywords_en: ["scope 2", "indirect energy emissions", "GHG scope 2", "scope 2 emissions"]
+    scope: "scope_2"
+
+  ghg_scope_3:
+    label_fr: "Émissions GES scope 3"
+    label_en: "GHG emissions scope 3"
+    unit_expected: "tCO2e"
+    keywords_fr: ["scope 3", "émissions indirectes", "GES scope 3", "émissions scope 3", "émissions de la chaîne de valeur"]
+    keywords_en: ["scope 3", "value chain emissions", "GHG scope 3", "scope 3 emissions", "indirect emissions"]
+    scope: "scope_3"
+
+  ghg_scope_1_2:
+    label_fr: "Émissions GES scope 1+2 combinés"
+    label_en: "GHG emissions scope 1+2 combined"
+    unit_expected: "tCO2e"
+    keywords_fr: ["scope 1 et 2", "scope 1+2", "scope 1 & 2", "émissions scope 1 et 2"]
+    keywords_en: ["scope 1 and 2", "scope 1+2", "scope 1 & 2", "combined scope 1 2"]
+    scope: "scope_1_2"
+
+  carbon_intensity:
+    label_fr: "Intensité carbone"
+    label_en: "Carbon intensity"
+    unit_expected: "kgCO2e"
+    keywords_fr: ["intensité carbone", "intensité GES", "émissions par unité", "intensité d'émissions", "kgco2e", "kg co2"]
+    keywords_en: ["carbon intensity", "GHG intensity", "emissions intensity", "carbon per unit", "kgco2e"]
+    scope: "total"
+
+  total_energy_consumption:
+    label_fr: "Consommation totale d'énergie"
+    label_en: "Total energy consumption"
+    unit_expected: "GWh"
+    keywords_fr: ["consommation d'énergie", "énergie totale consommée", "consommation énergétique totale"]
+    keywords_en: ["energy consumption", "total energy", "energy use", "total energy consumed"]
+    scope: "total"
+
+  renewable_energy_share:
+    label_fr: "Part d'énergie renouvelable"
+    label_en: "Renewable energy share"
+    unit_expected: "%"
+    keywords_fr: ["énergie renouvelable", "part renouvelable", "ENR", "taux d'énergie renouvelable"]
+    keywords_en: ["renewable energy", "renewable share", "clean energy", "renewable electricity"]
+    scope: "total"
+
+  water_withdrawal:
+    label_fr: "Prélèvement en eau"
+    label_en: "Water withdrawal"
+    unit_expected: "m3"
+    keywords_fr: ["prélèvement eau", "consommation eau", "eau prélevée", "prélèvements en eau"]
+    keywords_en: ["water withdrawal", "water consumption", "water intake", "total water"]
+    scope: "total"
+
+  water_recycled:
+    label_fr: "Eau recyclée / réutilisée"
+    label_en: "Water recycled / reused"
+    unit_expected: "m3"
+    keywords_fr: ["eau recyclée", "eau réutilisée", "recyclage de l'eau", "taux de recyclage eau"]
+    keywords_en: ["water recycled", "water reused", "water recycling rate", "recycled water"]
+    scope: "total"
+
+  waste_generated:
+    label_fr: "Déchets générés"
+    label_en: "Waste generated"
+    unit_expected: "t"
+    keywords_fr: ["déchets générés", "production de déchets", "déchets totaux", "déchets produits"]
+    keywords_en: ["waste generated", "total waste", "waste production", "waste produced"]
+    scope: "total"
+
+  waste_recycling_rate:
+    label_fr: "Taux de recyclage des déchets"
+    label_en: "Waste recycling rate"
+    unit_expected: "%"
+    keywords_fr: ["taux de recyclage", "déchets recyclés", "valorisation des déchets", "taux de valorisation"]
+    keywords_en: ["recycling rate", "waste recycled", "waste recovery rate", "waste valorization"]
+    scope: "total"
+
+  hazardous_waste:
+    label_fr: "Déchets dangereux"
+    label_en: "Hazardous waste"
+    unit_expected: "t"
+    keywords_fr: ["déchets dangereux", "déchets toxiques", "déchets spéciaux", "DIS"]
+    keywords_en: ["hazardous waste", "toxic waste", "special waste", "dangerous waste"]
+    scope: "total"
+
+  biodiversity_sites:
+    label_fr: "Sites évalués pour la biodiversité"
+    label_en: "Biodiversity assessed sites"
+    unit_expected: "number"
+    keywords_fr: ["sites biodiversité", "évaluation biodiversité", "sites certifiés biodiversité", "empreinte biodiversité"]
+    keywords_en: ["biodiversity sites", "biodiversity assessment", "biodiversity footprint", "nature-positive"]
+    scope: "total"
+
+social:
+  total_employees:
+    label_fr: "Effectif total"
+    label_en: "Total employees"
+    unit_expected: "number"
+    keywords_fr: ["effectif total", "effectif groupe", "nombre de salariés", "nombre d'employés",
+                  "total des collaborateurs", "effectif au 31 décembre", "nombre total de salariés",
+                  "effectif permanent", "nombre de collaborateurs"]
+    keywords_en: ["total employees", "number of employees", "total headcount", "total workforce",
+                  "full-time equivalent", "total staff", "employees worldwide", "employee headcount",
+                  "employees at year end"]
+    scope: "total"
+
+  employee_turnover_rate:
+    label_fr: "Taux de rotation du personnel"
+    label_en: "Employee turnover rate"
+    unit_expected: "%"
+    keywords_fr: ["taux de rotation", "turnover", "taux d'attrition", "rotation du personnel"]
+    keywords_en: ["turnover rate", "attrition rate", "employee turnover", "staff turnover"]
+    scope: "total"
+
+  workplace_accidents:
+    label_fr: "Accidents du travail"
+    label_en: "Workplace accidents"
+    unit_expected: "number"
+    keywords_fr: ["accidents du travail", "accidents avec arrêt", "TRIR", "LTIR", "accidents de travail"]
+    keywords_en: ["workplace accidents", "lost time injury", "TRIR", "LTIR", "recordable accidents"]
+    scope: "total"
+
+  fatal_accidents:
+    label_fr: "Accidents mortels"
+    label_en: "Fatal accidents"
+    unit_expected: "number"
+    keywords_fr: ["accidents mortels", "décès au travail", "fatalities", "décès professionnels", "victimes mortelles"]
+    keywords_en: ["fatal accidents", "fatalities", "deaths at work", "workplace fatalities", "fatal injuries"]
+    scope: "total"
+
+  injury_frequency_rate:
+    label_fr: "Taux de fréquence des accidents"
+    label_en: "Injury frequency rate"
+    unit_expected: "ratio"
+    keywords_fr: ["taux de fréquence", "TF accidentologie", "taux d'accident", "fréquence des accidents", "TRIR"]
+    keywords_en: ["injury frequency rate", "IFR", "accident frequency", "lost time frequency", "TRIR"]
+    scope: "total"
+
+  absenteeism_rate:
+    label_fr: "Taux d'absentéisme"
+    label_en: "Absenteeism rate"
+    unit_expected: "%"
+    keywords_fr: ["taux d'absentéisme", "absentéisme", "jours d'absence", "taux d'absence"]
+    keywords_en: ["absenteeism rate", "absenteeism", "absence rate", "days absent"]
+    scope: "total"
+
+  training_hours:
+    label_fr: "Heures de formation"
+    label_en: "Training hours"
+    unit_expected: "hours"
+    keywords_fr: ["heures de formation", "formation professionnelle", "heures de cours"]
+    keywords_en: ["training hours", "learning hours", "employee training", "hours of training"]
+    scope: "total"
+
+  training_coverage:
+    label_fr: "Taux de couverture formation"
+    label_en: "Training coverage rate"
+    unit_expected: "%"
+    keywords_fr: ["taux de formation", "salariés formés", "couverture formation", "accès à la formation",
+                  "collaborateurs formés", "% de collaborateurs formés", "formation des collaborateurs",
+                  "taux d'accès à la formation", "participation à la formation", "formation continue",
+                  "apprentissage", "ont suivi une formation", "ont bénéficié d'une formation",
+                  "learning participation", "taux de formation des collaborateurs"]
+    keywords_en: ["training coverage", "employees trained", "training rate", "employees with training",
+                  "learning participation", "trained employees", "training participation rate",
+                  "employees who received training", "% trained", "digital learning",
+                  "completed training", "training access rate", "learning coverage"]
+    scope: "total"
+
+  gender_diversity_board:
+    label_fr: "Part de femmes au conseil"
+    label_en: "Women on board"
+    unit_expected: "%"
+    keywords_fr: ["femmes au conseil", "parité conseil", "administratrices", "femmes au CA"]
+    keywords_en: ["women on board", "female directors", "board gender", "female board members"]
+    scope: "board"
+
+  gender_diversity_workforce:
+    label_fr: "Part de femmes dans l'effectif"
+    label_en: "Women in workforce"
+    unit_expected: "%"
+    keywords_fr: ["femmes dans l'effectif", "part des femmes", "féminisation", "taux de féminisation"]
+    keywords_en: ["women in workforce", "female employees", "gender ratio", "female workforce"]
+    scope: "total"
+
+  salary_gap:
+    label_fr: "Écart de rémunération H/F"
+    label_en: "Gender pay gap"
+    unit_expected: "%"
+    keywords_fr: ["écart salarial", "écart de rémunération", "inégalité salariale H/F", "écart hommes femmes"]
+    keywords_en: ["gender pay gap", "pay gap", "salary gap", "wage gap", "equal pay"]
+    scope: "total"
+
+  supply_chain_audits:
+    label_fr: "Fournisseurs audités"
+    label_en: "Supply chain audits"
+    unit_expected: "number"
+    keywords_fr: ["fournisseurs audités", "audits fournisseurs", "évaluations fournisseurs", "contrôles fournisseurs"]
+    keywords_en: ["supply chain audits", "supplier audits", "supplier assessments", "supplier evaluations"]
+    scope: "total"
+
+governance:
+  board_independence_rate:
+    label_fr: "Taux d'administrateurs indépendants"
+    label_en: "Board independence rate"
+    unit_expected: "%"
+    keywords_fr: ["administrateurs indépendants", "indépendance du conseil", "taux d'indépendance"]
+    keywords_en: ["independent directors", "board independence", "independent board members"]
+    scope: "board"
+
+  women_on_board_rate:
+    label_fr: "Taux de féminisation du conseil"
+    label_en: "Women on board rate"
+    unit_expected: "%"
+    keywords_fr: ["féminisation du conseil", "parité CA", "femmes CA", "femmes conseil d'administration"]
+    keywords_en: ["women on board", "female board members", "board gender diversity"]
+    scope: "board"
+
+  ceo_pay_ratio:
+    label_fr: "Ratio de rémunération PDG / salarié médian"
+    label_en: "CEO pay ratio"
+    unit_expected: "ratio"
+    keywords_fr: ["ratio de rémunération", "écart de rémunération", "pay ratio", "rémunération PDG"]
+    keywords_en: ["pay ratio", "CEO pay ratio", "median employee pay", "executive pay ratio"]
+    scope: "executive"
+
+  anti_corruption_training:
+    label_fr: "Employés formés à l'anticorruption"
+    label_en: "Anti-corruption training coverage"
+    unit_expected: "%"
+    keywords_fr: ["formation anticorruption", "sensibilisation corruption", "formation compliance"]
+    keywords_en: ["anti-corruption training", "compliance training", "anti-bribery training"]
+    scope: "total"
+
+  ethics_alerts:
+    label_fr: "Alertes éthiques reçues"
+    label_en: "Ethics alerts received"
+    unit_expected: "number"
+    keywords_fr: ["alertes éthiques", "signalements", "lanceurs d'alerte", "alertes compliance"]
+    keywords_en: ["ethics alerts", "whistleblower reports", "compliance alerts", "ethics hotline"]
+    scope: "total"
+
+  tax_transparency:
+    label_fr: "Paiements aux États"
+    label_en: "Tax payments / tax transparency"
+    unit_expected: "M€"
+    keywords_fr: ["impôts payés", "taxes payées", "paiements aux États", "transparence fiscale", "contributions fiscales"]
+    keywords_en: ["taxes paid", "tax payments", "tax transparency", "payments to governments", "fiscal contribution"]
+    scope: "total"

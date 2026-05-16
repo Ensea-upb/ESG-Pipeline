@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_bdab1fa9b1d1a4e781178973",
+  "sha256": "af3e861ccd5b9bce07cc6e078a5d820c898fbf5cc680c6700edd1f0117245785",
+  "all_references": [
+    {
+      "document_id": "c6b0a47107298f70392f9d9a",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Criteria-Assessment-Indicators.pdf",
+      "source_title": "SBTi Criteria Assessment Indicators",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 3.4952,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:44:10+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json"
+    },
+    {
+      "document_id": "adc5a0e05e4c6707a7fbfd14",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Criteria-Assessment-Indicators.pdf",
+      "source_title": "SBTi Criteria Assessment Indicators",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_manifest.json",
+      "file_size_mb": 3.4952,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 13,
+      "stored_at": "2026-05-09T20:43:32+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_manifest.json"
+    }
+  ]
+}

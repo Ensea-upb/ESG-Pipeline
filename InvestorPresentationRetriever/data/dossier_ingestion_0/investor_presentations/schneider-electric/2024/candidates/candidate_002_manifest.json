@@ -1,0 +1,44 @@
+{
+  "document_type": "investor_presentation_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://s201.q4cdn.com/793451358/files/doc_presentations/2024/discoverIE-2024-CMD-presentation-11-Sep-2024.pdf",
+    "title": "PowerPoint Presentation",
+    "snippet": "Low customer concentration: top 10 = 25%. Summary. Unique & essential Necessary for market innovation Small part of system cost Long term, repeating revenues. 2024 Capital Markets Day. 4. Our performance drivers.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts présentation : ['capital markets day', 'cmd presentation']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier présentation : ['cmd']",
+      "CDN / asset domain",
+      "classe documentaire : investor_presentation"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_002_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "26f06f6aaddf1d510f3bf1b4fe947c4d369b95aa50510153ec9f107a628858e5",
+    "file_size_mb": 7.2499,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_discoverIE-2024-CMD-presentation-11-Sep-2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:55+00:00",
+    "storage_version": "investor_presentation_candidate_storage_v0"
+  }
+}

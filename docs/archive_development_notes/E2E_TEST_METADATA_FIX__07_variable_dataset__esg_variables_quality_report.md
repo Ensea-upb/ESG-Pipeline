@@ -1,0 +1,43 @@
+# ESG Variables Quality Report
+
+- company_year_rows_count: 1
+- variables_count: 31
+- found_values_count: 2
+- missing_values_count: 29
+- needs_review_count: 0
+- qualitative_only_count: 0
+- conflicting_values_count: 0
+- found_without_evidence_count: 0
+- final_score_detected_count: 0
+- external_source_detected_count: 0
+
+## Findings
+- warning missing_variable: totalenergies 2024 co2_emissions
+- warning missing_variable: totalenergies 2024 carbon_intensity
+- warning missing_variable: totalenergies 2024 energy_consumption
+- warning missing_variable: totalenergies 2024 waste
+- warning missing_variable: totalenergies 2024 biodiversity
+- warning missing_variable: totalenergies 2024 fossil_exposure
+- warning missing_variable: totalenergies 2024 turnover
+- warning missing_variable: totalenergies 2024 diversity
+- warning missing_variable: totalenergies 2024 work_accidents
+- warning missing_variable: totalenergies 2024 supply_chain
+- warning missing_variable: totalenergies 2024 human_rights
+- warning missing_variable: totalenergies 2024 board_independence
+- warning missing_variable: totalenergies 2024 ceo_chairman_separation
+- warning missing_variable: totalenergies 2024 remuneration
+- warning missing_variable: totalenergies 2024 shareholder_rights
+- warning missing_variable: totalenergies 2024 transparency
+- warning missing_variable: totalenergies 2024 esg_scandals
+- warning missing_variable: totalenergies 2024 fraud
+- warning missing_variable: totalenergies 2024 corruption
+- warning missing_variable: totalenergies 2024 pollution
+- warning missing_variable: totalenergies 2024 lawsuits
+- warning missing_variable: totalenergies 2024 social_controversies
+- warning missing_variable: totalenergies 2024 market_cap
+- warning missing_variable: totalenergies 2024 volatility
+- warning missing_variable: totalenergies 2024 leverage
+- warning missing_variable: totalenergies 2024 roa
+- warning missing_variable: totalenergies 2024 roe
+- warning missing_variable: totalenergies 2024 liquidity
+- warning missing_variable: totalenergies 2024 stock_returns

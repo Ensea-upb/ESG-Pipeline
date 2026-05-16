@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_1b67f2ca80b1866a46070332",
+  "sha256": "957a082a37541b30edfd7c3a3af4341aa2acf1ba5a4dacc14645f573cb71e4b5",
+  "all_references": [
+    {
+      "document_id": "ca2176c324aa12a8eaaae75e",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.hexis-graphics.com/hexisgraphics/2023/11/Politique-anti-corruption-HEXIS-2023.pdf",
+      "source_title": "POLITIQUE",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 0.4444,
+      "document_type": "corporate_policy_anticorruption",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:49:11+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.4.0",
+  "candidates_count": 381,
+  "unique_candidates_count": 335,
+  "duplicate_candidates_count": 46,
+  "duplicate_groups_count": 13,
+  "source_engine_distribution": {
+    "csv": 310,
+    "visual": 43,
+    "table": 28
+  },
+  "information_type_distribution": {
+    "observed_metric": 82,
+    "target": 67,
+    "boundary_context": 42,
+    "policy_or_commitment": 18,
+    "methodology_context": 14,
+    "risk_statement": 3,
+    "visual_evidence": 84,
+    "visual_metric_candidate": 43,
+    "table_metric_candidate": 28
+  },
+  "source_engine_information_type_distribution": {
+    "csv:observed_metric": 82,
+    "csv:target": 67,
+    "csv:boundary_context": 42,
+    "csv:policy_or_commitment": 18,
+    "csv:methodology_context": 14,
+    "csv:risk_statement": 3,
+    "csv:visual_evidence": 84,
+    "visual:visual_metric_candidate": 43,
+    "table:table_metric_candidate": 28
+  },
+  "deduplication_status_distribution": {
+    "unique_candidate": 322,
+    "canonical_candidate": 13,
+    "duplicate_candidate": 46
+  },
+  "checks": {
+    "review_required_missing_or_false": 0,
+    "extraction_status_not_candidate_only": 0,
+    "confidence_above_allowed_threshold": 0,
+    "score_column_detected": 0,
+    "validated_indicator_detected": 0,
+    "probable_duplicates": 59,
+    "deduplicated_duplicate_candidates": 46,
+    "source_engine_information_type_mismatch": 0,
+    "candidates_without_source": 0,
+    "candidates_without_quote": 0
+  },
+  "findings_count": 10,
+  "errors_count": 0,
+  "warnings_count": 2
+}

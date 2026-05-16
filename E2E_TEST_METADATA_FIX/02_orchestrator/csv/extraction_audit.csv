@@ -1,0 +1,5 @@
+check_name,status,message,count
+document_inventory_loaded,pass,document_inventory.json was loaded.,1
+extraction_summary_loaded,pass,extraction_summary.json was loaded.,1
+multimodal_evidence_loaded,pass,multimodal_evidence_index.jsonl records loaded.,411
+candidate_policy,pass,All extracted rows are candidate_only and review_required=true.,1

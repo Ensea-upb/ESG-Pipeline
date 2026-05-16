@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_db6142903df0673a6788d426",
+  "sha256": "72d17e868769c4559f7fdb6d064fae0d7bbf774110da8234a7b3383dd6653757",
+  "all_references": [
+    {
+      "document_id": "5e1424006c91b41376be6082",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.covea-finance.fr/sites/default/files/2024-07/politique_lutte_anticorruption.pdf",
+      "source_title": "POLITIQUE",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 0.6343,
+      "document_type": "corporate_policy_anticorruption",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:49:11+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

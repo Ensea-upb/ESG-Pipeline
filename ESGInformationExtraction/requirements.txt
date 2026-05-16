@@ -1,0 +1,15 @@
+pydantic>=2.0,<3.0
+pdfplumber>=0.10,<1.0
+pyyaml>=6.0,<7.0
+
+# Modern extraction backends (2025-2026)
+# Install for enhanced capabilities — all have transparent fallbacks if absent.
+docling>=2.0          # PDF parsing + table structure (IBM Research, TableFormer)
+gliner>=0.2           # NER zero-shot ESG entities (DeBERTa-v3 backbone)
+quantulum3>=0.9       # Unit normalization (290+ units, semantic disambiguation)
+flashtext>=2.7        # Aho-Corasick O(n) multi-keyword matching (Trie)
+rapidfuzz>=3.0        # Fuzzy string matching C++ backend (WRatio per-metric)
+
+# API layer (optional — for programmatic extraction triggering)
+fastapi>=0.110         # REST API framework
+uvicorn>=0.27          # ASGI server for FastAPI

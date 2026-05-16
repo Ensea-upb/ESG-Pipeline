@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_e362881f86d2e405b7225923",
+  "sha256": "e743a8f39b0fe98ae537a538b44a39f772f9430534fd41bec5a70b50348685ab",
+  "all_references": [
+    {
+      "document_id": "95697e89e55ef8b3cb2d9469",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Legacy-SBTi-Criteria.pdf",
+      "source_title": "View the previous version (5.1) here",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_015_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_015_manifest.json",
+      "file_size_mb": 1.0791,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 15,
+      "stored_at": "2026-05-09T20:41:33+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_015_manifest.json"
+    }
+  ]
+}

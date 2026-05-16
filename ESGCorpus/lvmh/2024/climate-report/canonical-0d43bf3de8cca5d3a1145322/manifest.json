@@ -1,0 +1,25 @@
+{
+  "canonical_document_id": "canonical_0d43bf3de8cca5d3a1145322",
+  "sha256": "4e67ffaaae7f880fd24e837c30f10c08b0a087ca1b4314dade86e7b5d32c12cb",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "climate_report",
+  "document_families_detected": [
+    "annual_report",
+    "sustainability_report",
+    "climate_report"
+  ],
+  "retrievers_detected": [
+    "AnnualReportRetriever",
+    "SustainabilityReportRetriever",
+    "ClimateReportRetriever"
+  ],
+  "canonical_source_title": "LVMH 2024 Universal Registration Document. - Prismic",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\climate-report\\canonical-0d43bf3de8cca5d3a1145322\\document.pdf",
+  "duplicate_count": 4,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

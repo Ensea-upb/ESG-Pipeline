@@ -1,0 +1,72 @@
+{
+  "schema_version": "0.7.0",
+  "contract_version": "0.7.0",
+  "engine_release_target": "1.0.0",
+  "required_files": [
+    "visual_input_inventory.json",
+    "visual_items.jsonl",
+    "visual_crops_index.jsonl",
+    "visual_ocr_outputs.jsonl",
+    "visual_ocr_summary.json",
+    "visual_classification.jsonl",
+    "visual_classification_summary.json",
+    "visual_candidates.csv",
+    "visual_candidates.jsonl",
+    "visual_audit_summary.json",
+    "visual_audit_findings.jsonl",
+    "visual_audit_samples.csv",
+    "visual_extraction_summary.json"
+  ],
+  "required_candidate_columns": [
+    "document_id",
+    "figure_id",
+    "crop_id",
+    "page_number",
+    "section_id",
+    "visual_type",
+    "information_type",
+    "esg_category",
+    "label",
+    "raw_value",
+    "raw_unit",
+    "year",
+    "caption",
+    "ocr_text",
+    "source_image_path",
+    "confidence",
+    "review_required",
+    "extraction_status"
+  ],
+  "allowed_values": {
+    "visual_type": [
+      "logo_or_cover",
+      "illustrative_photo",
+      "chart",
+      "scanned_table",
+      "diagram",
+      "org_chart",
+      "map",
+      "unknown_visual"
+    ],
+    "information_type": [
+      "visual_metric_candidate",
+      "visual_target_candidate",
+      "visual_policy_evidence",
+      "visual_risk_evidence",
+      "visual_context_evidence"
+    ],
+    "extraction_status": [
+      "candidate_only"
+    ],
+    "review_required": [
+      "True"
+    ]
+  },
+  "invariants": [
+    "all visual candidates have review_required=true",
+    "all visual candidates have extraction_status=candidate_only",
+    "all visual candidate confidence values are <= 0.5",
+    "all visual candidates keep document_id, figure_id, page_number and source_image_path",
+    "no output contains score or validated_metric columns"
+  ]
+}

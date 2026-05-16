@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "message": "Validation documentaire terminee : 240 PDF(s) techniquement valide(s), 54 document(s) probablement valide(s), 161 a revoir.",
+  "total_documents": 240,
+  "total_valid_pdf": 240,
+  "total_missing_file": 0,
+  "total_not_pdf": 0,
+  "total_unreadable_pdf": 0,
+  "total_likely_valid": 54,
+  "total_needs_review": 161,
+  "total_likely_wrong_company": 25,
+  "total_unreadable": 0,
+  "total_errors": 0,
+  "output_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\validation\\document_validation_results.json",
+  "output_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\validation\\document_validation_results.csv",
+  "summary_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\validation\\document_validation_summary.json",
+  "errors": []
+}

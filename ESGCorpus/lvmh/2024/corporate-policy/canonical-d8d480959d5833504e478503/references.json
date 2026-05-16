@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d8d480959d5833504e478503",
+  "sha256": "b424fdc7da2749adbb859a518a255d837fd98766212f6aad51a6946cc5d12094",
+  "all_references": [
+    {
+      "document_id": "874f8d4d4749931ec12d0324",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zqyfgh5LeNNTxwD3_LVMH_CodeOfConduct_DUTCH.pdf",
+      "source_title": "Download",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_manifest.json",
+      "file_size_mb": 3.3677,
+      "document_type": "corporate_policy_code_of_conduct",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 9,
+      "stored_at": "2026-05-09T20:48:25+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_daeb83514bfcf245dbf0ef63",
+  "sha256": "ad9a34d297c6b6449538ade2021c61d7e05d530779dc291fc5079cb9e790120d",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "remuneration_report",
+  "document_families_detected": [
+    "remuneration_report"
+  ],
+  "retrievers_detected": [
+    "RemunerationReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] Total Energies - Rapport spécial sur les attributions gratuites d'actions",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Rapport-special-sur-attributions-gratuites-d-actions_PDF.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\remuneration-report\\canonical-daeb83514bfcf245dbf0ef63\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

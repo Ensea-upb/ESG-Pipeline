@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.4.0",
+  "row_classifications_count": 632,
+  "row_category_distribution": {
+    "unknown": 454,
+    "energy": 58,
+    "methodology": 1,
+    "boundary": 15,
+    "governance": 2,
+    "climate": 93,
+    "workforce": 4,
+    "diversity": 3,
+    "health_safety": 2
+  }
+}

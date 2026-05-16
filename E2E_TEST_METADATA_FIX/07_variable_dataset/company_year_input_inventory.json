@@ -1,0 +1,16 @@
+{
+  "company_years": [
+    {
+      "company": "totalenergies",
+      "year": "2024",
+      "source_output_dirs": [
+        "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\06_indicator_database"
+      ],
+      "document_ids": [
+        "totalenergies_2024_urd_e2e_metadata_fix"
+      ],
+      "sources_count": 1,
+      "empty_preparation_database": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 7,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/466155/2023-sustainability-report.pdf",
+    "title": "[PDF] 2023 Sustainability Report - Schneider Electric",
+    "snippet": "# Industrial Tech for Sustainable Impact | www.se.com Schneider Electric  2023 Sustainable Development Report. SSI initiatives act as our sustainability roadmap, tracking our environmental, social, and inclusion transformation in line with six long-term commitments to climate, resources, trust, equality, people of all generations, and the local stakeholders with whom we work. The execution of the Group’s 2021–2025 sustainability strategy is tracked through quantitative key performance indicators (KPIs), under two complementary tools: the Schneider Sustainability Impact (SSI) and the Schneider Sustainability Essentials (SSE). Collectively, the 11 SSI Global and Local Impact programs, as well as the 25 SSE programs, are the Group’s short-term sustainability roadmap and our contribution to the 17 UN SDGs. The SSI is the translation of our six long-term commitments into a selection of 11 highly transformative and innovative programs. Learning & Development cost per employee  €/employee  660.8  560.8  425.8  356.1 www.se.com Schneider Electric  2023 Sustainable Development Report |.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 85.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts durabilité : ['sustainability report', 'sustainable development report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier compatible durabilité : ['sustainabilityreport']",
+      "classe documentaire : standalone_sustainability_report"
+    ],
+    "negative_signals": [
+      "année demandée absente, années détectées : [2021, 2023, 2025]"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_score_85_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_manifest.json",
+    "sha256": "02226e1cf5328810510451e1e524e966389750963175a41474de835e18d5aaab",
+    "file_size_mb": 14.1676,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2023-sustainability-report.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T17:40:16+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

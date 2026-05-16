@@ -1,0 +1,23 @@
+{
+  "canonical_document_id": "canonical_d6e27095ba8ea532fa60b4ce",
+  "sha256": "c65ec5c295536fd09cb15ccf7c6172f35215556f5d9b9f74f802a602d22b238d",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "sustainability_report",
+  "document_families_detected": [
+    "sustainability_report",
+    "corporate_policy"
+  ],
+  "retrievers_detected": [
+    "SustainabilityReportRetriever",
+    "CorporatePolicyRetriever"
+  ],
+  "canonical_source_title": "Document d'enregistrement universel 2024 (version PDF)",
+  "canonical_source_url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\sustainability-report\\canonical-d6e27095ba8ea532fa60b4ce\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 8,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/396659/2022-sustainability-report.pdf",
+    "title": "[PDF] 2022 Sustainable Development Report - Schneider Electric",
+    "snippet": "Missing the public objectives set by the Group could result in: • Brand and reputational impact • Distrust from stakeholders and loss of attractivity to investors, customers or new talents Internal Governance in place from Board to operational levels to monitor performance and ensure progress SSI performance embedded in managers’ and leaders’ short-term incentives ESG performance in four external ratings linked to attribution of performance shares for leaders (Schneider Sustainability External and Relative Index, SSERI) • SSI 2022 performance reached 4.91/10, above the 4.70/10 target • 100% performance in Schneider Sustainability External and Relative Index (SSERI) thanks to industry leader ranking in several ESG Ratings • Good progress in SSI and SSE Climate programs and CO 2footprint reduction of 22% vs 2021 Higher credibility and attractivity to stakeholders (such as investors, new talents, customers, or governments) Risks mitigation ahead of competition thanks to the SSI disruptive and virtuous continuous improvement process Business opportunities thanks to innovation & transformation 16 Schneider Electric  2022 Sustainable Development Report |  www.se.com.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 85.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts durabilité : ['sustainability report', 'sustainable development report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier compatible durabilité : ['sustainabilityreport']",
+      "classe documentaire : standalone_sustainability_report"
+    ],
+    "negative_signals": [
+      "année demandée absente, années détectées : [2021, 2022]"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_008_score_85_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_008_manifest.json",
+    "sha256": "4f0ecf1a668fa80cca0983a42f49f183912c23ac7636a3b4386614c1d5c108e6",
+    "file_size_mb": 4.6754,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_2022-sustainability-report.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T17:40:17+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

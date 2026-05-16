@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_37b483c6769d67a255e98451",
+  "sha256": "9fff4f49b1c77aeaac3521438ad34bd802764e3877ec4fd7b3c5a887948ddde0",
+  "all_references": [
+    {
+      "document_id": "aa97dc92041f08cd78bb2122",
+      "retriever_name": "RemunerationReportRetriever",
+      "document_family": "remuneration_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/fr/Images/Conseil_d_administration_du_7_novembre_2024%E2%80%93remuneration_d_olivier_Blum_tcm342-496809.pdf",
+      "source_title": "[PDF] Rémunération d'Olivier Blum - Schneider Electric",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.152,
+      "document_type": "remuneration_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T19:47:32+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

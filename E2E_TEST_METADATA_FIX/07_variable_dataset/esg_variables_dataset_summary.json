@@ -1,0 +1,39 @@
+{
+  "input_root": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX",
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\07_variable_dataset",
+  "company_year_rows_count": 1,
+  "variables_count": 31,
+  "selected_rows_count": 31,
+  "ignored_records_count": 0,
+  "ignored_records_reason_distribution": {},
+  "metadata_missing_company_count": 0,
+  "metadata_missing_fiscal_year_count": 0,
+  "long_rows_count": 31,
+  "evidence_rows_count": 2,
+  "lineage_records_count": 31,
+  "missing_rows_count": 29,
+  "quality": {
+    "company_year_rows_count": 1,
+    "variables_count": 31,
+    "expected_variables_count": 31,
+    "found_values_count": 2,
+    "missing_values_count": 29,
+    "needs_review_count": 0,
+    "qualitative_only_count": 0,
+    "conflicting_values_count": 0,
+    "not_disclosed_count": 0,
+    "found_without_evidence_count": 0,
+    "variables_with_multiple_candidates_count": 0,
+    "variables_with_unit_missing_count": 0,
+    "variables_with_year_missing_count": 0,
+    "final_score_detected_count": 0,
+    "external_source_detected_count": 0,
+    "findings_count": 29,
+    "status_counts": {
+      "missing_from_corpus": 29,
+      "found": 2
+    }
+  },
+  "no_external_sources_used": true,
+  "score_produced": false
+}

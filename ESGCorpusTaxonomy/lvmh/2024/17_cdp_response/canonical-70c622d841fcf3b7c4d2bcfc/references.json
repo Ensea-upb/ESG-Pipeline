@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_70c622d841fcf3b7c4d2bcfc",
+  "sha256": "e95e0ab3cda165b8d0c504f649358c7d4a4ef24febee08b392d4da8395ca1698",
+  "all_references": [
+    {
+      "document_id": "b7e1e3437ee85bef647d32bf",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.fmc.com/sites/default/files/2023-07/FMC_CDP_Water_2023.pdf",
+      "source_title": "2023 FMC CDP Water Security Response PDF (518.06 k)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_006_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_006_manifest.json",
+      "file_size_mb": 0.5059,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 6,
+      "stored_at": "2026-05-09T20:41:21+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_006_manifest.json"
+    }
+  ]
+}

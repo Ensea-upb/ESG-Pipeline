@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_2b96daf2b151c5596c126cd3",
+  "sha256": "994f96dcaffcf4f0405f594c9436b926215a5c4d246e9b90a98e8192ecf4e386",
+  "all_references": [
+    {
+      "document_id": "868a7f706a0fbf859ba99f2b",
+      "retriever_name": "ClimateReportRetriever",
+      "document_family": "climate_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/Totalenergies_AG2024-Reponses-aux-questions-ecrites_FR_PDF.pdf",
+      "source_title": "[PDF] TotalEnergies SE",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 3.8291,
+      "document_type": "climate_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T19:18:06+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json"
+    }
+  ]
+}

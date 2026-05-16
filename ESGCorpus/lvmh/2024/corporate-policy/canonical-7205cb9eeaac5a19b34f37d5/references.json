@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_7205cb9eeaac5a19b34f37d5",
+  "sha256": "8c0b520ba84ce75ca7b77ddc6345c3f570b2ad5e0b9beab7016293265a8c2812",
+  "all_references": [
+    {
+      "document_id": "f328772715d46ce30dd044d6",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://metal-on-demand.com/wp-content/uploads/2024/07/040424_LVMH_CodeOfConduct_EN.pdf",
+      "source_title": "Code",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.6601,
+      "document_type": "corporate_policy_code_of_conduct",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:48:21+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

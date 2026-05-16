@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_b6af7ac6b9e985ac4f46e825",
+  "sha256": "fb384aeac5d75e35dd79f55f6bb09299a53bddb7536fa2d3ffee72e5df4a0a35",
+  "all_references": [
+    {
+      "document_id": "5f2dbf591cc734e5c1a3502f",
+      "retriever_name": "GovernanceReportRetriever",
+      "document_family": "governance_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_index-gri-2025_2025.pdf",
+      "source_title": "[PDF] GRI Content Index 2024 GRI Standards 2021 - TotalEnergies",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\GovernanceReportRetriever\\data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\GovernanceReportRetriever\\data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.5986,
+      "document_type": "governance_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T19:32:24+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\GovernanceReportRetriever\\data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

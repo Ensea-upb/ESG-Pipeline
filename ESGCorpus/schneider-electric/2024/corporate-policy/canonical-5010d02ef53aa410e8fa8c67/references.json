@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_5010d02ef53aa410e8fa8c67",
+  "sha256": "95c772f353ef7609a471e313491e3039c6c161362ba03929944c4ed65dffa5f7",
+  "all_references": [
+    {
+      "document_id": "76555af71dbbff27b4b20d69",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/411149/vigilance-plan-2022.pdf",
+      "source_title": "Vigilance Plan 2022 - Schneider Electric Global",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 4.8246,
+      "document_type": "corporate_policy_environmental",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:56:53+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

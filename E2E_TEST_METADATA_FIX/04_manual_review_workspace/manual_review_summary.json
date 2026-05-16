@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "module": "ESGManualReview",
+  "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\03_indicator_validation",
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\04_manual_review_workspace",
+  "generated_at": "2026-05-14T05:06:06+00:00",
+  "review_items_count": 335,
+  "validation_status_distribution": {
+    "possible_indicator": 96,
+    "needs_review": 172,
+    "reject_candidate": 67
+  },
+  "review_priority_distribution": {
+    "high": 52,
+    "medium": 98,
+    "low": 185
+  },
+  "human_decisions_prefilled_count": 0,
+  "final_indicators_produced": false,
+  "scores_produced": false
+}

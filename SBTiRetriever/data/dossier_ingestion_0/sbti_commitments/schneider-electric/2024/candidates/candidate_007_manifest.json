@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 7,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/FAQs-for-SMEs.pdf",
+    "title": "SME FAQ",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/net-zero. Titre page : The Corporate Net-Zero Standard - Science Based Targets Initiative. Texte du lien : SME FAQ.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_007_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_007_manifest.json",
+    "sha256": "541c5fb3399b97e20779f0b9bee0e6c5ca3b0f2c07da7dcda3f848bf3699d7a4",
+    "file_size_mb": 0.7979,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_FAQs-for-SMEs.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:19+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

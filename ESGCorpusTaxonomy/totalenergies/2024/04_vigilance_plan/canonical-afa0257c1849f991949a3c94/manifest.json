@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_afa0257c1849f991949a3c94",
+  "sha256": "c221f3684732fcb29102ce1830671fd49fe2e53fde24b3bbd976a7b54b10bea7",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "vigilance_plan",
+  "official_doc_type": "04_vigilance_plan",
+  "official_doc_type_label": "Vigilance plan",
+  "doc_type_stratum": "due_diligence",
+  "doc_subtype": "vigilance_plan",
+  "period_type": "annual",
+  "regulatory_status": "regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\vigilance-plan\\canonical-afa0257c1849f991949a3c94\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\04_vigilance_plan\\canonical-afa0257c1849f991949a3c94\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

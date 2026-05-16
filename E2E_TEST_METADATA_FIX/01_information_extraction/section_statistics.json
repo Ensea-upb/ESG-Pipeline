@@ -1,0 +1,335 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "section_candidates_count": 957,
+  "accepted_candidates_count": 13,
+  "rejected_candidates_count": 944,
+  "rejection_reasons_distribution": {
+    "rejected_low_confidence": 611,
+    "rejected_toc_entry": 89,
+    "rejected_sentence_like_heading": 10,
+    "rejected_header_footer": 9,
+    "rejected_timeline_like": 9,
+    "rejected_org_chart_like": 15,
+    "rejected_list_item": 59,
+    "rejected_numeric_value": 51,
+    "rejected_footnote": 58,
+    "rejected_too_numeric": 8,
+    "rejected_too_short": 24,
+    "rejected_heading_fragment": 1
+  },
+  "sections_count": 13,
+  "section_types_distribution": {
+    "unknown": 8,
+    "social": 1,
+    "energy": 1,
+    "emissions": 3
+  },
+  "rejected_cover_page_count": 0,
+  "rejected_toc_heading_count": 0,
+  "rejected_numeric_value_count": 51,
+  "rejected_front_matter_count": 0,
+  "rejected_document_title_count": 0,
+  "timeline_like_rejected_count": 9,
+  "numeric_value_rejected_count": 51,
+  "rejected_heading_fragment_count": 1,
+  "rejected_org_chart_like_count": 15,
+  "rejected_diagram_like_count": 0,
+  "rejected_sentence_like_count": 10,
+  "merged_headings_count": 0,
+  "low_confidence_rejected_count": 611,
+  "section_type_unknown_ratio": 0.615385,
+  "sections_by_page": {
+    "6": 2,
+    "8": 1,
+    "9": 1,
+    "14": 3,
+    "16": 1,
+    "25": 1,
+    "29": 3,
+    "30": 1
+  },
+  "sample_accepted_headings": [
+    "VALUES ANCHORED IN OUR DAILY ACTIVITIES",
+    "37.9% • $9.5 billion payroll (including social security charges)",
+    "OUR OPERATIONAL PERFORMANCE ON OUR 2 PILLARS(1)(2)(3)",
+    "OUR OPERATIONAL PERFORMANCE",
+    "ENERGY ACCESS AND HUMAN DEVELOPMENT INDEX",
+    "AVAILABLE TECHNOLOGIES TO REDUCE GHG",
+    "EMISSIONS AND THEIR POTENTIAL IMPACT",
+    "LIFECYCLE CARBON INTENSITY OF SALES",
+    "LEVERS TO THE REDUCTION OF THE LIFECYCLE",
+    "OOUURR 44 AAXXEESS OOFF SSUUSSTTAAIINNAABBLLEE DDEEVVEELLOOPPMMEENNTT",
+    "OOUURR LLOOCCAALL AACCTTIIOONN PPLLAANNSS",
+    "TARGETS AND PROGRESS INDICATORS",
+    "2030 worldwide targets (Scope 3(d))"
+  ],
+  "sample_rejected_headings": [
+    {
+      "text": "1 7",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "1.1 TotalEnergies at a glance 6 7.1 Share capital 442",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "1.2 Our transition strategy 14 7.2 Articles of Association; other information 443",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "1.4 Our approach to sustainable development 28 8",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "1.6 Innovation for the transition strategy of TotalEnergies 37 Consolidated Financial Statements 449",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "1.7 Our strengths 40 8.1 Statutory auditors’ report on the consolidated financial",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "1.9 Our financial performance 49 8.2 Consolidated statement of income 455",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "2 8.3 Consolidated statement of comprehensive income 456",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "2.1 Upstream oil and gas activities 72 8.6 Consolidated statement of changes in shareholders’",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "2.2 Exploration & Production segment 83 equity 459",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "2.3 Integrated LNG segment 91 8.7 Notes to the Consolidated Financial Statements 460",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "2.5 Refining & Chemicals segment 112",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "2.6 Marketing & Services segment 123",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "3 9.1 Oil and gas information pursuant to FASB Accounting",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "3.2 Countries under economic sanctions 141 9.4 Reporting of payments to governments for purchases",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "10",
+      "candidate_status": "rejected_toc_entry",
+      "candidate_reason": "toc_entry_excluded"
+    },
+    {
+      "text": "3.5 Legal and arbitration proceedings 153",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "10.1 Statutory auditors' report on the financial statements 618",
+      "candidate_status": "rejected_toc_entry",
+      "candidate_reason": "toc_entry_excluded"
+    },
+    {
+      "text": "4",
+      "candidate_status": "rejected_toc_entry",
+      "candidate_reason": "toc_entry_excluded"
+    },
+    {
+      "text": "10.2 Statutory Financial Statements of TotalEnergies SE",
+      "candidate_status": "rejected_sentence_like_heading",
+      "candidate_reason": "sentence_like_heading_excluded"
+    }
+  ],
+  "sample_rejected_numeric_values": [
+    "39.7% 1,850,000",
+    "15.3% 8.2% 76.5%",
+    "17.3%",
+    "11.6%",
+    "18.3",
+    "15.8% 14.8%",
+    "29.9",
+    "15.8",
+    "17.8",
+    "25.4",
+    "29.5",
+    "27.5 28.3 37.4 37.7 38.6",
+    "2022 2023 2024",
+    "26.0(4)",
+    "22.4(4)",
+    "17.0",
+    "15.2 15.5 16.8(4)",
+    "2022 2023 2024",
+    "62.3",
+    "48.1 44.3"
+  ],
+  "sample_rejected_front_matter": [],
+  "sample_rejected_timeline_like": [
+    "2025-2030 objectives 20 business segments 47",
+    "2022 2023 2024 Renewable Gas-fired Europe",
+    "2022 2023 2024 Installed capacities In construction In development",
+    "2018 TotalEnergies. celebrates its",
+    "28% decrease between 2015 and 2030). The targets for lowering the",
+    "2025 and a 25% reduction by 2030) put the Company on a trajectory",
+    "64 kt CH in 2020 to 29 kt CH in 2024, a 55% reduction. TotalEnergies is",
+    "(base 100 in 2015) CARBON INTENSITY OF ENERGY PRODUCTS SOLD (2015 - 2030)",
+    "2015 Reduce portfolio’s Shift to Gas Low-carbon Produce and CCS as a service 2030"
+  ],
+  "sample_rejected_heading_fragments": [
+    "FROM OPERATED FACILITIES"
+  ],
+  "sample_rejected_org_chart_like": [
+    "OUR PROFILE",
+    "36.8% 63.2% permanent contracts",
+    "25.3% 6.2% Number of",
+    "OUR 2024 KEY FIGURES",
+    "OOUURR HHIISSTTOORRYY",
+    "CASH ENGINE OF THE COMPANY.",
+    "GHG EMISSIONS, SCOPE 1+2",
+    "POWER GENERATION BY 2030",
+    "100 TWh by 2030 (70% of production from renewable sources, 30% from",
+    "STEPS (2.4 °C)",
+    "APS (1.7 °C)",
+    "PURPOSE",
+    "OUR AMBITION",
+    "OOUURR 55 LLEEVVEERRSS",
+    "HEALTH"
+  ],
+  "sample_rejected_sentence_like": [
+    "10.2 Statutory Financial Statements of TotalEnergies SE",
+    "10.4 Other financial information concerning",
+    "34.9% • More than 400 talent developers to help employees",
+    "27.2% along their professional development path",
+    "TOTALENERGIES STAYS THE COURSE OF ITS BALANCED INTEGRATED MULTI-ENERGY STRATEGY...",
+    "... RESPONSIBLY PRODUCING LOW COST, LOW EMISSIONS OIL & GAS...",
+    "30 29 H2 so b lu a t s io e n d s (b)",
+    "80%(1) of TotalEnergies’ non-operated production is operated by partners",
+    "400 Mt COe. These enabled emissions reductions that will result from",
+    "2030 worldwide target (carbon intensity(e))"
+  ],
+  "sample_merged_headings": [],
+  "sample_sections": [
+    {
+      "section_title": "VALUES ANCHORED IN OUR DAILY ACTIVITIES",
+      "section_type": "unknown",
+      "page_start": 6,
+      "page_end": 6
+    },
+    {
+      "section_title": "37.9% • $9.5 billion payroll (including social security charges)",
+      "section_type": "social",
+      "page_start": 6,
+      "page_end": 7
+    },
+    {
+      "section_title": "OUR OPERATIONAL PERFORMANCE ON OUR 2 PILLARS(1)(2)(3)",
+      "section_type": "unknown",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "section_title": "OUR OPERATIONAL PERFORMANCE",
+      "section_type": "unknown",
+      "page_start": 9,
+      "page_end": 13
+    },
+    {
+      "section_title": "ENERGY ACCESS AND HUMAN DEVELOPMENT INDEX",
+      "section_type": "energy",
+      "page_start": 14,
+      "page_end": 14
+    },
+    {
+      "section_title": "AVAILABLE TECHNOLOGIES TO REDUCE GHG",
+      "section_type": "emissions",
+      "page_start": 14,
+      "page_end": 14
+    },
+    {
+      "section_title": "EMISSIONS AND THEIR POTENTIAL IMPACT",
+      "section_type": "emissions",
+      "page_start": 14,
+      "page_end": 15
+    },
+    {
+      "section_title": "LIFECYCLE CARBON INTENSITY OF SALES",
+      "section_type": "unknown",
+      "page_start": 16,
+      "page_end": 24
+    },
+    {
+      "section_title": "LEVERS TO THE REDUCTION OF THE LIFECYCLE",
+      "section_type": "unknown",
+      "page_start": 25,
+      "page_end": 28
+    },
+    {
+      "section_title": "OOUURR 44 AAXXEESS OOFF SSUUSSTTAAIINNAABBLLEE DDEEVVEELLOOPPMMEENNTT",
+      "section_type": "unknown",
+      "page_start": 29,
+      "page_end": 29
+    },
+    {
+      "section_title": "OOUURR LLOOCCAALL AACCTTIIOONN PPLLAANNSS",
+      "section_type": "unknown",
+      "page_start": 29,
+      "page_end": 29
+    },
+    {
+      "section_title": "TARGETS AND PROGRESS INDICATORS",
+      "section_type": "unknown",
+      "page_start": 29,
+      "page_end": 29
+    },
+    {
+      "section_title": "2030 worldwide targets (Scope 3(d))",
+      "section_type": "emissions",
+      "page_start": 30,
+      "page_end": 30
+    }
+  ],
+  "invalid_section_ranges_count": 0,
+  "suspicious_sections_count": 0,
+  "section_quality_score_distribution": {
+    "average": 0.930769,
+    "min": 0.9,
+    "max": 1.0,
+    "below_0_50": 0,
+    "below_0_75": 0
+  },
+  "evidence_policy_distribution": {
+    "normal": 13
+  },
+  "sample_suspicious_sections": [],
+  "sample_low_quality_sections": [],
+  "section_quality_thresholds": {
+    "normal_min": 0.75,
+    "review_required_min": 0.5,
+    "quarantine_below": 0.5
+  }
+}

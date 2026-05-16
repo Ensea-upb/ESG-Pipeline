@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "message": "Organisation taxonomy terminee : 0 copie(s) creee(s), 197 deja presente(s), 43 document(s) a revoir.",
+  "total_documents_processed": 240,
+  "total_copied_files": 0,
+  "total_existing_files": 197,
+  "total_missing_files": 0,
+  "total_needs_review": 43,
+  "total_errors": 0,
+  "distribution_by_official_doc_type": {
+    "01_urd_annual_report": 9,
+    "02_sustainability_statement_csrd_esrs": 19,
+    "03_climate_report_tcfd_transition_plan": 9,
+    "04_vigilance_plan": 2,
+    "05_half_year_financial_report": 4,
+    "07_code_ethique": 1,
+    "08_anticorruption_policy": 5,
+    "11_environmental_policy": 2,
+    "12_supplier_code_of_conduct": 1,
+    "13_investor_presentations": 3,
+    "14_earnings_call_transcripts": 5,
+    "16_agm_minutes_resolutions": 63,
+    "17_cdp_response": 16,
+    "18_sbti_validation": 51,
+    "19_third_party_assurance_report": 7
+  },
+  "output_corpus_root": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy",
+  "output_index_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\organized_corpus_taxonomy\\taxonomy_organized_documents_index.csv",
+  "output_index_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\organized_corpus_taxonomy\\taxonomy_organized_documents_index.json",
+  "summary_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\organized_corpus_taxonomy\\taxonomy_organization_summary.json",
+  "errors": []
+}

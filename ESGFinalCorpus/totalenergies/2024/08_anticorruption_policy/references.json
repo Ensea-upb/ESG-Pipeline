@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_4530a62fa5f85cf1ae6d0d1b",
+  "sha256": "57d879543b9e0796d0641e08460dc76c80da93b1821f3eb8ec729dc3f68d7470",
+  "all_references": [
+    {
+      "document_id": "4945e3549a8671beb0eb90bf",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-03/SASB-Reporting-VEN.pdf",
+      "source_title": "TotalEnergies_DEU_2022_VA",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.3813,
+      "document_type": "corporate_policy_anticorruption",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:52:50+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

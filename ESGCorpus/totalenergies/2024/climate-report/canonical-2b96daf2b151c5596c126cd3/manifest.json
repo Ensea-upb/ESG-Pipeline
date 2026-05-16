@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_2b96daf2b151c5596c126cd3",
+  "sha256": "994f96dcaffcf4f0405f594c9436b926215a5c4d246e9b90a98e8192ecf4e386",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "climate_report",
+  "document_families_detected": [
+    "climate_report"
+  ],
+  "retrievers_detected": [
+    "ClimateReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] TotalEnergies SE",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/Totalenergies_AG2024-Reponses-aux-questions-ecrites_FR_PDF.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\climate-report\\canonical-2b96daf2b151c5596c126cd3\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

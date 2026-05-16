@@ -1,0 +1,46 @@
+{
+  "document_type": "half_year_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "period_type": "H1",
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/TotalEnergies_rapport_financier_semestriel_2024_fr_pdf.pdf",
+    "title": "TotalEnergies_RFS_2024_VF",
+    "snippet": "Le présent rapport financier semestriel a été déposé auprès de l’Autorité des marchés financiers le 26 juillet 2024 conformément au III de l’article L. 451-1-2 du Code monétaire et financier.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts semestriel : ['rapport financier semestriel']",
+      "année trouvée : {'2024'}",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier semestriel : ['semestriel']",
+      "classe documentaire : standalone_half_year_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "592fbaea83ef03f2e9460126279dbe5be8655b7a0599af9ce591efd05053dd7b",
+    "file_size_mb": 1.1745,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_TotalEnergies_rapport_financier_semestriel_2024_fr_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:31+00:00",
+    "storage_version": "half_year_report_candidate_storage_v0"
+  }
+}

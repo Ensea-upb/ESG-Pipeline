@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_2a360b724d0e3532da9de309",
+  "sha256": "684918b2013757cf105b2d32c0887d064cfae61666489a3cd78eed0b057ade67",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "assurance_report",
+  "document_families_detected": [
+    "assurance_report"
+  ],
+  "retrievers_detected": [
+    "AssuranceReportRetriever"
+  ],
+  "canonical_source_title": "AA1000AS v3 Guidance for Assurance Providers_Feb 2024",
+  "canonical_source_url": "https://splendid-triumph-d1b9429d86.media.strapiapp.com/AA_1000_AS_v3_Guidance_for_Assurance_Providers_Feb_2024_3ddfbb9049.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_002_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\assurance-report\\canonical-2a360b724d0e3532da9de309\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

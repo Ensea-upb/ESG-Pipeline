@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d5fc8c5b3d24b3e1f29c46ca",
+  "sha256": "1ec38e1550cabcef2fa46624f789ce5503098fada7acf55d0208f214f5ab1c74",
+  "all_references": [
+    {
+      "document_id": "35c5ec706bc6f849e02826b8",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Corporate-Net-Zero-Standard-KR.pdf",
+      "source_title": "Korean Translation (v1.0)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_017_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_017_manifest.json",
+      "file_size_mb": 2.5096,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 17,
+      "stored_at": "2026-05-09T20:41:36+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_017_manifest.json"
+    }
+  ]
+}

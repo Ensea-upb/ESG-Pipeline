@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_b7698e394e13f9321acd26e1",
+  "sha256": "6139aafb0a1b9991083922122b1bfe0d68c41e87722a2ac71b217538c836e701",
+  "all_references": [
+    {
+      "document_id": "eb76e701a7aed2ea2ad76b59",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-03/Avis_prealable_a_l-Assemblee_generale_mixte_publie_au_Bulletin_des_Annonces_Legales_Obligatoires_du_24_mars_2023.pdf",
+      "source_title": "Avis préalable à l’Assemblée générale mixte publié au Bulletin des Annonces Légales Obligatoires du 24 mars 2023 (version pdf)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_011_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_011_manifest.json",
+      "file_size_mb": 0.6822,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 11,
+      "stored_at": "2026-05-09T20:49:55+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_011_manifest.json"
+    }
+  ]
+}

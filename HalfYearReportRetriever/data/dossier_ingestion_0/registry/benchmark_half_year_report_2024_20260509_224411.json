@@ -1,0 +1,275 @@
+{
+  "benchmark_name": "half_year_report_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T22:44:11",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports semestriels terminée.",
+      "downloaded_count": 1,
+      "failed_count": 6,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "Communiqué LVMH",
+          "url": "https://www.bnains.org/archives/communiques/LVMH/20240723_Communique_resultats_semestriels_2024_LVMH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\half_year_reports\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "7daf607d73b9f286302d1cb67ea59beb9e31eb235cd20ad9003b7a6bc4c6b3d8"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Lettre aux actionnaires - Juillet 2024 - LVMH",
+          "url": "https://praquin.com/lvmh/lettre-aux-actionnaires-juillet-2024/",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 3
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "Good results for LVMH in the first half of the yea... - LVMH",
+          "url": "https://www.lvmh.com/en/publications/good-results-for-lvmh-in-the-first-half-of-the-year-despite-the-prevailing-environment",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 3
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "Bons résultats de LVMH au premier semestre malgré ... - LVMH",
+          "url": "https://www.lvmh.com/fr/publications/bons-resultats-de-lvmh-au-premier-semestre-malgre-la-conjoncture",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 3
+        },
+        {
+          "rank": 5,
+          "candidate_rank": 5,
+          "source_search_rank": 5,
+          "title": "Rapport Financier Semestriel 2024",
+          "url": "https://www.saint-gobain.com/sites/saint-gobain.com/files/media/document/Rapport+financier+semestriel+2024.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "forbidden_403",
+          "message": "Accès refusé par le serveur pour toutes les stratégies.",
+          "attempts": 3
+        },
+        {
+          "rank": 6,
+          "candidate_rank": 6,
+          "source_search_rank": 6,
+          "title": "Rapport financier semestriel",
+          "url": "https://www.mercialys.fr/uploads/publications/documents/2024-07-24+-+Mercialys+-+Rapport+financier+semestriel+2024.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        },
+        {
+          "rank": 7,
+          "candidate_rank": 7,
+          "source_search_rank": 7,
+          "title": "LVMH : belle valeur a mettre en portefeuille - Forum Lvmh - Page 3",
+          "url": "https://www.abcbourse.com/forums/msg1003557_lvmh-belle-valeur-a-mettre-en-portefeuille_3",
+          "score": 80.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 3
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports semestriels terminée.",
+      "downloaded_count": 2,
+      "failed_count": 2,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "TotalEnergies_RFS_2024_VF",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/TotalEnergies_rapport_financier_semestriel_2024_fr_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "592fbaea83ef03f2e9460126279dbe5be8655b7a0599af9ce591efd05053dd7b"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "TotalEnergies_RFS_2024_VA",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/TotalEnergies_rapport_financier_semestriel_2024_en_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "8b498b7ab6bf4b9ae318c9e2979c57eee234c3ff2d22f76b088d7040eece03eb"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "TotalEnergies SE: Rapport financier semestriel 2024 ...",
+          "url": "https://www.moneycontroller.ch/fr/actualites-de-la-bourse-suisse/totalenergies-se/rapport-financier-semestriel-2024-2314980",
+          "score": 95.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 3
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "TotalEnergies : Half year financial report (TotalEnergies ...",
+          "url": "https://www.marketscreener.com/quote/stock/TOTALENERGIES-SE-4717/news/TotalEnergies-Half-year-financial-report-TotalEnergies-rapport-financier-semestriel-2024-en-pdf-47478829/",
+          "score": 80.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 3
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports semestriels terminée.",
+      "downloaded_count": 1,
+      "failed_count": 5,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 5,
+          "candidate_rank": 5,
+          "source_search_rank": 7,
+          "title": "RAPPORT FINANCIER",
+          "url": "https://www.clariane.com/sites/default/files/2024-08/etats-financiers-semestriels-30-juin-2024.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\half_year_reports\\schneider-electric\\2024\\candidates\\candidate_005_score_85_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\schneider-electric\\2024\\candidates\\candidate_005_manifest.json",
+          "sha256": "43e167d4fa066cf8d70c7face89ecb51059e2a0aee9da30674a12e2ae5676eb4"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Schneider Electric",
+          "url": "https://careers.se.com/Defaultlandingpage/talentcommunity/form?selected-node-id=12144421131",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 6
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "Schneider Electric",
+          "url": "https://careers.se.com/Digitaltalent/talentcommunity/form?utm_purpose=marketo&range=2550-thalassa-pls",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "not_a_pdf",
+          "message": "Les réponses obtenues ne sont pas des PDFs valides.",
+          "attempts": 6
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "Hilary MAXSON - Professionnels | Schneider Electric France",
+          "url": "https://www.SE.com/fr/fr/about-us/newsroom/experts/details/hilary-maxson-5e5e1f7912574a6c7002ea28",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "blocked_or_forbidden",
+          "message": "Le serveur bloque certaines stratégies de téléchargement.",
+          "attempts": 3
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 6,
+          "title": "Rapport financier",
+          "url": "https://www.eiffage.com/files/live/sites/eiffagev2/files/Finance/Résultats/2024/Eiffage+2024+-+Rapport+financier+semestriel.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        },
+        {
+          "rank": 6,
+          "candidate_rank": 6,
+          "source_search_rank": 8,
+          "title": "Rapport financier semestriel 2024",
+          "url": "https://www.carrefour.com/sites/default/files/2024-07/Carrefour_Rapport+financier+semestriel+2024.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": "?",
+          "title": "Candidats directs hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "2 candidat(s) hors période. Acceptés : 2024 et 2023."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0.0",
+  "module": "ESGExtractionOrchestrator",
+  "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\01_information_extraction",
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\02_orchestrator",
+  "started_at": "2026-05-14T05:05:11+00:00",
+  "finished_at": "2026-05-14T05:05:45+00:00",
+  "status": "success",
+  "reuse_existing": false,
+  "force_rerun": false,
+  "engine_run_manifest": {
+    "csv": {
+      "engine": "csv",
+      "status": "ran",
+      "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\02_orchestrator\\csv",
+      "candidates_count": 310
+    },
+    "visual": {
+      "engine": "visual",
+      "status": "ran",
+      "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\02_orchestrator\\visual",
+      "candidates_count": 43
+    },
+    "table": {
+      "engine": "table",
+      "status": "ran",
+      "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\02_orchestrator\\table",
+      "candidates_count": 28
+    }
+  },
+  "csv_candidates_count": 310,
+  "visual_candidates_count": 43,
+  "table_candidates_count": 28,
+  "consolidated_candidates_count": 381,
+  "unique_candidates_count": 335,
+  "duplicate_candidates_count": 46,
+  "duplicate_groups_count": 13,
+  "source_engine_distribution": {
+    "csv": 310,
+    "visual": 43,
+    "table": 28
+  },
+  "information_type_distribution": {
+    "observed_metric": 82,
+    "target": 67,
+    "boundary_context": 42,
+    "policy_or_commitment": 18,
+    "methodology_context": 14,
+    "risk_statement": 3,
+    "visual_evidence": 84,
+    "visual_metric_candidate": 43,
+    "table_metric_candidate": 28
+  },
+  "source_engine_information_type_distribution": {
+    "csv:observed_metric": 82,
+    "csv:target": 67,
+    "csv:boundary_context": 42,
+    "csv:policy_or_commitment": 18,
+    "csv:methodology_context": 14,
+    "csv:risk_statement": 3,
+    "csv:visual_evidence": 84,
+    "visual:visual_metric_candidate": 43,
+    "table:table_metric_candidate": 28
+  },
+  "deduplication_status_distribution": {
+    "unique_candidate": 322,
+    "canonical_candidate": 13,
+    "duplicate_candidate": 46
+  },
+  "audit_errors_count": 0,
+  "audit_warnings_count": 2,
+  "candidate_only": true,
+  "review_required": true
+}

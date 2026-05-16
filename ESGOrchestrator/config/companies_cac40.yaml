@@ -1,0 +1,243 @@
+# CAC 40 working universe for ESG corpus orchestration.
+# Review periodically: index composition can change over time.
+companies:
+  - name: Air Liquide
+    company_slug: air-liquide
+    official_domain: airliquide.com
+    ticker: AI
+    isin: FR0000120073
+    jurisdiction: France
+  - name: Airbus
+    company_slug: airbus
+    official_domain: airbus.com
+    ticker: AIR
+    isin: NL0000235190
+    jurisdiction: Netherlands
+  - name: Alstom
+    company_slug: alstom
+    official_domain: alstom.com
+    ticker: ALO
+    isin: FR0010220475
+    jurisdiction: France
+  - name: ArcelorMittal
+    company_slug: arcelormittal
+    official_domain: arcelormittal.com
+    ticker: MT
+    isin: LU1598757687
+    jurisdiction: Luxembourg
+  - name: AXA
+    company_slug: axa
+    official_domain: axa.com
+    ticker: CS
+    isin: FR0000120628
+    jurisdiction: France
+  - name: BNP Paribas
+    company_slug: bnp-paribas
+    official_domain: group.bnpparibas
+    ticker: BNP
+    isin: FR0000131104
+    jurisdiction: France
+  - name: Bouygues
+    company_slug: bouygues
+    official_domain: bouygues.com
+    ticker: EN
+    isin: FR0000120503
+    jurisdiction: France
+  - name: Capgemini
+    company_slug: capgemini
+    official_domain: capgemini.com
+    ticker: CAP
+    isin: FR0000125338
+    jurisdiction: France
+  - name: Carrefour
+    company_slug: carrefour
+    official_domain: carrefour.com
+    ticker: CA
+    isin: FR0000120172
+    jurisdiction: France
+  - name: Crédit Agricole
+    company_slug: credit-agricole
+    official_domain: credit-agricole.com
+    ticker: ACA
+    isin: FR0000045072
+    jurisdiction: France
+  - name: Danone
+    company_slug: danone
+    official_domain: danone.com
+    ticker: BN
+    isin: FR0000120644
+    jurisdiction: France
+  - name: Dassault Systèmes
+    company_slug: dassault-systemes
+    official_domain: 3ds.com
+    ticker: DSY
+    isin: FR0014003TT8
+    jurisdiction: France
+  - name: Edenred
+    company_slug: edenred
+    official_domain: edenred.com
+    ticker: EDEN
+    isin: FR0010908533
+    jurisdiction: France
+  - name: Engie
+    company_slug: engie
+    official_domain: engie.com
+    ticker: ENGI
+    isin: FR0010208488
+    jurisdiction: France
+  - name: EssilorLuxottica
+    company_slug: essilorluxottica
+    official_domain: essilorluxottica.com
+    ticker: EL
+    isin: FR0000121667
+    jurisdiction: France
+  - name: Eurofins Scientific
+    company_slug: eurofins-scientific
+    official_domain: eurofins.com
+    ticker: ERF
+    isin: FR0014000MR3
+    jurisdiction: France
+  - name: Hermès
+    company_slug: hermes
+    official_domain: hermes.com
+    ticker: RMS
+    isin: FR0000052292
+    jurisdiction: France
+  - name: Kering
+    company_slug: kering
+    official_domain: kering.com
+    ticker: KER
+    isin: FR0000121485
+    jurisdiction: France
+  - name: Legrand
+    company_slug: legrand
+    official_domain: legrandgroup.com
+    ticker: LR
+    isin: FR0010307819
+    jurisdiction: France
+  - name: L'Oréal
+    company_slug: loreal
+    official_domain: loreal-finance.com
+    ticker: OR
+    isin: FR0000120321
+    jurisdiction: France
+  - name: LVMH
+    company_slug: lvmh
+    official_domain: lvmh.com
+    ticker: MC
+    isin: FR0000121014
+    jurisdiction: France
+  - name: Michelin
+    company_slug: michelin
+    official_domain: michelin.com
+    ticker: ML
+    isin: FR001400AJ45
+    jurisdiction: France
+  - name: Orange
+    company_slug: orange
+    official_domain: orange.com
+    ticker: ORA
+    isin: FR0000133308
+    jurisdiction: France
+  - name: Pernod Ricard
+    company_slug: pernod-ricard
+    official_domain: pernod-ricard.com
+    ticker: RI
+    isin: FR0000120693
+    jurisdiction: France
+  - name: Publicis Groupe
+    company_slug: publicis-groupe
+    official_domain: publicisgroupe.com
+    ticker: PUB
+    isin: FR0000130577
+    jurisdiction: France
+  - name: Renault
+    company_slug: renault
+    official_domain: renaultgroup.com
+    ticker: RNO
+    isin: FR0000131906
+    jurisdiction: France
+  - name: Safran
+    company_slug: safran
+    official_domain: safran-group.com
+    ticker: SAF
+    isin: FR0000073272
+    jurisdiction: France
+  - name: Saint-Gobain
+    company_slug: saint-gobain
+    official_domain: saint-gobain.com
+    ticker: SGO
+    isin: FR0000125007
+    jurisdiction: France
+  - name: Sanofi
+    company_slug: sanofi
+    official_domain: sanofi.com
+    ticker: SAN
+    isin: FR0000120578
+    jurisdiction: France
+  - name: Schneider Electric
+    company_slug: schneider-electric
+    official_domain: se.com
+    ticker: SU
+    isin: FR0000121972
+    jurisdiction: France
+  - name: Société Générale
+    company_slug: societe-generale
+    official_domain: societegenerale.com
+    ticker: GLE
+    isin: FR0000130809
+    jurisdiction: France
+  - name: Stellantis
+    company_slug: stellantis
+    official_domain: stellantis.com
+    ticker: STLAP
+    isin: NL00150001Q9
+    jurisdiction: Netherlands
+  - name: STMicroelectronics
+    company_slug: stmicroelectronics
+    official_domain: st.com
+    ticker: STMPA
+    isin: NL0000226223
+    jurisdiction: Netherlands
+  - name: Teleperformance
+    company_slug: teleperformance
+    official_domain: teleperformance.com
+    ticker: TEP
+    isin: FR0000051807
+    jurisdiction: France
+  - name: Thales
+    company_slug: thales
+    official_domain: thalesgroup.com
+    ticker: HO
+    isin: FR0000121329
+    jurisdiction: France
+  - name: TotalEnergies
+    company_slug: totalenergies
+    official_domain: totalenergies.com
+    ticker: TTE
+    isin: FR0000120271
+    jurisdiction: France
+  - name: Unibail-Rodamco-Westfield
+    company_slug: unibail-rodamco-westfield
+    official_domain: urw.com
+    ticker: URW
+    isin: FR0013326246
+    jurisdiction: France
+  - name: Veolia
+    company_slug: veolia
+    official_domain: veolia.com
+    ticker: VIE
+    isin: FR0000124141
+    jurisdiction: France
+  - name: Vinci
+    company_slug: vinci
+    official_domain: vinci.com
+    ticker: DG
+    isin: FR0000125486
+    jurisdiction: France
+  - name: Vivendi
+    company_slug: vivendi
+    official_domain: vivendi.com
+    ticker: VIV
+    isin: FR0000127771
+    jurisdiction: France

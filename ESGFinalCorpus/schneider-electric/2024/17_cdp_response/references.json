@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_8c256bbe5861948c1cbd19ff",
+  "sha256": "816c7d20ecc27c264a489d5dc3fce8de799e4f1cf4c35415b6469e3f9aaf5106",
+  "all_references": [
+    {
+      "document_id": "e2926586c0ea8db6ff81abb7",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.stantec.com/content/dam/stantec/files/PDFAssets/2024/2024-cdp-disclosure.pdf",
+      "source_title": "Stantec 2024 CDP Climate Change Questionnaire",
+      "source_name": "ddgs",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 1.1906,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:42:29+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

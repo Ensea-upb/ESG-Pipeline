@@ -1,0 +1,46 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKdWZm069VX13wp_communique-de-mise-a-disposition-ou-de-consultation-des-documents-preparatoires-a-lassemblee-generale.pdf",
+    "title": "Communiqué de mise à disposition ou de consultation des documents préparatoires à l’Assemblée générale",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/fr/le-calendrier-des-evenements-financiers/assemblee-generale-2024. Titre page : Assemblée Générale 2024 - LVMH. Texte du lien : Communiqué de mise à disposition ou de consultation des documents préparatoires à l’Assemblée générale.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 98.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier AGM : ['assemblée-générale']",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_001_score_98_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "4469eee6f9e049e6e09c71ed2e3fae7f7dae8c22df370ebd5121712ddf5acbf7",
+    "file_size_mb": 0.2194,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZnKdWZm069VX13wp_communique-de-mise-a-disposition-ou-de-consultation-des-documents-preparatoires-a-lassemblee-generale.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:40+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

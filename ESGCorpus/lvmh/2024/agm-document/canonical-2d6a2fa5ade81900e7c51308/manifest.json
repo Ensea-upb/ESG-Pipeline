@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_2d6a2fa5ade81900e7c51308",
+  "sha256": "428b8ca97da43ef9e3a64705d516adad84595840b36411d67dd5526e5b0ef295",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Formulaire d’option pour l’e-convocation",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmB--Jm069VX1fEt_formulaire-doption-pour-le-convocation.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_026_score_83_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\agm-document\\canonical-2d6a2fa5ade81900e7c51308\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

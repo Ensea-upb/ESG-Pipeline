@@ -1,0 +1,43 @@
+{
+  "document_type": "assurance_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn.prod.website-files.com/66b2233d3c4dc3712ce73ffe/66ecbe92e3fc032a43d59fbc_AA1000-Assurance-Standard-Application-Guide.pdf",
+    "title": "AA1000",
+    "snippet": "This latest version of the AA1000 Assurance Standard and Guidance Document advances AccountAbility’s legacy (over 25 years) of delivering universally-applied sustainability guidance to organisations small and large, spanning industry sectors and geographies.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts assurance : ['aa1000 assurance']",
+      "mots-clés secondaires : ['assurance']",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : assurance_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "9f8eca45a6639e43271bd88b6f0c63a985a3560b785d8b5f4e4bc96b45f5505f",
+    "file_size_mb": 1.6204,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_66ecbe92e3fc032a43d59fbc_AA1000-Assurance-Standard-Application-Guide.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:21+00:00",
+    "storage_version": "assurance_report_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_a35e2f4d644cfc645bb93fd4",
+  "sha256": "57ee931c4210d131c0a1eef6b5fdab51b5fa275de97e57a1076ad13d4dd00568",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "sustainability_report",
+  "document_families_detected": [
+    "sustainability_report"
+  ],
+  "retrievers_detected": [
+    "SustainabilityReportRetriever"
+  ],
+  "canonical_source_title": "View Responsibility Report",
+  "canonical_source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NYSE_TTE_2018.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_009_score_80_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\sustainability-report\\canonical-a35e2f4d644cfc645bb93fd4\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

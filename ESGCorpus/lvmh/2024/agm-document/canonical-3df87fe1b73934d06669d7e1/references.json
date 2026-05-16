@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_3df87fe1b73934d06669d7e1",
+  "sha256": "f0df09debf8a94c994b1986a14fea43a6850c013abdbdca925a5bcbd032fdcda",
+  "all_references": [
+    {
+      "document_id": "a43a95d1e83c88836074b15b",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKhzJm069VX130D_tableau-de-synthese-des-delegations-financieres-vf.pdf",
+      "source_title": "Synthèse des délégations financières en cours",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_016_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_016_manifest.json",
+      "file_size_mb": 0.2765,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 16,
+      "stored_at": "2026-05-09T20:48:48+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_016_manifest.json"
+    }
+  ]
+}

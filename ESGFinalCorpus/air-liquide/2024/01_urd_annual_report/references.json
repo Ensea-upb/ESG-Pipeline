@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "sha256": "6b522790fa357c4e454cafb605fad1ad3a448ff405985db5ac3e7de01014ab1f",
+  "all_references": [
+    {
+      "document_id": "5120b120ad1fa10c0e231d91",
+      "retriever_name": "AnnualReportRetriever",
+      "document_family": "annual_report",
+      "company_name": "Air Liquide",
+      "company_slug": "air-liquide",
+      "fiscal_year": 2024,
+      "source_url": "https://usa.airliquide.com/sites/al_us/files/2025-05/2024-integrated-annual-report.pdf",
+      "source_title": "[PDF] 2024-integrated-annual-report.pdf - Air Liquide USA",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\air-liquide\\2024\\annual_report.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\air-liquide\\2024\\manifest.json",
+      "file_size_mb": 32.2359,
+      "document_type": "annual_report",
+      "storage_role": "final_selected_document",
+      "candidate_rank": 0,
+      "stored_at": "2026-05-09T18:49:10+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\air-liquide\\2024\\manifest.json"
+    }
+  ]
+}

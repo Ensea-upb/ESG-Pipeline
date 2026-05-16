@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_a35e2f4d644cfc645bb93fd4",
+  "sha256": "57ee931c4210d131c0a1eef6b5fdab51b5fa275de97e57a1076ad13d4dd00568",
+  "all_references": [
+    {
+      "document_id": "f856de51fea4b2dad1907645",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NYSE_TTE_2018.pdf",
+      "source_title": "View Responsibility Report",
+      "source_name": "html_pdf_resolver",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_009_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_009_manifest.json",
+      "file_size_mb": 9.1238,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 9,
+      "stored_at": "2026-05-09T18:39:31+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_009_manifest.json"
+    }
+  ]
+}

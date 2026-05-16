@@ -1,0 +1,31 @@
+{"company": "totalenergies", "year": "2024", "variable_name": "co2_emissions", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "carbon_intensity", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "energy_consumption", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "water_consumption", "status": "found", "reason": "Best mapped numeric candidate selected."}
+{"company": "totalenergies", "year": "2024", "variable_name": "waste", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "biodiversity", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "fossil_exposure", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "turnover", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "diversity", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "work_accidents", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "human_capital", "status": "found", "reason": "Best mapped numeric candidate selected."}
+{"company": "totalenergies", "year": "2024", "variable_name": "supply_chain", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "human_rights", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "board_independence", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "ceo_chairman_separation", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "remuneration", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "shareholder_rights", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "transparency", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "esg_scandals", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "fraud", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "corruption", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "pollution", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "lawsuits", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "social_controversies", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "market_cap", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "volatility", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "leverage", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "roa", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "roe", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "liquidity", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}
+{"company": "totalenergies", "year": "2024", "variable_name": "stock_returns", "status": "missing_from_corpus", "reason": "No mapped candidate in corpus outputs."}

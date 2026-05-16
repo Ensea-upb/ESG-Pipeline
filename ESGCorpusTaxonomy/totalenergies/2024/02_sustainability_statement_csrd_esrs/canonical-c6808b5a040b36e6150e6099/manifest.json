@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_c6808b5a040b36e6150e6099",
+  "sha256": "dba48e9f5e7e6fc9862dd95159960eb2a270d6975f2457f443ca422e7449e7d6",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "sustainability_report",
+  "official_doc_type": "02_sustainability_statement_csrd_esrs",
+  "official_doc_type_label": "Sustainability statement / CSRD / ESRS",
+  "doc_type_stratum": "core_sustainability",
+  "doc_subtype": "sustainability_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_emerging_regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\sustainability-report\\canonical-c6808b5a040b36e6150e6099\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\02_sustainability_statement_csrd_esrs\\canonical-c6808b5a040b36e6150e6099\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

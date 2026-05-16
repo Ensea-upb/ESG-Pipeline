@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "pdf_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\totalenergies\\2024\\01_urd_annual_report\\document.pdf",
+  "page_count": 680,
+  "pages_processed": 30,
+  "text_blocks_count": 1648,
+  "sections_count": 13,
+  "suspicious_sections_count": 0,
+  "evidence_count": 411,
+  "text_evidence_count": 311,
+  "table_evidence_count": 57,
+  "figure_evidence_count": 43,
+  "tables_count": 76,
+  "parsed_tables_count": 10,
+  "low_confidence_tables_count": 48,
+  "empty_tables_count": 18,
+  "figures_count": 43,
+  "page_level_visual_count": 0,
+  "embedded_visual_count": 43,
+  "captioned_figure_count": 0,
+  "normal_evidence_count": 411,
+  "review_required_evidence_count": 165,
+  "quarantined_evidence_count": 0,
+  "evidence_policy_distribution": {
+    "normal": 411
+  },
+  "extraction_readiness_status": "partially_ready",
+  "extraction_readiness_reasons": [
+    "many_review_or_quarantined_evidences"
+  ],
+  "generated_at": "2026-05-14T05:04:56+00:00",
+  "company": "TotalEnergies",
+  "company_name": "TotalEnergies SE",
+  "fiscal_year": "2024",
+  "official_doc_type": "URD",
+  "final_path": "C:/Users/hp/Desktop/ESG/ESGFinalCorpus/totalenergies/2024/01_urd_annual_report/document.pdf"
+}

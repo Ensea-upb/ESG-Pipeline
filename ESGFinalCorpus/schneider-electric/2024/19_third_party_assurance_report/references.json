@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_b49d67d5650bdbec368e8308",
+  "sha256": "1ded281f7ef3c4927bf462a3e30a71d245903ecb43072c406371d76d4bbbf2c6",
+  "all_references": [
+    {
+      "document_id": "ca60a0682ec34cd8f2363a75",
+      "retriever_name": "AssuranceReportRetriever",
+      "document_family": "assurance_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/blt359d461aad4989ee/69b3470022822b39d2640820/erm-cvs-limited-assurance-report-for-reckitt-2024-19-mar-25_(2).pdf",
+      "source_title": "Independent Limited Assurance Report",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.1783,
+      "document_type": "assurance_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:43:02+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

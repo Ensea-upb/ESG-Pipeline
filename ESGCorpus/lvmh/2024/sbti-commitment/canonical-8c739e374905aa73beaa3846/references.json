@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_8c739e374905aa73beaa3846",
+  "sha256": "3f5be5a2ac3a8e2ff3b9e5f6a9a36791dc483072d9423b645735ec9e5fc0817d",
+  "all_references": [
+    {
+      "document_id": "9b31c7b16f860deaca043484",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Japanese_BVCM-Above-and-Beyond-Report-Executive-Summary.pdf",
+      "source_title": "[Japanese translation] Executive Summary - Above and Beyond Report",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_044_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_044_manifest.json",
+      "file_size_mb": 4.8989,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 44,
+      "stored_at": "2026-05-09T20:42:19+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_044_manifest.json"
+    }
+  ]
+}

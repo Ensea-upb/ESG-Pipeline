@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_49e7f8d175cda572e7dc23de",
+  "sha256": "7daf607d73b9f286302d1cb67ea59beb9e31eb235cd20ad9003b7a6bc4c6b3d8",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "half_year_report",
+  "document_families_detected": [
+    "half_year_report"
+  ],
+  "retrievers_detected": [
+    "HalfYearReportRetriever"
+  ],
+  "canonical_source_title": "Communiqué LVMH",
+  "canonical_source_url": "https://www.bnains.org/archives/communiques/LVMH/20240723_Communique_resultats_semestriels_2024_LVMH.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\half-year-report\\canonical-49e7f8d175cda572e7dc23de\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

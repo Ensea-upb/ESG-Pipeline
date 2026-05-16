@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_db2f702e7c200b82eb474471",
+  "sha256": "592fbaea83ef03f2e9460126279dbe5be8655b7a0599af9ce591efd05053dd7b",
+  "all_references": [
+    {
+      "document_id": "44cebb8f260786f91d790fa2",
+      "retriever_name": "HalfYearReportRetriever",
+      "document_family": "half_year_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/TotalEnergies_rapport_financier_semestriel_2024_fr_pdf.pdf",
+      "source_title": "TotalEnergies_RFS_2024_VF",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 1.1745,
+      "document_type": "half_year_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:42:31+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

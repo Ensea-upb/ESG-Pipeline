@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_037f3dd4f6e5c030c950602f",
+  "sha256": "3050d1a6365a5a6e15fd560b3deca7c3591542d0beec19af1d87f9559b7a373c",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "sbti_commitment",
+  "document_families_detected": [
+    "sbti_commitment"
+  ],
+  "retrievers_detected": [
+    "SBTiRetriever"
+  ],
+  "canonical_source_title": "[Chinese translation] Executive Summary - Above and Beyond Report",
+  "canonical_source_url": "http://sciencebasedtargets.org/resources/files/Chinese_BVCM-Above-and-Beyond-Report-Executive-Summary.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_042_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\sbti-commitment\\canonical-037f3dd4f6e5c030c950602f\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

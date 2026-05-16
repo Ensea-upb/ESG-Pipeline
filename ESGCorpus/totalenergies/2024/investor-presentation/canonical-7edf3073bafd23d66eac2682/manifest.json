@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_7edf3073bafd23d66eac2682",
+  "sha256": "c9eaa784b07391fe7b01bd8b40a4aa6cffaa9576db0394421fac2777aebaad6a",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "investor_presentation",
+  "document_families_detected": [
+    "investor_presentation"
+  ],
+  "retrievers_detected": [
+    "InvestorPresentationRetriever"
+  ],
+  "canonical_source_title": "JDA#75 Le journal des actionnaires Automne 2024",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_journal-actionnaires-75_2024_fr_pdf.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\investor-presentation\\canonical-7edf3073bafd23d66eac2682\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:01+00:00"
+}

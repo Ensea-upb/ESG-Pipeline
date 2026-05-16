@@ -1,0 +1,46 @@
+{
+  "document_type": "vigilance_plan_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.voluntaryprinciples.org/wp-content/uploads/2025/04/TotalEnergies-2024-Annual-Report.pdf",
+    "title": "VPSHR 2024",
+    "snippet": "This repor t describes TotalEnergies’ (the “Company”) overall commitment and 2024 implementation of the Voluntary Principles on Security and Human Rights (“VPSHR” or “VPs”).",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 81.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles vigilance : ['human rights']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux vigilance : ['annual report']",
+      "classe documentaire : annual_report_with_vigilance_section"
+    ],
+    "negative_signals": [
+      "domaine non officiel : voluntaryprinciples.org"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\vigilance_plans\\totalenergies\\2024\\candidates\\candidate_001_score_81_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\vigilance_plans\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "c221f3684732fcb29102ce1830671fd49fe2e53fde24b3bbd976a7b54b10bea7",
+    "file_size_mb": 2.1385,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_TotalEnergies-2024-Annual-Report.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:59:29+00:00",
+    "storage_version": "vigilance_plan_candidate_storage_v0"
+  }
+}

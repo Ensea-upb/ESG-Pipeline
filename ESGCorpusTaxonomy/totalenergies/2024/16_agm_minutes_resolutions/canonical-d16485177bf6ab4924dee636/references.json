@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d16485177bf6ab4924dee636",
+  "sha256": "488f12e9408f4cfdf26894f3dee374dc993adc3bd9fd69e21a30b5bcb12c9136",
+  "all_references": [
+    {
+      "document_id": "222fb29128ce2a799ce0b694",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-05/AG_2023_Brochure_avis_convocation_fr.pdf",
+      "source_title": "Brochure Avis de Convocation – Assemblée générale mixte 2023",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_010_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_010_manifest.json",
+      "file_size_mb": 2.6395,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 10,
+      "stored_at": "2026-05-09T20:49:55+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_010_manifest.json"
+    }
+  ]
+}

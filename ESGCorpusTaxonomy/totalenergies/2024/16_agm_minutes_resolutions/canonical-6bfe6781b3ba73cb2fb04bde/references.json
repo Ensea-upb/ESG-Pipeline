@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_6bfe6781b3ba73cb2fb04bde",
+  "sha256": "b291f285adaf492fe285daa98640e114b7d69f5e7906d791ab3cde740bfdd62b",
+  "all_references": [
+    {
+      "document_id": "f5e315aed31a95abedbd770e",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Brochure-avis-convocation_2024_en_PDF.pdf",
+      "source_title": "Notice of meeting - TotalEnergies",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 3.382,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:49:45+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

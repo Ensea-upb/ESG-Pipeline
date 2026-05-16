@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_805f2f0f2264a378e5a9b20e",
+  "sha256": "9b9e14d619787cfb6819aebe7ad76f4c7631328e6339d435be805ad23aece33f",
+  "all_references": [
+    {
+      "document_id": "6afd8fa5520224c732573a5e",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKggJm069VX13yv_mise-a-disposition-du-document-denregistrement-universel-2023.pdf",
+      "source_title": "Communiqué de mise à disposition du Document d’enregistrement universel 2023",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_012_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_012_manifest.json",
+      "file_size_mb": 0.1345,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 12,
+      "stored_at": "2026-05-09T20:48:46+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_012_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_c474caefac471ff03ba06d4e",
+  "sha256": "f48e5bde5bcb4ea6fbb7433569758ec0c32220e203172bab4ef59830653d562f",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "earnings_call",
+  "document_families_detected": [
+    "earnings_call"
+  ],
+  "retrievers_detected": [
+    "EarningsCallRetriever"
+  ],
+  "canonical_source_title": "AIME Terms of Use",
+  "canonical_source_url": "https://cdn.ainvest.com/agreement/AIME-Terms-of-Use.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_003_score_90_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\earnings-call\\canonical-c474caefac471ff03ba06d4e\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:10:01+00:00"
+}

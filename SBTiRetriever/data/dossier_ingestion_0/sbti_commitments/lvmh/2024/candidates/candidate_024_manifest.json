@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 24,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Legacy_Net-Zero-Standard_v1.1.pdf",
+    "title": "View previous version (1.1) here.",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/resources. Titre page : Resources - Science Based Targets Initiative. Texte du lien : View previous version (1.1) here..",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_024_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_024_manifest.json",
+    "sha256": "42a29a967c1b6c0695e33ab5f1526812650e85d9bc3a12509dd44e43e97a8457",
+    "file_size_mb": 2.3157,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Legacy_Net-Zero-Standard_v1.1.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:49+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

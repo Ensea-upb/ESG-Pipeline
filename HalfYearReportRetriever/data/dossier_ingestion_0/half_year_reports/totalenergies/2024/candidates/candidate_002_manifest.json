@@ -1,0 +1,46 @@
+{
+  "document_type": "half_year_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "period_type": "H1",
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/TotalEnergies_rapport_financier_semestriel_2024_en_pdf.pdf",
+    "title": "TotalEnergies_RFS_2024_VA",
+    "snippet": "The French language version of this Rapport financier semestriel (half-year financial report) was filed with the French Financial Markets Authority (Autorité des marchés financiers) on July 26, 2024 pursuant to paragraph III of Article L. 451-1-2 of the French Monetary and Financial Code",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts semestriel : ['half year financial report', 'rapport financier semestriel']",
+      "année trouvée : {'2024'}",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier semestriel : ['semestriel']",
+      "classe documentaire : standalone_half_year_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "8b498b7ab6bf4b9ae318c9e2979c57eee234c3ff2d22f76b088d7040eece03eb",
+    "file_size_mb": 1.0372,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_TotalEnergies_rapport_financier_semestriel_2024_en_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:32+00:00",
+    "storage_version": "half_year_report_candidate_storage_v0"
+  }
+}

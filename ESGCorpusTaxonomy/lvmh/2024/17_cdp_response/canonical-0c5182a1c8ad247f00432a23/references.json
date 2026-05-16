@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_0c5182a1c8ad247f00432a23",
+  "sha256": "38930f6c5670ed40e781f47631881facca0e397bffca94942e3fcec16f94e25b",
+  "all_references": [
+    {
+      "document_id": "8c3831ba56bef51b8846b89e",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.fmc.com/sites/default/files/2023-07/FMC_CDP_Climate_2023.pdf",
+      "source_title": "2023 FMC CDP Climate Change Response PDF (871.03 k)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_005_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+      "file_size_mb": 0.8506,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 5,
+      "stored_at": "2026-05-09T20:41:20+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_005_manifest.json"
+    }
+  ]
+}

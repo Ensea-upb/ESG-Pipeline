@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d761576d7db38665e648edc7",
+  "sha256": "534a7479162a81f84e6bbab7c8cba5bec1f5b4ac727d5b3c8e59e925c9d8c0c7",
+  "all_references": [
+    {
+      "document_id": "ad8f3bc524ad83ac49dce929",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmB7gpm069VX1fBo_politique-de-remuneration-des-administrateurs-et-des-dirigeants-mandataires-sociaux.pdf",
+      "source_title": "Politique de rémunération des Administrateurs et des Dirigeants mandataires sociaux",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_021_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_021_manifest.json",
+      "file_size_mb": 0.1877,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 21,
+      "stored_at": "2026-05-09T20:41:45+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_021_manifest.json"
+    }
+  ]
+}

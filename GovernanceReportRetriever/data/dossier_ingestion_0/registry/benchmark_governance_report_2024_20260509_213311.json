@@ -1,0 +1,140 @@
+{
+  "benchmark_name": "governance_report_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T21:33:11",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports de gouvernance terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports de gouvernance terminée.",
+      "downloaded_count": 1,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] GRI Content Index 2024 GRI Standards 2021 - TotalEnergies",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_index-gri-2025_2025.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\governance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "fb384aeac5d75e35dd79f55f6bb09299a53bddb7536fa2d3ffee72e5df4a0a35"
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports de gouvernance terminée.",
+      "downloaded_count": 1,
+      "failed_count": 1,
+      "skipped_count": 5,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] Integrated report 2024 - Schneider Electric",
+          "url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\governance_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\governance_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 7,
+          "title": "[PDF] Schneider Electric President Systems Limited",
+          "url": "https://www.msei.in/SX-Content/Listing/Annual-Reports/2024/SELECTRIC-2024.pdf",
+          "score": 81.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Corporate Governance Report - June 30 2024 | Schneider Electric",
+          "url": "https://www.se.com/in/en/download/document/cgr_jun30/",
+          "score": 92.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Corporate Governance Report - March 2024 | Schneider Electric",
+          "url": "https://www.se.com/in/en/download/document/Cgr_March_2024/",
+          "score": 92.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Corporate Governance Report_December 31, 2024 | Schneider Electric",
+          "url": "https://www.se.com/in/en/download/document/cgr_dec31/",
+          "score": 92.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Corporate Governance Report - September 30 2024",
+          "url": "https://www.se.com/in/en/download/document/cgr_sep24/",
+          "score": 92.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 PDF(s) extraits de pages HTML ont été ignorés car leur année était trop éloignée de l'année cible 2024. Années acceptées : 2024 et 2023."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_21b88b77a7daf1ed63d6a77e",
+  "sha256": "1f4111ee003aef7b9f0cd4a9f193a20b85a8a6c8820385019af22d1b0573ccc8",
+  "all_references": [
+    {
+      "document_id": "68bd99cae4c2370f07fd1955",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/470536/release-report-agm-2024.pdf",
+      "source_title": "2024 Annual General Meeting: approval resolutions submitted ...",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.1206,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:44:31+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

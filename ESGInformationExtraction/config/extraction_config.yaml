@@ -1,0 +1,44 @@
+# ESGInformationExtraction — configuration générale
+# Ce fichier configure les paramètres du pipeline d'extraction futur.
+# Il ne déclenche aucune extraction : c'est un fichier de référence.
+
+extraction:
+  schema_version: "1.0.0"
+  default_parser: "pdfplumber"
+  max_pages_per_doc: 500
+  min_page_char_count: 50
+  language_detection: false  # activer quand langdetect sera intégré
+
+input:
+  # Dossier racine du corpus final (lecture seule)
+  # À surcharger au moment de l'exécution via --corpus-path
+  corpus_path: null
+  # Sous-dossiers attendus dans chaque entry du corpus
+  expected_files:
+    - "*.pdf"
+    - "manifest.json"
+
+output:
+  # Toutes les sorties vont dans outputs/<run_id>/
+  base_dir: "outputs"
+  document_base_file: "document_base.jsonl"
+  page_index_file: "page_index.jsonl"
+  section_index_file: "section_index.jsonl"
+  metric_candidates_file: "metric_candidates.jsonl"
+  evidence_file: "evidence_store.jsonl"
+  quality_report_file: "quality_report.jsonl"
+  summary_file: "extraction_summary.json"
+
+scoring:
+  # Seuils de confiance pour la validation automatique
+  metric_auto_validate_threshold: 0.85
+  section_auto_validate_threshold: 0.80
+  evidence_min_confidence: 0.60
+
+quality_control:
+  # Checks activés (tous désactivés par défaut — activation manuelle)
+  document_path_exists: true
+  fiscal_year_consistency: true
+  empty_text_check: true
+  missing_evidence_check: false   # activer après première extraction
+  confidence_threshold_check: false

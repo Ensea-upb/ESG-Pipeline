@@ -1,0 +1,159 @@
+================================================================================
+LISTE DES DOCUMENTS A CHARGER - PROJET ESG / ANALYSE CORPORATE
+Version consolidee, dedupliquee, prioritisee par strate
+================================================================================
+
+
+--------------------------------------------------------------------------------
+STRATE 1 - SOCLE REGLEMENTAIRE (mandatoire, date par exercice)
+--------------------------------------------------------------------------------
+
+1. URD ou Annual Report consolide
+   Note : contient deja le rapport de gouvernance, le rapport de remuneration,
+   le board report et la DPEF historique. NE PAS charger ces sections separement.
+
+2. Sustainability Statement CSRD / ESRS
+   A partir de l'exercice 2024 pour les grandes entreprises UE.
+   Remplace progressivement la DPEF et le rapport ESG standalone.
+
+3. Rapport climat / TCFD / Plan de transition
+   Uniquement si publie en standalone.
+   Sinon, traite comme section ESRS E1 du Sustainability Statement.
+
+4. Plan de vigilance
+   Uniquement si emetteur soumis a la loi francaise sur le devoir de vigilance
+   (>=5000 salaries en France ou >=10 000 dans le monde).
+
+5. Rapport financier semestriel (H1).
+
+6. [Emetteurs US uniquement, en remplacement du point 1]
+   Form 10-K + Proxy Statement (DEF 14A).
+   Form 20-F si foreign private issuer.
+
+
+--------------------------------------------------------------------------------
+STRATE 2 - POLITIQUES ET ENGAGEMENTS (perpetuels, versionnes par hash)
+--------------------------------------------------------------------------------
+
+7.  Code ethique / Code of Conduct.
+
+8.  Politique anticorruption.
+
+9.  Politique droits humains.
+
+10. Politique diversite, equite et inclusion (DEI).
+
+11. Politique environnementale
+    (climat, eau, biodiversite, economie circulaire selon publication).
+
+12. Supplier Code of Conduct / politique achats responsables.
+
+
+--------------------------------------------------------------------------------
+STRATE 3 - COMMUNICATION NARRATIVE CORPORATE (evenementielle)
+--------------------------------------------------------------------------------
+
+13. Presentations investisseurs
+    Capital Markets Day, ESG Day, roadshows, slides resultats trimestriels.
+
+14. Transcripts d'earnings calls (4 par an)
+    Signal non-scripte, souvent absent des pipelines ESG, a exploiter.
+
+15. Communiques officiels ESG, climat, gouvernance,
+    M&A a enjeu durabilite.
+
+16. Proces-verbaux et resolutions d'AGM
+    Notamment resolutions climat (Say on Climate)
+    et resolutions externes d'actionnaires activistes.
+
+
+--------------------------------------------------------------------------------
+STRATE 4 - SOURCES EXTERNES CRITIQUES (contre-poids non corporate)
+--------------------------------------------------------------------------------
+
+17. Reponse CDP
+    Questionnaires Climate Change, Water Security, Forests.
+    Donnees semi-structurees, exploitables sans LLM.
+
+18. Validation SBTi
+    Lettre d'engagement, targets valides, statut Net-Zero Standard.
+
+19. Rapport d'assurance tiers sur les informations de durabilite
+    CRUCIAL : niveau limited vs reasonable, perimetre couvert, reserves emises.
+
+20. Base de controverses
+    RepRisk, Sigwatch, ou equivalent open (NewsAPI + filtre ESG).
+
+21. Contentieux climatiques et droits humains
+    Climate Change Litigation Database (Sabin Center).
+    Business & Human Rights Resource Centre.
+
+22. Couverture critique
+    Reclaim Finance, Oxfam, Amis de la Terre, Reporterre,
+    Bloomberg Green, Financial Times Moral Money.
+
+
+================================================================================
+PROFONDEUR HISTORIQUE RECOMMANDEE
+================================================================================
+
+Strates 1 et 4 : 3 a 5 exercices glissants
+  -> permet l'analyse de trajectoire et la detection d'incoherences temporelles
+     (engagement annee N vs realisation annee N+2).
+
+Strate 2 : version actuelle + version precedente
+  -> permet de tracker les durcissements ou assouplissements de politique.
+
+Strate 3 : 24 mois glissants suffisent.
+
+
+================================================================================
+REGLES DE DEDUPLICATION NON NEGOCIABLES
+================================================================================
+
+- Quand l'URD existe pour l'emetteur-annee : ne PAS ingerer separement
+  rapport de gouvernance, rapport de remuneration, board report, DPEF,
+  rapport climat (s'il y est integre).
+  -> Extraire ces sections via parser et les indexer comme chunks tagues
+     du document parent (champ parent_doc_id).
+
+- Quand le Sustainability Statement CSRD existe : il remplace DPEF,
+  rapport ESG standalone et souvent le rapport climat. Ne pas dupliquer.
+
+
+================================================================================
+SCHEMA DE METADONNEES MINIMAL (a instancier des l'ingestion)
+================================================================================
+
+emitter_id, ticker, isin, sector_nace, jurisdiction
+doc_type (parmi 4 strates), doc_subtype
+fiscal_year, period_type (FY | H1 | Q | adhoc | perpetual)
+language, page_count
+assurance_level (none | limited | reasonable)
+regulatory_status (mandatory | voluntary)
+parent_doc_id
+source_url, retrieval_date, sha256, ingestion_version
+
+
+================================================================================
+CRITERE D'ARRET DE LA PHASE DE SOURCING
+================================================================================
+
+La phase est verrouillee quand :
+
+(1) Matrice emetteurs x types_documents x annees remplie,
+    avec taux de couverture cible explicite
+    (ex. >=80 % strate 1, >=50 % strate 4).
+
+(2) Chaque document a son hash et son URL perenne
+    (PDF archive, pas un lien vers la page corporate qui peut casser).
+
+(3) Le schema de metadonnees est instancie dans une table de reference,
+    pas dans un README.
+
+
+================================================================================
+TOTAL : 22 types de documents
+Volume reduit d'environ 40 % apres deduplication par rapport a une liste plate.
+Signal analytique densifie par la strate 4 et la profondeur historique.
+================================================================================

@@ -1,0 +1,45 @@
+profiles:
+  pilot:
+    companies:
+      - LVMH
+      - TotalEnergies
+    years:
+      - 2024
+      - 2025
+    max_workers: 1
+
+  full_cac40_5y:
+    companies: all
+    years:
+      - 2021
+      - 2022
+      - 2023
+      - 2024
+      - 2025
+    max_workers: 2
+
+  onyxia_pilot_5x2:
+    companies:
+      - LVMH
+      - TotalEnergies
+      - Schneider Electric
+      - Air Liquide
+      - BNP Paribas
+    years:
+      - 2024
+      - 2025
+    max_workers: 1
+    resume: true
+    skip_existing_downloads: true
+
+  onyxia_cac40_5y:
+    companies: all
+    years:
+      - 2021
+      - 2022
+      - 2023
+      - 2024
+      - 2025
+    max_workers: 2
+    resume: true
+    skip_existing_downloads: true

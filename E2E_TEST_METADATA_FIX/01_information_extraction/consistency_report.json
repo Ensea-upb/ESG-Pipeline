@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "generated_at": "2026-05-14T05:04:56+00:00",
+  "overall_status": "fail",
+  "errors_count": 2,
+  "warnings_count": 8,
+  "checks_count": 10,
+  "files_checked": [
+    "document_record.json",
+    "page_index.jsonl",
+    "text_blocks.jsonl",
+    "text_block_statistics.json",
+    "section_candidates.jsonl",
+    "section_index.jsonl",
+    "section_statistics.json",
+    "evidence_store.jsonl",
+    "evidence_statistics.json",
+    "suspicious_sections.jsonl",
+    "quality_report.jsonl",
+    "extraction_summary.json",
+    "table_index.jsonl",
+    "table_cells.jsonl",
+    "table_statistics.json",
+    "figure_index.jsonl",
+    "figure_statistics.json",
+    "document_inventory.json",
+    "multimodal_evidence_index.jsonl",
+    "multimodal_statistics.json",
+    "consistency_report.json",
+    "audit_findings.jsonl",
+    "document_audit_report.md"
+  ],
+  "missing_expected_files": [
+    "quality_report.jsonl",
+    "extraction_summary.json"
+  ],
+  "count_consistency": {
+    "evidence_store_count": 411,
+    "multimodal_evidence_count": 411,
+    "counts_match": true
+  },
+  "id_consistency": {
+    "evidence_ids_match_multimodal": true
+  },
+  "policy_consistency": {
+    "quarantine_eligible_count": 0,
+    "review_required_eligible_count": 0
+  },
+  "modality_consistency": {
+    "invalid_source_modality_count": 0
+  },
+  "section_link_consistency": {
+    "sections_count": 13,
+    "suspicious_sections_count": 0
+  },
+  "table_link_consistency": {},
+  "figure_link_consistency": {},
+  "suspicious_sections_consistency": {
+    "suspicious_sections_retained": true
+  },
+  "findings": [
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_185dd0c33ecf29da3a3e",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "critical",
+      "category": "file_presence",
+      "check_name": "expected_file_present",
+      "status": "fail",
+      "message": "Expected output file is missing: quality_report.jsonl.",
+      "related_file": "quality_report.jsonl",
+      "related_object_id": "",
+      "recommendation": "Regenerate the PDF extraction output before downstream use."
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_6f44e3e37fdec90dd0d7",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "critical",
+      "category": "file_presence",
+      "check_name": "expected_file_present",
+      "status": "fail",
+      "message": "Expected output file is missing: extraction_summary.json.",
+      "related_file": "extraction_summary.json",
+      "related_object_id": "",
+      "recommendation": "Regenerate the PDF extraction output before downstream use."
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_6e7d7993c04329f4705e",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "info",
+      "category": "id_consistency",
+      "check_name": "evidence_references_valid",
+      "status": "pass",
+      "message": "All evidence source references resolve to existing objects.",
+      "related_file": "evidence_store.jsonl",
+      "related_object_id": "",
+      "recommendation": ""
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_eba40114a0fcdc92059e",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "info",
+      "category": "count_consistency",
+      "check_name": "multimodal_counts_consistent",
+      "status": "pass",
+      "message": "Multimodal evidence index contains exactly one row per evidence_store record.",
+      "related_file": "multimodal_evidence_index.jsonl",
+      "related_object_id": "",
+      "recommendation": ""
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_fd97c3e0635a91c15bb0",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "info",
+      "category": "multimodal_policy",
+      "check_name": "fragile_evidence_not_eligible",
+      "status": "pass",
+      "message": "No quarantined or review-required evidence is eligible for automatic future extraction.",
+      "related_file": "multimodal_evidence_index.jsonl",
+      "related_object_id": "",
+      "recommendation": ""
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_7a2e2f101d4ad28d6c72",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "minor",
+      "category": "evidence_policy",
+      "check_name": "review_required_evidence_detected",
+      "status": "warning",
+      "message": "165 evidence(s) require review.",
+      "related_file": "multimodal_statistics.json",
+      "related_object_id": "",
+      "recommendation": ""
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_18cb8997a1f9cefffaee",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "minor",
+      "category": "tables",
+      "check_name": "empty_tables_detected",
+      "status": "warning",
+      "message": "18 empty table(s) detected.",
+      "related_file": "table_statistics.json",
+      "related_object_id": "",
+      "recommendation": ""
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_215061d1d832c5f8cd39",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "minor",
+      "category": "tables",
+      "check_name": "table_artifacts_detected",
+      "status": "warning",
+      "message": "30 suspected artifact table(s), 5 fragmented table(s).",
+      "related_file": "table_statistics.json",
+      "related_object_id": "",
+      "recommendation": ""
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_573d4af49cef0fb078b1",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "minor",
+      "category": "readiness",
+      "check_name": "document_partially_ready",
+      "status": "warning",
+      "message": "Document is partially ready: usable evidence exists, but review zones remain.",
+      "related_file": "document_inventory.json",
+      "related_object_id": "",
+      "recommendation": "Review warnings before enabling any ESG extraction prototype."
+    },
+    {
+      "schema_version": "1.0.0",
+      "finding_id": "finding_9a3b327aed718e94757d",
+      "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+      "severity": "info",
+      "category": "non_destructive_behavior",
+      "check_name": "no_esg_extraction_performed",
+      "status": "pass",
+      "message": "No ESG metric extraction, scoring, RAG, vector database, OCR, table interpretation, or figure interpretation was performed.",
+      "related_file": "run_pdf_extraction.py",
+      "related_object_id": "",
+      "recommendation": ""
+    }
+  ]
+}

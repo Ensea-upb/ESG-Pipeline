@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_anticorruption",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "policy_type": "anticorruption",
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+    "title": "Politique anticorruption",
+    "snippet": "Politique anticorruption des fournisseurs de Anheuser-Busch InBev. Décembre 2019.2.2 Les fournisseurs sont tenus et doivent s'assurer que leurs directeurs, responsables, employés et agents : 2.2.1 Se conformeront à toutes les lois anticorruption applicables",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['politique anticorruption']",
+      "année récente détectée : 2022",
+      "URL PDF directe",
+      "nom de fichier politique : ['anticorruption']",
+      "classe documentaire : standalone_anticorruption"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_manifest.json",
+    "sha256": "e587fc8f00f85c7a16c98fc231918507e0e77beaeaa6979e35e9af09f2261533",
+    "file_size_mb": 0.3323,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_anticorruption_ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:55:38+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

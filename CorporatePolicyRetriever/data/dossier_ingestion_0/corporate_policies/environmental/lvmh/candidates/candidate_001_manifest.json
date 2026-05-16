@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_environmental",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "environmental",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://irp.cdn-website.com/2600b7b6/files/uploaded/Politique+environnementale.pdf",
+    "title": "Politique environnementale",
+    "snippet": "Politique environnementale I mai 2023. www.freelance-vision.com. Table des matières.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['politique environnementale']",
+      "année récente détectée : 2023",
+      "URL PDF directe",
+      "nom de fichier politique : ['politique-environnementale']",
+      "classe documentaire : standalone_environmental"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_manifest.json",
+    "sha256": "f75e77db6fe9af4b06a4faf0c31807bc95bf84f55afc964c642c2cea2ee54029",
+    "file_size_mb": 0.548,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_environmental_Politique_environnementale.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:51:03+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

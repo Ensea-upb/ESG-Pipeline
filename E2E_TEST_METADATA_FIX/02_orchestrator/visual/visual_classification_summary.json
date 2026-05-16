@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.4.0",
+  "visual_classifications_count": 43,
+  "visual_type_distribution": {
+    "logo_or_cover": 6,
+    "unknown_visual": 37
+  },
+  "potentially_esg_relevant_count": 0
+}

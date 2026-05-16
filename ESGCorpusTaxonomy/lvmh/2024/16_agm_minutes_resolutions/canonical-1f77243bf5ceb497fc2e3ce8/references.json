@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_1f77243bf5ceb497fc2e3ce8",
+  "sha256": "1142a92a3b42efeffb6be2c8177c92845be1958c6aea2c065822cd65eb2358c4",
+  "all_references": [
+    {
+      "document_id": "656dbe7b2cf68a64d7117d3d",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmCB25m069VX1fG6_lvmh-avis-de-reunion-publie-au-balo-le-13.03.2023.pdf",
+      "source_title": "Avis préalable de réunion paru au BALO le 13 mars 2023",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_029_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_029_manifest.json",
+      "file_size_mb": 0.6207,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 29,
+      "stored_at": "2026-05-09T20:41:56+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_029_manifest.json"
+    }
+  ]
+}

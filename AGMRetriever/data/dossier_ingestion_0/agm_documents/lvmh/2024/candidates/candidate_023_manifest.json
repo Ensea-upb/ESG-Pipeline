@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 23,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmB9K5m069VX1fDb_ag-2023-vf.pdf",
+    "title": "Présentation",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/fr/le-calendrier-des-evenements-financiers/assemblee-generale-2023. Titre page : Assemblée Générale 2023 -LVMH - LVMH. Texte du lien : Présentation.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 83.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_023_score_83_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_023_manifest.json",
+    "sha256": "116aaaa46d983f8317ff3094f584903ae4527ceb19948ffcbb003458c6c41d85",
+    "file_size_mb": 10.0786,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZmB9K5m069VX1fDb_ag-2023-vf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:48+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

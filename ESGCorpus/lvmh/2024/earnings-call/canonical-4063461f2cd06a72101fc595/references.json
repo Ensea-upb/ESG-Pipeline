@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_4063461f2cd06a72101fc595",
+  "sha256": "9c5c4949b391f334bb5fa48e37f255512d61ccf6308de9b56c1545b4f6cfa3e2",
+  "all_references": [
+    {
+      "document_id": "4dc7b5eda9b788df562ae846",
+      "retriever_name": "EarningsCallRetriever",
+      "document_family": "earnings_call",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Terms-of-Use.pdf",
+      "source_title": "Terms of Use",
+      "source_name": "html_pdf_resolver",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_002_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 0.0833,
+      "document_type": "earnings_call_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:42:09+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_002_manifest.json"
+    },
+    {
+      "document_id": "f3034c31808ff1a58d73d3c5",
+      "retriever_name": "EarningsCallRetriever",
+      "document_family": "earnings_call",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Terms-of-Use.pdf",
+      "source_title": "Terms of Use",
+      "source_name": "html_pdf_resolver",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 0.0833,
+      "document_type": "earnings_call_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:44:16+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

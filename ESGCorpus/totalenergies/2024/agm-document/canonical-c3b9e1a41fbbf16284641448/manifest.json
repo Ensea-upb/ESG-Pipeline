@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_c3b9e1a41fbbf16284641448",
+  "sha256": "9c4f179756dc155d9ab7e1829dc1ce1c08ee98d3d804f5aa2fe4fedec15a34d2",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Avis préalable à l’Assemblée générale mixte publié au Bulletin des Annonces Légales Obligatoires du 29 mars 2024 (version PDF)",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-03/Avis-prealable-a-l-Assemblee-generale-mixte-publie-au-BALO-du-29-mars-2024.pdf.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_008_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\agm-document\\canonical-c3b9e1a41fbbf16284641448\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

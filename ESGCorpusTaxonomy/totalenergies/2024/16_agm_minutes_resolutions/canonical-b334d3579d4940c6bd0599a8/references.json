@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_b334d3579d4940c6bd0599a8",
+  "sha256": "6ef0f382d3fb0942f134c15928bc56922de78f11e0100be340489c8b0aefcbc7",
+  "all_references": [
+    {
+      "document_id": "d009d7878b3627e7966b6545",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/Totalenergies_Presentation-Assemblee-generale-2024_FR_PDF.pdf",
+      "source_title": "Présentation « Assemblée générale 2024 » (PDF)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_007_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_007_manifest.json",
+      "file_size_mb": 2.0852,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 7,
+      "stored_at": "2026-05-09T20:49:53+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_007_manifest.json"
+    }
+  ]
+}

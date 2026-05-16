@@ -1,0 +1,44 @@
+{
+  "document_type": "assurance_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/blt359d461aad4989ee/69b3470022822b39d2640820/erm-cvs-limited-assurance-report-for-reckitt-2024-19-mar-25_(2).pdf",
+    "title": "Independent Limited Assurance Report",
+    "snippet": "ERM Certification and Verification Services Limited (“ERM CVS”) was engaged by Reckitt Benckiser Group plc (“Reckitt”) to provide limited assurance in relation to the Selected Information set out below and presented in the Reckitt Sustainability Report 2024 and the ESG Data Book 2024...",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts assurance : ['limited assurance report']",
+      "mots-clés secondaires : ['assurance', 'verification', 'vérification']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier assurance : ['assurance-report', 'assurance_report']",
+      "classe documentaire : assurance_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "1ded281f7ef3c4927bf462a3e30a71d245903ecb43072c406371d76d4bbbf2c6",
+    "file_size_mb": 0.1783,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_erm-cvs-limited-assurance-report-for-reckitt-2024-19-mar-25_2_.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:02+00:00",
+    "storage_version": "assurance_report_candidate_storage_v0"
+  }
+}

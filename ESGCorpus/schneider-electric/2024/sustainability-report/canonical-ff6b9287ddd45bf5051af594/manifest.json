@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_ff6b9287ddd45bf5051af594",
+  "sha256": "4f0ecf1a668fa80cca0983a42f49f183912c23ac7636a3b4386614c1d5c108e6",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "sustainability_report",
+  "document_families_detected": [
+    "sustainability_report"
+  ],
+  "retrievers_detected": [
+    "SustainabilityReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] 2022 Sustainable Development Report - Schneider Electric",
+  "canonical_source_url": "https://www.se.com/ww/en/assets/564/document/396659/2022-sustainability-report.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_008_score_85_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\sustainability-report\\canonical-ff6b9287ddd45bf5051af594\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

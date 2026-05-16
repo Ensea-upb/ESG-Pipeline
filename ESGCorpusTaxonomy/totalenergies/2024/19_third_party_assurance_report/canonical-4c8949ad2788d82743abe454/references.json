@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_4c8949ad2788d82743abe454",
+  "sha256": "c414387fbd2a50f0a1f1c78d492bc1e4b867977df6187d012e48ac1a8b8d2485",
+  "all_references": [
+    {
+      "document_id": "8df0d003af096a9c7e737e60",
+      "retriever_name": "AssuranceReportRetriever",
+      "document_family": "assurance_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_tax-transparency-report-2024-statutory-auditors-report-section-4_2026_en.pdf",
+      "source_title": "TotalEnergies SE",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 1.53,
+      "document_type": "assurance_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:42:18+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

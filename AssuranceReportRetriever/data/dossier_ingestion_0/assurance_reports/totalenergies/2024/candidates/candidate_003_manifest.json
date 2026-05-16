@@ -1,0 +1,44 @@
+{
+  "document_type": "assurance_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/totalenergies_plan-assurance-securite-standard_2024_fr_pdf.pdf",
+    "title": "[nom du contrat]",
+    "snippet": "TotalEnergies pourra demander des précisions sur les engagements s’il considère que les réponses apportées par le Fournisseur sur la conformité des engagements sont insuffisantes.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 85.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires : ['assurance']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : assurance_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_003_score_85_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "0159dd14ce81db2c7a0aeec6848a5ca2d2766ed858d8a7681641a8947d2f0331",
+    "file_size_mb": 1.0927,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_plan-assurance-securite-standard_2024_fr_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:20+00:00",
+    "storage_version": "assurance_report_candidate_storage_v0"
+  }
+}

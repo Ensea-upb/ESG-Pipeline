@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_14effcdd797859325af5031b",
+  "sha256": "a3cfa122246d008c6742d664c2671f9d3252dfee3ffe76a05b7188b05bb2beda",
+  "all_references": [
+    {
+      "document_id": "5658b9fde1cf0cd23f42883a",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKh45m069VX130K_droits-de-vote-lvmh-au-11.03.2024.pdf",
+      "source_title": "Nombre total de droits de vote et d’actions composant le capital à la date de parution de l’avis préalable du 11 mars 2024",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_017_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_017_manifest.json",
+      "file_size_mb": 0.1134,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 17,
+      "stored_at": "2026-05-09T20:48:48+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_017_manifest.json"
+    },
+    {
+      "document_id": "b1f32a5abcb4b7c585432045",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKsB5m069VX139G_droits-de-vote-lvmh-au-11.03.2024-1-.pdf",
+      "source_title": "Disclosure of total outstanding shares and voting rights at the date of the publication of the Notice of Meeting on March 11, 2024 – French version only",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_034_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_034_manifest.json",
+      "file_size_mb": 0.1134,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 34,
+      "stored_at": "2026-05-09T20:42:03+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_034_manifest.json"
+    }
+  ]
+}

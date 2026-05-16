@@ -1,0 +1,43 @@
+{
+  "document_type": "investor_presentation_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.SE.com/ww/fr/assets/342/document/260774/communique-journee-investisseurs.pdf",
+    "title": "Schneider Electric organise une journée investisseurs virtuelle",
+    "snippet": "Rueil-Malmaison (France), le 30 novembre 2021 – Schneider Electric organise aujourd’hui une Journée Investisseurs virtuelle à 14h00 CET pour ses investisseurs et analystes financiers.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts présentation : ['journée investisseurs']",
+      "nom de l'entreprise détecté",
+      "domaine officiel : se.com",
+      "URL PDF directe",
+      "classe documentaire : investor_presentation"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_004_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "5e0002469d5015dd95e0c4e2504de393cf962c0767932c6974fe248163a9abf5",
+    "file_size_mb": 0.1536,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_communique-journee-investisseurs.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:58+00:00",
+    "storage_version": "investor_presentation_candidate_storage_v0"
+  }
+}

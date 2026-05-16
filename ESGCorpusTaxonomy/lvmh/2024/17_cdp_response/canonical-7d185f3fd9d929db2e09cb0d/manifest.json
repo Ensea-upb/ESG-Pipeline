@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_7d185f3fd9d929db2e09cb0d",
+  "sha256": "e962c84ade0da841402efae2d3bae52cc7a66260b00fae933ff22e5ff7806d9b",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "cdp_response",
+  "official_doc_type": "17_cdp_response",
+  "official_doc_type_label": "CDP response",
+  "doc_type_stratum": "external_questionnaire",
+  "doc_subtype": "cdp_response",
+  "period_type": "annual",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\cdp-response\\canonical-7d185f3fd9d929db2e09cb0d\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\17_cdp_response\\canonical-7d185f3fd9d929db2e09cb0d\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:08+00:00"
+}

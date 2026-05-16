@@ -1,0 +1,44 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 13,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://files.sciencebasedtargets.org/production/files/SBTi-Glossary-French.pdf",
+    "title": "French translation (V1.2)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/resources. Titre page : Resources - Science Based Targets Initiative. Texte du lien : French translation (V1.2).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : files.sciencebasedtargets.org",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['sbti']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_013_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_013_manifest.json",
+    "sha256": "cf1d997ce2a550681aeca48f3b6dab73d8b27c01d6c274ef816c2fc9337ffe87",
+    "file_size_mb": 2.0874,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_SBTi-Glossary-French.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:30+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

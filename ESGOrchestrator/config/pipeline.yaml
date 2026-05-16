@@ -1,0 +1,27 @@
+default_years:
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+
+settings:
+  min_score: 80.0
+  resume: true
+  dry_run: false
+  skip_existing_downloads: true
+  run_postprocessing_after_ingestion: true
+  postprocessing_scope: run
+  postprocessing_output_mode: run_isolated
+
+steps:
+  ingestion: true
+  postprocessing:
+    build_registry: true
+    run_deduplication: true
+    build_canonical_registry: true
+    organize_corpus: true
+    organize_corpus_taxonomy: true
+    run_validation: true
+    select_final_documents: true
+    audit_selected_documents: true

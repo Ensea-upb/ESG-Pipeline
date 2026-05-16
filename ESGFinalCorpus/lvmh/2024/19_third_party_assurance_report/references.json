@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_a926eb0b05f78bcfa4a232f7",
+  "sha256": "25b27a8258de98fe7d8f2d09a71fe9b6392067e2166a71092386d5b716ba8f02",
+  "all_references": [
+    {
+      "document_id": "d067eb3f1661279b78b8c3cf",
+      "retriever_name": "AssuranceReportRetriever",
+      "document_family": "assurance_report",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/sustainability/2025/2024-assurance-statement_lmco.pdf",
+      "source_title": "FY2024 Assurance Statement_Draft_LMCO_03.26.25_v3 - Copy",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.3254,
+      "document_type": "assurance_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:41:26+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

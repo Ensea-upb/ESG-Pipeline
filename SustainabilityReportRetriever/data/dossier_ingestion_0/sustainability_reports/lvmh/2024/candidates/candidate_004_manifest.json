@@ -1,0 +1,46 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+    "title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+    "snippet": "Japan), 10% in other markets ◆ 33% of permanent contract positions filled internally ◆ 71% women, 65% women executives & managers, 48% of key positions held by women, 17 Maisons and divisions headed by women ◆ Average age: 37 ◆ €43 million invested in employee health and safety CREATIVE CAPITAL AND INNOVATION ◆ LVMH Prize for Young Fashion Designers ◆ LVMH Open Innovation ◆ LVMH Innovation Award ◆ LVMH Métiers d’Art ◆ LVMH Gaïa, driving the Group’s scientific research and innovation FINANCIAL CAPITAL ◆ €10.5 billion: Free cash flow ◆ €69.3 billion: Equity ◆ Stable shareholder base: 49% held by the Arnault family group PARTNERS ◆ See the “General information” section, §3, “Strategy”, §3.2, “Involving stakeholders” in the 2024 Universal Registration Document TRAINING AND PASSING ON SKILLS AND EXPERTISE ◆ €216.3 million invested in employee training ◆ Over 280 professions in design, craftsmanship and the customer experience ◆ >3,300 apprentices trained by the Institut des Métiers d’Excellence (IME), launched in 2014 and now present in 8 countries (France, Switzerland, Italy, Spain, Japan, Germany, China and the United States) NATURAL CAPITAL ◆ 20 strategic natural materials ◆ LIFE 360 sustainability program ◆ Animal-Based Raw Materials Sourcing Charter ◆ Participation in SBTN and TNFD reporting ◆ SBTi-validated climate trajectory LOCAL PRESENCE ◆ Presence in 81 countries ◆ 119 production facilities and craft workshops in France, 66 in Italy ◆ 6,307 stores worldwide Business model geared towards risk management and value creation Talent development roadmap Fair Wage policy LIFE 360 Diversity & Inclusion policy Health & Safety Charter Ethics & Compliance policy DESIGN ◆ Recyclability requirements integrated right from the design phase ◆ Support for an innovative ecosystem (LVMH Maison des Startups) ◆ Sustainable design training for creative teams ◆ In-house creative departments CIRCULARITY ◆ Development of repair skills and services ◆ Waste management ◆ Development of innovative processes to reuse and recycle materials as part of LVMH Circularity ◆ Innovation to create",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 81.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles durabilité : ['sustainability', 'sustainable', 'rse', 'climate']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux durabilité : ['universal registration document']",
+      "classe documentaire : annual_report_with_sustainability_content"
+    ],
+    "negative_signals": [
+      "domaine non officiel : lvmh-com.cdn.prismic.io"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_004_score_81_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "cb4f46a0de5e59d280ed6ce687ecc690a6dd8a1cda47d95767f080d72887ca42",
+    "file_size_mb": 32.7079,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T17:38:48+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

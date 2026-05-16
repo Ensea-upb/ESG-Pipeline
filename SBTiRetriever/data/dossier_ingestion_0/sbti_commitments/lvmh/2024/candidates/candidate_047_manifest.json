@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 47,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.wkcgroup.com/wp-content/uploads/2023/02/Science-Based-Targets-Initiative-SBTi-Net-Zero-Standard.pdf",
+    "title": "SBTI CORPORATE",
+    "snippet": "Sbti corporate net-zero standard. Version 1.0.The SBTi’s Corporate Net-Zero Standard (also referred to as the Net-Zero Standard) provides guidance, criteria, and recommendations to support corporates in setting net-zero targets through the SBTi.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'sbti']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier SBTi : ['sbti', 'science-based-targets']",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_manifest.json",
+    "sha256": "be00dec2028e6e6f85973a289e9e5621e6543eb26d9aff578c6553ee46ce5fa7",
+    "file_size_mb": 1.7128,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Science-Based-Targets-Initiative-SBTi-Net-Zero-Standard.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:23+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "module": "ESGIndicatorDatabase",
+  "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\05_manual_review_applied",
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\06_indicator_database",
+  "generated_at": "2026-05-14T05:06:52+00:00",
+  "accepted_candidates_loaded_count": 2,
+  "preparation_indicators_count": 2,
+  "empty_database_warning": false,
+  "evidence_links_count": 2,
+  "lineage_records_count": 2,
+  "indicator_database_status": "preparation_only",
+  "final_indicators_count": 0,
+  "score_produced_count": 0,
+  "metadata_missing_company_count": 0,
+  "metadata_missing_fiscal_year_count": 0,
+  "reporting_year_vs_extracted_year_difference_count": 0,
+  "audit_errors_count": 0,
+  "audit_warnings_count": 1
+}

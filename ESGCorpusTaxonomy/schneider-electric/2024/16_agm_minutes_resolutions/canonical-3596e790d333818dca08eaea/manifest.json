@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_3596e790d333818dca08eaea",
+  "sha256": "69ee1346e401d3b243d38de5329b737aa13f128259c7d8c64fb0e24a8fb6e2e9",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "agm_document",
+  "official_doc_type": "16_agm_minutes_resolutions",
+  "official_doc_type_label": "AGM minutes / resolutions",
+  "doc_type_stratum": "governance",
+  "doc_subtype": "agm_document",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "regulated_or_official",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\agm-document\\canonical-3596e790d333818dca08eaea\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\16_agm_minutes_resolutions\\canonical-3596e790d333818dca08eaea\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:04+00:00"
+}

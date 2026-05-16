@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_a926eb0b05f78bcfa4a232f7",
+  "sha256": "25b27a8258de98fe7d8f2d09a71fe9b6392067e2166a71092386d5b716ba8f02",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "assurance_report",
+  "official_doc_type": "19_third_party_assurance_report",
+  "official_doc_type_label": "Third-party assurance report",
+  "doc_type_stratum": "assurance",
+  "doc_subtype": "assurance_report",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "regulated_or_voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\assurance-report\\canonical-a926eb0b05f78bcfa4a232f7\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\19_third_party_assurance_report\\canonical-a926eb0b05f78bcfa4a232f7\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:02+00:00"
+}

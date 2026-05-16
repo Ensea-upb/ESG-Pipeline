@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_human_rights",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "human_rights",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.gsf.fr/wp-content/uploads/2024/12/Politique_droits_humains.pdf",
+    "title": "Politique_droits_humains.indd",
+    "snippet": "Politique des droits humains et conditions de travail. Description de la prise en compte de l’intérêt des principales parties prenantes dans l’élaboration de la politique : Il est demandé aux salariés du Groupe responsables de la bonne exécution de la politique...",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['politique droits humains']",
+      "année récente détectée : 2024",
+      "URL PDF directe",
+      "nom de fichier politique : ['droits-humains']",
+      "classe documentaire : standalone_human_rights"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_manifest.json",
+    "sha256": "6c2f19d8ac52e07776defac8dceb60de4f09feb72d46e978903e33c0cf2ce85a",
+    "file_size_mb": 1.1974,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_human_rights_Politique_droits_humains.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:44+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

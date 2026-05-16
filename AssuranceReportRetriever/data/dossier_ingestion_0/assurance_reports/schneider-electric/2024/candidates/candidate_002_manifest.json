@@ -1,0 +1,43 @@
+{
+  "document_type": "assurance_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.segro.com/media/3o1fmmrn/41006590200001-segro-2024-isae-3000-statement-final-4225.pdf",
+    "title": "ISAE 3000 Assurance Statement",
+    "snippet": "SEGRO PLC ISAE 3000 Assurance Statement. 4 February 2025 SLR Project No.: 410.065902.00001. 7 A review of group-wide data consolidation and reporting to check for errors or omissions in data analysis, consistency with underlying data sets and reasonableness of reporting.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts assurance : ['isae 3000 assurance']",
+      "mots-clés secondaires : ['assurance']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : assurance_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "2275703136143c027bb67f92a02d879a93d2d762ff4715afbee458f4598960d1",
+    "file_size_mb": 0.2649,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_41006590200001-segro-2024-isae-3000-statement-final-4225.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:03+00:00",
+    "storage_version": "assurance_report_candidate_storage_v0"
+  }
+}

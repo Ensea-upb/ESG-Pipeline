@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "pdf_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\air-liquide\\2024\\01_urd_annual_report\\document.pdf",
+  "page_count": 57,
+  "pages_processed": 57,
+  "text_blocks_count": 4077,
+  "sections_count": 35,
+  "suspicious_sections_count": 0,
+  "evidence_count": 879,
+  "text_evidence_count": 516,
+  "table_evidence_count": 74,
+  "figure_evidence_count": 289,
+  "tables_count": 105,
+  "parsed_tables_count": 33,
+  "low_confidence_tables_count": 58,
+  "empty_tables_count": 14,
+  "figures_count": 289,
+  "page_level_visual_count": 0,
+  "embedded_visual_count": 289,
+  "captioned_figure_count": 0,
+  "normal_evidence_count": 878,
+  "review_required_evidence_count": 545,
+  "quarantined_evidence_count": 0,
+  "evidence_policy_distribution": {
+    "normal": 878,
+    "review_required": 1
+  },
+  "extraction_readiness_status": "partially_ready",
+  "extraction_readiness_reasons": [
+    "many_review_or_quarantined_evidences"
+  ],
+  "generated_at": "2026-05-16T22:21:39+00:00",
+  "company_slug": "air-liquide",
+  "fiscal_year": "2024",
+  "official_doc_type": "01_urd_annual_report"
+}

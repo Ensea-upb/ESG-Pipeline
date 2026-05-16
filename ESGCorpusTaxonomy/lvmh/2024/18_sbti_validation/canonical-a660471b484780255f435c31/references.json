@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_a660471b484780255f435c31",
+  "sha256": "7a40a136722ac019eff6cd05262353d27eb882030edcf596a942a59438416b65",
+  "all_references": [
+    {
+      "document_id": "10419bcc536fa2a4f6aa81cd",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Supplier-Engagement-Speaker-Script.pdf",
+      "source_title": "Speaker script",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_039_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_039_manifest.json",
+      "file_size_mb": 0.7092,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 39,
+      "stored_at": "2026-05-09T20:42:12+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_039_manifest.json"
+    }
+  ]
+}

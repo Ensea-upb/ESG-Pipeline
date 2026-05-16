@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_78aa11ff26d288e3b0414476",
+  "sha256": "40ab287bed8360c6d97086cfdd82c5ea7196fd888cd102aaa83fe87592567bc6",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "corporate_policy",
+  "document_families_detected": [
+    "corporate_policy"
+  ],
+  "retrievers_detected": [
+    "CorporatePolicyRetriever"
+  ],
+  "canonical_source_title": "Anti Bribery Policy",
+  "canonical_source_url": "https://www.fmsfoils.co.uk/wp-content/uploads/2024/06/Anti-Bribery-Policy.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_002_score_80_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\corporate-policy\\canonical-78aa11ff26d288e3b0414476\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

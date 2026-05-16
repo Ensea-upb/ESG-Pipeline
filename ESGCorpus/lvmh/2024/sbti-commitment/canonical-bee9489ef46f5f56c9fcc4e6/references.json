@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_bee9489ef46f5f56c9fcc4e6",
+  "sha256": "33bb28232418e0ef1642de4cd28678b1b050f3ae9cb8418f65b74f19f5e4c864",
+  "all_references": [
+    {
+      "document_id": "1b55ce3007b128e38efb684f",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://files.sciencebasedtargets.org/production/files/Getting-Started-Guide-Portuguese.pdf",
+      "source_title": "Portuguese translation (v1.2)",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_021_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_021_manifest.json",
+      "file_size_mb": 0.5542,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 21,
+      "stored_at": "2026-05-09T20:41:45+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_021_manifest.json"
+    }
+  ]
+}

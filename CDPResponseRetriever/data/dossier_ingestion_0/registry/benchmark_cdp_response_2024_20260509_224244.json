@@ -1,0 +1,335 @@
+{
+  "benchmark_name": "CDP RESPONSE_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T22:42:44",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats réponses CDP terminée.",
+      "downloaded_count": 10,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "2024 CDP Climate Response Report",
+          "url": "https://corporate.visa.com/content/dam/VCOM/regional/na/us/about-visa/esg/2024-visa-cdp-response.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "1cd15932407bb13b1f2fa2c8f757191801e8d363ac099b50c69c7ffb5ff152d8"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "Microsoft Corporation: 2024 CDP Corporate Questionnaire",
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/Microsoft-Corporation-2024-CDP-Response.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "e962c84ade0da841402efae2d3bae52cc7a66260b00fae933ff22e5ff7806d9b"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "BNP Paribas CDP Climate Change Questionnaire 2024 - October 2024",
+          "url": "https://group.bnpparibas/uploads/file/bnpparibas_cdp_climate_change_questionnaire_2024.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "b7f093e41a9f6f834185e116d954b0b4d630b20f7994c64cda867074ef8ec446"
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "2024 FMC CDP Climate Change Response PDF (1.53 mb)",
+          "url": "https://www.fmc.com/sites/default/files/2025-05/FMC_2024_CDP_Submission_100324.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_004_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+          "sha256": "cc267e215c04a15c0b9bd32ab218842e6e54790727886c020824fc9b6151880a",
+          "resolved_from": "https://www.fmc.com/en/cdp-responses"
+        },
+        {
+          "rank": 5,
+          "candidate_rank": 5,
+          "source_search_rank": 4,
+          "title": "2023 FMC CDP Climate Change Response PDF (871.03 k)",
+          "url": "https://www.fmc.com/sites/default/files/2023-07/FMC_CDP_Climate_2023.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_005_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+          "sha256": "38930f6c5670ed40e781f47631881facca0e397bffca94942e3fcec16f94e25b",
+          "resolved_from": "https://www.fmc.com/en/cdp-responses"
+        },
+        {
+          "rank": 6,
+          "candidate_rank": 6,
+          "source_search_rank": 4,
+          "title": "2023 FMC CDP Water Security Response PDF (518.06 k)",
+          "url": "https://www.fmc.com/sites/default/files/2023-07/FMC_CDP_Water_2023.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_006_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_006_manifest.json",
+          "sha256": "e95e0ab3cda165b8d0c504f649358c7d4a4ef24febee08b392d4da8395ca1698",
+          "resolved_from": "https://www.fmc.com/en/cdp-responses"
+        },
+        {
+          "rank": 7,
+          "candidate_rank": 7,
+          "source_search_rank": 4,
+          "title": "2022 FMC CDP Water Security Response PDF (464.22 k)",
+          "url": "https://www.fmc.com/sites/default/files/2023-06/FMC_CDP_Water_2022.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_007_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_007_manifest.json",
+          "sha256": "ea2b3184c64af68762645227c865dfee6bcef487b723b450e847d48f6afd91af",
+          "resolved_from": "https://www.fmc.com/en/cdp-responses"
+        },
+        {
+          "rank": 8,
+          "candidate_rank": 8,
+          "source_search_rank": 4,
+          "title": "2021 FMC CDP Climate Change Response PDF (602.42 k)",
+          "url": "https://www.fmc.com/sites/default/files/2023-06/FMC%20CDP%20Climate%202021.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_008_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_008_manifest.json",
+          "sha256": "de359431b5696ddf22486aaf6e4bcdedfbe0d22585efac0aaa721640de5d0d19",
+          "resolved_from": "https://www.fmc.com/en/cdp-responses"
+        },
+        {
+          "rank": 9,
+          "candidate_rank": 9,
+          "source_search_rank": 4,
+          "title": "2021 FMC CDP Water Security Response PDF (407.24 k)",
+          "url": "https://www.fmc.com/sites/default/files/2023-06/FMC%20CDP%20Water%202021.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_009_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_009_manifest.json",
+          "sha256": "18684af94be4a399aaa39a1e03cfc6da14dc9e7bac47bfa8538f605438509760",
+          "resolved_from": "https://www.fmc.com/en/cdp-responses"
+        },
+        {
+          "rank": 10,
+          "candidate_rank": 10,
+          "source_search_rank": 5,
+          "title": "CDP Integrated Questionnaire 2024",
+          "url": "https://www.unilever.com/files/cdp-integrated-questionnaire-2024.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_010_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_010_manifest.json",
+          "sha256": "043619c4055d75c576e48cd8b5df9178cf7b0ce5b769899d2d48c33e5ff60567"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": "?",
+          "title": "PDFs hors période",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "7 PDF(s) hors période. Acceptés : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats réponses CDP terminée.",
+      "downloaded_count": 3,
+      "failed_count": 0,
+      "skipped_count": 2,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Microsoft Word - TotalEnergies SE-23-10-2024-CORPORATE-10-43.docx",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_cdp-corporate-questionnaire_2024_en_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "a13f228aa035bede38a0df4b99f81e097b750043345f5208b8cf7dcf906d7bd7"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 3,
+          "title": "Questionnaire Full Corporate - cdn.cdp.net",
+          "url": "https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/005/712/original/2024_Full_Corporate_Questionnaire_Modules_8-13.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_002_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "b8f92e18ee957ceb3c3a85221caabb334ba0351d64d2704db983cc8bfe563d26"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 4,
+          "title": "CDP Full Corporate Scoring Methodology - Climate Change",
+          "url": "https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/009/154/original/2024_Full_Corporate_Scoring_Methodology_-_Climate_Change.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_003_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "da6c5af0973bab5292c131589bf5d74f0bc63b42b020c19524206144b371053a"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "CDP",
+          "url": "https://www.cdp.net/en/responses?page=1&per_page=20&queries[name]=totalenergies&sort_by=response_status&sort_dir=asc",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : not_found_404 - Page HTML introuvable."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs hors période",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 PDF(s) hors période. Acceptés : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats réponses CDP terminée.",
+      "downloaded_count": 3,
+      "failed_count": 1,
+      "skipped_count": 4,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Stantec 2024 CDP Climate Change Questionnaire",
+          "url": "https://www.stantec.com/content/dam/stantec/files/PDFAssets/2024/2024-cdp-disclosure.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "816c7d20ecc27c264a489d5dc3fce8de799e4f1cf4c35415b6469e3f9aaf5106"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 4,
+          "title": "Descargar PDF",
+          "url": "https://www.gstatic.com/gumdrop/sustainability/alphabet-2024-cdp-climate-change-response.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "61ebbaaea8b3ab6a9027772f1fb4bddd44b515d896f4e886e6d89a2d5f144fbc",
+          "resolved_from": "https://sustainability.google/intl/es-419/reports/alphabet-2024-cdp-climate-change-response/"
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "Declaración en contra de la esclavitud moderna (2024)",
+          "url": "https://www.gstatic.com/gumdrop/sustainability/2024-google-statement-against-modern-slavery.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_004_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+          "sha256": "0f019457e993d0a078f19b99aa7088198008eeecab7c079df58c48852e70ef37",
+          "resolved_from": "https://sustainability.google/intl/es-419/reports/alphabet-2024-cdp-climate-change-response/"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "Emerson CDP Climate Change Questionnaire_2024",
+          "url": "https://ir.emerson.com/_assets/_1d7a37343292271756219e3e3862362a/emerson/db/1065/9886/document/Emerson+2024+CDP+Corporate+Questionaire.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "download_status": "forbidden_403",
+          "message": "Accès refusé par le serveur pour toutes les stratégies.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "alphabet-2024-cdp-climate-change-response.pdf",
+          "url": "https://www.gstatic.com/gumdrop/sustainability/alphabet-2024-cdp-climate-change-response.pdf#toolbar=0&view=FitH",
+          "score": 95.0,
+          "decision": "pdf_resolution_required",
+          "reason": "PDF extrait mais décision non téléchargeable.",
+          "resolved_from": "https://sustainability.google/intl/es-419/reports/alphabet-2024-cdp-climate-change-response/"
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Schneider Electric Partners with CDP to Provide Global ...",
+          "url": "https://perspectives.se.com/blog-stream/schneider-electric-partners-with-cdp-2024",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "3 PDF(s) ignorés (score < 80.0)."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs hors période",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "26 PDF(s) hors période. Acceptés : 2024 et 2023."
+        }
+      ]
+    }
+  ]
+}

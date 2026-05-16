@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_38ec78eb122ff95a092aa37a",
+  "sha256": "be00dec2028e6e6f85973a289e9e5621e6543eb26d9aff578c6553ee46ce5fa7",
+  "all_references": [
+    {
+      "document_id": "3c02f5709f9b6b4c8275fb0a",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Legacy-Net-Zero-Standard-V1.0.pdf",
+      "source_title": "View the previous version (1.0) here.",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_025_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_025_manifest.json",
+      "file_size_mb": 1.7128,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 25,
+      "stored_at": "2026-05-09T20:41:50+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_025_manifest.json"
+    },
+    {
+      "document_id": "207898190074fbd6de2bb5ef",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.wkcgroup.com/wp-content/uploads/2023/02/Science-Based-Targets-Initiative-SBTi-Net-Zero-Standard.pdf",
+      "source_title": "SBTI CORPORATE",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_manifest.json",
+      "file_size_mb": 1.7128,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 47,
+      "stored_at": "2026-05-09T20:42:23+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_manifest.json"
+    }
+  ]
+}

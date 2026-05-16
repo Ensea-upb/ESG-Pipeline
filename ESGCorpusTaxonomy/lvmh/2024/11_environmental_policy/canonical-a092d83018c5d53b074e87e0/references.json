@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_a092d83018c5d53b074e87e0",
+  "sha256": "f9fc9f8d8cc014eb059ca6adebf141b2db9f4365acb839d9f149ce6330e5bdf4",
+  "all_references": [
+    {
+      "document_id": "ce31eefb6827278f129b3482",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.engie.com/sites/default/files/assets/documents/2023-06/Engie_Politique+environnementale.pdf",
+      "source_title": "POLITIQUE",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 1.1534,
+      "document_type": "corporate_policy_environmental",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:51:04+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

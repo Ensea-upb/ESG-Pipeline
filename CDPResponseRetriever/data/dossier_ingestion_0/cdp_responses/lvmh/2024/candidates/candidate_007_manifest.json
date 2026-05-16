@@ -1,0 +1,44 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 7,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.fmc.com/sites/default/files/2023-06/FMC_CDP_Water_2022.pdf",
+    "title": "2022 FMC CDP Water Security Response PDF (464.22 k)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.fmc.com/en/cdp-responses. Titre page : CDP Responses | FMC Corp. Texte du lien : 2022 FMC CDP Water Security Response PDF (464.22 k).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp water security response']",
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier CDP : ['cdp-water']",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_007_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_007_manifest.json",
+    "sha256": "ea2b3184c64af68762645227c865dfee6bcef487b723b450e847d48f6afd91af",
+    "file_size_mb": 0.4533,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_FMC_CDP_Water_2022.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:22+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

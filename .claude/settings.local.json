@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python C:/Users/hp/Desktop/ESG/ESGInformationExtraction/run_pdf_extraction.py --pdf-path C:/Users/hp/Desktop/ESG/ESGFinalCorpus/totalenergies/2024/01_urd_annual_report/document.pdf --document-id totalenergies_2024_urd_e2e_metadata_fix --output-dir C:/Users/hp/Desktop/ESG/E2E_TEST_METADATA_FIX/01_information_extraction --company TotalEnergies --company-name 'TotalEnergies SE' --fiscal-year 2024 --official-doc-type URD --final-path C:/Users/hp/Desktop/ESG/ESGFinalCorpus/totalenergies/2024/01_urd_annual_report/document.pdf --max-pages 30 --overwrite)",
+      "Bash(python -c ' *)",
+      "Bash(gh pr *)",
+      "PowerShell(gh pr list 2>&1)"
+    ]
+  }
+}

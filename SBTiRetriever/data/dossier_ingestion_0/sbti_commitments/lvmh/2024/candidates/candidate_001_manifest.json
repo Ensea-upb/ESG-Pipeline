@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://files.sciencebasedtargets.org/production/files/SBT-Commitment-Letter.pdf",
+    "title": "SBTi COMMITMENT",
+    "snippet": "SBTi Commitment Letter.This SBTi commitment letter can be signed by any organization representative, but the commitment application form requires the contact details of a managerial level point of contact in the organization.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['sbti', 'sbti commitment', 'sbti commitment letter']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : files.sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_001_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "60fc61d0c6771f724b54b76084d83a4900d2a068d1b88b3607fc5d387e4586eb",
+    "file_size_mb": 0.8929,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_SBT-Commitment-Letter.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:07+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

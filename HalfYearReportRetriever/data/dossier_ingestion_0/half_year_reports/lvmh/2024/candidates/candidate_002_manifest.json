@@ -1,0 +1,46 @@
+{
+  "document_type": "half_year_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "period_type": "H1",
+  "source": {
+    "url": "https://www.bnains.org/archives/communiques/LVMH/20240723_Communique_resultats_semestriels_2024_LVMH.pdf",
+    "title": "Communiqué LVMH",
+    "snippet": "LVMH Moët Hennessy Louis Vuitton, leader mondial des produits de haute qualité, réalise au premier semestre 2024 des ventes de 41,7 milliards d’euros.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts semestriel : ['résultats semestriels']",
+      "période semestrielle détectée : ['premier semestre']",
+      "année trouvée : {'2024'}",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier semestriel : ['semestriel']",
+      "classe documentaire : standalone_half_year_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\half_year_reports\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\half_year_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "7daf607d73b9f286302d1cb67ea59beb9e31eb235cd20ad9003b7a6bc4c6b3d8",
+    "file_size_mb": 1.1251,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_20240723_Communique_resultats_semestriels_2024_LVMH.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:13+00:00",
+    "storage_version": "half_year_report_candidate_storage_v0"
+  }
+}

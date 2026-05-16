@@ -1,0 +1,43 @@
+{
+  "document_type": "earnings_call_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn.ainvest.com/agreement/Third-Party-Brokerage-Disclaimer.pdf",
+    "title": "Brokerage Disclaimer",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.ainvest.com/news/hecla-mining-hl-7-nov-24-2024-q3-earnings-call-transcript-24111010a233fd1190c1eae0/. Titre page : Hecla Mining (HL) 7 Nov 24 2024 Q3 Earnings call transcript. Texte du lien : Brokerage Disclaimer.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts earnings call : ['earnings call transcript', 'call transcript']",
+      "mots-clés secondaires : ['earnings call']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "classe documentaire : earnings_call_transcript"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_004_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "6b81b26a669c2109aa078cf19b65e68f2c1c036477977ae79e1d8635adac50c3",
+    "file_size_mb": 0.1716,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Third-Party-Brokerage-Disclaimer.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:12+00:00",
+    "storage_version": "earnings_call_candidate_storage_v0"
+  }
+}

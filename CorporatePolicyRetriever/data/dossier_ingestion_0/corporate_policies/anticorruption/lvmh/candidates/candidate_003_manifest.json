@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_anticorruption",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "policy_type": "anticorruption",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.covea-finance.fr/sites/default/files/2024-07/politique_lutte_anticorruption.pdf",
+    "title": "POLITIQUE",
+    "snippet": "d’une politique de communication adaptée. Depuis 2018, cette politique anticorruption s’inscrit dans le cadre plus général de la Politique de lutte contre la corruption mise en place par le Groupe Covéa et portée par le Président du Groupe. Covéa Finance C1 - Public.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['politique anticorruption', 'lutte contre la corruption']",
+      "année récente détectée : 2024",
+      "URL PDF directe",
+      "nom de fichier politique : ['anticorruption']",
+      "classe documentaire : standalone_anticorruption"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_manifest.json",
+    "sha256": "72d17e868769c4559f7fdb6d064fae0d7bbf774110da8234a7b3383dd6653757",
+    "file_size_mb": 0.6343,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_anticorruption_politique_lutte_anticorruption.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:11+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

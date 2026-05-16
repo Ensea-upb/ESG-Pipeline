@@ -1,0 +1,46 @@
+{
+  "run_timestamp": "2026-05-16T15:31:42.226021+00:00",
+  "corpus_dir": "ESGFinalCorpus",
+  "output_dir": "audit_batch_v1",
+  "doc_type_filter": "02_sustainability_statement_csrd_esrs",
+  "documents_total": 3,
+  "documents_success": 0,
+  "documents_failed": 3,
+  "total_pages": 0,
+  "total_blocks": 0,
+  "results": [
+    {
+      "status": "failed",
+      "returncode": 1073807364,
+      "elapsed_s": 2374.5,
+      "stderr": "sing\\processor.py:395: UserWarning: Sentence of length 462 has been truncated to 384\n  batch = [self.preprocess_example(b[\"tokenized_text\"], b[key], class_to_ids) for b in batch_list]\nC:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\gliner\\data_processing\\processor.py:395: UserWarning: Sentence of length 392 has been truncated to 384\n  batch = [self.preprocess_example(b[\"tokenized_text\"], b[key], class_to_ids) for b in batch_list]\nC:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\gliner\\data_processing\\processor.py:395: UserWarning: Sentence of length 427 has been truncated to 384\n  batch = [self.preprocess_example(b[\"tokenized_text\"], b[key], class_to_ids) for b in batch_list]\nC:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\gliner\\data_processing\\processor.py:395: UserWarning: Sentence of length 476 has been truncated to 384\n  batch = [self.preprocess_example(b[\"tokenized_text\"], b[key], class_to_ids) for b in batch_list]\n",
+      "stdout": "",
+      "document_id": "lvmh_2024_02_sustainability_statement_csrd_esrs",
+      "company": "LVMH",
+      "fiscal_year": 2024,
+      "doc_type": "02_sustainability_statement_csrd_esrs"
+    },
+    {
+      "status": "failed",
+      "returncode": 3221226091,
+      "elapsed_s": 0.2,
+      "stderr": "",
+      "stdout": "",
+      "document_id": "schneider_electric_2024_02_sustainability_statement_csrd_esrs",
+      "company": "Schneider Electric",
+      "fiscal_year": 2024,
+      "doc_type": "02_sustainability_statement_csrd_esrs"
+    },
+    {
+      "status": "failed",
+      "returncode": 3221226091,
+      "elapsed_s": 0.2,
+      "stderr": "",
+      "stdout": "",
+      "document_id": "totalenergies_2024_02_sustainability_statement_csrd_esrs",
+      "company": "TotalEnergies",
+      "fiscal_year": 2024,
+      "doc_type": "02_sustainability_statement_csrd_esrs"
+    }
+  ]
+}

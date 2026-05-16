@@ -1,0 +1,32 @@
+{
+  "run_inputs": {
+    "selected_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\selection\\selected_documents.csv",
+    "validation_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\validation\\document_validation_results.csv"
+  },
+  "counts": {
+    "selected_documents": 37,
+    "validation_rows_raw": 240,
+    "validation_rows_deduped": 229,
+    "audit_rows": 37,
+    "unmatched_in_validation": 0
+  },
+  "audit_bucket_distribution": {
+    "KEEP_LIKELY_VALID": 13,
+    "REVIEW_STANDARD": 11,
+    "QUARANTINE_LIKELY_WRONG_COMPANY": 5,
+    "REVIEW_HIGH_PRIORITY_COMPANY_NOT_DETECTED": 8
+  },
+  "final_file_exists": {
+    "true": 37,
+    "false": 0
+  },
+  "output_files": {
+    "selected_documents_quality_audit_v2.csv": 37,
+    "selected_documents_quarantine_v2.csv": 5,
+    "selected_documents_clean_likely_valid_v2.csv": 13,
+    "selected_documents_to_review_v2.csv": 19,
+    "extraction_index_strict_likely_valid.csv": 13,
+    "extraction_index_usable_excluding_quarantine.csv": 32,
+    "exclusion_index_quarantine_wrong_company.csv": 5
+  }
+}

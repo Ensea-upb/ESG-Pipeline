@@ -1,0 +1,44 @@
+{
+  "document_type": "remuneration_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Rapport-special-sur-attributions-gratuites-d-actions_PDF.pdf",
+    "title": "[PDF] Total Energies - Rapport spécial sur les attributions gratuites d'actions",
+    "snippet": "Plans d’attribution gratuite d’actions de performance TotalEnergies Plan 2020 Plan 2021 Plan 2022 Plan 2023(a) Date d’Assemblée générale 01/06/2018 01/06/2018 28/05/2021 26/05/2023 Date du Conseil/date d’attribution 18/03/2020 28/05/2021 16/03/2022 26/05/2023 Cours de clôture à la date d’attribution 21,795 € 38,145 € 45,540 € 55,760 € Cours moyen unitaire d’achat des actions par la Société 57,70 € 59,91 € n/a n/a Nombre total d’actions de performance attribuées, dont : 6 727 352 6 764 548 7 353 271 7 985 203 Mandataires sociaux(b) 72 300(c) 90 250(c) 100 000 110 694 –P.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés divulgation rémunération : ['actions de performance']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : remuneration_disclosure"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "ad9a34d297c6b6449538ade2021c61d7e05d530779dc291fc5079cb9e790120d",
+    "file_size_mb": 0.2177,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_TotalEnergies_Rapport-special-sur-attributions-gratuites-d-actions_PDF.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:46:58+00:00",
+    "storage_version": "remuneration_report_candidate_storage_v0"
+  }
+}

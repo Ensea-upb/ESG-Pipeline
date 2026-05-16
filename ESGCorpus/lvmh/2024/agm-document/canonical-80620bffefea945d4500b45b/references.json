@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_80620bffefea945d4500b45b",
+  "sha256": "9c9e3bf43b37a939586324dd65a7fe0fd21eb1338005665be6131f1f429f7591",
+  "all_references": [
+    {
+      "document_id": "3e51b5c19ad6b7b31cff6916",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKpf5m069VX136t_reply-form-to-opt-for-e-notice.pdf",
+      "source_title": "Reply form to opt for e-Notice",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_042_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_042_manifest.json",
+      "file_size_mb": 0.1965,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 42,
+      "stored_at": "2026-05-09T20:42:14+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_042_manifest.json"
+    }
+  ]
+}

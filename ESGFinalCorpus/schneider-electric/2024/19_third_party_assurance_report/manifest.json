@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_b49d67d5650bdbec368e8308",
+  "sha256": "1ded281f7ef3c4927bf462a3e30a71d245903ecb43072c406371d76d4bbbf2c6",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "assurance_report",
+  "official_doc_type": "19_third_party_assurance_report",
+  "official_doc_type_label": "Third-party assurance report",
+  "doc_type_stratum": "assurance",
+  "doc_subtype": "assurance_report",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "regulated_or_voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\assurance-report\\canonical-b49d67d5650bdbec368e8308\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\19_third_party_assurance_report\\canonical-b49d67d5650bdbec368e8308\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:02+00:00"
+}

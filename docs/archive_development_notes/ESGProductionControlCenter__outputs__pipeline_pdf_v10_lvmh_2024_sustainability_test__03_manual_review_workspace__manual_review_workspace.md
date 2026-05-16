@@ -1,0 +1,54 @@
+# Manual Review Workspace
+
+No decision is prefilled. `accept_candidate` is not a final ESG indicator.
+
+- review_item_000021 | possible_indicator | boundary | page 12 | In 2024, revenue for the Wines and Spirits business group represented 7% of the LVMH Group’s total revenue. Champagne and wines made up 54% of this revenue, whi
+- review_item_000027 | possible_indicator | diversity | page 13 | The Cognac region is located around the Charente basin. The The Group owns 1,665 hectares under production, which vineyard, which currently extends over more th
+- review_item_000031 | possible_indicator | diversity | page 13 | 1,600 independent producers, a collaboration which enables The making of champagne involves extremely rigorous processes the Company to ensure that exceptional 
+- review_item_000034 | possible_indicator | boundary | page 13 | a new winemaking site in Ambonnay. Like the Champagne and Wine businesses, Hennessy obtains Dry materials (bottles, corks, etc.) and all other components its dr
+- review_item_000037 | possible_indicator | boundary | page 14 | Moët Hennessy has a powerful and agile global distribution governed by agreements that have been in place since 1987, network, thanks to which the Wines and Spi
+- review_item_000041 | possible_indicator | diversity | page 14 | summer resulted in an especially poor harvest in the Champagne Still and sparkling wines 61.3 61.1 56.5 region, weighing on the division’s performance. As well 
+- review_item_000052 | possible_indicator | boundary | page 15 | In 2024, the Fashion and Leather Goods business group represented 48% of the total revenue of LVMH. 2.1 Fashion and Leather Goods brands In the luxury fashion a
+- review_item_000059 | possible_indicator | workforce | page 16 | while engaging its suppliers in a CSR approach. This strategy is the result of a policy of focusing on and supporting the Lastly, fabric suppliers for the diffe
+- review_item_000074 | possible_indicator | boundary | page 18 | In 2024, the Perfumes and Cosmetics business group posted revenue of 8,418 million euros, representing 10% of LVMH’s total revenue.
+- review_item_000112 | possible_indicator | workforce | page 19 | beauty. Innova tion is ce ntral to the Group’s c ommitment to pursued by LVMH R echerche (40 0 patent fam ilies), which
+- review_item_000087 | possible_indicator | policy | page 20 | evoking the excitement of a night out in Paris. To celebrate the Revenue (EUR millions) 8,418 8,271 7,722 end‑of‑year festive season, the Maison released a limi
+- review_item_000002 | possible_indicator | boundary | page 4 | and the net impact of changes in the scope of consolidation was -1%. The principles used to determine the net impact of exchange rate fluctuations on the revenu
+- review_item_000004 | possible_indicator | boundary | page 4 | Europe (excl. France) 17% Euro 21% United States 25% US dollar 28%
+- review_item_000043 | possible_indicator | water | page 15 | Chandon performed well in the United States and benefited Scotch Islay Single Malt for Ardbeg 25 Years Old and unveiled from the renewed appeal of its completel
+- review_item_000111 | possible_indicator | boundary | page 2 | TH E GROUP 313
+- review_item_000108 | needs_review | unknown | page 1 | FISCAL YEAR ENDED DECEMBER 31, 2024 UNIVERSAL REGISTRATION DOCUMENT
+- review_item_000110 | needs_review | unknown | page 10 | TEIN 202 vriversat Registration Document
+- review_item_000023 | needs_review | unknown | page 12 | In 2024, shipments of LVMH champagne brands were down 10.2% from 2023, while shipments from the Champagne region decreased by 9.2% (source: CIVC). LVMH’s market
+- review_item_000024 | needs_review | unknown | page 12 | In 2024, the volumes shipped from the Cognac region were the world leader in cognac and premium international spirits, down slightly (0.4%) from 2023 (source: B
+- review_item_000040 | needs_review | unknown | page 14 | more than 22% of all Champagne‑appellation shipments despite
+- review_item_000063 | needs_review | unknown | page 17 | renovation, the Louis Vuitton 57th Street store, opened at the end Revenue (EUR millions) 41,060 42,169 38,648 of the year, was a major success. This new flagsh
+- review_item_000005 | needs_review | unknown | page 4 | Asia (excl. Japan) 28% Hong Kong dollar 2% Other markets 13% Other currencies 40%
+- review_item_000009 | needs_review | unknown | page 8 | Krug 100% Glenmorangie 100% Celine 100% Parfums 24S 100% Pucci 100% 100% Repossi Marc Jacobs 80% 100% Benefit du Clos des 100% 100% Barton
+- review_item_000010 | needs_review | unknown | page 8 | Veuve 100% Numanthia 100% Make Up 100% Sephora 100% 70% Louis Vuitton 100% 100% 80% 100% Kenzo Patou TAG Heuer Fresh Francis Vuarnet Clicquot Termes For Ever ex
+- review_item_000011 | needs_review | unknown | page 8 | Chandon Givenchy Zenith L’Epée 1839 Thélios de los Andes Samaritaine di Parma Henriksen Armand 50% 100% Parfums 100% 61% DFS 100% Sephora 100% 100% Woodinville 
+- review_item_000012 | needs_review | unknown | page 8 | Newton 100% 100% Joseph Phelps 100% Aujourd’hui 100% 100% Radio
+- review_item_000016 | needs_review | unknown | page 9 | Krug 100% Glenmorangie 100% Celine 100% Parfums 24S 100% Pucci 100% 100% Repossi Marc Jacobs 80% 100% Benefit du Clos des 100% 100% Barton
+- review_item_000017 | needs_review | unknown | page 9 | Veuve 100% Numanthia 100% Make Up 100% Sephora 100% 70% Louis Vuitton 100% 100% 80% 100% Kenzo Patou TAG Heuer Fresh Francis Vuarnet Clicquot Termes For Ever ex
+- review_item_000018 | needs_review | unknown | page 9 | Chandon Givenchy Zenith L’Epée 1839 Thélios de los Andes Samaritaine di Parma Henriksen Armand 50% 100% Parfums 100% 61% DFS 100% Sephora 100% 100% Woodinville 
+- review_item_000019 | needs_review | unknown | page 9 | Newton 100% 100% Joseph Phelps 100% Aujourd’hui 100% 100% Radio
+- review_item_000105 | needs_review | unknown | page 1 | Page-level visual candidate detected on page 1; not interpreted.
+- review_item_000107 | needs_review | unknown | page 10 | Page-level visual candidate detected on page 10; not interpreted.
+- review_item_000020 | needs_review | methodology | page 11 | 1.3 Primary production methods, supply sources and subcontracting 11
+- review_item_000095 | needs_review | unknown | page 11 | Low-confidence table detected on page 11 with 66 rows and 4 columns.
+- review_item_000022 | needs_review | boundary | page 12 | In 2024, revenue for the Wines and Spirits business group represented 7% of the LVMH Group’s total revenue. Champagne and wines made up 54% of this revenue, whi
+- review_item_000096 | needs_review | unknown | page 12 | Table parsed on page 12 with 6 rows and 4 columns.
+- review_item_000025 | needs_review | boundary | page 13 | 1.3 Primary production methods, supply sources and subcontracting 1.3.1 Champagne In order to drive innovation and develop expertise in its production processes
+- review_item_000026 | needs_review | methodology | page 13 | 1.3 Primary production methods, supply sources and subcontracting 1.3.1 Champagne In order to drive innovation and develop expertise in its production processes
+- review_item_000028 | needs_review | boundary | page 13 | The Cognac region is located around the Charente basin. The The Group owns 1,665 hectares under production, which vineyard, which currently extends over more th
+- review_item_000029 | needs_review | boundary | page 13 | the Group’s Maisons. LVMH’s champagne houses, along with and Bois Ordinaires. Hennessy selects its eaux‑de‑vie essentially their partner grape suppliers, are st
+- review_item_000030 | needs_review | boundary | page 13 | houses regularly adjust the quantities available for sale and keep an extent never achieved previously. reserve wines in stock, mainly in storage tanks. As matu
+- review_item_000032 | needs_review | policy | page 13 | 1,600 independent producers, a collaboration which enables The making of champagne involves extremely rigorous processes the Company to ensure that exceptional 
+- review_item_000033 | needs_review | policy | page 13 | undergoing renovation work. The historic production sites of from year to year under the contracts with its partners. Hennessy Veuve Clicquot, Ruinart and Krug 
+- review_item_000035 | needs_review | boundary | page 13 | a new winemaking site in Ambonnay. Like the Champagne and Wine businesses, Hennessy obtains Dry materials (bottles, corks, etc.) and all other components its dr
+- review_item_000097 | needs_review | unknown | page 13 | Table parsed on page 13 with 45 rows and 8 columns.
+- review_item_000036 | needs_review | boundary | page 14 | 1.3.3 Other wines and spirits and uniqueness relies on careful production and/or selection of raw materials, as well as longstanding expertise in complex Outsid
+- review_item_000038 | needs_review | boundary | page 14 | Moët Hennessy has a powerful and agile global distribution governed by agreements that have been in place since 1987, network, thanks to which the Wines and Spi
+- review_item_000039 | reject_candidate | unknown | page 14 | share and consolidate their leadership in cognac, champagne Revenue (EUR millions) 5,862 6,602 7,099 and Provence rosé wines. Moët Hennessy continued with its O
+- review_item_000042 | needs_review | policy | page 14 | summer resulted in an especially poor harvest in the Champagne Still and sparkling wines 61.3 61.1 56.5 region, weighing on the division’s performance. As well 
+- review_item_000098 | needs_review | unknown | page 14 | Low-confidence table detected on page 14 with 19 rows and 1 columns.

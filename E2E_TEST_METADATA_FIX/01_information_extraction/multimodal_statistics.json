@@ -1,0 +1,678 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "total_multimodal_evidences": 411,
+  "evidence_by_modality": {
+    "text": 311,
+    "table": 57,
+    "figure": 43
+  },
+  "evidence_by_type": {
+    "section_heading": 13,
+    "paragraph": 298,
+    "table": 57,
+    "figure": 43
+  },
+  "evidence_policy_distribution": {
+    "normal": 411
+  },
+  "downstream_use_policy_distribution": {
+    "review_before_extraction": 149,
+    "eligible_for_future_extraction": 246,
+    "exclude_from_automatic_extraction": 16
+  },
+  "review_required_count": 165,
+  "quarantined_count": 0,
+  "eligible_for_future_extraction_count": 246,
+  "evidence_by_section": {
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0001": 7,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0002": 22,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0003": 14,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0004": 57,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0005": 10,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0006": 1,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0007": 19,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0008": 153,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0009": 70,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0010": 24,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0011": 2,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0012": 6,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0013": 17
+  },
+  "modality_by_section": {
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0001": {
+      "text": 7
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0002": {
+      "text": 16,
+      "table": 6
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0003": {
+      "text": 5,
+      "table": 9
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0004": {
+      "text": 33,
+      "table": 15,
+      "figure": 9
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0005": {
+      "text": 8,
+      "table": 2
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0006": {
+      "text": 1
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0007": {
+      "text": 18,
+      "table": 1
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0008": {
+      "text": 133,
+      "table": 8,
+      "figure": 12
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0009": {
+      "text": 58,
+      "table": 10,
+      "figure": 2
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0010": {
+      "text": 9,
+      "table": 1,
+      "figure": 14
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0011": {
+      "text": 2
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0012": {
+      "text": 6
+    },
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0013": {
+      "text": 15,
+      "table": 2
+    }
+  },
+  "suspicious_sections_count": 0,
+  "tables_summary": {
+    "tables_count": 76,
+    "parsed_tables_count": 10,
+    "low_confidence_tables_count": 48,
+    "empty_tables_count": 18
+  },
+  "figures_summary": {
+    "figures_count": 43,
+    "page_level_visual_count": 0,
+    "embedded_visual_count": 43,
+    "captioned_figure_count": 0
+  },
+  "sample_eligible_evidence": [
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000002",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "37.9% • $9.5 billion payroll (including social security charges)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000005",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "ENERGY ACCESS AND HUMAN DEVELOPMENT INDEX"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000006",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "AVAILABLE TECHNOLOGIES TO REDUCE GHG"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000007",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "EMISSIONS AND THEIR POTENTIAL IMPACT"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000013",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "2030 worldwide targets (Scope 3(d))"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000015",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Safety, Respect for Each Other, Pioneer Spirit, Stand Together and It is through the strict adherence of our employees to these values and to Performance-Minded are what drive us. These values guide d"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000016",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "These five values also require all of TotalEnergies' employees to behave in In this way, we deliver on our commitment to better energy. an exemplary manner. Priority is given to safety, security, heal"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000017",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Employees breakdown Employees breakdown Proven expertise in 2024"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000020",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Rest of the world • 92.7% of employees on permanent contracts, and women account for 42.2% of employees hired on"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000023",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Shareholding structure Shareholding structure by shareholder type(1)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000024",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Estimate as of December 31, 2024, based on the request for the identification of shareholders Estimate as of December 31, 2024, based on the request for the made on that date, pursuant to Article L. 2"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000027",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "(1) Excluding treasury shares. (2) On the basis of employee shareholding as defined in Article L. 225-102 of the French Commercial Code and Article 11 paragraph 6 of the Articles of Association of the"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000028",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Our climate ambition: AMBITION OF CARBON NEUTRALITY BY 2050, together with society."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000029",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Adjusted net income Return on equity (ROE) Return on average Cash flow from (TotalEnergies share) capital employed operations excluding (ROACE) working capital (CFFO)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000030",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Dividend per share for Gearing ratio(3) Net investment Pre-dividend organic the fiscal year 2024(2) ($4.8 billion for low- cash breakeven"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000031",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Greenhouse gas (GHG) emissions Scope 1+2 Methane emissions from operated facilities (vs 2020) from operated facilities (Mt CO e)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000032",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Carbon intensity of energy products sold Total recordable injury rate"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000033",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Share of women among senior executives (%) Share of non-French nationals among senior executives (%)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000034",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Chapter 1 / Presentation of the Company – Integrated report / TotalEnergies at a glance"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000036",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "● Oil (including bitumen) From gas flexible capacities ● Gas (including condensates and associated NGL) LNG production Gross installed power generation capacities at year-end"
+    }
+  ],
+  "sample_review_required_evidence": [
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000001",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "VALUES ANCHORED IN OUR DAILY ACTIVITIES"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000003",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "OUR OPERATIONAL PERFORMANCE ON OUR 2 PILLARS(1)(2)(3)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000004",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "OUR OPERATIONAL PERFORMANCE"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000008",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "LIFECYCLE CARBON INTENSITY OF SALES"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000009",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "LEVERS TO THE REDUCTION OF THE LIFECYCLE"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000010",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "OOUURR 44 AAXXEESS OOFF SSUUSSTTAAIINNAABBLLEE DDEEVVEELLOOPPMMEENNTT"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000011",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "OOUURR LLOOCCAALL AACCTTIIOONN PPLLAANNSS"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000012",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "TARGETS AND PROGRESS INDICATORS"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000014",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "1.1.1 An integrated energy company TotalEnergies is a global integrated energy company that produces and markets energies: oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables and"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000018",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "by geographical area by gender"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000019",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Rest of Europe Employees in 2024"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000021",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "managers hired were non-French nationals"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000022",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Workforce as of December 31, 2024: 102,887"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000025",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Individual Company Institutional"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000026",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Rest of shareholders employees(2) shareholders"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000035",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Hydrocarbon production(1) Net power production(2)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000038",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "number of BtB and BtC client sites (millions)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000043",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Europe and Central Asia Africa Middle East(7)"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000056",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Total acquires Saft Groupe. 2021 2024"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000059",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Natural gas Low-carbon molecules"
+    }
+  ],
+  "sample_quarantined_evidence": [],
+  "sample_table_evidence": [
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000312",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 2 with 46 rows and 9 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000313",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 3 with 33 rows and 10 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000314",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 5 with 24 rows and 12 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000315",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 7 with 4 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000316",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 7 with 4 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000317",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 7 with 4 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000318",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 7 with 4 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000319",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 7 with 4 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000320",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 7 with 7 rows and 16 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000321",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 8 with 6 rows and 14 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000322",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 8 with 7 rows and 10 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000323",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 8 with 4 rows and 9 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000324",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 8 with 7 rows and 11 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000325",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 8 with 4 rows and 9 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000326",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 8 with 5 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000327",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 8 with 1 rows and 2 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000328",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 8 with 1 rows and 4 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000329",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 8 with 5 rows and 10 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000330",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 9 with 5 rows and 9 columns."
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000331",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 9 with 6 rows and 10 columns."
+    }
+  ],
+  "sample_figure_evidence": [
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000369",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000370",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000371",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000372",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000373",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000374",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000375",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000376",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000377",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000378",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000379",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 11"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000380",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 11"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000381",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 11"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000382",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 13"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000383",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 13"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000384",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 17"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000385",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 17"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000386",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 17"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000387",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 17"
+    },
+    {
+      "multimodal_evidence_id": "totalenergies_2024_urd_e2e_metadata_fix_mm_ev_000388",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 17"
+    }
+  ]
+}

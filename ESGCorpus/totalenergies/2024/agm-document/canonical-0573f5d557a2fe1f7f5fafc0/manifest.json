@@ -1,0 +1,23 @@
+{
+  "canonical_document_id": "canonical_0573f5d557a2fe1f7f5fafc0",
+  "sha256": "d8135fcc2fb6614634c916dd5b419677d0a9bcc16d3b1142d65338f50c84ea2d",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document",
+    "remuneration_report"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever",
+    "RemunerationReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] AG 2024 Résultats des votes par résolution - Total Energies",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\agm-document\\canonical-0573f5d557a2fe1f7f5fafc0\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:10:01+00:00"
+}

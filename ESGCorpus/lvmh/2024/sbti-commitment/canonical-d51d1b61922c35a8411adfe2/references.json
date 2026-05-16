@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d51d1b61922c35a8411adfe2",
+  "sha256": "cf1d997ce2a550681aeca48f3b6dab73d8b27c01d6c274ef816c2fc9337ffe87",
+  "all_references": [
+    {
+      "document_id": "b5519f5ec93a08c958ee5b44",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://files.sciencebasedtargets.org/production/files/SBTi-Glossary-French.pdf",
+      "source_title": "French translation (V1.2)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_013_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_013_manifest.json",
+      "file_size_mb": 2.0874,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 13,
+      "stored_at": "2026-05-09T20:41:30+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_013_manifest.json"
+    }
+  ]
+}

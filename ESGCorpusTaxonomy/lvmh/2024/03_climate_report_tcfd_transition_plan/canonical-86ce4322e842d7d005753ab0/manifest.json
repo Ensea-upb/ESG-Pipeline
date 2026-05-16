@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_86ce4322e842d7d005753ab0",
+  "sha256": "9cc1d783418da963215e66d87a39d2cd01cecdf6715a908aab839e14955a5d01",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "climate_report",
+  "official_doc_type": "03_climate_report_tcfd_transition_plan",
+  "official_doc_type_label": "Climate report / TCFD / transition plan",
+  "doc_type_stratum": "climate",
+  "doc_subtype": "climate_report",
+  "period_type": "annual_or_ad_hoc",
+  "regulatory_status": "voluntary_or_regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\climate-report\\canonical-86ce4322e842d7d005753ab0\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\03_climate_report_tcfd_transition_plan\\canonical-86ce4322e842d7d005753ab0\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

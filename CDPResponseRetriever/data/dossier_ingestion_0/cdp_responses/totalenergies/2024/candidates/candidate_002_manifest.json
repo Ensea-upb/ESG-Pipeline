@@ -1,0 +1,44 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/005/712/original/2024_Full_Corporate_Questionnaire_Modules_8-13.pdf",
+    "title": "Questionnaire Full Corporate - cdn.cdp.net",
+    "snippet": "Apr 29, 2024 · In the example below, the “Tags” table indicates that the question will be shown to organizations who are responding to a request from a CDP Supply Chain member, are disclosing on water security, and have any CDP ACS sector other than financial services.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 80.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "plateforme CDP officielle : cdn.cdp.net",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_002_score_80_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "b8f92e18ee957ceb3c3a85221caabb334ba0351d64d2704db983cc8bfe563d26",
+    "file_size_mb": 5.61,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_2024_Full_Corporate_Questionnaire_Modules_8-13.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:04+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

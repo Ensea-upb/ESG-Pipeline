@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_148904e2bf67d05bd3d3d5d4",
+  "sha256": "047837ccb89b3da4a94ced2d32fa126014ac9f75da2933a2a3412338b7902df4",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "climate_report",
+  "document_families_detected": [
+    "climate_report"
+  ],
+  "retrievers_detected": [
+    "ClimateReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] ASSESSMENT OF TOTALENERGIES' CLIMATE STRATEGY",
+  "canonical_source_url": "https://reclaimfinance.org/site/wp-content/uploads/2024/05/202404_Assessment-of-TotalEnergies-climate-strategy.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\climate-report\\canonical-148904e2bf67d05bd3d3d5d4\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

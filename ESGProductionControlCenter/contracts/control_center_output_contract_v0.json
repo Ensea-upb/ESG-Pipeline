@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "required_when_present": {
+    "run_state.json": ["run_id", "module_name", "command", "status", "dry_run"],
+    "production_run_summary.json": ["status", "dry_run", "no_score_produced", "no_final_indicator_validated"]
+  },
+  "allowed_statuses": ["success", "failed", "timeout", "dry_run", "pending"],
+  "forbidden_flags": ["validated_indicator=true", "final_indicator=true", "score_produced=true"]
+}

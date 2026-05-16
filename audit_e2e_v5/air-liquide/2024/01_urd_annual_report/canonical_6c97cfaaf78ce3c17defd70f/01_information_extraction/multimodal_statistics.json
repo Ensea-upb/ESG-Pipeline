@@ -1,0 +1,799 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "total_multimodal_evidences": 879,
+  "evidence_by_modality": {
+    "text": 516,
+    "table": 74,
+    "figure": 289
+  },
+  "evidence_by_type": {
+    "section_heading": 35,
+    "paragraph": 481,
+    "table": 74,
+    "figure": 289
+  },
+  "evidence_policy_distribution": {
+    "normal": 878,
+    "review_required": 1
+  },
+  "downstream_use_policy_distribution": {
+    "eligible_for_future_extraction": 334,
+    "review_before_extraction": 518,
+    "exclude_from_automatic_extraction": 27
+  },
+  "review_required_count": 545,
+  "quarantined_count": 0,
+  "eligible_for_future_extraction_count": 334,
+  "evidence_by_section": {
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0001": 10,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0002": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0003": 49,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0004": 6,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0005": 3,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0006": 14,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0007": 6,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0008": 7,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0009": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0010": 9,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0011": 3,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0012": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0013": 3,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0014": 2,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0015": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0016": 24,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0017": 16,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0018": 51,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0019": 111,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0020": 23,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0021": 27,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0022": 36,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0023": 16,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0024": 36,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0025": 110,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0026": 11,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0027": 10,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0028": 143,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0029": 5,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0030": 4,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0031": 22,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0032": 17,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0033": 76,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0034": 11,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0035": 13
+  },
+  "modality_by_section": {
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0001": {
+      "text": 9,
+      "table": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0002": {
+      "text": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0003": {
+      "text": 40,
+      "table": 4,
+      "figure": 5
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0004": {
+      "text": 4,
+      "figure": 2
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0005": {
+      "text": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0006": {
+      "text": 8,
+      "table": 5,
+      "figure": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0007": {
+      "text": 6
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0008": {
+      "text": 1,
+      "table": 3,
+      "figure": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0009": {
+      "text": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0010": {
+      "text": 9
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0011": {
+      "text": 2,
+      "table": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0012": {
+      "text": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0013": {
+      "text": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0014": {
+      "text": 2
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0015": {
+      "text": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0016": {
+      "text": 11,
+      "table": 5,
+      "figure": 8
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0017": {
+      "text": 3,
+      "table": 6,
+      "figure": 7
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0018": {
+      "text": 41,
+      "table": 5,
+      "figure": 5
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0019": {
+      "text": 13,
+      "table": 5,
+      "figure": 93
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0020": {
+      "text": 14,
+      "table": 3,
+      "figure": 6
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0021": {
+      "text": 23,
+      "table": 1,
+      "figure": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0022": {
+      "text": 14,
+      "figure": 22
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0023": {
+      "text": 3,
+      "figure": 13
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0024": {
+      "text": 24,
+      "table": 1,
+      "figure": 11
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0025": {
+      "text": 65,
+      "table": 2,
+      "figure": 43
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0026": {
+      "text": 7,
+      "table": 1,
+      "figure": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0027": {
+      "text": 8,
+      "table": 1,
+      "figure": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0028": {
+      "text": 93,
+      "table": 11,
+      "figure": 39
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0029": {
+      "text": 3,
+      "table": 1,
+      "figure": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0030": {
+      "text": 4
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0031": {
+      "text": 16,
+      "table": 3,
+      "figure": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0032": {
+      "text": 14,
+      "table": 1,
+      "figure": 2
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0033": {
+      "text": 56,
+      "table": 12,
+      "figure": 8
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0034": {
+      "text": 3,
+      "table": 1,
+      "figure": 7
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0035": {
+      "text": 10,
+      "table": 1,
+      "figure": 2
+    }
+  },
+  "suspicious_sections_count": 0,
+  "tables_summary": {
+    "tables_count": 105,
+    "parsed_tables_count": 33,
+    "low_confidence_tables_count": 58,
+    "empty_tables_count": 14
+  },
+  "figures_summary": {
+    "figures_count": 289,
+    "page_level_visual_count": 0,
+    "embedded_visual_count": 289,
+    "captioned_figure_count": 0
+  },
+  "sample_eligible_evidence": [
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000001",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "OUR GOVERNANCE"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000007",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "TO FOSTER AGILITY AND PERFORMANCE"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000016",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "BIODIVERSITY PRESERVATION"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000017",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "IN HOME HEALTHCARE FOR OUR EMPLOYEES AND COMMUNITIES"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000024",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "100% renewable electricity and energy 2 Reduction of our"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000028",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "100% of Air Liquide employees"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000030",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "ETHICS AND COMPLIANCE COMMITTEE RISK COMMITTEE"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000031",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "14 Climate Champions steer"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000032",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "ENVIRONMENT FINANCE ETHICS & COMPLIANCE"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000040",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "OUR ADVANCES Interview with Annette Winkler, Director and Chairwoman 41 of Air Liquide's Environment and Society Committee Our major advances worldwide 23 The Board of Directors sets the strategic ori"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000041",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "to decarbonize European industry Making investment decisions 45 An investment project for low-carbon oxygen production 26 in the Americas Managing risk 46 ECO ORIGIN TM: a range of low-carbon industri"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000043",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Supporting the semiconductor industry while reducing 31 its environmental footprint Extra-financial ratings 52 Towards better management of sleep apnea in Italy 32 Financial statements 53 Access Oxyge"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000047",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "In a rapidly changing world, Air Liquide’s business model is demonstrating its strength and resilience in response to the challenges of multiple transitions. At the cutting edge of technological innov"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000048",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Benoît Potier, Chairman of the Board of Directors, and François Jackow, Chief Executive Officer of Air Liquide, share their"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000050",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Benoît Potier: Geopolitical and economic fragmentation is redefining the global balance of power. We are witnessing a global clusterization, with the world operating increasingly through communities o"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000051",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "meet emerging needs. We integrate the very best 2025-2026, representing an unprecedented total liquefaction and distribution of low-carbon and technologies into our products to benefit our increase of"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000052",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "all with a market-driven approach. This is still the These sales figures are further proof of challenges of the energy transition and their key case, now more than ever! We are visionaries, Air Liquid"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000053",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "The Group’s recurring net profit 3 increased by dedication of our teams around the world. Every year, they push boundaries, innovate +11.5% and recurring ROCE is at +10.7%, and rise to new challenges,"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000054",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Group’s growth and transformation. Now more than ever, we are continuing to prepare the future, with sources of growth fueled What can you tell us about your extra- by our record investment decisions "
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000055",
+      "evidence_type": "paragraph",
+      "source_modality": "text",
+      "downstream_use_policy": "eligible_for_future_extraction",
+      "quote": "Our ability to provide our customers with F.J.: Our extra-financial results are solid on all a carbon-neutral innovative products and services with a indicators of our ADVANCE plan. On safety, technol"
+    }
+  ],
+  "sample_review_required_evidence": [
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000002",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000003",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE MANIFESTO 3"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000004",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "TO AN UNPRECEDENTED LEVEL OFFICIAL HYDROGEN SUPPORTER OF PARIS 2024"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000005",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "IN THE SEMICONDUCTOR INDUSTRY"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000006",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "A LOW-CARBON GAS PLATFORM IN TEXAS"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000008",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "STOCKHOLM EXERGI ADOPTS CRYOCAPTM LQ CO₂ ELECTRIFICATION OF TWO OXYGEN MAJOR INVESTMENTS"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000009",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "LIQUEFACTION TECHNOLOGY PRODUCTION UNITS IN CHINA TO SUPPORT EUROPEAN DECARBONIZATION"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000010",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "IN PARTNERSHIP WITH TOTALENERGIES"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000011",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "40% Americas Europe, Middle East & Africa"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000012",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "ACTIVITIES AS A PERCENTAGE OF 2024 GROUP REVENUE"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000013",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "95% Gas & Services"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000014",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "26% Large Industries"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000015",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE AIR LIQUIDE IN FIGURES 11"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000018",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "IN LOW- AND MIDDLE-INCOME COUNTRIES"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000019",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "250 km maximum from the"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000020",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "AN INNOVATION FOR SEMICONDUCTORS"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000021",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "10Mt of CO 37Mt of CO"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000022",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "850 million dollars to create a"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000023",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "100% certified"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000025",
+      "evidence_type": "section_heading",
+      "source_modality": "text",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "20MW electrolyzer to produce Other industrial"
+    }
+  ],
+  "sample_quarantined_evidence": [],
+  "sample_table_evidence": [
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000517",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 2 with 49 rows and 15 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000518",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 3 with 30 rows and 4 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000519",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 5 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000520",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 6 with 21 rows and 6 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000521",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 7 with 47 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000522",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 9 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000523",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 9 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000524",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 9 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000525",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 9 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000526",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 9 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000527",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 10 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000528",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 10 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000529",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 10 with 3 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000530",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Table parsed on page 11 with 30 rows and 12 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000531",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 12 with 1 rows and 2 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000532",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Low-confidence table detected on page 12 with 1 rows and 8 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000533",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 12 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000534",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 12 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000535",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 12 with 2 rows and 1 columns."
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000536",
+      "evidence_type": "table",
+      "source_modality": "table",
+      "downstream_use_policy": "exclude_from_automatic_extraction",
+      "quote": "Low-confidence table detected on page 13 with 1 rows and 2 columns."
+    }
+  ],
+  "sample_figure_evidence": [
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000591",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 1"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000592",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 3"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000593",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 4"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000594",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 5"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000595",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 6"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000596",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 7"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000597",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 8"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000598",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 8"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000599",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 9"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000600",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000601",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000602",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 10"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000603",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000604",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000605",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000606",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000607",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000608",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000609",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    },
+    {
+      "multimodal_evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_mm_ev_000610",
+      "evidence_type": "figure",
+      "source_modality": "figure",
+      "downstream_use_policy": "review_before_extraction",
+      "quote": "Figure detected on page 12"
+    }
+  ]
+}

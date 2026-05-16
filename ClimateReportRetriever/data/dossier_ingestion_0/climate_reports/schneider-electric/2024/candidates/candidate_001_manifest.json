@@ -1,0 +1,45 @@
+{
+  "document_type": "climate_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+    "title": "[PDF] Integrated report 2024 - Schneider Electric",
+    "snippet": "Climate Transparency. (PACT), and avoided emissions. In 2024,. Schneider Electric also contributed to the Built environment workstream.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles climat : ['climate', 'emissions', 'climat', 'émissions', 'emissions']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux climat : ['integrated report']",
+      "classe documentaire : annual_report_with_climate_content"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349",
+    "file_size_mb": 26.721,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_Integrated-report-2024.pdf_p_enDocType_Financial_release_p_File_Name_Integrated_report_2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:18:51+00:00",
+    "storage_version": "climate_report_candidate_storage_v0"
+  }
+}

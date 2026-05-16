@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d8d05358db3067a02fdfc36a",
+  "sha256": "ebfaf0f9bf64f274739b49c7e0ba3279e2a988ea507d45c68347b4956194fa01",
+  "all_references": [
+    {
+      "document_id": "7f4ea984df9bf95b42a3fc10",
+      "retriever_name": "ClimateReportRetriever",
+      "document_family": "climate_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-08/totalenergies_SGD-reporting_2024_en_pdf.pdf",
+      "source_title": "[PDF] TotalEnergies SDG REPORTING",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 1.2778,
+      "document_type": "climate_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T19:18:05+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

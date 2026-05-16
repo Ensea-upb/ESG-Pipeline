@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_bdab1fa9b1d1a4e781178973",
+  "sha256": "af3e861ccd5b9bce07cc6e078a5d820c898fbf5cc680c6700edd1f0117245785",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "sbti_commitment",
+  "document_families_detected": [
+    "sbti_commitment"
+  ],
+  "retrievers_detected": [
+    "SBTiRetriever"
+  ],
+  "canonical_source_title": "SBTi Criteria Assessment Indicators",
+  "canonical_source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Criteria-Assessment-Indicators.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\sbti-commitment\\canonical-bdab1fa9b1d1a4e781178973\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

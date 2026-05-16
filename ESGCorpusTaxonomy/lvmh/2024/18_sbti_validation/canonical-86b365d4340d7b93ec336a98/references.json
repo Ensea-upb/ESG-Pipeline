@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_86b365d4340d7b93ec336a98",
+  "sha256": "048987d13ce989072355bb30d69acf3afb94c62abc738378c40487b02ba9832b",
+  "all_references": [
+    {
+      "document_id": "781b2c30dc369f5170825d30",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Buildings_Guidance_July_2024_Chinese.pdf",
+      "source_title": "Mandarin Chinese translation",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_026_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_026_manifest.json",
+      "file_size_mb": 1.9676,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 26,
+      "stored_at": "2026-05-09T20:41:51+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_026_manifest.json"
+    }
+  ]
+}

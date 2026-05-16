@@ -1,0 +1,45 @@
+{
+  "document_type": "annual_report",
+  "storage_role": "final_selected_document",
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+    "title": "[PDF] 2024 Universal Registration Document (PDF version) - Total Energies",
+    "snippet": "Contents 1 Presentation of the Company – Integrated report 5 1.1 TotalEnergies at a glance 6 1.2 Our transition strategy 14 1.3 Climate and Sustainable Energy 20 1.4 Our approach to sustainable development 28 1.5 Our investment policy 34 1.6 Innovation for the transition strategy of TotalEnergies 37 1.7 Our strengths 40 1.8 Our governance 43 1.9 Our financial performance 49 2 Business overview for fiscal year 2024 71 2.1 Upstream oil and gas activities 72 2.2 Exploration & Production segment 83 2.3 Integrated LNG segment 91 2.4 Integrated Power Segment 100 2.5 Refining & Chemicals segment 112 2.6 Marketing & Services segment 123 3 Risks and control 131 3.1 Risk factors 132 3.2 Countries under economic sanctions 141 3.3 Internal control and risk management procedures 145 3.4 Insurance and risk management 152 3.5 Legal and arbitration proceedings 153 3.6 Vigilance Plan 154 4 Report on corporate governance 189 4.1 Administration and management bodies 190 4.2 Statement regarding corporate governance 239 4.3 Compensation for the administration and management bodies 239 4.4 Additional information about corporate governance 268 4.5 Statutory auditors’ report on related party agreements 273 5 Sustainability reporting under the CSRD 275 5.1 General information (ESRS 2) 276 5.2 Environmental information 319 5.3 Social information 371 5.4 Governance information 409 5.5 Certification reports of the statutory auditors 416 6 TotalEnergies and its shareholders 421 6.1 Listing details 422 6.2 Shareholder return and dividend 425 6.3 Share buybacks 429 6.4 Shareholders 432 6.5 Information for foreign shareholders 434 6.6 Investor relations 435 7 General information 441 7.1 Share capital 442 7.2 Articles of Association; other information 443 7.3 Historical financial information and additional information 446 8 Consolidated Financial Statements 449 8.1 Statutory auditors’ report on the consolidated financial statements 450 8.2 Consolidated statement of income 455 8.3 Consolidated statement of comprehensive income 456 8.4 Consolidated balance sheet 457 8.5 Consolidated statement of cash flow 458 8.6 Consolidated statement of changes",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['universal registration document', 'integrated report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['universalregistrationdocument']",
+      "signaux de périmètre groupe : ['consolidated', 'universal registration document']",
+      "classe documentaire : universal_registration_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\annual_report.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\manifest.json",
+    "sha256": "c0294fa903042125e9347c0592847defd97f5da88182a640162598828d33b4f0",
+    "file_size_mb": 16.3762,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_universal-registration-document-2024_2025_en.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:48:46+00:00",
+    "storage_version": "annual_report_storage_v0"
+  }
+}

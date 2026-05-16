@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_9c49add355c9b39b62d04d96",
+  "sha256": "db86f699776ee068551a1ee263dafdc1943a869b983fa7e8120238504cdb8a02",
+  "all_references": [
+    {
+      "document_id": "fed04beb785ef8e458309f0b",
+      "retriever_name": "VigilancePlanRetriever",
+      "document_family": "vigilance_plan",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.SE.com/ww/fr/assets/342/document/466150/plan-de-vigilance-2023.pdf",
+      "source_title": "Plan de vigilance 2023",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 3.3289,
+      "document_type": "vigilance_plan_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:28:18+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json"
+    },
+    {
+      "document_id": "01ded9182203906c0dee77f6",
+      "retriever_name": "VigilancePlanRetriever",
+      "document_family": "vigilance_plan",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/fr/assets/342/document/466150/plan-de-vigilance-2023.pdf?p_enDocType=Duty+of+Vigilance+plan&p_File_Name=Schneider+Vigilance+Plan+2023",
+      "source_title": "PDF Plan de vigilance 2023 - Schneider Electric Global",
+      "source_name": "ddgs",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_002_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 3.3289,
+      "document_type": "vigilance_plan_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:28:20+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

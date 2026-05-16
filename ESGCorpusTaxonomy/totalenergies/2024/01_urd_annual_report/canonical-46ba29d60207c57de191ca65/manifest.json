@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_46ba29d60207c57de191ca65",
+  "sha256": "c0294fa903042125e9347c0592847defd97f5da88182a640162598828d33b4f0",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "annual_report",
+  "official_doc_type": "01_urd_annual_report",
+  "official_doc_type_label": "URD / annual report",
+  "doc_type_stratum": "core_reporting",
+  "doc_subtype": "annual_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_standard_reporting",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\annual-report\\canonical-46ba29d60207c57de191ca65\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\01_urd_annual_report\\canonical-46ba29d60207c57de191ca65\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

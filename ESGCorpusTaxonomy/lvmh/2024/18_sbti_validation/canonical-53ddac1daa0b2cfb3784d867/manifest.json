@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_53ddac1daa0b2cfb3784d867",
+  "sha256": "d539858a2b97e2e86a6d62ceaee7328d84460b72b935c7bfcc1694b1e54e6a10",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "sbti_commitment",
+  "official_doc_type": "18_sbti_validation",
+  "official_doc_type_label": "SBTi validation",
+  "doc_type_stratum": "external_validation",
+  "doc_subtype": "sbti_commitment",
+  "period_type": "ad_hoc",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\sbti-commitment\\canonical-53ddac1daa0b2cfb3784d867\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\18_sbti_validation\\canonical-53ddac1daa0b2cfb3784d867\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

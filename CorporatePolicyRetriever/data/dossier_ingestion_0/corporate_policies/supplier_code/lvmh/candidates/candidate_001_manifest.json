@@ -1,0 +1,46 @@
+{
+  "document_type": "corporate_policy_supplier_code",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "supplier_code",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.cloudybay.com/drupal/sites/default/files/2024-04/LVMHSupplierCodeConduct2022.pdf",
+    "title": "LVMH Group - Cloudy Bay",
+    "snippet": "The LVMH Group therefore requires its Suppliers to respect the principles set forth in this Supplier Code of Conduct (“Code”) and to ensure that their own suppliers do the same in the conduct of their activities for the LVMH Group.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['supplier code of conduct', 'supplier code']",
+      "année récente détectée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier politique : ['suppliercode']",
+      "classe documentaire : standalone_supplier_code"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_manifest.json",
+    "sha256": "67515243db92f8bdd81ea6a3d876369d407adaf700f16ad0b39e230a60ba990b",
+    "file_size_mb": 0.8619,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_supplier_code_LVMHSupplierCodeConduct2022.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:51:30+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

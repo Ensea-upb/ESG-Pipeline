@@ -1,0 +1,46 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/2024-05/TotalEnergies_Assemblee-generale-ordinaire-et-extraordinaire-24-mai_2024_pdf.pdf",
+    "title": "Assemblée générale ordinaire et extraordinaire du 24 mai 2024 ...",
+    "snippet": "L’avis préalable de réunion de l’Assemblée générale et l’avis de convocation ont été publiés au BALO (Bulletin des annonces légales obligatoires) respectivement le 29 mars 2024 et le 3 mai 2024.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier AGM : ['assemblée-générale']",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "9e9bfac84870b7da5e4c44c7c20219058ac4c8fe2c65f900ba2ce9047fd58d63",
+    "file_size_mb": 0.1585,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_TotalEnergies_Assemblee-generale-ordinaire-et-extraordinaire-24-mai_2024_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:47+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

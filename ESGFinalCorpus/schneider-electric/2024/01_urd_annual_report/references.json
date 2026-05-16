@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_69806d3f767774dfaff97249",
+  "sha256": "88c05720bf7d3f9e3ae2e4fc69c45687da3d7cc88d002f338f538003c4e8e98a",
+  "all_references": [
+    {
+      "document_id": "21013a3ef75da80fbde9b001",
+      "retriever_name": "AnnualReportRetriever",
+      "document_family": "annual_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/510443/2024-universal-registration-document.pdf?",
+      "source_title": "[PDF] 2024 Universal Registration Document - Schneider Electric",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 13.9516,
+      "document_type": "annual_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T16:23:44+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

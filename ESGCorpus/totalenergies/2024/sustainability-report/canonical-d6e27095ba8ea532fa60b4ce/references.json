@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_d6e27095ba8ea532fa60b4ce",
+  "sha256": "c65ec5c295536fd09cb15ccf7c6172f35215556f5d9b9f74f802a602d22b238d",
+  "all_references": [
+    {
+      "document_id": "2c1f6d0efdb25e298d3ee346",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+      "source_title": "Document d'enregistrement universel 2024 (version PDF)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 16.1175,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T18:45:22+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json"
+    },
+    {
+      "document_id": "5ed58e7216f113d859dc0bf6",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+      "source_title": "TotalEnergies_DEU_2024_VF",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 16.1175,
+      "document_type": "corporate_policy_environmental",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:53:59+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

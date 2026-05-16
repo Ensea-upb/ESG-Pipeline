@@ -1,0 +1,45 @@
+{
+  "document_type": "remuneration_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_sdg-reporting-2024_2025.pdf",
+    "title": "[PDF] TotalEnergies SDG REPORTING",
+    "snippet": "31 SDG 8 Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 8.2 Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors Economic productivity URD 2024, 1.1.3 Our business model, p.12-13 URD 2024, 1.9 Our financial performance, p.49-70 URD 2024, 8.7 Notes to the Consolidated Financial Statements, p.460-568 URD 2024, 11.1 World Economic Forum Core extra-financial metrics > Prosperity, p.649-650 URD 2024, 5.3.3.5 Tilenga and EACOP local content plan, p.406 8.5 By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value Decent work Remuneration Policy URD 2024, 8.4 Compensation for the administration and management bodies, p.494 URD 2024, 5.3.1.3 Working conditions and environment > Attractive and competitive compensation, p.388-389 URD 2024, quality of life at work and the well-being of employees, p.383 Long-term employability Sustainability and Climate 2025 Progress Report, Develop and Support Talent in the Transition, p.74 URD 2024, Developing skills and maintaining employees' long-term employability, p.385 Non-discrimination URD 2024, 1.4 Our approach to sustainable development > Diversity, p.29 URD 2024, 5.3.1 Company workforce, p.371 URD 2024, 5.3.1.3 Working conditions and environment > Equal treatment and opportunities, p.391-392 Human Rights Briefing Paper 2018-2023, Human Rights in the workplace > b.Non-discrimination, p.16-17 Sustainability and Climate 2025 Progress Report, Talent Diversity, a Performance Lever, p.77 Code of Conduct, p.20-21 TotalEnergies website, Challenges identification TotalEnergies website, Indicators TotalEnergies website, Responsible employer Human rights in the workplace URD 2024, 5.3.1.5 Respect for human rights at work, p.396-398 URD 2024, 5.4.3.2 The Company’s Sustainable Procurement program, p.413-415 Human Rights Briefing Paper 2018-2023, Our salient Human Rights issues > Human rights in the workplace, p.13-17 Sustainability and Climate 2025 Progress Report > Upholding Human Rights, p.90-91 Code of Conduct, p.14-15 Respect Human rights at",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles rémunération : ['remuneration', 'rémunération', 'remuneration', 'compensation']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux rémunération : ['urd']",
+      "classe documentaire : annual_report_with_remuneration_section"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "2d8daae3c9f81be34bd568c751cc0e45269f45e214c9ad323681b4b1dbc6b295",
+    "file_size_mb": 1.2217,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_sdg-reporting-2024_2025.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:46:58+00:00",
+    "storage_version": "remuneration_report_candidate_storage_v0"
+  }
+}

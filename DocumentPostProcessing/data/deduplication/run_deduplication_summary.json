@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "message": "Déduplication exacte terminée : 48 groupe(s) de doublons exacts détecté(s).",
+  "total_documents": 296,
+  "total_documents_with_sha256": 296,
+  "total_unique_sha256": 229,
+  "total_duplicate_groups": 48,
+  "total_duplicate_documents": 115,
+  "output_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\deduplication\\exact_duplicates.json",
+  "output_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\deduplication\\exact_duplicates.csv",
+  "summary_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\deduplication\\deduplication_summary.json"
+}

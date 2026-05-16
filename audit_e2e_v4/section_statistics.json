@@ -1,0 +1,630 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "schneider_electric_2024_csrd_v4",
+  "section_candidates_count": 20917,
+  "accepted_candidates_count": 324,
+  "rejected_candidates_count": 20593,
+  "rejection_reasons_distribution": {
+    "rejected_low_confidence": 11063,
+    "rejected_header_footer": 1529,
+    "rejected_org_chart_like": 875,
+    "rejected_too_short": 3342,
+    "rejected_sentence_like_heading": 528,
+    "rejected_numeric_value": 337,
+    "rejected_footnote": 139,
+    "rejected_too_numeric": 66,
+    "rejected_list_item": 2267,
+    "rejected_toc_entry": 421,
+    "rejected_timeline_like": 22,
+    "rejected_structural_block": 4
+  },
+  "sections_count": 324,
+  "section_types_distribution": {
+    "unknown": 285,
+    "climate": 2,
+    "supply_chain": 3,
+    "social": 2,
+    "water": 2,
+    "waste": 1,
+    "emissions": 4,
+    "workforce": 5,
+    "anti_corruption": 1,
+    "energy": 1,
+    "remuneration": 15,
+    "general": 3
+  },
+  "rejected_cover_page_count": 0,
+  "rejected_toc_heading_count": 0,
+  "rejected_numeric_value_count": 337,
+  "rejected_front_matter_count": 0,
+  "rejected_document_title_count": 0,
+  "timeline_like_rejected_count": 22,
+  "numeric_value_rejected_count": 337,
+  "rejected_heading_fragment_count": 0,
+  "rejected_org_chart_like_count": 875,
+  "rejected_diagram_like_count": 0,
+  "rejected_sentence_like_count": 528,
+  "merged_headings_count": 0,
+  "low_confidence_rejected_count": 11063,
+  "section_type_unknown_ratio": 0.87963,
+  "sections_by_page": {
+    "1": 1,
+    "3": 2,
+    "6": 2,
+    "7": 1,
+    "10": 2,
+    "16": 1,
+    "19": 1,
+    "31": 1,
+    "36": 1,
+    "37": 3,
+    "40": 1,
+    "47": 1,
+    "56": 1,
+    "65": 1,
+    "72": 1,
+    "75": 2,
+    "78": 2,
+    "79": 1,
+    "81": 1,
+    "99": 1,
+    "112": 1,
+    "120": 2,
+    "124": 2,
+    "135": 2,
+    "137": 1,
+    "144": 1,
+    "148": 1,
+    "169": 1,
+    "175": 1,
+    "195": 20,
+    "196": 1,
+    "199": 20,
+    "200": 1,
+    "203": 5,
+    "217": 1,
+    "219": 1,
+    "225": 3,
+    "235": 1,
+    "262": 1,
+    "297": 2,
+    "299": 1,
+    "304": 2,
+    "316": 1,
+    "318": 3,
+    "322": 1,
+    "331": 2,
+    "332": 1,
+    "342": 1,
+    "344": 1,
+    "345": 2,
+    "346": 2,
+    "347": 3,
+    "348": 2,
+    "353": 5,
+    "354": 4,
+    "355": 3,
+    "356": 3,
+    "357": 2,
+    "386": 2,
+    "400": 1,
+    "405": 1,
+    "410": 1,
+    "427": 1,
+    "428": 1,
+    "435": 1,
+    "437": 1,
+    "444": 1,
+    "449": 2,
+    "450": 1,
+    "452": 2,
+    "458": 7,
+    "459": 3,
+    "461": 1,
+    "462": 2,
+    "463": 1,
+    "464": 1,
+    "467": 2,
+    "468": 3,
+    "471": 2,
+    "475": 3,
+    "476": 2,
+    "477": 1,
+    "485": 1,
+    "486": 1,
+    "487": 1,
+    "498": 1,
+    "499": 1,
+    "502": 1,
+    "504": 1,
+    "507": 1,
+    "508": 5,
+    "509": 2,
+    "527": 3,
+    "528": 1,
+    "529": 4,
+    "530": 1,
+    "531": 1,
+    "532": 1,
+    "533": 2,
+    "536": 3,
+    "537": 5,
+    "538": 4,
+    "539": 3,
+    "540": 2,
+    "545": 3,
+    "546": 1,
+    "547": 3,
+    "548": 1,
+    "549": 3,
+    "550": 3,
+    "551": 1,
+    "552": 2,
+    "553": 2,
+    "554": 4,
+    "555": 3,
+    "569": 1,
+    "574": 10,
+    "579": 1,
+    "581": 1,
+    "587": 1,
+    "589": 1,
+    "590": 2,
+    "591": 5,
+    "592": 4,
+    "597": 2,
+    "598": 1,
+    "599": 1,
+    "600": 3,
+    "606": 1,
+    "613": 1,
+    "614": 1,
+    "618": 2,
+    "622": 1,
+    "630": 1,
+    "635": 1,
+    "637": 1,
+    "638": 7,
+    "639": 5,
+    "641": 1,
+    "643": 2,
+    "645": 1,
+    "646": 1,
+    "648": 1,
+    "649": 1,
+    "652": 2,
+    "654": 1,
+    "656": 1,
+    "658": 1,
+    "659": 1,
+    "667": 1,
+    "669": 4,
+    "670": 2,
+    "676": 2
+  },
+  "sample_accepted_headings": [
+    "RAPPORT FINANCIER ET DÉVELOPPEMENT DURABLE",
+    "RAPPORT STRATÉGIQUE COMPTES",
+    "INFORMATIONS ACTIONNAIRES",
+    "24 % Asie-Pacifique",
+    "26 % Europe de l’Ouest",
+    "A M É R I Q U E D U N O R D E U R O P E",
+    "ÉLECTRIFICATION AUTOMATISMES NUMÉRISATION",
+    "BÂTIMENTS CENTRES DE DONNÉES INFRASTRUCTURES INDUSTRIE",
+    "RÉSULTATS FINANCIERS RÉSUMÉS",
+    "31 décembre",
+    "30 pays Chain(1)",
+    "100 % de taux de participation",
+    "52 ans, nationalité allemande",
+    "63 ans, nationalité égyptienne",
+    "65 ans, nationalité chinoise",
+    "19 fois depuis sa création.",
+    "25 % de réduction absolue sur l’ensemble de notre « Zéro émission nette »",
+    "54 Md de tonnes 45 % 1,7 à 3,4 bn $",
+    "50 Mns 1 Mn 100 Mns Neutre ÷2 80 %",
+    "25 % de réduction en valeur absolue sur « Zéro émission nette » de"
+  ],
+  "sample_rejected_headings": [
+    {
+      "text": "résilient, plus efficace et plus durable.",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "Universel. L’ensemble alors formé est approuvé par",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "l’AMF conformément au règlement (UE) 2017/1129.",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "internet de l’AMF www.amf-france.org. Cette reproduction",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "est disponible sur notre site internet : www.se.com.",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "RAPPORT STRATÉGIQUE",
+      "candidate_status": "rejected_header_footer",
+      "candidate_reason": "header_or_footer_excluded"
+    },
+    {
+      "text": "se.com Life Is On | Schneider Electric 1",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "RAPPORT",
+      "candidate_status": "rejected_org_chart_like",
+      "candidate_reason": "org_chart_like_heading_excluded"
+    },
+    {
+      "text": "INTÉGRÉ",
+      "candidate_status": "rejected_org_chart_like",
+      "candidate_reason": "org_chart_like_heading_excluded"
+    },
+    {
+      "text": "CH1",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH2",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH3",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH4",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH5",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH6",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH7",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH8",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "CH9",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "RFA",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    }
+  ],
+  "sample_rejected_numeric_values": [
+    "38,2 Md€ 4,3 Md€ 8,32 €",
+    "18,6 % 4,2 Md€ 3,90 €",
+    "74 % 679 M +23,6 M",
+    "2018",
+    "13 %",
+    "36 %",
+    "27 %",
+    "177 k",
+    "12 %",
+    "37 %",
+    "25 %",
+    "100+",
+    "2023 2027",
+    "177 k 1 400+",
+    "53,4 M 62 % +48 %",
+    "2020 2021 2022 2023 2024",
+    "32 %",
+    "18,6 %",
+    "2020 2021 2022 2023 2024",
+    "22,1 % 14,8 %"
+  ],
+  "sample_rejected_front_matter": [],
+  "sample_rejected_timeline_like": [
+    "2018 (+126 M vs. 2023) Programme de données",
+    "2021-2025 – notre feuille de route en termes de développement",
+    "2021 (Année de référence) 2030 2050 2030 : Cible annuelle en %/année de référence",
+    "2026-2030, incluant des objectifs supplémentaires liés aux flux de",
+    "2024 Unité",
+    "30 % en 2025 par rapport à la valeur de référence de 2017.",
+    "14 100 sessions en 2024, soit 85,5 % des formations formelles.",
+    "35 % l’intensité hydrique d’ici 2025 par rapport à 2017, en se",
+    "2005), de Directrice Assurance de la gestion et des affectations spéciales jusqu’en 2008",
+    "14 février, 23 mai, 30 juillet, 30 septembre, 7 novembre et 17 décembre 2024.",
+    "90 895,60 euros pour la période allant du 1er novembre au 31 décembre 2024.",
+    "2022 2023 2024 versement pondéré",
+    "790 323 euros du 1er janvier au 1er novembre 2024.",
+    "16,5 % du chiffre d’affaires en 2024 (et 15,4 % du chiffre d’affaires en 2023).",
+    "2024 à leur valeur nominale, soit 176,44 euros par OCEANE 2026.",
+    "31/12/2023 Augmentation Diminution 31/12/2024",
+    "31 décembre 2024 31 décembre 2023 31 décembre 2022",
+    "24 mai 2024 et le 19 février 2025 • Nombre d’actions transférées : 1 196 052",
+    "20 février 2025 Résultats annuels 2024",
+    "28 avril 2025 Chiffre d’affaires du 1er trimestre 2025"
+  ],
+  "sample_rejected_heading_fragments": [],
+  "sample_rejected_org_chart_like": [
+    "RAPPORT",
+    "INTÉGRÉ",
+    "RAPPORT",
+    "INTÉGRÉ",
+    "RAPPORT",
+    "INTÉGRÉ",
+    "I N D E",
+    "C H I N E",
+    "IMPACT",
+    "TCAC",
+    "RAPPORT",
+    "INTÉGRÉ",
+    "RAPPORT",
+    "INTÉGRÉ",
+    "RAPPORT",
+    "INTÉGRÉ",
+    "RAPPORT",
+    "INTÉGRÉ",
+    "12 %, avec la France, l’Allemagne et l’Italie particulièrement 1 625 M€ (-3,8 % org.)",
+    "RAPPORT"
+  ],
+  "sample_rejected_sentence_like": [
+    "2024 a été une année d’Impact portée par une forte attention portée à l’exécution",
+    "100 pays à travers le monde(1) déposées en 2024",
+    "10 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "12 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "14 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "113 millions d’euros par rapport à l’année dernière. Le taux effectif d’imposition",
+    "16 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "18 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "20 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "22 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "24 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "26 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "28 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "30 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "32 Schneider Electric | Document d’Enregistrement Universel 2024 se.com",
+    "61 ans, nationalité française référent indépendant 54 ans, nationalité française",
+    "17 administrateurs. Mme Clotilde Delbos a été cooptée conformité (6)",
+    "42 ans, nationalité portugaise & allemande singapourienne 1 00 % d’administrateurs",
+    "61 ans, nationalité chinoise 97 % de taux de participation",
+    "68 ans, nationalité canadienne 65 ans, nationalité américaine les salariés de nationalité"
+  ],
+  "sample_merged_headings": [],
+  "sample_sections": [
+    {
+      "section_title": "RAPPORT FINANCIER ET DÉVELOPPEMENT DURABLE",
+      "section_type": "unknown",
+      "page_start": 1,
+      "page_end": 2
+    },
+    {
+      "section_title": "RAPPORT STRATÉGIQUE COMPTES",
+      "section_type": "unknown",
+      "page_start": 3,
+      "page_end": 3
+    },
+    {
+      "section_title": "INFORMATIONS ACTIONNAIRES",
+      "section_type": "unknown",
+      "page_start": 3,
+      "page_end": 5
+    },
+    {
+      "section_title": "24 % Asie-Pacifique",
+      "section_type": "unknown",
+      "page_start": 6,
+      "page_end": 6
+    },
+    {
+      "section_title": "26 % Europe de l’Ouest",
+      "section_type": "unknown",
+      "page_start": 6,
+      "page_end": 6
+    },
+    {
+      "section_title": "A M É R I Q U E D U N O R D E U R O P E",
+      "section_type": "unknown",
+      "page_start": 7,
+      "page_end": 9
+    },
+    {
+      "section_title": "ÉLECTRIFICATION AUTOMATISMES NUMÉRISATION",
+      "section_type": "unknown",
+      "page_start": 10,
+      "page_end": 10
+    },
+    {
+      "section_title": "BÂTIMENTS CENTRES DE DONNÉES INFRASTRUCTURES INDUSTRIE",
+      "section_type": "unknown",
+      "page_start": 10,
+      "page_end": 15
+    },
+    {
+      "section_title": "RÉSULTATS FINANCIERS RÉSUMÉS",
+      "section_type": "unknown",
+      "page_start": 16,
+      "page_end": 18
+    },
+    {
+      "section_title": "31 décembre",
+      "section_type": "unknown",
+      "page_start": 19,
+      "page_end": 30
+    },
+    {
+      "section_title": "30 pays Chain(1)",
+      "section_type": "unknown",
+      "page_start": 31,
+      "page_end": 35
+    },
+    {
+      "section_title": "100 % de taux de participation",
+      "section_type": "unknown",
+      "page_start": 36,
+      "page_end": 36
+    },
+    {
+      "section_title": "52 ans, nationalité allemande",
+      "section_type": "unknown",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "section_title": "63 ans, nationalité égyptienne",
+      "section_type": "unknown",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "section_title": "65 ans, nationalité chinoise",
+      "section_type": "unknown",
+      "page_start": 37,
+      "page_end": 39
+    },
+    {
+      "section_title": "19 fois depuis sa création.",
+      "section_type": "unknown",
+      "page_start": 40,
+      "page_end": 46
+    },
+    {
+      "section_title": "25 % de réduction absolue sur l’ensemble de notre « Zéro émission nette »",
+      "section_type": "climate",
+      "page_start": 47,
+      "page_end": 55
+    },
+    {
+      "section_title": "54 Md de tonnes 45 % 1,7 à 3,4 bn $",
+      "section_type": "unknown",
+      "page_start": 56,
+      "page_end": 64
+    },
+    {
+      "section_title": "50 Mns 1 Mn 100 Mns Neutre ÷2 80 %",
+      "section_type": "unknown",
+      "page_start": 65,
+      "page_end": 71
+    },
+    {
+      "section_title": "25 % de réduction en valeur absolue sur « Zéro émission nette » de",
+      "section_type": "climate",
+      "page_start": 72,
+      "page_end": 74
+    }
+  ],
+  "invalid_section_ranges_count": 0,
+  "suspicious_sections_count": 2,
+  "section_quality_score_distribution": {
+    "average": 0.844907,
+    "min": 0.55,
+    "max": 1.0,
+    "below_0_50": 0,
+    "below_0_75": 7
+  },
+  "evidence_policy_distribution": {
+    "review_required": 7,
+    "normal": 317
+  },
+  "sample_suspicious_sections": [
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0092",
+      "section_title": "83 000 heures de",
+      "section_quality_score": 0.55,
+      "evidence_policy": "review_required",
+      "suspicion_reasons": [
+        "unknown_section_type",
+        "high_evidence_density",
+        "weak_heading_confidence",
+        "section_too_long"
+      ]
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0134",
+      "section_title": "404-1 Répartition des heures par catégorie",
+      "section_quality_score": 0.55,
+      "evidence_policy": "review_required",
+      "suspicion_reasons": [
+        "unknown_section_type",
+        "high_evidence_density",
+        "weak_heading_confidence",
+        "section_too_long"
+      ]
+    }
+  ],
+  "sample_low_quality_sections": [
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0001",
+      "section_title": "RAPPORT FINANCIER ET DÉVELOPPEMENT DURABLE",
+      "section_quality_score": 0.7,
+      "evidence_policy": "review_required"
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0092",
+      "section_title": "83 000 heures de",
+      "section_quality_score": 0.55,
+      "evidence_policy": "review_required"
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0105",
+      "section_title": "2040, respectivement.",
+      "section_quality_score": 0.7,
+      "evidence_policy": "review_required"
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0120",
+      "section_title": "401-1 Répartition par sexe",
+      "section_quality_score": 0.7,
+      "evidence_policy": "review_required"
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0121",
+      "section_title": "401-1 Répartition par âge(3)",
+      "section_quality_score": 0.7,
+      "evidence_policy": "review_required"
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0128",
+      "section_title": "401-1 Répartition par âge(3)",
+      "section_quality_score": 0.7,
+      "evidence_policy": "review_required"
+    },
+    {
+      "section_id": "schneider_electric_2024_csrd_v4_section_0134",
+      "section_title": "404-1 Répartition des heures par catégorie",
+      "section_quality_score": 0.55,
+      "evidence_policy": "review_required"
+    }
+  ],
+  "section_quality_thresholds": {
+    "normal_min": 0.75,
+    "review_required_min": 0.5,
+    "quarantine_below": 0.5
+  }
+}

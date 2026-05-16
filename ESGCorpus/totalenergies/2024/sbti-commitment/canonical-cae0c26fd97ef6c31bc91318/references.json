@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_cae0c26fd97ef6c31bc91318",
+  "sha256": "b82f478e47be536cfb594ec0d2106f8c64554be91b9c8705ca390c6e88e9e599",
+  "all_references": [
+    {
+      "document_id": "1d083f526b52fe8c6128a76e",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Steel-Public-Consultation-Results.pdf",
+      "source_title": "public consultation",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_015_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_015_manifest.json",
+      "file_size_mb": 8.815,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 15,
+      "stored_at": "2026-05-09T20:43:36+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_015_manifest.json"
+    }
+  ]
+}

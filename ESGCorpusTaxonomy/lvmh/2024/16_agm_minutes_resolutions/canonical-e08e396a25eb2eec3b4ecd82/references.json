@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_e08e396a25eb2eec3b4ecd82",
+  "sha256": "70fdf77788b2110813677708cfab393a68737d53526719664b58bb96ed59d34e",
+  "all_references": [
+    {
+      "document_id": "7888c614b2e64f40de1bbef3",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKo9Zm069VX136V_procedures-for-making-available-and-consulting-preparatory-documents.pdf",
+      "source_title": "Procedures for making available and consulting preparatory documents",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_039_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_039_manifest.json",
+      "file_size_mb": 0.1928,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 39,
+      "stored_at": "2026-05-09T20:42:10+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_039_manifest.json"
+    }
+  ]
+}

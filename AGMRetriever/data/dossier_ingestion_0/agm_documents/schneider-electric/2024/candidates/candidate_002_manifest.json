@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/470537/outcome-agm-vote-2024.pdf",
+    "title": "COMBINED GENERAL MEETING SCHNEIDER ELECTRIC SE MAY 23, 2024",
+    "snippet": "COMBINED GENERAL MEETING SCHNEIDER ELECTRIC SE MAY 23, 2024 RESOLUTION SUBMITTED TO SHAREHOLDERS VOTING RESULTS (Article R. 22-10-30 of the French Commercial Code)",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 98.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['AGM', 'voting']",
+      "mots-clés faibles : ['general meeting', 'shareholders', 'vote']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : se.com",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_002_score_98_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "41bd8ddfaf795c3a796238fdb134bd6a58309c4d500a6ab89450830a8bedd78c",
+    "file_size_mb": 0.2786,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_outcome-agm-vote-2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:36+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

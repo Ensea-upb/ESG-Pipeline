@@ -1,0 +1,71 @@
+{
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "fiscal_year": 2024,
+  "min_score": 80.0,
+  "result": {
+    "status": "completed",
+    "message": "Ingestion des candidats Sustainability / ESG / RSE terminée.",
+    "company_name": "LVMH",
+    "fiscal_year": 2024,
+    "downloaded_count": 3,
+    "failed_count": 0,
+    "skipped_count": 2,
+    "downloaded": [
+      {
+        "rank": 1,
+        "title": "[PDF] 2024 SOCIAL AND ENVIRONMENTAL RESPONSIBILITY REPORT",
+        "url": "https://ddd.uab.cat/pub/infsos/146081/irsLVMHa2024ieng.pdf",
+        "score": 93.0,
+        "decision": "auto_download",
+        "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_score_93_0.pdf",
+        "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+        "sha256": "2827d430de5f8b1cc0e7deb6c9d193b225b8a45a34fcff1367c9022ff6c6cf07"
+      },
+      {
+        "rank": 4,
+        "title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+        "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+        "score": 81.0,
+        "decision": "auto_download",
+        "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_004_score_81_0.pdf",
+        "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+        "sha256": "cb4f46a0de5e59d280ed6ce687ecc690a6dd8a1cda47d95767f080d72887ca42"
+      },
+      {
+        "rank": 5,
+        "title": "LVMH 2024 Universal Registration Document. - Prismic",
+        "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+        "score": 81.0,
+        "decision": "auto_download",
+        "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_005_score_81_0.pdf",
+        "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+        "sha256": "4e67ffaaae7f880fd24e837c30f10c08b0a087ca1b4314dade86e7b5d32c12cb"
+      }
+    ],
+    "failed": [],
+    "skipped": [
+      {
+        "rank": 2,
+        "title": "LVMH - AnnualReports.com",
+        "url": "https://www.annualreports.com/Company/lvmh",
+        "score": 83.0,
+        "decision": "pdf_resolution_required",
+        "reason": "URL non PDF : résolution HTML -> PDF nécessaire."
+      },
+      {
+        "rank": 3,
+        "title": "LVMH – DEU 2024",
+        "url": "https://urd.lvmh.com/fr/2024",
+        "score": 83.0,
+        "decision": "pdf_resolution_required",
+        "reason": "URL non PDF : résolution HTML -> PDF nécessaire."
+      }
+    ]
+  }
+}

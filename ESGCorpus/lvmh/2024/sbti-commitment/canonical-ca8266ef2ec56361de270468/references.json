@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_ca8266ef2ec56361de270468",
+  "sha256": "ada723f63fd95afc284ab42f21b59f3d6d7885e16aa360ee480bda221c8b6771",
+  "all_references": [
+    {
+      "document_id": "11126a9420ef2c5f7574c969",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Financial-Sector-Science-Based-Targets-Guidance.pdf",
+      "source_title": "View the previous version (V1.2) here",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_018_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_018_manifest.json",
+      "file_size_mb": 6.0846,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 18,
+      "stored_at": "2026-05-09T20:41:39+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_018_manifest.json"
+    }
+  ]
+}

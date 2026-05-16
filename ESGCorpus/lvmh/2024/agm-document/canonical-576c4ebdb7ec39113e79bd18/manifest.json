@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_576c4ebdb7ec39113e79bd18",
+  "sha256": "bdcbb606a43f81070f65345ad71e3dd09b724daaf35bb677a7a4bdb76ecc0f59",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Tableau de synthèse des modalités de participation à l’Assemblée générale",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmCALZm069VX1fFc_modalites-de-participation-a-lassemblee-generale.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_020_score_98_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\agm-document\\canonical-576c4ebdb7ec39113e79bd18\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

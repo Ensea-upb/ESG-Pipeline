@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKbRpm069VX13vf_politique-de-remuneration-des-administrateurs-et-dirigeants-mandataires-sociaux.pdf",
+    "title": "Politique de rémunération des Administrateurs et Dirigeants Mandataires Sociaux",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/fr/le-calendrier-des-evenements-financiers/assemblee-generale-2024. Titre page : Assemblée Générale 2024 - LVMH. Texte du lien : Politique de rémunération des Administrateurs et Dirigeants Mandataires Sociaux.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 83.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_003_score_83_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "2283b30b264346c33569ba5a425967a4700e7798e9b265ee2964c22c7e2eee6c",
+    "file_size_mb": 0.0383,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZnKbRpm069VX13vf_politique-de-remuneration-des-administrateurs-et-dirigeants-mandataires-sociaux.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:41+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

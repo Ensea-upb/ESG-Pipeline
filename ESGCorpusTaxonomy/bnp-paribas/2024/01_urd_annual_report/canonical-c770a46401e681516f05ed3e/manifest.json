@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_c770a46401e681516f05ed3e",
+  "sha256": "9fc754d47162512181a6f7cef448ba76a78ece624fe335f6abfdcc12930e0a7b",
+  "company_name": "BNP Paribas",
+  "company_slug": "bnp-paribas",
+  "fiscal_year": 2024,
+  "technical_document_family": "annual_report",
+  "official_doc_type": "01_urd_annual_report",
+  "official_doc_type_label": "URD / annual report",
+  "doc_type_stratum": "core_reporting",
+  "doc_subtype": "annual_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_standard_reporting",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\bnp-paribas\\2024\\annual-report\\canonical-c770a46401e681516f05ed3e\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\bnp-paribas\\2024\\01_urd_annual_report\\canonical-c770a46401e681516f05ed3e\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 8,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-03/Avis-prealable-a-l-Assemblee-generale-mixte-publie-au-BALO-du-29-mars-2024.pdf.pdf",
+    "title": "Avis préalable à l’Assemblée générale mixte publié au Bulletin des Annonces Légales Obligatoires du 29 mars 2024 (version PDF)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/fr/investisseurs/assemblees-generales/archives. Titre page : Archives Assemblées générales TotalEnergies | TotalEnergies.com. Texte du lien : Avis préalable à l’Assemblée générale mixte publié au Bulletin des Annonces Légales Obligatoires du 29 mars 2024 (version PDF).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "nom de fichier AGM : ['assemblée-générale']",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_008_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_008_manifest.json",
+    "sha256": "9c4f179756dc155d9ab7e1829dc1ce1c08ee98d3d804f5aa2fe4fedec15a34d2",
+    "file_size_mb": 0.5338,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_Avis-prealable-a-l-Assemblee-generale-mixte-publie-au-BALO-du-29-mars-2024.pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:54+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

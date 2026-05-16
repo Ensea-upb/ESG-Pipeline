@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_64b1d93e29e1379ad3ce3a72",
+  "sha256": "5b072cdfc3ce360a14877142f2066d5b133be79ad6309921044b2f5936f8b16f",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Detailed vote of resolutions",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKkR5m069VX132M_lvmh_consolidated-voting-results_en_ag2024.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_036_score_83_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\agm-document\\canonical-64b1d93e29e1379ad3ce3a72\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

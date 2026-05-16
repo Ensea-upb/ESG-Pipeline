@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_b00409b635d2787973d133ef",
+  "sha256": "50727032071237fb0a94c888037ba1384865fd14e1fd14e56128883e6714cffa",
+  "all_references": [
+    {
+      "document_id": "9afee9c620b30a0a1b1d0136",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/fr/assets/342/document/466427/mise-disposition-documents-preparatoires-AG.pdf",
+      "source_title": "Lien d'origine",
+      "source_name": "html_pdf_resolver",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_004_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 0.1818,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T20:44:45+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json"
+    }
+  ]
+}

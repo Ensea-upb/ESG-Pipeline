@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "message": "Organisation du corpus terminee : 0 copie(s) creee(s), 240 fichier(s) deja present(s), 0 fichier(s) source manquant(s), 0 erreur(s).",
+  "total_canonical_documents": 229,
+  "total_document_family_copies_planned": 240,
+  "total_copied_files": 0,
+  "total_existing_files": 240,
+  "total_missing_files": 0,
+  "total_errors": 0,
+  "output_corpus_root": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus",
+  "output_index_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\organized_corpus\\organized_documents_index.csv",
+  "output_index_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\organized_corpus\\organized_documents_index.json",
+  "summary_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\organized_corpus\\corpus_organization_summary.json",
+  "errors": []
+}

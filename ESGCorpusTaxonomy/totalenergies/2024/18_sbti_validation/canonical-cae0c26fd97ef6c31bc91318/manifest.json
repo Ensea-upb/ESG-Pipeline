@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_cae0c26fd97ef6c31bc91318",
+  "sha256": "b82f478e47be536cfb594ec0d2106f8c64554be91b9c8705ca390c6e88e9e599",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "technical_document_family": "sbti_commitment",
+  "official_doc_type": "18_sbti_validation",
+  "official_doc_type_label": "SBTi validation",
+  "doc_type_stratum": "external_validation",
+  "doc_subtype": "sbti_commitment",
+  "period_type": "ad_hoc",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\sbti-commitment\\canonical-cae0c26fd97ef6c31bc91318\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\totalenergies\\2024\\18_sbti_validation\\canonical-cae0c26fd97ef6c31bc91318\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

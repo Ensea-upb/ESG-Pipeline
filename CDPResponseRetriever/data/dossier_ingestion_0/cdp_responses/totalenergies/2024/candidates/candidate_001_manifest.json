@@ -1,0 +1,44 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_cdp-corporate-questionnaire_2024_en_pdf.pdf",
+    "title": "Microsoft Word - TotalEnergies SE-23-10-2024-CORPORATE...",
+    "snippet": "TotalEnergies SE. 2024 CDP Corporate Questionnaire 2024. Word version.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 85.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_score_85_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "a13f228aa035bede38a0df4b99f81e097b750043345f5208b8cf7dcf906d7bd7",
+    "file_size_mb": 1.0988,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_cdp-corporate-questionnaire_2024_en_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:17+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

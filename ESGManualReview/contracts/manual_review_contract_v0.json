@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "contract_version": "1.0.0",
+  "required_files": [
+    "reviewed_candidates.csv",
+    "reviewed_candidates.jsonl",
+    "accepted_candidate_inputs.csv",
+    "rejected_review_candidates.csv",
+    "needs_more_evidence_candidates.csv",
+    "deferred_candidates.csv",
+    "review_decision_audit_findings.jsonl",
+    "review_decision_summary.json",
+    "manual_review_audit_summary.json",
+    "manual_review_audit_findings.jsonl",
+    "manual_review_audit_samples.csv"
+  ],
+  "required_columns": [
+    "review_item_id",
+    "candidate_id",
+    "document_id",
+    "source_engine",
+    "page_number",
+    "quote",
+    "proposed_decision",
+    "review_status",
+    "reviewer",
+    "decision_reason",
+    "raw_value",
+    "raw_unit",
+    "normalized_value",
+    "normalized_unit",
+    "normalized_year",
+    "original_raw_value",
+    "original_raw_unit",
+    "original_year",
+    "validated_indicator",
+    "score_produced"
+  ],
+  "allowed_proposed_decision": [
+    "",
+    "accept_candidate",
+    "reject_candidate",
+    "needs_more_evidence",
+    "defer_decision"
+  ],
+  "allowed_review_status": [
+    "accepted_candidate",
+    "rejected_by_reviewer",
+    "needs_more_evidence",
+    "decision_deferred",
+    "missing_decision",
+    "invalid_decision"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_d16485177bf6ab4924dee636",
+  "sha256": "488f12e9408f4cfdf26894f3dee374dc993adc3bd9fd69e21a30b5bcb12c9136",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Brochure Avis de Convocation – Assemblée générale mixte 2023",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-05/AG_2023_Brochure_avis_convocation_fr.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_010_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\agm-document\\canonical-d16485177bf6ab4924dee636\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

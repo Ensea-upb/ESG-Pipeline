@@ -1,0 +1,58 @@
+{
+  "corpus_run_id": "pilot_20260514_055850",
+  "mode": "prepare-review",
+  "index_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\quality_audit_v2\\extraction_index_strict_likely_valid.csv",
+  "filters": {
+    "company_slug": null,
+    "fiscal_year": null,
+    "doc_type": null
+  },
+  "dry_run": true,
+  "execute": false,
+  "max_documents": 3,
+  "documents_selected": 3,
+  "documents_processed": 0,
+  "documents_success": 0,
+  "documents_failed": 0,
+  "documents_skipped": 0,
+  "review_workspaces_produced": 0,
+  "indicator_databases_produced": 0,
+  "variable_dataset_produced": false,
+  "found_values_count": null,
+  "per_document": [
+    {
+      "document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+      "company_slug": "air-liquide",
+      "company_name": "Air Liquide",
+      "fiscal_year": "2024",
+      "official_doc_type": "01_urd_annual_report",
+      "final_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\air-liquide\\2024\\01_urd_annual_report\\document.pdf",
+      "status": "dry_run_selected",
+      "steps_completed": [],
+      "error": null
+    },
+    {
+      "document_id": "canonical_ec70a18fbe4a81e3fc2a2fe0",
+      "company_slug": "lvmh",
+      "company_name": "LVMH",
+      "fiscal_year": "2024",
+      "official_doc_type": "16_agm_minutes_resolutions",
+      "final_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\lvmh\\2024\\16_agm_minutes_resolutions\\document.pdf",
+      "status": "dry_run_selected",
+      "steps_completed": [],
+      "error": null
+    },
+    {
+      "document_id": "canonical_69806d3f767774dfaff97249",
+      "company_slug": "schneider-electric",
+      "company_name": "Schneider Electric",
+      "fiscal_year": "2024",
+      "official_doc_type": "01_urd_annual_report",
+      "final_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\schneider-electric\\2024\\01_urd_annual_report\\document.pdf",
+      "status": "dry_run_selected",
+      "steps_completed": [],
+      "error": null
+    }
+  ],
+  "output_root": "C:\\Users\\hp\\Desktop\\ESG\\PILOT_DRY_RUN_TEST"
+}

@@ -1,0 +1,46 @@
+{
+  "document_type": "annual_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/510427/release-2024-universal-registration-document-available.pdf?p_enDocType=Financialrelease&p_File_Name=2024UniversalRegistrationDocumentavailable",
+    "title": "2024 Universal Registration Document available - Schneider Electric",
+    "snippet": "The following documents are included in the 2024 Universal Registration Document: • 2024 Annual Financial Report;. • Annual management report of the Board",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['annual financial report', 'universal registration document']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['universalregistrationdocument']",
+      "signaux de périmètre groupe : ['annual financial report', 'universal registration document']",
+      "classe documentaire : universal_registration_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "b29c2caed223376c4fc95b6bc45e0102cfef042bff8f276f8cfefe60e50356aa",
+    "file_size_mb": 0.1192,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_release-2024-universal-registration-document-available.pdf_p_enDocType_Financialrelease_p_File_Name_2024UniversalRegistrationDocumentavailable.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T16:23:45+00:00",
+    "storage_version": "annual_report_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_f9c1287e886ad69faa6e9533",
+  "sha256": "4020c6f831bf1ea8f07305115a1554044684bfa027ed2521e1a5a6e59c9bbb4e",
+  "all_references": [
+    {
+      "document_id": "55d26ca100526fbdee2e439d",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://resource.indegene.com/indegene/pdf/policies/sbti-commitment-letter.pdf",
+      "source_title": "SBT-Commitment-Letter_Jul_13_2023.pdf",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.6298,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:44:04+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

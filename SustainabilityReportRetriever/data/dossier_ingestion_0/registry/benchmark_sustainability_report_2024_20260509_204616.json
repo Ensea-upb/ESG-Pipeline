@@ -1,0 +1,332 @@
+{
+  "benchmark_name": "sustainability_report_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T20:46:16",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats Sustainability / ESG / RSE terminée.",
+      "downloaded_count": 2,
+      "failed_count": 0,
+      "skipped_count": 3,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] 2024 SOCIAL AND ENVIRONMENTAL RESPONSIBILITY REPORT",
+          "url": "https://ddd.uab.cat/pub/infsos/146081/irsLVMHa2024ieng.pdf",
+          "score": 93.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_score_93_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "2827d430de5f8b1cc0e7deb6c9d193b225b8a45a34fcff1367c9022ff6c6cf07"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 4,
+          "title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+          "score": 81.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_002_score_81_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "cb4f46a0de5e59d280ed6ce687ecc690a6dd8a1cda47d95767f080d72887ca42"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "LVMH – DEU 2024",
+          "url": "https://urd.lvmh.com/fr/2024",
+          "score": 83.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "2 PDF(s) extraits de pages HTML ont été ignorés car leur score était inférieur à 80.0."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "31 PDF(s) extraits de pages HTML ont été ignorés car leur année était trop éloignée de l'année cible 2024. Années acceptées : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats Sustainability / ESG / RSE terminée.",
+      "downloaded_count": 5,
+      "failed_count": 0,
+      "skipped_count": 8,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] Total Energies - Sustainability & Climate 2024 Progress Report",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "65b02fcd781febf91dfc3c3ac4117cdeeb2c7af67ca847c366c2aebac9c390e3"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "2024 Universal Registration Document (PDF version)",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "c0294fa903042125e9347c0592847defd97f5da88182a640162598828d33b4f0",
+          "resolved_from": "https://totalenergies.com/sustainability/our-approach/esg-documentation"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 2,
+          "title": "2023 Universal Registration Document (PDF version)",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "dba48e9f5e7e6fc9862dd95159960eb2a270d6975f2457f443ca422e7449e7d6",
+          "resolved_from": "https://totalenergies.com/sustainability/our-approach/esg-documentation"
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "Document d'enregistrement universel 2024 (version PDF)",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+          "sha256": "c65ec5c295536fd09cb15ccf7c6172f35215556f5d9b9f74f802a602d22b238d",
+          "resolved_from": "https://totalenergies.com/fr/developpement-durable/notre-demarche/documentation-esg"
+        },
+        {
+          "rank": 5,
+          "candidate_rank": 5,
+          "source_search_rank": 4,
+          "title": "Document d'enregistrement universel 2023 (version PDF)",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_document-enregistrement-universel-2023_2023_fr_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_manifest.json",
+          "sha256": "58d7b226058c62e948734cdba87bdc8d2d2481a6ecbc97065a41cdb0c0695ea7",
+          "resolved_from": "https://totalenergies.com/fr/developpement-durable/notre-demarche/documentation-esg"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Sustainability & Climate 2024 Progress Report",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+          "score": 59,
+          "decision": "reject",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://totalenergies.com/fr/developpement-durable/notre-demarche/documentation-esg"
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "DEU 2024",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://totalenergies.com/fr/investisseurs/rapports"
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "DEU 2023",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_document-enregistrement-universel-2023_2023_fr_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://totalenergies.com/fr/investisseurs/rapports"
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "S&C Progress Report 2024",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+          "score": 59,
+          "decision": "reject",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://totalenergies.com/fr/investisseurs/rapports"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "2024 URD",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+          "score": 50.0,
+          "decision": "reject",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://totalenergies.com/investors/reports"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "2023 URD",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf",
+          "score": 50.0,
+          "decision": "reject",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://totalenergies.com/investors/reports"
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "98 PDF(s) extraits de pages HTML ont été ignorés car leur score était inférieur à 80.0."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "222 PDF(s) extraits de pages HTML ont été ignorés car leur année était trop éloignée de l'année cible 2024. Années acceptées : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats Sustainability / ESG / RSE terminée.",
+      "downloaded_count": 5,
+      "failed_count": 1,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] Integrated report 2024 - Schneider Electric",
+          "url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "[PDF] Rapport Développement Durable 2024 - Schneider Electric",
+          "url": "https://www.se.com/ww/fr/assets/342/document/513141/rapport-developpement-durable-2024.pdf?p_enDocType=EDMS&p_File_Name=Rapport+D%C3%A9veloppement+Durable+2024",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "e821aee202d2c259db861cd67c4a3384a85c9c41fff5040378a95bf65c831763"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "[PDF] Document d'Enregistrement Universel 2024 - Schneider Electric",
+          "url": "https://www.se.com/ww/fr/assets/342/document/510443/2024-document-enregistrement-universel.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "89d162c4a20b0b532fd6c15021ed8bf6cf65551b34fa5c5a0b757b0fa03ce25d"
+        },
+        {
+          "rank": 5,
+          "candidate_rank": 5,
+          "source_search_rank": 5,
+          "title": "[PDF] document d'enregistrement universel 2023 - Schneider Electric",
+          "url": "https://www.se.com/ww/fr/assets/342/document/462018/2023-document-enregistrement-universel.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_005_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_005_manifest.json",
+          "sha256": "d34f43ad366577ccc5574c99bfa7776f381b197f825272b9134b1999675fd084"
+        },
+        {
+          "rank": 6,
+          "candidate_rank": 6,
+          "source_search_rank": 6,
+          "title": "[PDF] 2023 Sustainability Report - Schneider Electric",
+          "url": "https://www.se.com/ww/en/assets/564/document/466155/2023-sustainability-report.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_score_85_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_manifest.json",
+          "sha256": "02226e1cf5328810510451e1e524e966389750963175a41474de835e18d5aaab"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "[PDF] Report on the certification of sustainability ... - Schneider Electric",
+          "url": "https://www.se.com/ww/en/Images/Report_on_the_certification_of_sustainability_information_tcm564-511782.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "blocked_or_forbidden",
+          "message": "Le serveur bloque certaines stratégies de téléchargement.",
+          "attempts": 5
+        }
+      ],
+      "skipped": [
+        {
+          "rank": "?",
+          "title": "Candidats directs hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 candidat(s) directs ont été ignorés car leur année était trop éloignée de l'année cible 2024. Années acceptées : 2024 et 2023."
+        }
+      ]
+    }
+  ]
+}

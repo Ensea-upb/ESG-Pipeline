@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.6.0",
+  "contract_version": "0.6.0",
+  "engine_release_target": "1.0.0",
+  "required_files": [
+    "csv/extraction_summary.json",
+    "visual/visual_extraction_summary.json",
+    "table/table_extraction_summary.json",
+    "consolidated_candidates.csv",
+    "consolidated_candidates.jsonl",
+    "consolidated_audit_summary.json",
+    "consolidated_audit_findings.jsonl",
+    "consolidated_audit_samples.csv",
+    "full_extraction_report.md",
+    "full_extraction_summary.json"
+  ],
+  "required_columns": [
+    "document_id",
+    "source_engine",
+    "information_type",
+    "esg_category",
+    "label",
+    "raw_value",
+    "raw_unit",
+    "year",
+    "source_modality",
+    "page_number",
+    "section_id",
+    "evidence_id",
+    "table_id",
+    "cell_id",
+    "figure_id",
+    "quote",
+    "confidence",
+    "review_required",
+    "extraction_status"
+  ],
+  "allowed_source_engines": ["csv", "visual", "table"]
+}

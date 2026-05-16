@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 7,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria-jp.pdf",
+    "title": "also available in Japanese",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/net-zero. Titre page : The Corporate Net-Zero Standard - Science Based Targets Initiative. Texte du lien : also available in Japanese.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_007_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_007_manifest.json",
+    "sha256": "87b6b16a52c48e3f3148f3c47f67776984ee50e1eec10395663ff620381ac108",
+    "file_size_mb": 0.6487,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_Net-Zero-Standard-Criteria-jp.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:43:26+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

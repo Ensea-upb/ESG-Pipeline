@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "sha256": "c0294fa903042125e9347c0592847defd97f5da88182a640162598828d33b4f0",
+  "document_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\totalenergies\\2024\\01_urd_annual_report\\document.pdf",
+  "file_name": "document.pdf",
+  "page_count": 680,
+  "loading_status": "readable",
+  "created_at": "2026-05-14T05:04:42+00:00",
+  "company": "TotalEnergies",
+  "company_name": "TotalEnergies SE",
+  "fiscal_year": "2024",
+  "official_doc_type": "URD",
+  "final_path": "C:/Users/hp/Desktop/ESG/ESGFinalCorpus/totalenergies/2024/01_urd_annual_report/document.pdf"
+}

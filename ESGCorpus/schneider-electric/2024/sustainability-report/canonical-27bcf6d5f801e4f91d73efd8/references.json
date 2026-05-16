@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_27bcf6d5f801e4f91d73efd8",
+  "sha256": "02226e1cf5328810510451e1e524e966389750963175a41474de835e18d5aaab",
+  "all_references": [
+    {
+      "document_id": "5e7ce3cc62148c2d91ee737b",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/466155/2023-sustainability-report.pdf",
+      "source_title": "[PDF] 2023 Sustainability Report - Schneider Electric",
+      "source_name": "tavily",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_manifest.json",
+      "file_size_mb": 14.1676,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 6,
+      "stored_at": "2026-05-09T18:46:15+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_manifest.json"
+    },
+    {
+      "document_id": "493a8591bbf4e90fea159466",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/466155/2023-sustainability-report.pdf",
+      "source_title": "[PDF] 2023 Sustainability Report - Schneider Electric",
+      "source_name": "tavily",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_manifest.json",
+      "file_size_mb": 14.1676,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 7,
+      "stored_at": "2026-05-09T17:40:16+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\01_information_extraction",
+  "pdf_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGFinalCorpus\\totalenergies\\2024\\01_urd_annual_report\\document.pdf",
+  "figures_count": 43,
+  "visual_items_count": 43,
+  "review_required": true
+}

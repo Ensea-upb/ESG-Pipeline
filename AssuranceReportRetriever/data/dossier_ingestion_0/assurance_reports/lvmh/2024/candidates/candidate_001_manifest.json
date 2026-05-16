@@ -1,0 +1,44 @@
+{
+  "document_type": "assurance_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/sustainability/2025/2024-assurance-statement_lmco.pdf",
+    "title": "FY2024 Assurance Statement_Draft_LMCO_03.26.25_v3 - Copy",
+    "snippet": "Scope and approach This assurance engagement was planned and has been carried out in accordance with AA1000 Assurance Standard (AA1000AS) v3, Type 2 engagement, and the International Standard on Assurance Engagements 3000 (“ISAE 3000 – July 2020”).",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts assurance : ['aa1000 assurance']",
+      "mots-clés secondaires : ['assurance']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier assurance : ['assurance-statement']",
+      "classe documentaire : assurance_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "25b27a8258de98fe7d8f2d09a71fe9b6392067e2166a71092386d5b716ba8f02",
+    "file_size_mb": 0.3254,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_2024-assurance-statement_lmco.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:26+00:00",
+    "storage_version": "assurance_report_candidate_storage_v0"
+  }
+}

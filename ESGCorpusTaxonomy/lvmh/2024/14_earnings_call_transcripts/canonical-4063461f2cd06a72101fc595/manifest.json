@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_4063461f2cd06a72101fc595",
+  "sha256": "9c5c4949b391f334bb5fa48e37f255512d61ccf6308de9b56c1545b4f6cfa3e2",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "earnings_call",
+  "official_doc_type": "14_earnings_call_transcripts",
+  "official_doc_type_label": "Earnings call transcripts",
+  "doc_type_stratum": "market_communication",
+  "doc_subtype": "earnings_call",
+  "period_type": "periodic",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\earnings-call\\canonical-4063461f2cd06a72101fc595\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\14_earnings_call_transcripts\\canonical-4063461f2cd06a72101fc595\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_08034bdb6fc4445b920d6323",
+  "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "governance_report",
+  "document_families_detected": [
+    "annual_report",
+    "sustainability_report",
+    "climate_report",
+    "governance_report"
+  ],
+  "retrievers_detected": [
+    "AnnualReportRetriever",
+    "SustainabilityReportRetriever",
+    "ClimateReportRetriever",
+    "GovernanceReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] Integrated report 2024 - Schneider Electric",
+  "canonical_source_url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\annual_report.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\governance-report\\canonical-08034bdb6fc4445b920d6323\\document.pdf",
+  "duplicate_count": 5,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

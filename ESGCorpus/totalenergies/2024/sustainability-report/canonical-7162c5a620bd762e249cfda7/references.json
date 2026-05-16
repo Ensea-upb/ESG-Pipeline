@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_7162c5a620bd762e249cfda7",
+  "sha256": "58d7b226058c62e948734cdba87bdc8d2d2481a6ecbc97065a41cdb0c0695ea7",
+  "all_references": [
+    {
+      "document_id": "2d94e08293437571307c0589",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_document-enregistrement-universel-2023_2023_fr_pdf.pdf",
+      "source_title": "Document d'enregistrement universel 2023 (version PDF)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_manifest.json",
+      "file_size_mb": 22.1127,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 5,
+      "stored_at": "2026-05-09T18:45:24+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_manifest.json"
+    }
+  ]
+}

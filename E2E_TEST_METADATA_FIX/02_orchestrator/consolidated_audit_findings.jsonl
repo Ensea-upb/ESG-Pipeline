@@ -1,0 +1,10 @@
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0001","check_name":"review_required_missing_or_false","severity":"info","status":"pass","count":0,"message":"review_required_missing_or_false: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0002","check_name":"extraction_status_not_candidate_only","severity":"info","status":"pass","count":0,"message":"extraction_status_not_candidate_only: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0003","check_name":"confidence_above_allowed_threshold","severity":"info","status":"pass","count":0,"message":"confidence_above_allowed_threshold: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0004","check_name":"score_column_detected","severity":"info","status":"pass","count":0,"message":"score_column_detected: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0005","check_name":"validated_indicator_detected","severity":"info","status":"pass","count":0,"message":"validated_indicator_detected: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0006","check_name":"probable_duplicates","severity":"warning","status":"needs_review","count":59,"message":"probable_duplicates: 59"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0007","check_name":"deduplicated_duplicate_candidates","severity":"warning","status":"needs_review","count":46,"message":"deduplicated_duplicate_candidates: 46"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0008","check_name":"source_engine_information_type_mismatch","severity":"info","status":"pass","count":0,"message":"source_engine_information_type_mismatch: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0009","check_name":"candidates_without_source","severity":"info","status":"pass","count":0,"message":"candidates_without_source: 0"}
+{"schema_version":"0.4.0","finding_id":"consolidated_audit_0010","check_name":"candidates_without_quote","severity":"info","status":"pass","count":0,"message":"candidates_without_quote: 0"}

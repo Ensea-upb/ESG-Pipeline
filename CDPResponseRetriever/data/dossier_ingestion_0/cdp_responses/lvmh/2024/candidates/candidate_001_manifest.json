@@ -1,0 +1,44 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://corporate.visa.com/content/dam/VCOM/regional/na/us/about-visa/esg/2024-visa-cdp-response.pdf",
+    "title": "2024 CDP Climate Response Report",
+    "snippet": "2024 CDP Submission. Important: This export excludes unanswered questions. This document is an export of Visa’s CDP questionnaire response. It contains all data points for questions that are answered.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp questionnaire response', 'cdp response pdf', 'cdp submission']",
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier CDP : ['cdp-response']",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "1cd15932407bb13b1f2fa2c8f757191801e8d363ac099b50c69c7ffb5ff152d8",
+    "file_size_mb": 1.9518,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_2024-visa-cdp-response.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:14+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

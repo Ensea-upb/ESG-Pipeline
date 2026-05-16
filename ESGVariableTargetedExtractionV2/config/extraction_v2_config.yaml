@@ -1,0 +1,40 @@
+embedding:
+  enabled: true
+  backend: huggingface_local
+  model_name: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+  local_model_path: null
+  device: auto
+  batch_size: 16
+  normalize_embeddings: true
+  offline_mode: false
+  fallback_backend: lexical
+
+retrieval:
+  top_k_per_variable: 20
+  min_retrieval_score: 0.25
+  embedding_weight: 0.60
+  keyword_weight: 0.25
+  unit_weight: 0.10
+  section_weight: 0.05
+
+chunking:
+  max_chunk_chars: 1200
+  overlap_chars: 150
+  include_page_context: true
+  include_table_context: true
+  include_visual_context: true
+
+extraction:
+  require_quote: true
+  require_company: true
+  require_fiscal_year: true
+  reject_structural_false_positives: true
+  reject_iso_standards_as_values: true
+  reject_section_numbers_as_values: true
+  reject_page_numbers_as_values: true
+  reject_footnotes_as_values: true
+
+output:
+  write_csv: true
+  write_jsonl: true
+  schema_version: "2.0.0"

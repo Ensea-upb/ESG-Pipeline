@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_3f2b6761e62730b07dc96b18",
+  "sha256": "7c248032a782cb90c847cfecbbfedf25c7965438e759dd08be103c78a2bab216",
+  "all_references": [
+    {
+      "document_id": "96aa412a2076a4ae31edd697",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://dev-backoffice.totalenergies.com/sites/g/files/nytnzq121/files/atoms/files/total_code_of_conduct_va_0.pdf",
+      "source_title": "Code of",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 2.6378,
+      "document_type": "corporate_policy_code_of_conduct",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:52:23+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

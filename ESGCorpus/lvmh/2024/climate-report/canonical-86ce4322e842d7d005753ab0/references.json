@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_86ce4322e842d7d005753ab0",
+  "sha256": "9cc1d783418da963215e66d87a39d2cd01cecdf6715a908aab839e14955a5d01",
+  "all_references": [
+    {
+      "document_id": "2107d877b2f09228584edd8b",
+      "retriever_name": "ClimateReportRetriever",
+      "document_family": "climate_report",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbBGnfc4bHWjB6t_LVMH_RSE2024_FR_version_accessible.pdf",
+      "source_title": "aGbBGnfc4bHWjB6t_LVMH_RS...",
+      "source_name": "tavily",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 41.007,
+      "document_type": "climate_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T19:17:18+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

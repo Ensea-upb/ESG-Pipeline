@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_fa44ab9377ed882a0cd72866",
+  "sha256": "e587fc8f00f85c7a16c98fc231918507e0e77beaeaa6979e35e9af09f2261533",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "technical_document_family": "corporate_policy",
+  "official_doc_type": "12_supplier_code_of_conduct",
+  "official_doc_type_label": "Supplier code of conduct",
+  "doc_type_stratum": "policy",
+  "doc_subtype": "supplier_code",
+  "period_type": "perpetual",
+  "regulatory_status": "policy",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\corporate-policy\\canonical-fa44ab9377ed882a0cd72866\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\lvmh\\2024\\12_supplier_code_of_conduct\\canonical-fa44ab9377ed882a0cd72866\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

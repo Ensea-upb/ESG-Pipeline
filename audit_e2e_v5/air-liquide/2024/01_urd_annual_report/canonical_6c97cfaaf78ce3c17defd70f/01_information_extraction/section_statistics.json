@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "section_candidates_count": 1251,
+  "accepted_candidates_count": 35,
+  "rejected_candidates_count": 1216,
+  "rejection_reasons_distribution": {
+    "rejected_header_footer": 67,
+    "rejected_org_chart_like": 47,
+    "rejected_too_short": 120,
+    "rejected_low_confidence": 727,
+    "rejected_heading_fragment": 1,
+    "rejected_numeric_value": 27,
+    "rejected_sentence_like_heading": 6,
+    "rejected_toc_entry": 144,
+    "rejected_timeline_like": 5,
+    "rejected_footnote": 3,
+    "rejected_list_item": 64,
+    "rejected_too_numeric": 5
+  },
+  "sections_count": 35,
+  "section_types_distribution": {
+    "governance": 1,
+    "unknown": 26,
+    "general": 1,
+    "biodiversity": 1,
+    "workforce": 2,
+    "energy": 1,
+    "ethics": 2,
+    "climate": 1
+  },
+  "rejected_cover_page_count": 0,
+  "rejected_toc_heading_count": 0,
+  "rejected_numeric_value_count": 27,
+  "rejected_front_matter_count": 0,
+  "rejected_document_title_count": 0,
+  "timeline_like_rejected_count": 5,
+  "numeric_value_rejected_count": 27,
+  "rejected_heading_fragment_count": 1,
+  "rejected_org_chart_like_count": 47,
+  "rejected_diagram_like_count": 0,
+  "rejected_sentence_like_count": 6,
+  "merged_headings_count": 0,
+  "low_confidence_rejected_count": 727,
+  "section_type_unknown_ratio": 0.742857,
+  "sections_by_page": {
+    "2": 2,
+    "3": 1,
+    "8": 2,
+    "9": 2,
+    "10": 3,
+    "11": 5,
+    "12": 1,
+    "13": 2,
+    "18": 1,
+    "21": 1,
+    "24": 1,
+    "26": 1,
+    "27": 2,
+    "29": 1,
+    "35": 1,
+    "36": 1,
+    "37": 1,
+    "47": 2,
+    "48": 1,
+    "51": 1,
+    "52": 1,
+    "56": 1,
+    "57": 1
+  },
+  "sample_accepted_headings": [
+    "OUR GOVERNANCE",
+    "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2",
+    "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE MANIFESTO 3",
+    "TO AN UNPRECEDENTED LEVEL OFFICIAL HYDROGEN SUPPORTER OF PARIS 2024",
+    "IN THE SEMICONDUCTOR INDUSTRY",
+    "A LOW-CARBON GAS PLATFORM IN TEXAS",
+    "TO FOSTER AGILITY AND PERFORMANCE",
+    "STOCKHOLM EXERGI ADOPTS CRYOCAPTM LQ CO₂ ELECTRIFICATION OF TWO OXYGEN MAJOR INVESTMENTS",
+    "LIQUEFACTION TECHNOLOGY PRODUCTION UNITS IN CHINA TO SUPPORT EUROPEAN DECARBONIZATION",
+    "IN PARTNERSHIP WITH TOTALENERGIES",
+    "40% Americas Europe, Middle East & Africa",
+    "ACTIVITIES AS A PERCENTAGE OF 2024 GROUP REVENUE",
+    "95% Gas & Services",
+    "26% Large Industries",
+    "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE AIR LIQUIDE IN FIGURES 11",
+    "BIODIVERSITY PRESERVATION",
+    "IN HOME HEALTHCARE FOR OUR EMPLOYEES AND COMMUNITIES",
+    "IN LOW- AND MIDDLE-INCOME COUNTRIES",
+    "250 km maximum from the",
+    "AN INNOVATION FOR SEMICONDUCTORS"
+  ],
+  "sample_rejected_headings": [
+    {
+      "text": "2024",
+      "candidate_status": "rejected_header_footer",
+      "candidate_reason": "header_or_footer_excluded"
+    },
+    {
+      "text": "OUR MODEL",
+      "candidate_status": "rejected_org_chart_like",
+      "candidate_reason": "org_chart_like_heading_excluded"
+    },
+    {
+      "text": "2",
+      "candidate_status": "rejected_too_short",
+      "candidate_reason": "heading_text_too_short"
+    },
+    {
+      "text": "OUR PERFORMANCE",
+      "candidate_status": "rejected_org_chart_like",
+      "candidate_reason": "org_chart_like_heading_excluded"
+    },
+    {
+      "text": "has great impacts for the world. The Air Liquide Group has been",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "inventing the future since it was founded, supporting companies of",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "all sizes and from every industry and every country in their growth. From its",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "transitions, continuously adapting and innovating. At the forefront of its",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "technology, energy, and healthcare-related transformations. Drawing on our",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "and many other molecules. As a tech leader, we turn these molecules into",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "patients solutions that are ever more effective, useful, and sustainable.",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "such as industry, energy, tech, and healthcare. Our expert and committed",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "teams are involved wherever they can have an impact, backed by our global",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "As a performing company, we seize new opportunities to stay on a path",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "of profitable and responsible growth. This ambition is underpinned by our",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "model of sustainable value creation, which is backed by our employees,",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "Performing",
+      "candidate_status": "rejected_header_footer",
+      "candidate_reason": "header_or_footer_excluded"
+    },
+    {
+      "text": "challenges of multiple transitions. At the",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "ability to collaborate with strategic partners.",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    },
+    {
+      "text": "fragmentation is redefining the global balance of",
+      "candidate_status": "rejected_low_confidence",
+      "candidate_reason": "not_a_title_block"
+    }
+  ],
+  "sample_rejected_numeric_values": [
+    "$ 300M",
+    "$ 850M 2M",
+    "10,000",
+    "2024",
+    "> 4M 900,000",
+    "34.9",
+    "-41% VS. 2015 5.1",
+    "2022 100%",
+    "100% IN 2025 =",
+    "57% IN 2023 in 2024 42%",
+    "31.5% IN 2022 78%",
+    "IN 2022 IN 2023 100%",
+    "31% 35% 34% 100%",
+    "100%",
+    "2.7M",
+    "66,500 160",
+    "80 + *",
+    "15,505 15,557 16,083 15,473 14,868*",
+    "23,784 23,961 22,771 21,504 20,064*",
+    "39,289 39,518 38,854 36,977 34,933"
+  ],
+  "sample_rejected_front_matter": [],
+  "sample_rejected_timeline_like": [
+    "2024 GAS & SERVICES REVENUE BY GEOGRAPHY",
+    "2022 COMMITMENT 75 HI-HI SITES",
+    "2025 and 2035. Besides CO, other parameters are also taken into",
+    "INTEGRATED ANNUAL REPORT 2024 - 2025 5500",
+    "2016, one road accident in 2015."
+  ],
+  "sample_rejected_heading_fragments": [
+    "THE GROUP LIFTS ITS MARGIN TARGET AIR LIQUIDE,"
+  ],
+  "sample_rejected_org_chart_like": [
+    "OUR MODEL",
+    "OUR PERFORMANCE",
+    "MAJOR CONTRACTS",
+    "CO TRAJECTORY",
+    "WATER MANAGEMENT",
+    "ADTIBE",
+    "74% IN 2023 OBJECTIVE:",
+    "MALI",
+    "PILOT",
+    "KAIROS@C PORTHOS",
+    "ENHANCE ELYGATOR",
+    "STOCKHOLM EXERGI",
+    "CALCC",
+    "D’ARTAGNAN ACCSION",
+    "TRAILBLAZER",
+    "TEAL MOBILITY",
+    "STADE",
+    "PORT JÉRÔME",
+    "NORMAND’HY TEAL MOBILITY",
+    "AXE SEINE"
+  ],
+  "sample_rejected_sentence_like": [
+    "8 INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE HIGHLIGHTS 9",
+    "140 Objective reached one year in advance",
+    "2024 data 1 Scope 1 and 2 emissions.",
+    "20 hospitals and clinics in six European countries,",
+    "60 countries, they form a team that powers the Group’s growth and performance.",
+    "500 volunteers who share best practices within the Group and"
+  ],
+  "sample_merged_headings": [],
+  "sample_sections": [
+    {
+      "section_title": "OUR GOVERNANCE",
+      "section_type": "governance",
+      "page_start": 2,
+      "page_end": 2
+    },
+    {
+      "section_title": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2",
+      "section_type": "unknown",
+      "page_start": 2,
+      "page_end": 2
+    },
+    {
+      "section_title": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE MANIFESTO 3",
+      "section_type": "unknown",
+      "page_start": 3,
+      "page_end": 7
+    },
+    {
+      "section_title": "TO AN UNPRECEDENTED LEVEL OFFICIAL HYDROGEN SUPPORTER OF PARIS 2024",
+      "section_type": "unknown",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "section_title": "IN THE SEMICONDUCTOR INDUSTRY",
+      "section_type": "unknown",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "section_title": "A LOW-CARBON GAS PLATFORM IN TEXAS",
+      "section_type": "unknown",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "section_title": "TO FOSTER AGILITY AND PERFORMANCE",
+      "section_type": "general",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "section_title": "STOCKHOLM EXERGI ADOPTS CRYOCAPTM LQ CO₂ ELECTRIFICATION OF TWO OXYGEN MAJOR INVESTMENTS",
+      "section_type": "unknown",
+      "page_start": 10,
+      "page_end": 10
+    },
+    {
+      "section_title": "LIQUEFACTION TECHNOLOGY PRODUCTION UNITS IN CHINA TO SUPPORT EUROPEAN DECARBONIZATION",
+      "section_type": "unknown",
+      "page_start": 10,
+      "page_end": 10
+    },
+    {
+      "section_title": "IN PARTNERSHIP WITH TOTALENERGIES",
+      "section_type": "unknown",
+      "page_start": 10,
+      "page_end": 10
+    },
+    {
+      "section_title": "40% Americas Europe, Middle East & Africa",
+      "section_type": "unknown",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "section_title": "ACTIVITIES AS A PERCENTAGE OF 2024 GROUP REVENUE",
+      "section_type": "unknown",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "section_title": "95% Gas & Services",
+      "section_type": "unknown",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "section_title": "26% Large Industries",
+      "section_type": "unknown",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "section_title": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE AIR LIQUIDE IN FIGURES 11",
+      "section_type": "unknown",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "section_title": "BIODIVERSITY PRESERVATION",
+      "section_type": "biodiversity",
+      "page_start": 12,
+      "page_end": 12
+    },
+    {
+      "section_title": "IN HOME HEALTHCARE FOR OUR EMPLOYEES AND COMMUNITIES",
+      "section_type": "workforce",
+      "page_start": 13,
+      "page_end": 13
+    },
+    {
+      "section_title": "IN LOW- AND MIDDLE-INCOME COUNTRIES",
+      "section_type": "unknown",
+      "page_start": 13,
+      "page_end": 17
+    },
+    {
+      "section_title": "250 km maximum from the",
+      "section_type": "unknown",
+      "page_start": 18,
+      "page_end": 20
+    },
+    {
+      "section_title": "AN INNOVATION FOR SEMICONDUCTORS",
+      "section_type": "unknown",
+      "page_start": 21,
+      "page_end": 23
+    }
+  ],
+  "invalid_section_ranges_count": 0,
+  "suspicious_sections_count": 0,
+  "section_quality_score_distribution": {
+    "average": 0.871429,
+    "min": 0.6,
+    "max": 1.0,
+    "below_0_50": 0,
+    "below_0_75": 1
+  },
+  "evidence_policy_distribution": {
+    "normal": 34,
+    "review_required": 1
+  },
+  "sample_suspicious_sections": [],
+  "sample_low_quality_sections": [
+    {
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0002",
+      "section_title": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2",
+      "section_quality_score": 0.6,
+      "evidence_policy": "review_required"
+    }
+  ],
+  "section_quality_thresholds": {
+    "normal_min": 0.75,
+    "review_required_min": 0.5,
+    "quarantine_below": 0.5
+  }
+}

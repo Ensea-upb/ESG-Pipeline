@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_bc5822db98cecf7cbd5d0561",
+  "sha256": "6c2f19d8ac52e07776defac8dceb60de4f09feb72d46e978903e33c0cf2ce85a",
+  "all_references": [
+    {
+      "document_id": "373d0fd745929548ea66b858",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.gsf.fr/wp-content/uploads/2024/12/Politique_droits_humains.pdf",
+      "source_title": "Politique_droits_humains.indd",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 1.1974,
+      "document_type": "corporate_policy_human_rights",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:49:44+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

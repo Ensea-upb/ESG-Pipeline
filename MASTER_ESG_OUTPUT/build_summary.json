@@ -1,0 +1,13 @@
+{
+  "built_at": "2026-05-16T22:20:31.659353+00:00",
+  "sources_scanned": 4,
+  "company_year_rows": 0,
+  "variables": 31,
+  "lineage_rows": 2,
+  "found_values": 0,
+  "missing_values": 0,
+  "completion_pct": 0.0,
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\MASTER_ESG_OUTPUT",
+  "esg_values_path": "C:\\Users\\hp\\Desktop\\ESG\\MASTER_ESG_OUTPUT\\esg_values.csv",
+  "esg_lineage_path": "C:\\Users\\hp\\Desktop\\ESG\\MASTER_ESG_OUTPUT\\esg_lineage.csv"
+}

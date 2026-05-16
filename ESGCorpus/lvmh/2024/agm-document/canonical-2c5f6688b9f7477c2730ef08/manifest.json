@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_2c5f6688b9f7477c2730ef08",
+  "sha256": "4469eee6f9e049e6e09c71ed2e3fae7f7dae8c22df370ebd5121712ddf5acbf7",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Communiqué de mise à disposition ou de consultation des documents préparatoires à l’Assemblée générale",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKdWZm069VX13wp_communique-de-mise-a-disposition-ou-de-consultation-des-documents-preparatoires-a-lassemblee-generale.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_001_score_98_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\agm-document\\canonical-2c5f6688b9f7477c2730ef08\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

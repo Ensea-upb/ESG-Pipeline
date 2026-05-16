@@ -1,0 +1,46 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/470536/release-report-agm-2024.pdf",
+    "title": "2024 Annual General Meeting: approval resolutions submitted ...",
+    "snippet": "Rueil-Malmaison (France), May 23, 2024 - The ordinary and extraordinary Annual General Meeting (AGM) of Schneider Electric SE was held on May 23, 2024, chaired by Jean-Pascal Tricoire, Chairman of the Board.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['AGM', 'annual general meeting', 'résolutions']",
+      "mots-clés faibles : ['general meeting', 'résolution', 'resolution']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : se.com",
+      "URL PDF directe",
+      "nom de fichier AGM : ['agm-2024']",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "1f4111ee003aef7b9f0cd4a9f193a20b85a8a6c8820385019af22d1b0573ccc8",
+    "file_size_mb": 0.1206,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_release-report-agm-2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:44:31+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

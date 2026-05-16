@@ -1,0 +1,18 @@
+{
+  "document_id": "schneider_electric_2024_csrd_v5",
+  "status": "success",
+  "pages_processed": 676,
+  "regex_candidates_count": 2089,
+  "gliner_candidates_count": 422,
+  "gliner_status": "success",
+  "merged_candidates_count": 2397,
+  "candidates_with_value": 958,
+  "candidates_with_unit": 267,
+  "candidates_with_normalized_unit": 267,
+  "unique_metric_ids": 66,
+  "candidates_current_year": 508,
+  "candidates_historical": 446,
+  "candidates_year_unknown": 1443,
+  "docling_status": "skipped:doc_too_large(676p)",
+  "ocr_available": true
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_5db353431911ad34182b1aff",
+  "sha256": "efd21914f860b85541543b05b9e79318f1a18f0b776dd578fa9e6cc70d9a24f2",
+  "all_references": [
+    {
+      "document_id": "cb935166242a7cf8833ce591",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Land-Transport-Guidance.pdf",
+      "source_title": "Land Transport Guidance",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_036_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_036_manifest.json",
+      "file_size_mb": 5.4377,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 36,
+      "stored_at": "2026-05-09T20:42:06+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_036_manifest.json"
+    }
+  ]
+}

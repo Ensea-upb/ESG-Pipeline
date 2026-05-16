@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_ea846efe0c435730a8bf5c95",
+  "sha256": "75efc85a5a4cd8d0d10f81fb6a38ffe383268d088ef9e86c5a55a6b45229a375",
+  "all_references": [
+    {
+      "document_id": "09cae8b6dc4ba8eb0b15ae67",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKr3Jm069VX1386_lvmh-board-of-directors-report-on-the-draft-resolutions_def-13.03.pdf",
+      "source_title": "Board of Directors Report on the draft resolutions",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_049_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_049_manifest.json",
+      "file_size_mb": 1.2937,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 49,
+      "stored_at": "2026-05-09T20:42:23+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_049_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0001","check_name":"candidates_without_quote","severity":"info","status":"pass","message":"candidates_without_quote: no issue detected.","count":0}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0002","check_name":"observed_metric_without_value","severity":"info","status":"pass","message":"observed_metric_without_value: no issue detected.","count":0}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0003","check_name":"observed_metric_without_unit","severity":"warning","status":"needs_review","message":"33 observed_metric candidate(s) have no raw_unit.","count":33}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0004","check_name":"target_without_target_year","severity":"warning","status":"needs_review","message":"33 target candidate(s) have no target year in the year field.","count":33}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0005","check_name":"visual_evidence_low_confidence","severity":"warning","status":"needs_review","message":"84 visual_evidence candidate(s) have confidence below 0.25.","count":84}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0006","check_name":"confidence_above_0_6","severity":"info","status":"pass","message":"confidence_above_0_6: no issue detected.","count":0}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0007","check_name":"review_required_missing_or_false","severity":"info","status":"pass","message":"review_required_missing_or_false: no issue detected.","count":0}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0008","check_name":"duplicate_evidence_type_label","severity":"info","status":"pass","message":"duplicate_evidence_type_label: no issue detected.","count":0}
+{"schema_version":"0.1.0","finding_id":"candidate_audit_0009","check_name":"ineligible_evidence_candidates","severity":"info","status":"pass","message":"ineligible_evidence_candidates: no issue detected.","count":0}

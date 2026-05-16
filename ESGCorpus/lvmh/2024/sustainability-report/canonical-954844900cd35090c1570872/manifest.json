@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_954844900cd35090c1570872",
+  "sha256": "2827d430de5f8b1cc0e7deb6c9d193b225b8a45a34fcff1367c9022ff6c6cf07",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "sustainability_report",
+  "document_families_detected": [
+    "sustainability_report"
+  ],
+  "retrievers_detected": [
+    "SustainabilityReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] 2024 SOCIAL AND ENVIRONMENTAL RESPONSIBILITY REPORT",
+  "canonical_source_url": "https://ddd.uab.cat/pub/infsos/146081/irsLVMHa2024ieng.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_score_93_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\sustainability-report\\canonical-954844900cd35090c1570872\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

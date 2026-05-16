@@ -1,0 +1,45 @@
+{
+  "document_type": "corporate_policy_code_of_conduct",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 39,
+  "policy_type": "code_of_conduct",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://irp.cdn-website.com/2600b7b6/files/uploaded/Charte+éthique.pdf",
+    "title": "Charte éthique",
+    "snippet": "Notre charte éthique montre notre engagement permanent dans le maintien et la promotion des standards mondiaux d’intégrité et de confiance pour toutes nos opérations.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 85.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['charte éthique']",
+      "mots-clés secondaires : ['intégrité']",
+      "URL PDF directe",
+      "nom de fichier politique : ['charte-ethique']",
+      "classe documentaire : standalone_code_of_conduct"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_score_85_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_manifest.json",
+    "sha256": "d5f8f76237c76cbfbf5bf6c0f2a694e14617c2ffe9917212c66694a4f52874a2",
+    "file_size_mb": 1.8402,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_code_of_conduct_Charte_ethique.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:45+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

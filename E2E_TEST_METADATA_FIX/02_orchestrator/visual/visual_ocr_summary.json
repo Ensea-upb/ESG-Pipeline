@@ -1,0 +1,8 @@
+{
+  "schema_version": "0.3.0",
+  "ocr_outputs_count": 43,
+  "ocr_engine_available": true,
+  "ocr_status_distribution": {
+    "success": 43
+  }
+}

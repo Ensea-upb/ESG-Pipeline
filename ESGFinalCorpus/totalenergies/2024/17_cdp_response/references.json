@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_e40e6307b0697d5d38ab12a7",
+  "sha256": "a13f228aa035bede38a0df4b99f81e097b750043345f5208b8cf7dcf906d7bd7",
+  "all_references": [
+    {
+      "document_id": "8610b316efbf85bc4cd564f8",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_cdp-corporate-questionnaire_2024_en_pdf.pdf",
+      "source_title": "Microsoft Word - TotalEnergies SE-23-10-2024-CORPORATE...",
+      "source_name": "ddgs",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 1.0988,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:49:17+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

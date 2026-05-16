@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 33,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKrnZm069VX138u_lvmh-avis-de-reunion-publie-au-balo-le-11.03.2024-1-.pdf",
+    "title": "Notice of meeting published to the BALO on March 11, 2024 – French version only",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/en/financial-calendar/2024-annual-general-meeting. Titre page : 2024 Annual General Meeting - LVMH. Texte du lien : Notice of meeting published to the BALO on March 11, 2024 – French version only.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts AGM : ['notice of meeting']",
+      "mots-clés secondaires AGM : ['annual general meeting']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_033_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_033_manifest.json",
+    "sha256": "76e1374cf94a93c56d0db366908721488e38a576d0c577d6ed7caca5bba14714",
+    "file_size_mb": 0.5379,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZnKrnZm069VX138u_lvmh-avis-de-reunion-publie-au-balo-le-11.03.2024-1-.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:02+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

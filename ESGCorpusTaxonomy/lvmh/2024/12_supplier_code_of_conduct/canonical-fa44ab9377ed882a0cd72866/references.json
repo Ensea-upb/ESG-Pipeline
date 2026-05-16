@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_fa44ab9377ed882a0cd72866",
+  "sha256": "e587fc8f00f85c7a16c98fc231918507e0e77beaeaa6979e35e9af09f2261533",
+  "all_references": [
+    {
+      "document_id": "1905aadfad85d9f17a526223",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+      "source_title": "Politique anticorruption",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.3323,
+      "document_type": "corporate_policy_anticorruption",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:49:10+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_manifest.json"
+    },
+    {
+      "document_id": "db8de61dad4deee233882f5e",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+      "source_title": "Politique anticorruption",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 0.3323,
+      "document_type": "corporate_policy_anticorruption",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:55:38+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

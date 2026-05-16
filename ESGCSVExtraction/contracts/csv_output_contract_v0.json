@@ -1,0 +1,84 @@
+{
+  "schema_version": "0.9.0",
+  "contract_version": "0.9.0",
+  "engine_release_target": "1.0.0",
+  "required_files": [
+    "esg_information_candidates.csv",
+    "esg_information_candidates.jsonl",
+    "observed_metrics.csv",
+    "targets.csv",
+    "policies.csv",
+    "risks.csv",
+    "boundary_contexts.csv",
+    "methodology_contexts.csv",
+    "visual_evidences.csv",
+    "extraction_audit.csv",
+    "candidate_audit_summary.json",
+    "candidate_audit_findings.jsonl",
+    "candidate_audit_samples.csv",
+    "extraction_summary.json"
+  ],
+  "typed_csv_files": {
+    "observed_metric": "observed_metrics.csv",
+    "target": "targets.csv",
+    "policy_or_commitment": "policies.csv",
+    "risk_statement": "risks.csv",
+    "boundary_context": "boundary_contexts.csv",
+    "methodology_context": "methodology_contexts.csv",
+    "visual_evidence": "visual_evidences.csv"
+  },
+  "candidate_csv_files": [
+    "esg_information_candidates.csv",
+    "observed_metrics.csv",
+    "targets.csv",
+    "policies.csv",
+    "risks.csv",
+    "boundary_contexts.csv",
+    "methodology_contexts.csv",
+    "visual_evidences.csv"
+  ],
+  "required_columns": [
+    "document_id",
+    "company",
+    "fiscal_year",
+    "information_type",
+    "esg_category",
+    "label",
+    "raw_value",
+    "raw_unit",
+    "year",
+    "source_modality",
+    "page_number",
+    "section_id",
+    "evidence_id",
+    "quote",
+    "confidence",
+    "review_required",
+    "extraction_status"
+  ],
+  "allowed_values": {
+    "information_type": [
+      "observed_metric",
+      "target",
+      "policy_or_commitment",
+      "risk_statement",
+      "boundary_context",
+      "methodology_context",
+      "visual_evidence"
+    ],
+    "extraction_status": [
+      "candidate_only"
+    ],
+    "review_required": [
+      "True"
+    ]
+  },
+  "cross_file_invariants": [
+    "all candidates have review_required=true",
+    "all candidates have extraction_status=candidate_only",
+    "no CSV contains score or validated_metric columns",
+    "typed CSV row counts sum to global candidate CSV row count",
+    "each typed CSV contains only its declared information_type",
+    "confidence must be numeric and less than or equal to 0.6"
+  ]
+}

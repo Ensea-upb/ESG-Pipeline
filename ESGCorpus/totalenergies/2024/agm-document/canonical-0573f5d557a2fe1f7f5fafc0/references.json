@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_0573f5d557a2fe1f7f5fafc0",
+  "sha256": "d8135fcc2fb6614634c916dd5b419677d0a9bcc16d3b1142d65338f50c84ea2d",
+  "all_references": [
+    {
+      "document_id": "a3659f8a8008c1116417f911",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+      "source_title": "AG 2024 Résultats des votes par résolution - VF - TotalEnergies",
+      "source_name": "ddgs",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+      "file_size_mb": 0.1999,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 4,
+      "stored_at": "2026-05-09T20:49:49+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_manifest.json"
+    },
+    {
+      "document_id": "39aa9a6281e6c27b91fcce5c",
+      "retriever_name": "RemunerationReportRetriever",
+      "document_family": "remuneration_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+      "source_title": "[PDF] AG 2024 Résultats des votes par résolution - Total Energies",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 0.1999,
+      "document_type": "remuneration_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T19:46:59+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

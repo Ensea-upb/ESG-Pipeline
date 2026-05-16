@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_c363a9ce574cab881acddfd8",
+  "sha256": "c461f7adf4692fb3d5aea688facd6735ebb05ba53307a2115a0d302493afcd81",
+  "all_references": [
+    {
+      "document_id": "cbeadfd59671e53d2209c031",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKrsZm069VX138z_lvmh-resolutions-combined-shareholders-meeting-april-18-2024-def-13.03.pdf",
+      "source_title": "Resolutions for the approval of the combined shareholders’ meeting",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_048_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_048_manifest.json",
+      "file_size_mb": 0.3375,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 48,
+      "stored_at": "2026-05-09T20:42:22+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_048_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_55318081a0fd61a1bf71b532",
+  "sha256": "de359431b5696ddf22486aaf6e4bcdedfbe0d22585efac0aaa721640de5d0d19",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "cdp_response",
+  "document_families_detected": [
+    "cdp_response"
+  ],
+  "retrievers_detected": [
+    "CDPResponseRetriever"
+  ],
+  "canonical_source_title": "2021 FMC CDP Climate Change Response PDF (602.42 k)",
+  "canonical_source_url": "https://www.fmc.com/sites/default/files/2023-06/FMC%20CDP%20Climate%202021.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_008_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\cdp-response\\canonical-55318081a0fd61a1bf71b532\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:01+00:00"
+}

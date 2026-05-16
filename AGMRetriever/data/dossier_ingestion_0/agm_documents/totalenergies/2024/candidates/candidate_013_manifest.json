@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 13,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-05/AG2023_Resultats-des-votes-par-resolution_FR.pdf",
+    "title": "Résultats des votes des résolutions (PDF)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/fr/investisseurs/assemblees-generales/archives. Titre page : Archives Assemblées générales TotalEnergies | TotalEnergies.com. Texte du lien : Résultats des votes des résolutions (PDF).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 98.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['résolutions', 'resolutions']",
+      "mots-clés faibles : ['assemblée', 'vote', 'résolution']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_013_score_98_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_013_manifest.json",
+    "sha256": "e6be49e90b30d6ec6c4f8afaf64d35f14e27bda7c9378e79e035273eb8debc5e",
+    "file_size_mb": 0.2788,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_AG2023_Resultats-des-votes-par-resolution_FR.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:56+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

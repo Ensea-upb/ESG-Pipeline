@@ -1,0 +1,108 @@
+﻿# Secrets — never commit API keys
+.env
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Tests & coverage
+.pytest_cache/
+.pytest_tmp/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+tmp/
+temp/
+
+# Module outputs (generated artefacts)
+**/outputs/
+**/runs/
+**/run_*/
+**/artifacts/
+**/cache/
+**/.cache/
+
+# Model caches (GLiNER, docling, huggingface)
+**/model_cache/
+**/.model_cache/
+.cache/huggingface/
+models/
+
+# ESG pipeline outputs
+EXTERNAL_AUDIT_RUNS/
+ESGOrchestrator/runs/
+ESGInformationExtraction/outputs/
+ESGCSVExtraction/outputs/
+ESGTableExtraction/outputs/
+ESGVisualExtraction/outputs/
+ESGExtractionOrchestrator/outputs/
+ESGIndicatorValidation/outputs/
+ESGManualReview/outputs/
+ESGIndicatorDatabase/outputs/
+ESGVariableDatasetBuilder/outputs/
+ESGVariableTargetedExtractionV2/outputs/
+ESGProductionControlCenter/outputs/
+
+# Retriever data (downloaded PDFs and registries)
+data/dossier_ingestion_*/
+data/raw/
+data/cache/
+data/tmp/
+
+# Recall eval runs
+recall_eval/*/
+
+# Visual crops and page images
+**/crops/
+**/*_crops/
+**/*crops*/
+**/page_images/
+**/visual_crops/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Heavy data files
+*.pdf
+*.PDF
+*.parquet
+
+# Exceptions — keep fixtures and essential docs
+!tests/fixtures/**/*.pdf
+!tests/fixtures/**/*.csv
+!tests/fixtures/**/*.json
+!tests/fixtures/**/*.jsonl
+!docs/**/*.png
+!docs/**/*.jpg

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_f46d125fb74124f364c0dcf5",
+  "sha256": "15b7ef28e9526712546179e458071ba2ad64287ad663031eecf1e8b41c76aef8",
+  "all_references": [
+    {
+      "document_id": "e32755218cff949d59e54a99",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/2024-03/CP_Convocation_AG2024.pdf",
+      "source_title": "Téléchargez le communiqué de presse (PDF)",
+      "source_name": "html_pdf_resolver",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_003_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 0.2226,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:49:48+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

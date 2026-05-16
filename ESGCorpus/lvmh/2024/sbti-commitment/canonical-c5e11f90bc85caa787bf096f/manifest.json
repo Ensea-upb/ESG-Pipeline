@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_c5e11f90bc85caa787bf096f",
+  "sha256": "5819eeb14ff947c794b4614972fa70e4094d550b67dcc2aec64842d6728275b4",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "sbti_commitment",
+  "document_families_detected": [
+    "sbti_commitment"
+  ],
+  "retrievers_detected": [
+    "SBTiRetriever"
+  ],
+  "canonical_source_title": "Spanish translation",
+  "canonical_source_url": "https://sciencebasedtargets.org/resources/files/Buildings_Guidance_July_2024_Spanish.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_028_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\sbti-commitment\\canonical-c5e11f90bc85caa787bf096f\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

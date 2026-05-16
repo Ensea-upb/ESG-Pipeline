@@ -1,0 +1,46 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://ddd.uab.cat/pub/infsos/146081/irsLVMHa2024ieng.pdf",
+    "title": "[PDF] 2024 SOCIAL AND ENVIRONMENTAL RESPONSIBILITY REPORT",
+    "snippet": "France) 25% United States 23% Selective Retailing and Other activities 12% Watches & Jewelry 10% Perfumes & Cosmetics 7% Wines & Spirits 48% Fashion & Leather Goods 12 • 13 LVM H 2 0 2 4 • S o c i a l a n d E n v i r o n m e n t a l R e s p o n s i b i l i t y R e p o r t LVM H G R O U P 2005 LVMH signs the Apprenticeship Charter 2006 LVMH signs the Business Charter for Equal Opportunity in Education 2007 LVMH signs the Diversity Charter 2008 LVMH drafts a Supplier Code of Conduct to strengthen its commitments 2009 LVMH publishes the LVMH Code of Conduct and the Recruitment Code of Conduct LVMH signs the Charter for the Employment of People with Disabilities 2012 LVMH signs up to the French National Strategy for Biodiversity The Group launches LIFE (LVMH Initiatives For the Environment) 2013 LVMH signs the United Nations Women’s Empowerment Principles 2015 The United Nations adopts the Sustainable Development Goals (SDGs) LVMH sets up an internal carbon fund to finance projects that combat climate change: a pioneering initiative in the luxury industry 2016 The first LIFE 360 in Stores Awards were held to shine a spotlight on the virtuous and innovative initiatives put in place within Group stores 2017 LVMH creates the Ethics & Compliance Department LVMH draws up the Charter on Working Relations with Fashion Models and their Well-Being, together with Kering and other industry professionals LVMH revises the LVMH Code of Conduct and the Supplier Code of Conduct to strengthen the principles and better guide action 2018 At the Davos World Economic Forum, LVMH participates in the Gender Parity Task Force LVMH launches the LVMH Alert Line 1992 LVMH creates its Environment Department after the Rio de Janeiro Earth Summit 1998 Hennessy becomes the",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 93.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés forts durabilité : ['social and environmental responsibility report', 'environmental responsibility report', 'responsibility report']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "archive ou agrégateur documentaire : ddd.uab.cat",
+      "classe documentaire : standalone_sustainability_report"
+    ],
+    "negative_signals": [
+      "domaine non officiel : ddd.uab.cat"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_score_93_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "2827d430de5f8b1cc0e7deb6c9d193b225b8a45a34fcff1367c9022ff6c6cf07",
+    "file_size_mb": 14.4757,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_irsLVMHa2024ieng.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:44:53+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

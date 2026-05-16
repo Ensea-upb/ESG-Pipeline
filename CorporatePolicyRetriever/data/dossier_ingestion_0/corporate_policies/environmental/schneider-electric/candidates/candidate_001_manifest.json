@@ -1,0 +1,47 @@
+{
+  "document_type": "corporate_policy_environmental",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "environmental",
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://www.se.com/ww/en/assets/564/document/411149/vigilance-plan-2022.pdf",
+    "title": "Vigilance Plan 2022 - Schneider Electric Global",
+    "snippet": "EnvironmentPollution and specific substances • Environmental policy Waste and circularity • Environmental policy Energy, CO 2 and GHG • Energy policy Business Ethics",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts politique : ['environmental policy']",
+      "mots-clés secondaires : ['ghg', 'waste']",
+      "année récente détectée : 2022",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "classe documentaire : standalone_environmental"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_manifest.json",
+    "sha256": "95c772f353ef7609a471e313491e3039c6c161362ba03929944c4ed65dffa5f7",
+    "file_size_mb": 4.8246,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_environmental_vigilance-plan-2022.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:56:53+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

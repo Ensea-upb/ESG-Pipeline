@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_5e299d6d8559efb9519acff5",
+  "sha256": "0c72c0d2b39dfc9cc10e677853ae8bd74ad92b4cd23a9dd77741d14a3f7da01b",
+  "all_references": [
+    {
+      "document_id": "856a18d7a85dbaac8113ba45",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Corporate-Near-term-Criteria-V5.1-KR.pdf",
+      "source_title": "Korean translation (version 5.1)",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_022_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_022_manifest.json",
+      "file_size_mb": 1.0175,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 22,
+      "stored_at": "2026-05-09T20:41:46+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_022_manifest.json"
+    }
+  ]
+}

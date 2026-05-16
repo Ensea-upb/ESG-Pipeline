@@ -1,0 +1,1637 @@
+{
+  "benchmark_name": "corporate_policy_retriever_benchmark",
+  "reference_year": 2024,
+  "policy_types_tested": [
+    "code_of_conduct",
+    "anticorruption",
+    "human_rights",
+    "dei",
+    "environmental",
+    "supplier_code"
+  ],
+  "created_at": "2026-05-09T22:57:17",
+  "total_records": 18,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "policy_type": "code_of_conduct",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique code_of_conduct terminée.",
+      "downloaded_count": 38,
+      "failed_count": 1,
+      "skipped_count": 19,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Code",
+          "url": "https://metal-on-demand.com/wp-content/uploads/2024/07/040424_LVMH_CodeOfConduct_EN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_001_manifest.json",
+          "sha256": "8c0b520ba84ce75ca7b77ddc6345c3f570b2ad5e0b9beab7016293265a8c2812"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZpfZWB5LeNNTxPZK_LVMH_CodeOfConduct_EN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_002_manifest.json",
+          "sha256": "3c6d316b351cfd6d99499c0e400ae72a989aeb3a5b3ed42182c3b448da09669a",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBPzpm069VX1z-A_lvmh_codeofconduct_arabic.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_003_manifest.json",
+          "sha256": "cc0cd029bc515475dbbdd4efffb54c7f0cc5ccb96649d71034081e5eba02395a",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3pCEaF0TcGJboW_LVMH_CodeOfConduct_BULGARIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_004_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_004_manifest.json",
+          "sha256": "c943cd3777a0c657f3ccb7a9a3cc6e0baf3def551cdc43e641eb42db209e61c2",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 5,
+          "candidate_rank": 5,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zj4vX0FLKBtrWyER_210324_LVMH_CodeOfConduct_CN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_005_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_005_manifest.json",
+          "sha256": "06ae7c56a149067b2a614758bf2688e41c698e9b666f5292fca58cd31c9739d9",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "candidate_rank": 6,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qUEaF0TcGJbpY_LVMH_CodeOfConduct_TRADITIONALCHINESE.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_006_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_006_manifest.json",
+          "sha256": "830db5eb5a8bba5a3e08775573f47bca4fa6ddac25097743e012926c69fe51aa",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 7,
+          "candidate_rank": 7,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQaZm069VX1z-W_lvmh_codeofconduct_czech.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_007_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_007_manifest.json",
+          "sha256": "887f8e0927b65f32a7c30eb133ab14bbaaf32ba70a002f5e4daace2cac34058f",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 8,
+          "candidate_rank": 8,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3pN0aF0TcGJbou_LVMH_CodeOfConduct_DANISH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_008_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_008_manifest.json",
+          "sha256": "0fb226d9e14deed392d430f10942b75175949e165ec062a5f12b4a03a04948e6",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 9,
+          "candidate_rank": 9,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zqyfgh5LeNNTxwD3_LVMH_CodeOfConduct_DUTCH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_009_manifest.json",
+          "sha256": "b424fdc7da2749adbb859a518a255d837fd98766212f6aad51a6946cc5d12094",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 10,
+          "candidate_rank": 10,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z0WxE68jQArT1UKs_LVMH_CodeOfConduct_GERMAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_010_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_010_manifest.json",
+          "sha256": "d48f4b0ce10fb8c2c13c75fb58ccc916ac2e3bb2da392e961d1b077b3412e04a",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 11,
+          "candidate_rank": 11,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQSZm069VX1z-V_lvmh_codeofconduct_greek-1.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_011_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_011_manifest.json",
+          "sha256": "30fb774f8c30ee16e1c52fd801855a7310c5ad6db3287af503fb6dc80b00d9e5",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 12,
+          "candidate_rank": 12,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/3e0b0c97-178a-4d33-afc3-b8a2753ac053_LVMH_CodeOfConduct_ITALIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_012_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_012_manifest.json",
+          "sha256": "15b2d3b6f4d83d8479b194956b662e8f9e2dccdfb901e501b55a5e36321528c5",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 13,
+          "candidate_rank": 13,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aPYINLpReVYa3dj4_LVMH_CodeOfConduct_JAPANESEv.2.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_013_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_013_manifest.json",
+          "sha256": "dab2c6e8162526430ce145e87d6604903ae036b1f1db57d2259e24c8d4a76306",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 14,
+          "candidate_rank": 14,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3pWUaF0TcGJbo0_LVMH_CodeOfConduct_KHMER.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_014_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_014_manifest.json",
+          "sha256": "a24dfcb5235ae633784625bde52d76b0a44f6426a39f627326c1c383e8be68b2",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 15,
+          "candidate_rank": 15,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/fd46d3af-8b0c-4c7f-9e8b-925b247e0af0_lvmh_codeofconduct_korean-1.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_015_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_015_manifest.json",
+          "sha256": "75c049f910200e2fab51ee2b06766fd61e70260a9ee1bd7aa8f29d14fb446d1f",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 16,
+          "candidate_rank": 16,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQSJm069VX1z-U_lvmh_codeofconduct_romanian.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_016_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_016_manifest.json",
+          "sha256": "836f1acbdd9a7bc14a8dcbdf0a775b9525529a65a63a8fe29f0ba8c78d741c88",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 17,
+          "candidate_rank": 17,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/b8c278a8-174f-48c8-8e42-413849a3fe15_LVMH_CodeOfConduct_RUSSIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_017_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_017_manifest.json",
+          "sha256": "418cf4897a189227e058cfb1e74a1aafd1e9588d9b0c8dc246abb84b8078e7d3",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 18,
+          "candidate_rank": 18,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qOUaF0TcGJbpT_LVMH_CodeOfConduct_SERBIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_018_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_018_manifest.json",
+          "sha256": "3f85323f9e78a6d573cf69d2c6c61ce8a8f9f6c4e97ffdd63fd900b8f5ff8897",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 19,
+          "candidate_rank": 19,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/dd7a397a-37b7-4109-995a-e424596da7ed_LVMH_CodeOfConduct_SPANISH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_019_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_019_manifest.json",
+          "sha256": "04dc4f267e6a04b911f2c6bf1e4cdd7a083af01968e9151349ae080876807a91",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 20,
+          "candidate_rank": 20,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zj4vYEFLKBtrWyES_210324_LVMH_CodeOfConduct_TH_240430.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_020_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_020_manifest.json",
+          "sha256": "4c39b5ec3815aeeff6a95ceae57ad633cf6c323853c63afd1fa4f403befe53d8",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 21,
+          "candidate_rank": 21,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBR4Zm069VX1z-5_lvmh_codeofconduct_turkish.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_021_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_021_manifest.json",
+          "sha256": "82fb67a4f9ee959e5bba5bb9ece304a5b51c59ff9f3c5da284e7f165dc977839",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 22,
+          "candidate_rank": 22,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qe0aF0TcGJbpc_LVMH_CodeOfConduct_VIETNAMESE.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_022_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_022_manifest.json",
+          "sha256": "b0f200ef194baa1c6910769d032ddc0d6df310a61ae4eabf10e390852027ac8f",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 23,
+          "candidate_rank": 23,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZpfZWB5LeNNTxPZL_LVMH_CodeDeConduite_FR.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_023_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_023_manifest.json",
+          "sha256": "056adaaccb90133ea20b8ebf9599267dd8831f900ac267efc92bbd0486c9ea59",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 24,
+          "candidate_rank": 24,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQR5m069VX1z-S_lvmh_codedeconduite_polish.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_024_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_024_manifest.json",
+          "sha256": "290509b3593aebcea58b06a8b6370ee1e62f4a3fe647b914ece755c0d38b5938",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 25,
+          "candidate_rank": 25,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBPhZm069VX1z92_210324_LVMH_CodeDeConduite_PT-BRAZIL.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_025_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_025_manifest.json",
+          "sha256": "5db02adad6fdc7c15ae084fe04edc3c34dfdfaee62f8230f58ac82ee5bc0521c",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 26,
+          "candidate_rank": 26,
+          "source_search_rank": 2,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBPCpm069VX1z9l_210324_lvmh_codedeconduite_portuguese.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_026_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_026_manifest.json",
+          "sha256": "47e80e9540a17891247b5edf451b2ffa6783fe5c196c2179c6ee037fee1a0eb4",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 27,
+          "candidate_rank": 27,
+          "source_search_rank": 4,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z8GNgZ7c43Q3gXMp_LVMHSupplierandBusinessPartnerCodeofConduct-September2024.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_027_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_027_manifest.json",
+          "sha256": "01eadada823c66bf9ded62511dc44a9796cd9cd1d333fbe105889bab075b09b8",
+          "resolved_from": "https://www.lvmh.com/en/ethics-and-compliance/lvmh-supplier-code-of-conduct"
+        },
+        {
+          "rank": 28,
+          "candidate_rank": 28,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBVRJm069VX10DR_210324_lvmh_codeofconduct_cn.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_028_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_028_manifest.json",
+          "sha256": "06ae7c56a149067b2a614758bf2688e41c698e9b666f5292fca58cd31c9739d9",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 29,
+          "candidate_rank": 29,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBUypm069VX10Bv_lvmh_codeofconduct_arabic.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_029_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_029_manifest.json",
+          "sha256": "cc0cd029bc515475dbbdd4efffb54c7f0cc5ccb96649d71034081e5eba02395a",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 30,
+          "candidate_rank": 30,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdYryol0Zci9Pha_LVMH_CodeOfConduct_CZECH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_030_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_030_manifest.json",
+          "sha256": "887f8e0927b65f32a7c30eb133ab14bbaaf32ba70a002f5e4daace2cac34058f",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 31,
+          "candidate_rank": 31,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdX_Col0Zci9Pg0_LVMH_CodeOfConduct_GREEK.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_031_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_031_manifest.json",
+          "sha256": "30fb774f8c30ee16e1c52fd801855a7310c5ad6db3287af503fb6dc80b00d9e5",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 32,
+          "candidate_rank": 32,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/a1111bae-30f2-4da4-bdf5-4ea32f82d8de_LVMH_CodeOfConduct_JAPANESE+10.06.02.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_032_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_032_manifest.json",
+          "sha256": "da80250e46c29137dfa77bde636a07b2500ffe9ccac611d6c88f71a4e8ea7daf",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 33,
+          "candidate_rank": 33,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdYJiol0Zci9Pg8_LVMH_CodeOfConduct_ROMANIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_033_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_033_manifest.json",
+          "sha256": "836f1acbdd9a7bc14a8dcbdf0a775b9525529a65a63a8fe29f0ba8c78d741c88",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 34,
+          "candidate_rank": 34,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdXpSol0Zci9Pgf_LVMH_CodeOfConduct_TURKISH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_034_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_034_manifest.json",
+          "sha256": "82fb67a4f9ee959e5bba5bb9ece304a5b51c59ff9f3c5da284e7f165dc977839",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 35,
+          "candidate_rank": 35,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdYWyol0Zci9PhH_LVMH_CodeDeConduite_POLISH.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_035_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_035_manifest.json",
+          "sha256": "290509b3593aebcea58b06a8b6370ee1e62f4a3fe647b914ece755c0d38b5938",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 36,
+          "candidate_rank": 36,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBUq5m069VX10Bl_210324_LVMH_CodeDeConduite_PT-BRAZIL.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_036_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_036_manifest.json",
+          "sha256": "5db02adad6fdc7c15ae084fe04edc3c34dfdfaee62f8230f58ac82ee5bc0521c",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 37,
+          "candidate_rank": 37,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBVnJm069VX10Eo_210324_lvmh_codedeconduite_portuguese.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_037_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_037_manifest.json",
+          "sha256": "47e80e9540a17891247b5edf451b2ffa6783fe5c196c2179c6ee037fee1a0eb4",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 39,
+          "candidate_rank": 39,
+          "source_search_rank": 8,
+          "title": "Charte éthique",
+          "url": "https://irp.cdn-website.com/2600b7b6/files/uploaded/Charte+éthique.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_score_85_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_manifest.json",
+          "sha256": "d5f8f76237c76cbfbf5bf6c0f2a694e14617c2ffe9917212c66694a4f52874a2"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 38,
+          "candidate_rank": 38,
+          "source_search_rank": 7,
+          "title": "Code",
+          "url": "https://us.loropiana.com/medias/sys_master/root/h7c/h9d/10528809451550/LVMH-CodeOfConduct-ENGLISH.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "blocked_or_forbidden",
+          "message": "Le serveur bloque certaines stratégies de téléchargement.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Ethics and compliance - LVMH",
+          "url": "https://www.lvmh.com/en/ethics-and-compliance",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZpfZWB5LeNNTxPZK_LVMH_CodeOfConduct_EN.pdf",
+          "score": 50.0,
+          "decision": "reject",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.com/en/suppliers"
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Download",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z8GNgZ7c43Q3gXMp_LVMHSupplierandBusinessPartnerCodeofConduct-September2024.pdf",
+          "score": 50.0,
+          "decision": "reject",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.com/en/suppliers"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qUEaF0TcGJbpY_LVMH_CodeOfConduct_TRADITIONALCHINESE.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3pCEaF0TcGJboW_LVMH_CodeOfConduct_BULGARIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3pN0aF0TcGJbou_LVMH_CodeOfConduct_DANISH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zqyfgh5LeNNTxwD3_LVMH_CodeOfConduct_DUTCH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZpfZWB5LeNNTxPZK_LVMH_CodeOfConduct_EN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z0WxE68jQArT1UKs_LVMH_CodeOfConduct_GERMAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/3e0b0c97-178a-4d33-afc3-b8a2753ac053_LVMH_CodeOfConduct_ITALIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3pWUaF0TcGJbo0_LVMH_CodeOfConduct_KHMER.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/fd46d3af-8b0c-4c7f-9e8b-925b247e0af0_lvmh_codeofconduct_korean-1.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/b8c278a8-174f-48c8-8e42-413849a3fe15_LVMH_CodeOfConduct_RUSSIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qOUaF0TcGJbpT_LVMH_CodeOfConduct_SERBIAN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/dd7a397a-37b7-4109-995a-e424596da7ed_LVMH_CodeOfConduct_SPANISH.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zj4vYEFLKBtrWyES_210324_LVMH_CodeOfConduct_TH_240430.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qe0aF0TcGJbpc_LVMH_CodeOfConduct_VIETNAMESE.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "下载",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZpfZWB5LeNNTxPZL_LVMH_CodeDeConduite_FR.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "reason": "PDF extrait déjà traité.",
+          "resolved_from": "https://www.lvmh.cn/ethics-compliance/the-lvmh-code-of-conduct"
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 PDF(s) extraits de HTML ignorés (score < 80.0)."
+        }
+      ]
+    },
+    {
+      "company_name": "LVMH",
+      "policy_type": "anticorruption",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique anticorruption terminée.",
+      "downloaded_count": 3,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Politique anticorruption",
+          "url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_manifest.json",
+          "sha256": "e587fc8f00f85c7a16c98fc231918507e0e77beaeaa6979e35e9af09f2261533"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "POLITIQUE",
+          "url": "https://www.hexis-graphics.com/hexisgraphics/2023/11/Politique-anti-corruption-HEXIS-2023.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_002_manifest.json",
+          "sha256": "957a082a37541b30edfd7c3a3af4341aa2acf1ba5a4dacc14645f573cb71e4b5"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "POLITIQUE",
+          "url": "https://www.covea-finance.fr/sites/default/files/2024-07/politique_lutte_anticorruption.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_003_manifest.json",
+          "sha256": "72d17e868769c4559f7fdb6d064fae0d7bbf774110da8234a7b3383dd6653757"
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "LVMH",
+      "policy_type": "human_rights",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique human_rights terminée.",
+      "downloaded_count": 1,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Politique_droits_humains.indd",
+          "url": "https://www.gsf.fr/wp-content/uploads/2024/12/Politique_droits_humains.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\human_rights\\lvmh\\candidates\\candidate_001_manifest.json",
+          "sha256": "6c2f19d8ac52e07776defac8dceb60de4f09feb72d46e978903e33c0cf2ce85a"
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "LVMH",
+      "policy_type": "dei",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique dei terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 4,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "LVMH Inclusion Index recognizes and stimulates Div... - LVMH",
+          "url": "https://www.lvmh.com/en/commitment-in-action/for-people/lvmh-inclusion-index-recognizes-and-stimulates-diversity-and-inclusion-initiatives-across-the-group",
+          "score": 90.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Diversity and Inclusion in Luxury Industries - A Luxury Lifestyle",
+          "url": "https://aluxurylifestyle.com/social-issues/diversity-in-luxury/",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "It's everyone's business - Épisode 10 : « La diver... - LVMH",
+          "url": "https://www.lvmh.com/fr/its-everyones-business-une-serie-au-cœur-de-la-diversite-et-linclusion-chez-lvmh---episode-10",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "7 PDF(s) extraits de HTML ignorés (score < 80.0)."
+        }
+      ]
+    },
+    {
+      "company_name": "LVMH",
+      "policy_type": "environmental",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique environmental terminée.",
+      "downloaded_count": 2,
+      "failed_count": 0,
+      "skipped_count": 4,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 6,
+          "title": "Politique environnementale",
+          "url": "https://irp.cdn-website.com/2600b7b6/files/uploaded/Politique+environnementale.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_001_manifest.json",
+          "sha256": "f75e77db6fe9af4b06a4faf0c31807bc95bf84f55afc964c642c2cea2ee54029"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 7,
+          "title": "POLITIQUE",
+          "url": "https://www.engie.com/sites/default/files/assets/documents/2023-06/Engie_Politique+environnementale.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\lvmh\\candidates\\candidate_002_manifest.json",
+          "sha256": "f9fc9f8d8cc014eb059ca6adebf141b2db9f4365acb839d9f149ce6330e5bdf4"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "LVMH announces an ambitious water efficiency plan ... - LVMH",
+          "url": "https://www.lvmh.com/fr/les-actualites-lvmh/lvmh-announces-an-ambitious-water-efficiency-plan-to-reduce-the-groups-overall-water-consumption-footprint-by-30",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "LobbyMap LVMH Moët Hennessy Louis Vuitton",
+          "url": "https://lobbymap.org/company/LMVH-Moet-Hennessy-Louis-Vuitton-LMVH-42b10c32e2974cf3a2fb1d77278587a1/projectlink/LMVH-Moet-Hennessy-Louis-Vuitton-LMVH-in-Climate-Change-864e77c08c27fd2f55f89a5a91b6020e",
+          "score": 95.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Alternance – chef de projet environnement | indust... - LVMH",
+          "url": "https://www.lvmh.com/fr/nous-rejoindre/nos-offres/PCD20524",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : not_found_404 - Page HTML introuvable."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "5 PDF(s) extraits de HTML ignorés (score < 80.0)."
+        }
+      ]
+    },
+    {
+      "company_name": "LVMH",
+      "policy_type": "supplier_code",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique supplier_code terminée.",
+      "downloaded_count": 1,
+      "failed_count": 2,
+      "skipped_count": 3,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 2,
+          "title": "LVMH Group - Cloudy Bay",
+          "url": "https://www.cloudybay.com/drupal/sites/default/files/2024-04/LVMHSupplierCodeConduct2022.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_manifest.json",
+          "sha256": "67515243db92f8bdd81ea6a3d876369d407adaf700f16ad0b39e230a60ba990b"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 3,
+          "title": "LVMH | Code du conduite fournisseurs - media2.bulgari.com",
+          "url": "https://media2.bulgari.com/image/upload/v1658993951/pdf/2022/LVMH-Supplier-Code-of+Conduct/LVMH_Supplier_Code_of_Conduct_and_Bulgari_Annex_-_French_2022_e0y3l2.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 5,
+          "title": "LVMH Group",
+          "url": "https://www.fred.com/videos/engagements/Supplier+Code+of+Conduct+-+English+Version+22042022.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "blocked_or_forbidden",
+          "message": "Le serveur bloque certaines stratégies de téléchargement.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Executive or Assistant Manager, Internal Control /... - LVMH",
+          "url": "https://www.lvmh.com/en/join-us/our-job-offers/SSCWJ00214",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : not_found_404 - Page HTML introuvable."
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "Executive, Category Management - Sephora - 263100 - LVMH",
+          "url": "https://www.lvmh.com/fr/nous-rejoindre/nos-offres/263100",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : not_found_404 - Page HTML introuvable."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 PDF(s) extraits de HTML ignorés (score < 80.0)."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "policy_type": "code_of_conduct",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique code_of_conduct terminée.",
+      "downloaded_count": 2,
+      "failed_count": 0,
+      "skipped_count": 9,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 2,
+          "title": "Code of",
+          "url": "https://dev-backoffice.totalenergies.com/sites/g/files/nytnzq121/files/atoms/files/total_code_of_conduct_va_0.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_001_manifest.json",
+          "sha256": "7c248032a782cb90c847cfecbbfedf25c7965438e759dd08be103c78a2bab216"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 7,
+          "title": "View the Code of Conduct",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_code-of-conduct_2025.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\totalenergies\\candidates\\candidate_002_manifest.json",
+          "sha256": "5a7eb9e6b9876af8f50eb012ed0bbefe75225ba021e3664311d35f077cd94fd3",
+          "resolved_from": "https://totalenergies.com/company/identity/ethics"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Ethics and Integrity | TotalEnergies",
+          "url": "https://totalenergies.com.ar/en/our-activities-argentina/our-principles-action/ethics-and-integrity",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Code of",
+          "url": "https://dxm.content-center.totalenergies.com/api/wedia/dam/variation/xysh7dg731tah1c3kdnhw76bsc/original,default",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Code of",
+          "url": "https://dxm.content-center.totalenergies.com/api/wedia/dam/variation/xysh7dg731tahsgbkxyj3rkyic/original,default",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Code of",
+          "url": "https://dxm.content-center.totalenergies.com/api/wedia/dam/variation/xysh7dg731ta7sw7agiqapweze/original,default",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "Code of Conduct TotalEnergies Company | MS Argentina",
+          "url": "https://totalenergies.com.ar/en/code-conduct-totalenergies-company",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 7,
+          "source_search_rank": 7,
+          "title": "Rules for the Collection and processing of ethical complaints",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-01/Collection_and_processing_of_ethical_complaints_012024.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "PDF extrait mais décision non téléchargeable.",
+          "resolved_from": "https://totalenergies.com/company/identity/ethics"
+        },
+        {
+          "rank": 7,
+          "source_search_rank": 7,
+          "title": "Check out our fact sheet on human rights",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2022-09/practical_guide_human_rights_at_work.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "PDF extrait mais décision non téléchargeable.",
+          "resolved_from": "https://totalenergies.com/company/identity/ethics"
+        },
+        {
+          "rank": 7,
+          "source_search_rank": 7,
+          "title": "PDF",
+          "url": "https://totalenergies.com/system/files/documents/2024-01/HRBP_2024_en.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "PDF extrait mais décision non téléchargeable.",
+          "resolved_from": "https://totalenergies.com/company/identity/ethics"
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 PDF(s) extraits de HTML ignorés (score < 80.0)."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "policy_type": "anticorruption",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique anticorruption terminée.",
+      "downloaded_count": 1,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "TotalEnergies_DEU_2022_VA",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2023-03/SASB-Reporting-VEN.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\totalenergies\\candidates\\candidate_001_manifest.json",
+          "sha256": "57d879543b9e0796d0641e08460dc76c80da93b1821f3eb8ec729dc3f68d7470"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "TotalEnergies_DEU_2024_VF",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "Décision non téléchargeable automatiquement."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "policy_type": "human_rights",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique human_rights terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 3,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "NGOs & Human Rights | TotalEnergies Uganda",
+          "url": "https://totalenergies.ug/projects/tilenga/ngos-human-rights",
+          "score": 95.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Document d’information sur les Droits Humains",
+          "url": "https://totalenergies.com/system/files/documents/2024-07/totalenergies_document-information-droits-humains_2024_fr_pdf.pdf",
+          "score": 95.0,
+          "decision": "reject",
+          "reason": "PDF extrait mais décision non téléchargeable.",
+          "resolved_from": "https://totalenergies.com/fr/developpement-durable/rapports-et-indicateurs/rapports-rse-standards-reporting/droits-humains-ungp"
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "3 PDF(s) extraits de HTML ignorés (score < 80.0)."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "policy_type": "dei",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique dei terminée.",
+      "downloaded_count": 0,
+      "failed_count": 1,
+      "skipped_count": 2,
+      "downloaded": [],
+      "failed": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Totalenergies marketing nigeria plc",
+          "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/35552_TOTALENERGIES_MARKETING_NIGERIA_PLC+_AUDITED_FINANCIAL.pdf",
+          "score": 90.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Mentoring at TotalEnergies : a powerful lever for diversity and...",
+          "url": "https://embracedifference.ert.eu/stories/mentoring-at-totalenergies-a-powerful-lever-for-diversity-and-inclusion-strategy/",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "TotalEnergies_DEU_2024_VF",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "Décision non téléchargeable automatiquement."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "policy_type": "environmental",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique environmental terminée.",
+      "downloaded_count": 2,
+      "failed_count": 1,
+      "skipped_count": 5,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "TotalEnergies_DEU_2024_VF",
+          "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_manifest.json",
+          "sha256": "c65ec5c295536fd09cb15ccf7c6172f35215556f5d9b9f74f802a602d22b238d"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 7,
+          "title": "TotalEnergies - Climate Change 2022",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2022-08/CDP_Climate_Change_2022.pdf",
+          "score": 90.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_003_score_90_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_003_manifest.json",
+          "sha256": "3b45fbf52fd6e8a26f2a413172d8e0ad51058aa97413282e0bd9a362d2614472"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "VINCI Airports and TotalEnergies join forces to offer sustainable...",
+          "url": "https://aviation.totalenergies.com/en/system/files/atoms/files/20240705_ncy_cp_totalenergies-vinci_airports_vdef_ven_2.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "VINCI Airports and TotalEnergies join forces to offer sustainable...",
+          "url": "https://aviation.totalenergies.com/en/vinci-airports-and-totalenergies-join-forces-offer-sustainable-aviation-fuel",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "VINCI Airports et TotalEnergies s’associent pour proposer du carburant...",
+          "url": "https://aviation.totalenergies.com/fr/blog/embarquement/vinci-airports-et-totalenergies-sassocient-pour-proposer-du-carburant-daviation-durable",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Économie gazière, pétrolière, ou énergétique et environnement...",
+          "url": "https://prof.totalenergies.com/cours-et-conferences/economie-gaziere-petroliere-ou-energetique-et-environnement/",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "Forfait mobilités durables : guide des nouveautés - le blog Mobility...",
+          "url": "https://leblogmobilitybusiness.totalenergies.com/mobilites-energies/forfait-mobilites-durables-ou-en-est-on/",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 8,
+          "source_search_rank": 8,
+          "title": "LobbyMap TotalEnergies",
+          "url": "https://lobbymap.org/company/Total-5a9f086d9a2ce300529ea4eb020d1aa3",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "policy_type": "supplier_code",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique supplier_code terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 5,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Total kenya plc",
+          "url": "https://dxm.content-center.totalenergies.com/api/wedia/dam/variation/xysh7dg731ta7bz3qhfa98rkxc/original,default",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Total kenya plc",
+          "url": "https://dxm.content-center.totalenergies.com/api/wedia/dam/variation/xysh7dg731ta7mmgwymr9upb6a/original,default",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Principes Fondamentaux dans les Achats - TotalEnergies",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2022-05/Brochure_Principes_Fondamentaux_dans_les_Achats.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "Décision non téléchargeable automatiquement."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Charte de bonnes pratiques - TotalEnergies",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/atoms/files/charte-bonnes-pratiques-achats-responsables-1.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "Décision non téléchargeable automatiquement."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "Fundamental Principles of Purchasing - TotalEnergies",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2022-05/Brochure_Fundamental_Principles_of_Purchasing.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "Décision non téléchargeable automatiquement."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "policy_type": "code_of_conduct",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique code_of_conduct terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Apprenticeship as Electronics Technician for Industrial Engineering",
+          "url": "https://careers.se.com/global/jobs/92764?lang=en-us",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : not_found_404 - Page HTML introuvable."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "policy_type": "anticorruption",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique anticorruption terminée.",
+      "downloaded_count": 3,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 2,
+          "title": "Microsoft Word - HFS Global Anticorruption Policy (8.30.23) FINAL",
+          "url": "https://s29.q4cdn.com/769728925/files/doc_downloads/2024/01/23/HFS-Global-Anticorruption-Policy.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_score_85_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_manifest.json",
+          "sha256": "97d562b899055eeaddecc8808af1469c384bb62d77bab918702fdaecc5d17cc3"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 3,
+          "title": "Anti Bribery Policy",
+          "url": "https://www.fmsfoils.co.uk/wp-content/uploads/2024/06/Anti-Bribery-Policy.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_002_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_002_manifest.json",
+          "sha256": "40ab287bed8360c6d97086cfdd82c5ea7196fd888cd102aaa83fe87592567bc6"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 4,
+          "title": "Politique anticorruption",
+          "url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_manifest.json",
+          "sha256": "e587fc8f00f85c7a16c98fc231918507e0e77beaeaa6979e35e9af09f2261533"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Schneider Electric Anti-Corruption policy | Schneider Electric",
+          "url": "https://www.se.com/th/en/download/document/Global_Anti_Corruption_Policy/",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "policy_type": "human_rights",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique human_rights terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "Schneider Electric",
+      "policy_type": "dei",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique dei terminée.",
+      "downloaded_count": 0,
+      "failed_count": 1,
+      "skipped_count": 2,
+      "downloaded": [],
+      "failed": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Politique diversité, équité et inclusion",
+          "url": "https://www.societegenerale.com/sites/default/files/documents/Document+RSE/politique-diversite-et-inclusion-fr.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "download_status": "not_found_404",
+          "message": "Document introuvable.",
+          "attempts": 3
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "We Will Continue to Engineer Diversity and Inclusion in the Work...",
+          "url": "https://www.SE.com/za/en/about-us/newsroom/news/press-releases/we-will-continue-to-engineer-diversity-and-inclusion-in-the-work-force”-schneider-electric-65f7fec72c5196512803efb1",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Embracing inclusion and diversity - Schneider Electric Blog",
+          "url": "https://blog.se.com/homes/2023/10/17/embracing-inclusion-and-diversity/",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "policy_type": "environmental",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique environmental terminée.",
+      "downloaded_count": 1,
+      "failed_count": 0,
+      "skipped_count": 5,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Vigilance Plan 2022 - Schneider Electric Global",
+          "url": "https://www.se.com/ww/en/assets/564/document/411149/vigilance-plan-2022.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\schneider-electric\\candidates\\candidate_001_manifest.json",
+          "sha256": "95c772f353ef7609a471e313491e3039c6c161362ba03929944c4ed65dffa5f7"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Schneider Electric Environmental Sustainability Policy",
+          "url": "https://www.se.com/ww/en/download/document/SE_Environmental_policy/",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 3,
+          "source_search_rank": 3,
+          "title": "Schneider Electric Environmental Sustainability Policy",
+          "url": "https://www.se.com/us/en/download/document/SE_Environmental_policy/",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Corporate sustainability | Schneider Electric United States",
+          "url": "https://www.se.com/us/en/about-us/sustainability/",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "VIGILANCE PLAN 2023 - Schneider Electric Global",
+          "url": "https://www.se.com/ww/en/assets/564/document/466150/vigilance-plan-2023.pdf?Source=schneider-electric-data-centers",
+          "score": 80.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 6,
+          "source_search_rank": 6,
+          "title": "Plan de vigilance 2023 - Schneider Electric Global",
+          "url": "https://www.se.com/ww/fr/Images/plan-de-vigilance-2023_tcm342-466150.pdf",
+          "score": 80.0,
+          "decision": "reject",
+          "reason": "Décision non téléchargeable automatiquement."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "policy_type": "supplier_code",
+      "reference_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats politique supplier_code terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Schneider Electric Supplier Code of Conduct (SCoC) | Schneider...",
+          "url": "https://www.SE.com/ww/en/download/document/Supplier-code-of-conduct/",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_aad3e149a8a0e5aa54c24a30",
+  "sha256": "ae4cc724e5928e2269f70df6790fa381c6252c8addf98483bc4923839f254ca2",
+  "all_references": [
+    {
+      "document_id": "b5733247a9659b2c83c764b3",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/FINT-Criteria-V2-ARABIC.pdf",
+      "source_title": "Arabic translation",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_030_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_030_manifest.json",
+      "file_size_mb": 1.2274,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 30,
+      "stored_at": "2026-05-09T20:41:57+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_030_manifest.json"
+    }
+  ]
+}

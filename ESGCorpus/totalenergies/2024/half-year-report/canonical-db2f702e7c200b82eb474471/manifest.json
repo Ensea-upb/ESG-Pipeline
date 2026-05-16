@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_db2f702e7c200b82eb474471",
+  "sha256": "592fbaea83ef03f2e9460126279dbe5be8655b7a0599af9ce591efd05053dd7b",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "half_year_report",
+  "document_families_detected": [
+    "half_year_report"
+  ],
+  "retrievers_detected": [
+    "HalfYearReportRetriever"
+  ],
+  "canonical_source_title": "TotalEnergies_RFS_2024_VF",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/TotalEnergies_rapport_financier_semestriel_2024_fr_pdf.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\half-year-report\\canonical-db2f702e7c200b82eb474471\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

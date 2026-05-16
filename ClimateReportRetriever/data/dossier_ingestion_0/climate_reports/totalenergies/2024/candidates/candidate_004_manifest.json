@@ -1,0 +1,44 @@
+{
+  "document_type": "climate_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 4,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/Totalenergies_AG2024-Reponses-aux-questions-ecrites_FR_PDF.pdf",
+    "title": "[PDF] TotalEnergies SE",
+    "snippet": "Vous trouverez nos principaux objectifs de décarbonation à horizon 2025 et 2030 en page 28 de notre rapport TotalEnergies Sustainability & Climate 2024 Progress Report et ci-après : Concernant nos objectifs de réduction Scope 1+2 : Pour atteindre notre objectif à 2030, nous mobilisons l’ensemble des leviers disponibles pour éviter et réduire les émissions liées à nos opérations : Nous avons par exemple adopté un plan d’efficacité énergétique d’1 milliard de dollars sur 2 ans (voir TotalEnergies Sustainability & Climate 2024 Progress Report page 32 « Notre plan d’efficacité énergétique : 1 milliard de dollars sur 2 ans »), d’ores et déjà réduit nos émissions de méthane opérées de plus de 60 % depuis 2015 (voir TotalEnergies Sustainability & Climate 2024 Progress Report page 36) et ambitionnons de remplacer d’ici 2030 les 500 kt/an d’hydrogène consommé dans les raffineries européennes par de l’hydrogène vert. La production d’électricité renouvelable (éolienne, solaire, hydro-électrique) intégrée dans ces scénarios est ramenée sur une même base fossile en prenant en compte un facteur de substitution de 2,63 (38 %) pour les rendre comparables avec l’intensité carbone cycle de vie des produits énergétiques vendus de TotalEnergies Question 2 La prise en compte des risques, impacts, dépendances et opportunités liés à la biodiversité dans les activités des entreprises (internes, chaîne d'approvisionnement, produits, services aux clients...) est encore insuffisante.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés TCFD/CDP : ['décarbonation', 'decarbonation']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : tcfd_cdp_disclosure"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+    "sha256": "994f96dcaffcf4f0405f594c9436b926215a5c4d246e9b90a98e8192ecf4e386",
+    "file_size_mb": 3.8291,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_Totalenergies_AG2024-Reponses-aux-questions-ecrites_FR_PDF.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:18:06+00:00",
+    "storage_version": "climate_report_candidate_storage_v0"
+  }
+}

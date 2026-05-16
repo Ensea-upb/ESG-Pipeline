@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_bdab1fa9b1d1a4e781178973",
+  "sha256": "af3e861ccd5b9bce07cc6e078a5d820c898fbf5cc680c6700edd1f0117245785",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "sbti_commitment",
+  "official_doc_type": "18_sbti_validation",
+  "official_doc_type_label": "SBTi validation",
+  "doc_type_stratum": "external_validation",
+  "doc_subtype": "sbti_commitment",
+  "period_type": "ad_hoc",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\sbti-commitment\\canonical-bdab1fa9b1d1a4e781178973\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\18_sbti_validation\\canonical-bdab1fa9b1d1a4e781178973\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:06+00:00"
+}

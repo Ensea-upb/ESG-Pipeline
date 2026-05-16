@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_e18c875dba0235c213167d3a",
+  "sha256": "8db4cbab391687deb6cafc6963cf0bc430b0195712f9c002498a5d7aad9b3fb5",
+  "all_references": [
+    {
+      "document_id": "bd4a2bda454cf349b6c92c4d",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZmCCUJm069VX1fHU_droits-de-vote-lvmh-au-13.03.2023.pdf",
+      "source_title": "Nombre total de droits de vote et d’actions composant le capital à la date de parution de l’avis préalable du 13 mars 2023",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_032_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_032_manifest.json",
+      "file_size_mb": 0.1129,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 32,
+      "stored_at": "2026-05-09T20:42:00+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_032_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_96b31abac292503094850e44",
+  "sha256": "3edeea9fa73aebeca0a5ebad5016bc7935c4bb6ddcdf3153906e89a27ed2d92f",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "sbti_commitment",
+  "document_families_detected": [
+    "sbti_commitment"
+  ],
+  "retrievers_detected": [
+    "SBTiRetriever"
+  ],
+  "canonical_source_title": "Corporate Net-Zero Standard",
+  "canonical_source_url": "https://files.sciencebasedtargets.org/production/files/Net-Zero-Standard.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_004_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\sbti-commitment\\canonical-96b31abac292503094850e44\\document.pdf",
+  "duplicate_count": 4,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

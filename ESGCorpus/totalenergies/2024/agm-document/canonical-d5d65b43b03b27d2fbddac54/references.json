@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d5d65b43b03b27d2fbddac54",
+  "sha256": "996a717a3ecfcd5f74da2ba6c9f9d521a310470deb842b615fae74acbbe1e4f5",
+  "all_references": [
+    {
+      "document_id": "5fa4fc2b3531c4d05ea039e4",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/2023-05/Avis_de_convocation_BALO_5_mai_2023.pdf",
+      "source_title": "Avis de convocation de l’Assemblée générale mixte paru au BALO du 5 mai 2023 (version pdf)",
+      "source_name": "html_pdf_resolver",
+      "score": 98,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_014_score_98_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_014_manifest.json",
+      "file_size_mb": 0.6265,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 14,
+      "stored_at": "2026-05-09T20:49:56+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_014_manifest.json"
+    }
+  ]
+}

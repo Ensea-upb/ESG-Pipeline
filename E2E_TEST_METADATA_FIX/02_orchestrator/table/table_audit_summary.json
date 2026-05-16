@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.6.0",
+  "candidates_count": 28,
+  "candidates_by_metric_family": {
+    "energy": 18,
+    "unknown": 3,
+    "ghg_emissions": 6,
+    "governance": 1
+  },
+  "candidates_by_esg_category": {
+    "energy": 18,
+    "methodology": 1,
+    "climate": 6,
+    "governance": 1,
+    "boundary": 2
+  },
+  "checks": {
+    "candidates_without_unit": 19,
+    "candidates_without_year": 0,
+    "candidates_with_inferred_year": 23,
+    "candidates_from_low_confidence_tables": 12,
+    "duplicate_candidates": 0,
+    "raw_value_not_numeric": 0,
+    "confidence_above_0_6": 0,
+    "review_required_missing_or_false": 0,
+    "extraction_status_not_candidate_only": 0,
+    "score_column_detected": 0,
+    "validated_metric_detected": 0
+  },
+  "findings_count": 11,
+  "errors_count": 0,
+  "warnings_count": 3
+}

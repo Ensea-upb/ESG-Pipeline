@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_57760ae1d7a83787976185e7",
+  "sha256": "2275703136143c027bb67f92a02d879a93d2d762ff4715afbee458f4598960d1",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "assurance_report",
+  "document_families_detected": [
+    "assurance_report"
+  ],
+  "retrievers_detected": [
+    "AssuranceReportRetriever"
+  ],
+  "canonical_source_title": "ISAE 3000 Assurance Statement",
+  "canonical_source_url": "https://www.segro.com/media/3o1fmmrn/41006590200001-segro-2024-isae-3000-statement-final-4225.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AssuranceReportRetriever\\data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\assurance-report\\canonical-57760ae1d7a83787976185e7\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

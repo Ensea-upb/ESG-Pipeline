@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_be9dd4a2c5a768b9279dee97",
+  "sha256": "da6c5af0973bab5292c131589bf5d74f0bc63b42b020c19524206144b371053a",
+  "all_references": [
+    {
+      "document_id": "f98eec0ba5b70263b7182c05",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/009/154/original/2024_Full_Corporate_Scoring_Methodology_-_Climate_Change.pdf",
+      "source_title": "CDP Full Corporate Scoring Methodology - Climate Change",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_003_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 3.4445,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:42:06+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\totalenergies\\2024\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

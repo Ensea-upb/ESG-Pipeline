@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.6.0",
+  "checks_count": 11,
+  "findings_count": 11,
+  "errors_count": 0,
+  "warnings_count": 2,
+  "checks": {
+    "crops_not_created": 0,
+    "ocr_unavailable_or_failed": 0,
+    "candidates_without_source_image_path": 0,
+    "candidates_without_figure_id": 0,
+    "confidence_above_0_5": 0,
+    "review_required_missing_or_false": 0,
+    "visual_type_unknown": 37,
+    "raw_value_without_unit": 43,
+    "chart_candidate_without_ocr_text": 0,
+    "scanned_table_candidate_without_ocr_text": 0,
+    "invalid_visual_type": 0
+  }
+}

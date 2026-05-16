@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_2697d5cebb7a5e0188eef73d",
+  "sha256": "3b45fbf52fd6e8a26f2a413172d8e0ad51058aa97413282e0bd9a362d2614472",
+  "all_references": [
+    {
+      "document_id": "566c5f0020f1f6ef21e3d052",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2022-08/CDP_Climate_Change_2022.pdf",
+      "source_title": "TotalEnergies - Climate Change 2022",
+      "source_name": "ddgs",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_003_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_003_manifest.json",
+      "file_size_mb": 0.9619,
+      "document_type": "corporate_policy_environmental",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 3,
+      "stored_at": "2026-05-09T20:54:03+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_003_manifest.json"
+    }
+  ]
+}

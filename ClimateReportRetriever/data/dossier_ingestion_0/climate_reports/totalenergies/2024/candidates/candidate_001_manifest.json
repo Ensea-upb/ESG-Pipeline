@@ -1,0 +1,46 @@
+{
+  "document_type": "climate_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://reclaimfinance.org/site/wp-content/uploads/2024/05/202404_Assessment-of-TotalEnergies-climate-strategy.pdf",
+    "title": "[PDF] ASSESSMENT OF TOTALENERGIES' CLIMATE STRATEGY",
+    "snippet": "To assess TotalEnergies’ climate strategy and provide our analysis, Reclaim Finance relied on the International Energy Agency’s (IEA) Net Zero Emissions by 2050 Scenario (NZE).1 The NZE is based on a 1.5°C trajectory and includes: • A drop in oil and gas production of 21% and 18% respectively by 2030, compared with 2022 levels. Indeed, during this period, the company fully acquired Total Eren in 2023 (3.5 GW),40 acquired 50% of ClearWay in the United States in 2022 (3.9 GW),41 20% of Adani Green in 2021 (3 GW) and 50% of Adani Green’s solar assets in 2020 (2.3 GW).42 As TotalEnergies is developing new oil and gas upstream and LNG projects, additional renewable capacities do not change the company’s fossil-based business model.43 If TotalEnergies meets its targets, the maximum renewable power energy share of the company’s energy production mix in 2030 would remain under 10%, while oil and gas extraction will represent 82% of its energy production mix.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés forts climat : ['climate strategy']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier compatible climat : ['climatestrategy']",
+      "classe documentaire : standalone_climate_report"
+    ],
+    "negative_signals": [
+      "domaine non officiel : reclaimfinance.org"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "047837ccb89b3da4a94ced2d32fa126014ac9f75da2933a2a3412338b7902df4",
+    "file_size_mb": 2.9924,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_202404_Assessment-of-TotalEnergies-climate-strategy.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:18:03+00:00",
+    "storage_version": "climate_report_candidate_storage_v0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "message": "Registre central construit : 296 document(s) chargé(s), 0 erreur(s).",
+  "total_manifests_found": 296,
+  "total_documents_loaded": 296,
+  "total_errors": 0,
+  "output_json_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\central_registry\\documents_registry.json",
+  "output_csv_path": "C:\\Users\\hp\\Desktop\\ESG\\DocumentPostProcessing\\data\\central_registry\\documents_registry.csv",
+  "errors": []
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "module": "ESGVisualExtraction",
+  "input_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\01_information_extraction",
+  "output_dir": "C:\\Users\\hp\\Desktop\\ESG\\E2E_TEST_METADATA_FIX\\02_orchestrator\\visual",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "company": "TotalEnergies",
+  "fiscal_year": "2024",
+  "started_at": "2026-05-14T05:05:11+00:00",
+  "finished_at": "2026-05-14T05:05:45+00:00",
+  "status": "success",
+  "visual_items_count": 43,
+  "crops_count": 43,
+  "ocr_outputs_count": 43,
+  "visual_classifications_count": 43,
+  "visual_candidates_count": 43,
+  "information_type_distribution": {
+    "visual_metric_candidate": 43
+  },
+  "visual_type_distribution": {
+    "logo_or_cover": 6,
+    "unknown_visual": 37
+  },
+  "ocr_status_distribution": {
+    "success": 43
+  },
+  "candidate_only": true,
+  "review_required_count": 43,
+  "audit_errors_count": 0,
+  "audit_warnings_count": 2,
+  "quality_warning": true,
+  "real_world_visual_audit_pending": true,
+  "outputs": [
+    "visual_input_inventory.json",
+    "visual_items.jsonl",
+    "visual_crops_index.jsonl",
+    "visual_ocr_outputs.jsonl",
+    "visual_ocr_summary.json",
+    "visual_classification.jsonl",
+    "visual_classification_summary.json",
+    "visual_candidates.csv",
+    "visual_candidates.jsonl",
+    "visual_audit_summary.json",
+    "visual_audit_findings.jsonl",
+    "visual_audit_samples.csv",
+    "visual_extraction_summary.json"
+  ]
+}

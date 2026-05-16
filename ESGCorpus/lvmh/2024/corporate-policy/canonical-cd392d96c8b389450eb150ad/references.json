@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_cd392d96c8b389450eb150ad",
+  "sha256": "830db5eb5a8bba5a3e08775573f47bca4fa6ddac25097743e012926c69fe51aa",
+  "all_references": [
+    {
+      "document_id": "20a4bd6d3db64198f6406217",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zs3qUEaF0TcGJbpY_LVMH_CodeOfConduct_TRADITIONALCHINESE.pdf",
+      "source_title": "Download",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_006_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_006_manifest.json",
+      "file_size_mb": 1.7412,
+      "document_type": "corporate_policy_code_of_conduct",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 6,
+      "stored_at": "2026-05-09T20:48:24+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_006_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "benchmark_name": "ASSURANCE REPORT_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T22:43:06",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports assurance ESG terminée.",
+      "downloaded_count": 1,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "FY2024 Assurance Statement_Draft_LMCO_03.26.25_v3 - Copy",
+          "url": "https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/sustainability/2025/2024-assurance-statement_lmco.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "25b27a8258de98fe7d8f2d09a71fe9b6392067e2166a71092386d5b716ba8f02"
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports assurance ESG terminée.",
+      "downloaded_count": 4,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "TotalEnergies SE",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_tax-transparency-report-2024-statutory-auditors-report-section-4_2026_en.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "c414387fbd2a50f0a1f1c78d492bc1e4b867977df6187d012e48ac1a8b8d2485"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "AA1000AS v3 Guidance for Assurance Providers_Feb 2024",
+          "url": "https://splendid-triumph-d1b9429d86.media.strapiapp.com/AA_1000_AS_v3_Guidance_for_Assurance_Providers_Feb_2024_3ddfbb9049.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_002_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "684918b2013757cf105b2d32c0887d064cfae61666489a3cd78eed0b057ade67"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "[nom du contrat]",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-07/totalenergies_plan-assurance-securite-standard_2024_fr_pdf.pdf",
+          "score": 85.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_003_score_85_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "0159dd14ce81db2c7a0aeec6848a5ca2d2766ed858d8a7681641a8947d2f0331"
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 4,
+          "title": "AA1000",
+          "url": "https://cdn.prod.website-files.com/66b2233d3c4dc3712ce73ffe/66ecbe92e3fc032a43d59fbc_AA1000-Assurance-Standard-Application-Guide.pdf",
+          "score": 80.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_score_80_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+          "sha256": "9f8eca45a6639e43271bd88b6f0c63a985a3560b785d8b5f4e4bc96b45f5505f"
+        }
+      ],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports assurance ESG terminée.",
+      "downloaded_count": 2,
+      "failed_count": 0,
+      "skipped_count": 2,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "Independent Limited Assurance Report",
+          "url": "https://eu-assets.contentstack.com/v3/assets/blt93c8bc7a598af9f0/blt359d461aad4989ee/69b3470022822b39d2640820/erm-cvs-limited-assurance-report-for-reckitt-2024-19-mar-25_(2).pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "1ded281f7ef3c4927bf462a3e30a71d245903ecb43072c406371d76d4bbbf2c6"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 3,
+          "title": "ISAE 3000 Assurance Statement",
+          "url": "https://www.segro.com/media/3o1fmmrn/41006590200001-segro-2024-isae-3000-statement-final-4225.pdf",
+          "score": 95.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_95_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\assurance_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "2275703136143c027bb67f92a02d879a93d2d762ff4715afbee458f4598960d1"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Technology for Impact Link to the Schneider Electric website",
+          "url": "https://www.se.com/ww/en/assets/564/document/513141/2024-sustainability-report.pdf?p_File_Name=2024+Sustainable+Development+Report&p_enDocType=EDMS",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Accountability with AA1000AS: A Comprehensive Guide",
+          "url": "https://impactdots.com/blog/accountability-with-aa1000as-a-comprehensive-guide/",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    }
+  ]
+}

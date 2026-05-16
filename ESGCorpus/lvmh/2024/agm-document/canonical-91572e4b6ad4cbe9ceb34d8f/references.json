@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_91572e4b6ad4cbe9ceb34d8f",
+  "sha256": "d16d98b86024d6d545217f60b163eecfd597f434cd0531106f4324a6f9838719",
+  "all_references": [
+    {
+      "document_id": "c0594cd498b50a1c5b4f768e",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKrEJm069VX138Q_notice-specifying-the-availability-of-2023-universal-registration-document.pdf",
+      "source_title": "Notice specifying the availability of 2023 Universal Registration Document",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_046_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_046_manifest.json",
+      "file_size_mb": 0.1366,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 46,
+      "stored_at": "2026-05-09T20:42:20+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_046_manifest.json"
+    }
+  ]
+}

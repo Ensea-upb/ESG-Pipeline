@@ -1,0 +1,18 @@
+page,indicator,indicator_family,value,unit,error_type,notes
+3,SSI score,governance,6.59/10,score,true_positive,Schneider Electric Sustainability Index
+3,CO2 savings cumulatif client,co2_emissions,632,MtCO2e,true_positive,Scope avoided emissions for clients
+3,Revenue portfolio durable,fossil_exposure,74%,%,wrong_family,V1 classified as boundary instead of fossil_exposure
+3,Acces a l energie beneficiaires,human_capital,49M,people,missed_indicator,V1 missed this social indicator
+9,CO2 avoided produits,co2_emissions,108,MtCO2e,wrong_family,V1 classified wrong family
+9,Electricite renouvelable operations,energy_consumption,53%,%,true_positive,Renewable electricity share
+9,Taux de fuite SF6,co2_emissions,0.3%,%,true_positive,SF6 is a GHG — should map to co2_emissions
+9,Sites Zero-CO2,co2_emissions,68,sites,true_positive,Zero-CO2 manufacturing sites count
+10,Scope 1+2 GHG absolu,co2_emissions,457,ktCO2e,true_positive,Absolute Scope 1+2 emissions
+10,Reduction Scope 1+2 vs 2017,co2_emissions,59%,%,true_positive,GHG reduction target progress
+10,Intensite Scope 3 upstream,co2_emissions,24%,%,true_positive,Supply chain intensity reduction
+11,Objectif Net-Zero,transparency,2040,year,wrong_family,V1 classified as methodology instead of transparency/governance
+12,Investissements efficacite energie,energy_consumption,90,M€,section_number_false_positive,V1 extracted section number instead
+14,Couverture RE100,energy_consumption,53%,%,true_positive,Renewable energy coverage
+17,Scope 3 cat 1 supply chain,co2_emissions,4.7,MtCO2e,true_positive,Category 1 supply chain Scope 3
+17,Reduction Scope 3 supply chain 2025,co2_emissions,20%,%,true_positive,Supply chain reduction target
+23,CO2 evite downstream produits,co2_emissions,632,MtCO2e,true_positive,Downstream avoided emissions

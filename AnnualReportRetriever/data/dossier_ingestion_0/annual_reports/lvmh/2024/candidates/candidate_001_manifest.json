@@ -1,0 +1,48 @@
+{
+  "document_type": "annual_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+    "title": "LVMH 2024 Universal Registration Document. - Prismic",
+    "snippet": "From the 14th century to the present 14th century 1365 Le Clos des Lambrays 16th century 1593 Château d’Yquem 18th century 1729 Ruinart 1743 Moët & Chandon 1765 Hennessy 1772 Veuve Clicquot 1780 Chaumet 19th century 1803 Officine Universelle Buly 1815 Ardbeg 1817 Cova 1828 Guerlain 1832 Château Cheval Blanc 1837 Tiffany & Co. 1839 L’Epée 1839 1843 Krug Glenmorangie 1846 Loewe 1849 Royal Van Lent 1852 Le Bon Marché 1854 Louis Vuitton 1858 Mercier 1860 TAG Heuer Jardin d’Acclimatation 1865 Zenith 1870 La Samaritaine 1884 Bulgari 1895 Berluti 1898 Rimowa 20th century 1908 Les Echos 1914 Patou 1916 Acqua di Parma 1923 La Grande Épicerie de Paris 1924 Loro Piana 1925 Fendi 1936 Dom Pérignon Fred Minuty 1944 Le Parisien-Aujourd’hui en France 1945 Celine 1946 Christian Dior Couture 1947 Parfums Christian Dior Emilio Pucci 1949 Paris Match 1952 Givenchy Connaissance des Arts 1955 Château Galoupet 1957 Parfums Givenchy Repossi Vuarnet 1959 Chandon 1960 DFS 1969 Sephora 1970 Kenzo 1972 Perfumes Loewe 1973 Joseph Phelps 1974 Investir-Le Journal des Finances 1976 Benefit Cosmetics Belmond 1977 Newton vineyard 1980 Hublot 1983 Radio Classique Ole Henriksen 1984 Marc Jacobs Make Up For Ever 1985 Cloudy Bay 1988 Kenzo Parfums 1991 Fresh 1992 Colgin Cellars 1993 Belvedere 1996 Terrazas de los Andes 1998 Bodega Numanthia 1999 Cheval des Andes 21st century 2006 Armand de Brignac Château d’Esclans Maisons Cheval Blanc 2007 Barton Perreira 2008 KVD Vegan Beauty 2009 Maison Francis Kurkdjian 2010 Woodinville 2013 Ao Yun 2017 Fenty Beauty by Rihanna Volcán de mi Tierra 2020 Eminente 2024 SirDavis ﻿ 2 2024 Universal Registration Document FINANCIAL HIGHLIGHTS Revenue ( EUR millions) 79,184 86,153 84,683 2022 2023 2024 Profit from recurring operations ( EUR millions) 21,055 22,802 19,571 2022 2023 2024 Stores ( number) 5,664 6,097 6,307 2022 2023 2024 Change in revenue by business group ( EUR millions and percentage) 2024 2023 2024/2023 Change 2022 Published Organic (a) Wines and Spirits 5,862 6,602",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['universal registration document']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['universalregistrationdocument']",
+      "signaux de périmètre groupe : ['group', 'universal registration document']",
+      "CDN/asset host plausible pour PDF officiel : lvmh-com.cdn.prismic.io",
+      "classe documentaire : universal_registration_document"
+    ],
+    "negative_signals": [
+      "domaine non officiel : lvmh-com.cdn.prismic.io"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "4e67ffaaae7f880fd24e837c30f10c08b0a087ca1b4314dade86e7b5d32c12cb",
+    "file_size_mb": 7.7547,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:03:44+00:00",
+    "storage_version": "annual_report_candidate_storage_v0"
+  }
+}

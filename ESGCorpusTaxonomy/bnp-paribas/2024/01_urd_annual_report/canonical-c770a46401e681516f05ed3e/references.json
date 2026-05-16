@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_c770a46401e681516f05ed3e",
+  "sha256": "9fc754d47162512181a6f7cef448ba76a78ece624fe335f6abfdcc12930e0a7b",
+  "all_references": [
+    {
+      "document_id": "52855e64ce5845132f51e2a9",
+      "retriever_name": "AnnualReportRetriever",
+      "document_family": "annual_report",
+      "company_name": "BNP Paribas",
+      "company_slug": "bnp-paribas",
+      "fiscal_year": 2024,
+      "source_url": "https://cdn-group.bnpparibas.com/uploads/file/BNP-Paribas-Integrated-Report-2024.pdf",
+      "source_title": "[PDF] 2024 INTEGRATED REPORT - Groupe BNP Paribas",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\bnp-paribas\\2024\\annual_report.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\bnp-paribas\\2024\\manifest.json",
+      "file_size_mb": 6.2106,
+      "document_type": "annual_report",
+      "storage_role": "final_selected_document",
+      "candidate_rank": 0,
+      "stored_at": "2026-05-09T18:49:33+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\bnp-paribas\\2024\\manifest.json"
+    }
+  ]
+}

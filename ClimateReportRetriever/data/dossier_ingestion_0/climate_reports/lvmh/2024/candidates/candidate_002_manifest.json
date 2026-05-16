@@ -1,0 +1,45 @@
+{
+  "document_type": "climate_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 2,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbBGnfc4bHWjB6t_LVMH_RSE2024_FR_version_accessible.pdf",
+    "title": "aGbBGnfc4bHWjB6t_LVMH_RS...",
+    "snippet": "« Stratégie » § 3.2 – « L’association des parties prenantes » FORMATION ET TRANSMISSION DES SAVOIR‑FAIRE ◆ 216,3 millions d’euros investis pour la formation des collaborateurs ◆ Plus de 280 métiers dans la création, l’artisanat et l’expérience client ◆ + de 3 300 apprentis formés par l’Institut des Métiers d’Excellence, présent dans 8 pays (France, Suisse, Italie, Espagne, Japon, Allemagne, Chine et États-Unis) depuis sa création, en 2014 CAPITAL NATURE/NATUREL ◆ 20 matières naturelles stratégiques ◆ Programme d’engagement environnemental LIFE 360 ◆ Charte relative à l’approvisionnement responsable des matières premières animales ◆ Participation aux reportings SBT Nature et TNFD ◆ Trajectoire climat validée par la SBTi ANCRAGE TERRITORIAL ◆ Présence dans pays ◆ 119 ateliers de production et d’artisanat en France, 66 en Italie ◆ 6 307 boutiques dans le monde Un modèle de gestion des risques et de création de valeur Roadmap Talent Development Politique Fair Wages LIFE 360 Politique Diversité & Inclusion Charte Santé et Sécurité Politique Éthique et Compliance CONCEPTION ◆ Intégration de l’exigence de recyclabilité dans la conception ◆ Soutien à un écosystème innovant (Maison des Startups LVMH) ◆ Formation des équipes créatives à l’écoconception ◆ Directions artistiques internalisées CIRCULARITÉ ◆ Développement des métiers et services de réparation ◆ Gestion des déchets ◆ Développement de filières innovantes de revalorisation des matières au sein de LVMH Circularity ◆ Innovation pour créer des matières alternatives et durables VENTE ET EXPÉRIENCE CLIENT ◆ Mise en œuvre de l’affichage environnemental ◆ Certification du management environnemental des boutiques ◆ Partenariats exclusifs avec les bailleurs ◆ Réduction de l’empreinte environnementale des événements marketing et des actions publicitaires ◆ Développement de services de réparation en boutiques ◆ Communication responsable et inclusive dans les actions publicitaires et les événements ◆ Charte sur les conditions de travail des mannequins et leur bien-être APPROVISIONNEMENT ◆ Certification des filières d’approvisionnement selon les standards les plus robustes « chain of custody » ◆ Code de Conduite Fournisseurs",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 90.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés TCFD/CDP : ['sbti']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "classe documentaire : tcfd_cdp_disclosure"
+    ],
+    "negative_signals": [
+      "domaine non officiel : lvmh-com.cdn.prismic.io"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_score_90_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+    "sha256": "9cc1d783418da963215e66d87a39d2cd01cecdf6715a908aab839e14955a5d01",
+    "file_size_mb": 41.007,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_aGbBGnfc4bHWjB6t_LVMH_RSE2024_FR_version_accessible.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:17:18+00:00",
+    "storage_version": "climate_report_candidate_storage_v0"
+  }
+}

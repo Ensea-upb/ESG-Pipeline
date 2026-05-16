@@ -1,0 +1,942 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "evidence_count": 879,
+  "evidence_type_distribution": {
+    "section_heading": 35,
+    "paragraph": 481,
+    "table": 74,
+    "figure": 289
+  },
+  "evidence_by_section": {
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0001": 10,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0002": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0003": 49,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0004": 6,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0005": 3,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0006": 14,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0007": 6,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0008": 7,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0009": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0010": 9,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0011": 3,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0012": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0013": 3,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0014": 2,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0015": 1,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0016": 24,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0017": 16,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0018": 51,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0019": 111,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0020": 23,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0021": 27,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0022": 36,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0023": 16,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0024": 36,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0025": 110,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0026": 11,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0027": 10,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0028": 143,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0029": 5,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0030": 4,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0031": 22,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0032": 17,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0033": 76,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0034": 11,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0035": 13
+  },
+  "evidence_without_section_count": 1,
+  "evidence_review_required_count": 545,
+  "average_quote_length": 144.663254,
+  "median_quote_length": 52,
+  "short_evidence_count": 479,
+  "merged_evidence_count": 301,
+  "unmerged_evidence_count": 578,
+  "average_merged_blocks_count": 3.338877,
+  "evidence_share_by_section": {
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0001": 0.011377,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0002": 0.001138,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0003": 0.055745,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0004": 0.006826,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0005": 0.003413,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0006": 0.015927,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0007": 0.006826,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0008": 0.007964,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0009": 0.001138,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0010": 0.010239,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0011": 0.003413,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0012": 0.001138,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0013": 0.003413,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0014": 0.002275,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0015": 0.001138,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0016": 0.027304,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0017": 0.018203,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0018": 0.05802,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0019": 0.12628,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0020": 0.026166,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0021": 0.030717,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0022": 0.040956,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0023": 0.018203,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0024": 0.040956,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0025": 0.125142,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0026": 0.012514,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0027": 0.011377,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0028": 0.162685,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0029": 0.005688,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0030": 0.004551,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0031": 0.025028,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0032": 0.01934,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0033": 0.086462,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0034": 0.012514,
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0035": 0.01479
+  },
+  "sections_with_high_evidence_density": [],
+  "sections_with_front_matter_warning": [],
+  "sample_short_evidence": [
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000001",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "OUR GOVERNANCE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000002",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0002",
+      "page_number": 2,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000003",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE MANIFESTO 3"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000005",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0005",
+      "page_number": 8,
+      "quote": "IN THE SEMICONDUCTOR INDUSTRY"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000006",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0006",
+      "page_number": 9,
+      "quote": "A LOW-CARBON GAS PLATFORM IN TEXAS"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000007",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0007",
+      "page_number": 9,
+      "quote": "TO FOSTER AGILITY AND PERFORMANCE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000010",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0010",
+      "page_number": 10,
+      "quote": "IN PARTNERSHIP WITH TOTALENERGIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000011",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0011",
+      "page_number": 11,
+      "quote": "40% Americas Europe, Middle East & Africa"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000012",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0012",
+      "page_number": 11,
+      "quote": "ACTIVITIES AS A PERCENTAGE OF 2024 GROUP REVENUE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000013",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0013",
+      "page_number": 11,
+      "quote": "95% Gas & Services"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000014",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0014",
+      "page_number": 11,
+      "quote": "26% Large Industries"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000016",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0016",
+      "page_number": 12,
+      "quote": "BIODIVERSITY PRESERVATION"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000017",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0017",
+      "page_number": 13,
+      "quote": "IN HOME HEALTHCARE FOR OUR EMPLOYEES AND COMMUNITIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000018",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0018",
+      "page_number": 13,
+      "quote": "IN LOW- AND MIDDLE-INCOME COUNTRIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000019",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0019",
+      "page_number": 18,
+      "quote": "250 km maximum from the"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000020",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0020",
+      "page_number": 21,
+      "quote": "AN INNOVATION FOR SEMICONDUCTORS"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000021",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0021",
+      "page_number": 24,
+      "quote": "10Mt of CO 37Mt of CO"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000022",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0022",
+      "page_number": 26,
+      "quote": "850 million dollars to create a"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000023",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0023",
+      "page_number": 27,
+      "quote": "100% certified"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000024",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0024",
+      "page_number": 27,
+      "quote": "100% renewable electricity and energy 2 Reduction of our"
+    }
+  ],
+  "sample_merged_evidence": [
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000036",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Manifesto 03 Access the digital Joint interview: Benoît Potier, Chairman of the Board of Directors 04 version & François Jackow, Chief Executive Officer"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000037",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Sustainable development: our commitments and 2024 results 12 Joint Interview: Diana Schillag & Jérôme Pelletan, 14"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000040",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "OUR ADVANCES Interview with Annette Winkler, Director and Chairwoman 41 of Air Liquide's Environment and Society Committee Our major advances worldwide 23 The Board of Directors sets the strategic ori"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000041",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "to decarbonize European industry Making investment decisions 45 An investment project for low-carbon oxygen production 26 in the Americas Managing risk 46 ECO ORIGIN TM: a range of low-carbon industri"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000043",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Supporting the semiconductor industry while reducing 31 its environmental footprint Extra-financial ratings 52 Towards better management of sleep apnea in Italy 32 Financial statements 53 Access Oxyge"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000044",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "The mastery of small molecules essential to life, energy, and matter has great impacts for the world. The Air Liquide Group has been inventing the future since it was founded, supporting companies of "
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000045",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "As a catalyst for progress, we push the boundaries of science and technology to harness the limitless potential of oxygen, argon, hydrogen, and many other molecules. As a tech leader, we turn these mo"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000046",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "As a performing company, we seize new opportunities to stay on a path of profitable and responsible growth. This ambition is underpinned by our model of sustainable value creation, which is backed by "
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000047",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "In a rapidly changing world, Air Liquide’s business model is demonstrating its strength and resilience in response to the challenges of multiple transitions. At the cutting edge of technological innov"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000048",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "Benoît Potier, Chairman of the Board of Directors, and François Jackow, Chief Executive Officer of Air Liquide, share their"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000050",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "Benoît Potier: Geopolitical and economic fragmentation is redefining the global balance of power. We are witnessing a global clusterization, with the world operating increasingly through communities o"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000051",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "meet emerging needs. We integrate the very best 2025-2026, representing an unprecedented total liquefaction and distribution of low-carbon and technologies into our products to benefit our increase of"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000052",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "all with a market-driven approach. This is still the These sales figures are further proof of challenges of the energy transition and their key case, now more than ever! We are visionaries, Air Liquid"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000053",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "The Group’s recurring net profit 3 increased by dedication of our teams around the world. Every year, they push boundaries, innovate +11.5% and recurring ROCE is at +10.7%, and rise to new challenges,"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000054",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "Group’s growth and transformation. Now more than ever, we are continuing to prepare the future, with sources of growth fueled What can you tell us about your extra- by our record investment decisions "
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000055",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "Our ability to provide our customers with F.J.: Our extra-financial results are solid on all a carbon-neutral innovative products and services with a indicators of our ADVANCE plan. On safety, technol"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000056",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "Benoît Potier and GlobalFoundries in the United States, with 2020, confirming that we are ahead of Wanhua in China and Aurubis in Europe are schedule in achieving our inflection target by proof of the"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000057",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "François Jackow: I am extremely proud of platform for ExxonMobil in the United States common basis of care coverage, one year ahead the Group’s very solid financial performance. (which would be the Gr"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000058",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "It is all the more remarkable in a year marked in its history!) and major investment projects, Once again, this progress is the result of the by macroeconomic tensions and the Group’s working with Tot"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000059",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "operating margin of more than 110 basis support from the European Union, including more remarkable and meaningful, demonstrating points 1. Encouraged by this result, which was the D’Artagnan CO infras"
+    }
+  ],
+  "sample_section_mismatch_warnings": [],
+  "short_evidence_skipped_count": 1944,
+  "short_evidence_review_required_count": 126,
+  "suspicious_sections_count": 0,
+  "quarantined_evidence_count": 0,
+  "review_required_due_to_section_count": 1,
+  "evidence_policy_distribution": {
+    "normal": 878,
+    "review_required": 1
+  },
+  "evidence_by_section_policy": {
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0001": {
+      "normal": 10
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0002": {
+      "review_required": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0003": {
+      "normal": 49
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0004": {
+      "normal": 6
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0005": {
+      "normal": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0006": {
+      "normal": 14
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0007": {
+      "normal": 6
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0008": {
+      "normal": 7
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0009": {
+      "normal": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0010": {
+      "normal": 9
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0011": {
+      "normal": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0012": {
+      "normal": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0013": {
+      "normal": 3
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0014": {
+      "normal": 2
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0015": {
+      "normal": 1
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0016": {
+      "normal": 24
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0017": {
+      "normal": 16
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0018": {
+      "normal": 51
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0019": {
+      "normal": 111
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0020": {
+      "normal": 23
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0021": {
+      "normal": 27
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0022": {
+      "normal": 36
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0023": {
+      "normal": 16
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0024": {
+      "normal": 36
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0025": {
+      "normal": 110
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0026": {
+      "normal": 11
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0027": {
+      "normal": 10
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0028": {
+      "normal": 143
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0029": {
+      "normal": 5
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0030": {
+      "normal": 4
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0031": {
+      "normal": 22
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0032": {
+      "normal": 17
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0033": {
+      "normal": 76
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0034": {
+      "normal": 11
+    },
+    "canonical_6c97cfaaf78ce3c17defd70f_section_0035": {
+      "normal": 13
+    }
+  },
+  "suspicious_sections": [],
+  "sample_quarantined_evidence": [],
+  "sample_review_required_due_to_section": [
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000002",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0002",
+      "page_number": 2,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2"
+    }
+  ],
+  "sample_evidence": [
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000001",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "OUR GOVERNANCE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000002",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0002",
+      "page_number": 2,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000003",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE MANIFESTO 3"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000004",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0004",
+      "page_number": 8,
+      "quote": "TO AN UNPRECEDENTED LEVEL OFFICIAL HYDROGEN SUPPORTER OF PARIS 2024"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000005",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0005",
+      "page_number": 8,
+      "quote": "IN THE SEMICONDUCTOR INDUSTRY"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000006",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0006",
+      "page_number": 9,
+      "quote": "A LOW-CARBON GAS PLATFORM IN TEXAS"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000007",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0007",
+      "page_number": 9,
+      "quote": "TO FOSTER AGILITY AND PERFORMANCE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000008",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0008",
+      "page_number": 10,
+      "quote": "STOCKHOLM EXERGI ADOPTS CRYOCAPTM LQ CO₂ ELECTRIFICATION OF TWO OXYGEN MAJOR INVESTMENTS"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000009",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0009",
+      "page_number": 10,
+      "quote": "LIQUEFACTION TECHNOLOGY PRODUCTION UNITS IN CHINA TO SUPPORT EUROPEAN DECARBONIZATION"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000010",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0010",
+      "page_number": 10,
+      "quote": "IN PARTNERSHIP WITH TOTALENERGIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000011",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0011",
+      "page_number": 11,
+      "quote": "40% Americas Europe, Middle East & Africa"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000012",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0012",
+      "page_number": 11,
+      "quote": "ACTIVITIES AS A PERCENTAGE OF 2024 GROUP REVENUE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000013",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0013",
+      "page_number": 11,
+      "quote": "95% Gas & Services"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000014",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0014",
+      "page_number": 11,
+      "quote": "26% Large Industries"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000015",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0015",
+      "page_number": 11,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE AIR LIQUIDE IN FIGURES 11"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000016",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0016",
+      "page_number": 12,
+      "quote": "BIODIVERSITY PRESERVATION"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000017",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0017",
+      "page_number": 13,
+      "quote": "IN HOME HEALTHCARE FOR OUR EMPLOYEES AND COMMUNITIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000018",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0018",
+      "page_number": 13,
+      "quote": "IN LOW- AND MIDDLE-INCOME COUNTRIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000019",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0019",
+      "page_number": 18,
+      "quote": "250 km maximum from the"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000020",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0020",
+      "page_number": 21,
+      "quote": "AN INNOVATION FOR SEMICONDUCTORS"
+    }
+  ],
+  "sample_evidence_without_section": [
+    {
+      "evidence_id": "ev_fig_7b607ed599458cf6d6bf",
+      "evidence_type": "figure",
+      "section_id": null,
+      "page_number": 1,
+      "quote": "Figure detected on page 1"
+    }
+  ],
+  "sample_section_heading_evidence": [
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000001",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "OUR GOVERNANCE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000002",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0002",
+      "page_number": 2,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000003",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE MANIFESTO 3"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000004",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0004",
+      "page_number": 8,
+      "quote": "TO AN UNPRECEDENTED LEVEL OFFICIAL HYDROGEN SUPPORTER OF PARIS 2024"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000005",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0005",
+      "page_number": 8,
+      "quote": "IN THE SEMICONDUCTOR INDUSTRY"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000006",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0006",
+      "page_number": 9,
+      "quote": "A LOW-CARBON GAS PLATFORM IN TEXAS"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000007",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0007",
+      "page_number": 9,
+      "quote": "TO FOSTER AGILITY AND PERFORMANCE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000008",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0008",
+      "page_number": 10,
+      "quote": "STOCKHOLM EXERGI ADOPTS CRYOCAPTM LQ CO₂ ELECTRIFICATION OF TWO OXYGEN MAJOR INVESTMENTS"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000009",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0009",
+      "page_number": 10,
+      "quote": "LIQUEFACTION TECHNOLOGY PRODUCTION UNITS IN CHINA TO SUPPORT EUROPEAN DECARBONIZATION"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000010",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0010",
+      "page_number": 10,
+      "quote": "IN PARTNERSHIP WITH TOTALENERGIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000011",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0011",
+      "page_number": 11,
+      "quote": "40% Americas Europe, Middle East & Africa"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000012",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0012",
+      "page_number": 11,
+      "quote": "ACTIVITIES AS A PERCENTAGE OF 2024 GROUP REVENUE"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000013",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0013",
+      "page_number": 11,
+      "quote": "95% Gas & Services"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000014",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0014",
+      "page_number": 11,
+      "quote": "26% Large Industries"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000015",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0015",
+      "page_number": 11,
+      "quote": "INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE AIR LIQUIDE IN FIGURES 11"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000016",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0016",
+      "page_number": 12,
+      "quote": "BIODIVERSITY PRESERVATION"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000017",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0017",
+      "page_number": 13,
+      "quote": "IN HOME HEALTHCARE FOR OUR EMPLOYEES AND COMMUNITIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000018",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0018",
+      "page_number": 13,
+      "quote": "IN LOW- AND MIDDLE-INCOME COUNTRIES"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000019",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0019",
+      "page_number": 18,
+      "quote": "250 km maximum from the"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000020",
+      "evidence_type": "section_heading",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0020",
+      "page_number": 21,
+      "quote": "AN INNOVATION FOR SEMICONDUCTORS"
+    }
+  ],
+  "sample_paragraph_evidence": [
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000036",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Manifesto 03 Access the digital Joint interview: Benoît Potier, Chairman of the Board of Directors 04 version & François Jackow, Chief Executive Officer"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000037",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Sustainable development: our commitments and 2024 results 12 Joint Interview: Diana Schillag & Jérôme Pelletan, 14"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000038",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Our molecules, essential to industry and healthcare 17"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000039",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Innovation, driving our impact 20"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000040",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "OUR ADVANCES Interview with Annette Winkler, Director and Chairwoman 41 of Air Liquide's Environment and Society Committee Our major advances worldwide 23 The Board of Directors sets the strategic ori"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000041",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "to decarbonize European industry Making investment decisions 45 An investment project for low-carbon oxygen production 26 in the Americas Managing risk 46 ECO ORIGIN TM: a range of low-carbon industri"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000042",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Renewable and low-carbon hydrogen for TotalEnergies’ 30"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000043",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0001",
+      "page_number": 2,
+      "quote": "Supporting the semiconductor industry while reducing 31 its environmental footprint Extra-financial ratings 52 Towards better management of sleep apnea in Italy 32 Financial statements 53 Access Oxyge"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000044",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "The mastery of small molecules essential to life, energy, and matter has great impacts for the world. The Air Liquide Group has been inventing the future since it was founded, supporting companies of "
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000045",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "As a catalyst for progress, we push the boundaries of science and technology to harness the limitless potential of oxygen, argon, hydrogen, and many other molecules. As a tech leader, we turn these mo"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000046",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 3,
+      "quote": "As a performing company, we seize new opportunities to stay on a path of profitable and responsible growth. This ambition is underpinned by our model of sustainable value creation, which is backed by "
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000047",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "In a rapidly changing world, Air Liquide’s business model is demonstrating its strength and resilience in response to the challenges of multiple transitions. At the cutting edge of technological innov"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000048",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "Benoît Potier, Chairman of the Board of Directors, and François Jackow, Chief Executive Officer of Air Liquide, share their"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000049",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "environment influence Air Liquide’s"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000050",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 4,
+      "quote": "Benoît Potier: Geopolitical and economic fragmentation is redefining the global balance of power. We are witnessing a global clusterization, with the world operating increasingly through communities o"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000051",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "meet emerging needs. We integrate the very best 2025-2026, representing an unprecedented total liquefaction and distribution of low-carbon and technologies into our products to benefit our increase of"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000052",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "all with a market-driven approach. This is still the These sales figures are further proof of challenges of the energy transition and their key case, now more than ever! We are visionaries, Air Liquid"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000053",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "The Group’s recurring net profit 3 increased by dedication of our teams around the world. Every year, they push boundaries, innovate +11.5% and recurring ROCE is at +10.7%, and rise to new challenges,"
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000054",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "Group’s growth and transformation. Now more than ever, we are continuing to prepare the future, with sources of growth fueled What can you tell us about your extra- by our record investment decisions "
+    },
+    {
+      "evidence_id": "canonical_6c97cfaaf78ce3c17defd70f_evidence_000055",
+      "evidence_type": "paragraph",
+      "section_id": "canonical_6c97cfaaf78ce3c17defd70f_section_0003",
+      "page_number": 5,
+      "quote": "Our ability to provide our customers with F.J.: Our extra-financial results are solid on all a carbon-neutral innovative products and services with a indicators of our ADVANCE plan. On safety, technol"
+    }
+  ]
+}

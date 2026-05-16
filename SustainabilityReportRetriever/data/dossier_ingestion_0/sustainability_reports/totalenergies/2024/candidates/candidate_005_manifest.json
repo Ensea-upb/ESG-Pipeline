@@ -1,0 +1,45 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 5,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_document-enregistrement-universel-2023_2023_fr_pdf.pdf",
+    "title": "Document d'enregistrement universel 2023 (version PDF)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/fr/developpement-durable/notre-demarche/documentation-esg. Titre page : Documentation ESG | TotalEnergies.com. Texte du lien : Document d'enregistrement universel 2023 (version PDF).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles durabilité : ['esg', 'rse', 'développement durable', 'developpement durable']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux durabilité : [\"document d'enregistrement universel\", 'document d enregistrement universel']",
+      "classe documentaire : annual_report_with_sustainability_content"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_005_manifest.json",
+    "sha256": "58d7b226058c62e948734cdba87bdc8d2d2481a6ecbc97065a41cdb0c0695ea7",
+    "file_size_mb": 22.1127,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_document-enregistrement-universel-2023_2023_fr_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:45:24+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

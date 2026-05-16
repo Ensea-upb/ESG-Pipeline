@@ -1,0 +1,43 @@
+{
+  "document_type": "sbti_commitment_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 8,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://files.sciencebasedtargets.org/production/files/CNZS-V1.3.1-Method-Appendix.pdf",
+    "title": "Corporate Net-Zero Standard V1.3.1 Method Appendix",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sciencebasedtargets.org/net-zero. Titre page : The Corporate Net-Zero Standard - Science Based Targets Initiative. Texte du lien : Corporate Net-Zero Standard V1.3.1 Method Appendix.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 95.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts SBTi : ['science based targets', 'science-based targets', 'science based targets initiative']",
+      "mots-clés secondaires SBTi : ['sciencebasedtargets.org']",
+      "plateforme SBTi officielle : files.sciencebasedtargets.org",
+      "URL PDF directe",
+      "classe documentaire : sbti_commitment"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_008_score_95_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_008_manifest.json",
+    "sha256": "8b5dda203d109ab2d207db2deedda355a58e2ecc10a99d0401f9212346916513",
+    "file_size_mb": 0.5188,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_CNZS-V1.3.1-Method-Appendix.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:41:21+00:00",
+    "storage_version": "sbti_commitment_candidate_storage_v0"
+  }
+}

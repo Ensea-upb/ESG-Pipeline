@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_bc209621982ac719ff95c31c",
+  "sha256": "26f06f6aaddf1d510f3bf1b4fe947c4d369b95aa50510153ec9f107a628858e5",
+  "all_references": [
+    {
+      "document_id": "e81a14b391336db941d7e4ed",
+      "retriever_name": "InvestorPresentationRetriever",
+      "document_family": "investor_presentation",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://s201.q4cdn.com/793451358/files/doc_presentations/2024/discoverIE-2024-CMD-presentation-11-Sep-2024.pdf",
+      "source_title": "PowerPoint Presentation",
+      "source_name": "ddgs",
+      "score": 90,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_002_score_90_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 7.2499,
+      "document_type": "investor_presentation_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T20:43:55+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\InvestorPresentationRetriever\\data\\dossier_ingestion_0\\investor_presentations\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

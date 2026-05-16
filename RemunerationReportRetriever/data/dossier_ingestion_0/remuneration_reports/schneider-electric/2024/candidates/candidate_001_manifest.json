@@ -1,0 +1,44 @@
+{
+  "document_type": "remuneration_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.se.com/ww/fr/Images/Conseil_d_administration_du_7_novembre_2024%E2%80%93remuneration_d_olivier_Blum_tcm342-496809.pdf",
+    "title": "[PDF] Rémunération d'Olivier Blum - Schneider Electric",
+    "snippet": "Olivier Blum dont le mandat de. Directeur Général a débuté le 1er novembre 2024. Une politique de rémunération actualisée pour 2025 avec une",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés forts rémunération : ['politique de rémunération', 'politique de remuneration']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : se.com",
+      "URL PDF directe",
+      "classe documentaire : standalone_remuneration_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+    "sha256": "9fff4f49b1c77aeaac3521438ad34bd802764e3877ec4fd7b3c5a887948ddde0",
+    "file_size_mb": 0.152,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_Conseil_d_administration_du_7_novembre_2024_E2_80_93remuneration_d_olivier_Blum_tcm342-496809.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:47:32+00:00",
+    "storage_version": "remuneration_report_candidate_storage_v0"
+  }
+}

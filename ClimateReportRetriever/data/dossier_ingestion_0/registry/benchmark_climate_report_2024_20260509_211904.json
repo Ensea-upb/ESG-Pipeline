@@ -1,0 +1,225 @@
+{
+  "benchmark_name": "climate_report_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T21:19:04",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports climat / TCFD / transition terminée.",
+      "downloaded_count": 3,
+      "failed_count": 0,
+      "skipped_count": 2,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+          "score": 98.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_001_score_98_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "cb4f46a0de5e59d280ed6ce687ecc690a6dd8a1cda47d95767f080d72887ca42"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 3,
+          "title": "aGbBGnfc4bHWjB6t_LVMH_RS...",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbBGnfc4bHWjB6t_LVMH_RSE2024_FR_version_accessible.pdf",
+          "score": 90.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_score_90_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "9cc1d783418da963215e66d87a39d2cd01cecdf6715a908aab839e14955a5d01"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 4,
+          "title": "LVMH 2024 Universal Registration Document. - Prismic",
+          "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+          "score": 81.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_003_score_81_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "4e67ffaaae7f880fd24e837c30f10c08b0a087ca1b4314dade86e7b5d32c12cb"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "4 PDF(s) extraits de pages HTML ont été ignorés car leur score était inférieur à 80.0."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits de pages HTML hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 PDF(s) extraits de pages HTML ont été ignorés car leur année était trop éloignée de l'année cible 2024. Années acceptées : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports climat / TCFD / transition terminée.",
+      "downloaded_count": 4,
+      "failed_count": 0,
+      "skipped_count": 1,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] ASSESSMENT OF TOTALENERGIES' CLIMATE STRATEGY",
+          "url": "https://reclaimfinance.org/site/wp-content/uploads/2024/05/202404_Assessment-of-TotalEnergies-climate-strategy.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "047837ccb89b3da4a94ced2d32fa126014ac9f75da2933a2a3412338b7902df4"
+        },
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 3,
+          "title": "[PDF] Total Energies - Sustainability & Climate 2024 Progress Report",
+          "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+          "sha256": "65b02fcd781febf91dfc3c3ac4117cdeeb2c7af67ca847c366c2aebac9c390e3"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 4,
+          "title": "[PDF] TotalEnergies SDG REPORTING",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-08/totalenergies_SGD-reporting_2024_en_pdf.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "ebfaf0f9bf64f274739b49c7e0ba3279e2a988ea507d45c68347b4956194fa01"
+        },
+        {
+          "rank": 4,
+          "candidate_rank": 4,
+          "source_search_rank": 5,
+          "title": "[PDF] TotalEnergies SE",
+          "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/Totalenergies_AG2024-Reponses-aux-questions-ecrites_FR_PDF.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+          "sha256": "994f96dcaffcf4f0405f594c9436b926215a5c4d246e9b90a98e8192ecf4e386"
+        }
+      ],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": "?",
+          "title": "Candidats directs hors période cible",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "1 candidat(s) directs ont été ignorés car leur année était trop éloignée de l'année cible 2024. Années acceptées : 2024 et 2023."
+        }
+      ]
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats rapports climat / TCFD / transition terminée.",
+      "downloaded_count": 2,
+      "failed_count": 1,
+      "skipped_count": 2,
+      "downloaded": [
+        {
+          "rank": 1,
+          "candidate_rank": 1,
+          "source_search_rank": 1,
+          "title": "[PDF] Integrated report 2024 - Schneider Electric",
+          "url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+          "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349"
+        },
+        {
+          "rank": 3,
+          "candidate_rank": 3,
+          "source_search_rank": 3,
+          "title": "[PDF] 2023 Climate Report - Schneider Electric",
+          "url": "https://www.se.com/ww/en/assets/564/document/466151/2023-climate-report.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "local_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+          "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+          "sha256": "a479aa243964ca928068a8058a6577c51ef093611e5b342d1d5fbb8928c2632e"
+        }
+      ],
+      "failed": [
+        {
+          "rank": 2,
+          "candidate_rank": 2,
+          "source_search_rank": 2,
+          "title": "[PDF] Schneider Electric - CDP questionnaire - 2024",
+          "url": "https://www.se.com/ww/en/Images/Schneider%20Electric%20-%20CDP%20questionnaire%20-%202024_tcm564-516579.pdf",
+          "score": 100.0,
+          "decision": "auto_download",
+          "download_status": "blocked_or_forbidden",
+          "message": "Le serveur bloque certaines stratégies de téléchargement.",
+          "attempts": 5
+        }
+      ],
+      "skipped": [
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "Schneider Electric Net-Zero Commitment | Schneider Electric",
+          "url": "https://www.se.com/us/en/download/document/SE-Net-Zero-Commitment/",
+          "score": 92.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "What is the Task Force on Climate-Related Financial Disclosures ...",
+          "url": "https://perspectives.se.com/reporting-compliance/what-is-the-task-force-on-climate-related-financial-disclosures-tcfd-schneider-electric",
+          "score": 92.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée ou aucun PDF trouvé : success - 0 lien(s) PDF extrait(s)."
+        }
+      ]
+    }
+  ]
+}

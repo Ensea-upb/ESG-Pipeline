@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 38,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKm25m069VX135B_lvmh_questions_ecrites_va_18042024.usv_.pdf",
+    "title": "Answers to written questions",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/en/financial-calendar/2024-annual-general-meeting. Titre page : 2024 Annual General Meeting - LVMH. Texte du lien : Answers to written questions.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 83.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['annual general meeting']",
+      "mots-clés faibles : ['general meeting']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_038_score_83_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_038_manifest.json",
+    "sha256": "88cfbc49059818f657e92baf606444b702c639af066632748ac98acb3e4d1df5",
+    "file_size_mb": 7.1203,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZnKm25m069VX135B_lvmh_questions_ecrites_va_18042024.usv_.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:09+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

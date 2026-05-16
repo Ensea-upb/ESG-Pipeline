@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_4348f033133985f7bca9ae0d",
+  "sha256": "43e167d4fa066cf8d70c7face89ecb51059e2a0aee9da30674a12e2ae5676eb4",
+  "all_references": [
+    {
+      "document_id": "16975f1827b94d7d3788bb61",
+      "retriever_name": "HalfYearReportRetriever",
+      "document_family": "half_year_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.clariane.com/sites/default/files/2024-08/etats-financiers-semestriels-30-juin-2024.pdf",
+      "source_title": "RAPPORT FINANCIER",
+      "source_name": "ddgs",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\schneider-electric\\2024\\candidates\\candidate_005_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\schneider-electric\\2024\\candidates\\candidate_005_manifest.json",
+      "file_size_mb": 1.5298,
+      "document_type": "half_year_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 5,
+      "stored_at": "2026-05-09T20:44:09+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\HalfYearReportRetriever\\data\\dossier_ingestion_0\\half_year_reports\\schneider-electric\\2024\\candidates\\candidate_005_manifest.json"
+    }
+  ]
+}

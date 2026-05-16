@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_4c533a37fc0250f0d96994d0",
+  "sha256": "a05e0402777fc4dd5bffb0e5365b6161529d8430065adf3736905fda473d3a02",
+  "all_references": [
+    {
+      "document_id": "38c19542a8d2d70629f596b8",
+      "retriever_name": "RemunerationReportRetriever",
+      "document_family": "remuneration_report",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://www.se.com/ww/en/assets/564/document/235887/annual-report-governance-report-compensation-report.pdf",
+      "source_title": "[PDF] 2. Compensation Report - Schneider Electric",
+      "source_name": "tavily",
+      "score": 93,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_93_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 0.417,
+      "document_type": "remuneration_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T19:47:34+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

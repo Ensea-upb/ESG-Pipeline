@@ -1,0 +1,1464 @@
+# ESG Variable Semantic Catalog v1
+# 31 target variables for company x fiscal_year CSV dataset
+# Each variable defines retrieval queries, expected units, FP rejection patterns.
+
+# ───────────────────────────────────────────────────────────
+# ENVIRONMENTAL (7)
+# ───────────────────────────────────────────────────────────
+
+co2_emissions:
+  domain: environmental
+  expected_value_type: numeric
+  query_terms_en:
+    - Scope 1 emissions
+    - Scope 2 emissions
+    - Scope 3 emissions
+    - GHG emissions
+    - greenhouse gas emissions
+    - CO2 equivalent
+    - CO2e
+    - carbon emissions
+    - SF6 emissions
+  query_terms_fr:
+    - emissions de gaz a effet de serre
+    - emissions scope 1
+    - emissions scope 2
+    - emissions scope 3
+    - bilan carbone
+    - CO2e
+  positive_patterns:
+    - scope
+    - GHG
+    - CO2e
+    - emissions
+    - SF6
+    - greenhouse
+    - carbon
+    - tCO2
+    - ktCO2
+    - MtCO2
+  negative_patterns:
+    - ISO 50001
+    - ISO 14001
+    - section number
+    - footnote
+  expected_units:
+    - tCO2e
+    - ktCO2e
+    - MtCO2e
+    - tonnes CO2e
+    - metric tons CO2e
+    - tCO2
+    - ktCO2
+  forbidden_units:
+    - employees
+    - sites
+    - kWh
+    - MWh
+    - m3
+    - percent
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+    - 03_climate_report_tcfd_transition_plan
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+    - "^\\d{1,2}\\.\\d{1,2}$"
+    - "^\\d{1,3}$"
+  minimum_relevance_score: 0.10
+  extraction_notes: "SF6 leaks should be classified here, not water. Scope 3 upstream/downstream must both map here."
+
+carbon_intensity:
+  domain: environmental
+  expected_value_type: numeric
+  query_terms_en:
+    - carbon intensity
+    - GHG intensity
+    - CO2 intensity
+    - emissions per revenue
+    - emissions per unit
+    - carbon per ton
+  query_terms_fr:
+    - intensite carbone
+    - intensite GES
+    - emissions par unite
+  positive_patterns:
+    - intensity
+    - per revenue
+    - per ton
+    - per unit
+    - g CO2
+    - kgCO2
+    - tCO2 per
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - tCO2e/M€
+    - tCO2e/MEUR
+    - gCO2/kWh
+    - kgCO2/unit
+    - tCO2e per million
+    - MtCO2e per
+  forbidden_units:
+    - employees
+    - sites
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 03_climate_report_tcfd_transition_plan
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Ratio variable. Value is typically small decimal. Must have denominator unit."
+
+energy_consumption:
+  domain: environmental
+  expected_value_type: numeric
+  query_terms_en:
+    - energy consumption
+    - energy use
+    - energy intensity
+    - electricity consumption
+    - fuel consumption
+    - renewable energy
+    - total energy
+    - natural gas consumption
+  query_terms_fr:
+    - consommation d energie
+    - consommation electrique
+    - consommation de gaz
+    - energie renouvelable
+    - energie totale
+  positive_patterns:
+    - energy
+    - electricity
+    - kWh
+    - MWh
+    - GWh
+    - TWh
+    - fuel
+    - renewable
+    - natural gas
+  negative_patterns:
+    - ISO 50001
+    - ISO 14001
+    - employees
+    - section
+  expected_units:
+    - kWh
+    - MWh
+    - GWh
+    - TWh
+    - GJ
+    - TJ
+    - PJ
+    - MJ
+  forbidden_units:
+    - tCO2e
+    - MtCO2e
+    - employees
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+    - 03_climate_report_tcfd_transition_plan
+  structural_false_positive_patterns:
+    - "ISO 50001"
+    - "ISO 14001"
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "ISO 50001 and ISO 14001 are certification standards, not energy values."
+
+water_consumption:
+  domain: environmental
+  expected_value_type: numeric
+  query_terms_en:
+    - water withdrawal
+    - fresh water withdrawal
+    - water consumption
+    - water use
+    - freshwater
+    - water intensity
+    - water abstraction
+  query_terms_fr:
+    - consommation d eau
+    - prelevement d eau
+    - eau douce
+    - retrait eau
+  positive_patterns:
+    - water
+    - withdrawal
+    - consumption
+    - freshwater
+    - aquifer
+    - m3
+    - Mm3
+    - ML
+    - megaliter
+  negative_patterns:
+    - wastewater treatment
+    - ISO 14001
+    - ISO 50001
+    - section
+  expected_units:
+    - m3
+    - Mm3
+    - million m3
+    - cubic meters
+    - ML
+    - megalitres
+    - km3
+  forbidden_units:
+    - tCO2e
+    - MtCO2e
+    - employees
+    - sites
+    - ISO
+    - kWh
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+    - 03_climate_report_tcfd_transition_plan
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+    - "^\\d{1,2}\\.\\d{1,2}$"
+  minimum_relevance_score: 0.10
+  extraction_notes: "SF6 leaks must NOT map here. Water in m3/ML only."
+
+waste:
+  domain: environmental
+  expected_value_type: numeric
+  query_terms_en:
+    - waste generated
+    - hazardous waste
+    - non-hazardous waste
+    - waste recycled
+    - waste recovery
+    - waste disposal
+    - total waste
+  query_terms_fr:
+    - dechets generes
+    - dechets dangereux
+    - dechets non dangereux
+    - recyclage dechets
+    - valorisation dechets
+  positive_patterns:
+    - waste
+    - hazardous
+    - landfill
+    - recycled
+    - recovery
+    - tonnes
+    - metric tons
+  negative_patterns:
+    - ISO 14001
+    - section
+    - footnote
+  expected_units:
+    - tonnes
+    - metric tons
+    - kg
+    - t
+    - kt
+  forbidden_units:
+    - tCO2e
+    - MtCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Distinguish total waste from hazardous/non-hazardous subsets."
+
+biodiversity:
+  domain: environmental
+  expected_value_type: numeric_or_qualitative
+  query_terms_en:
+    - biodiversity
+    - ecosystem
+    - protected areas
+    - nature-positive
+    - species
+    - habitat
+    - deforestation
+    - land use
+  query_terms_fr:
+    - biodiversite
+    - ecosysteme
+    - zones protegees
+    - especes
+    - habitat naturel
+    - deforestation
+  positive_patterns:
+    - biodiversity
+    - ecosystem
+    - species
+    - habitat
+    - protected
+    - nature
+    - deforestation
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - ha
+    - hectares
+    - km2
+    - sites
+    - species
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Often qualitative. Accept commitment statements with context."
+
+fossil_exposure:
+  domain: environmental
+  expected_value_type: numeric_or_qualitative
+  query_terms_en:
+    - fossil fuel exposure
+    - coal revenue
+    - oil revenue
+    - gas revenue
+    - fossil fuel revenue
+    - stranded assets
+    - thermal coal
+    - unconventional oil
+  query_terms_fr:
+    - exposition aux combustibles fossiles
+    - chiffre d affaires charbon
+    - exposition charbon
+    - actifs echoues
+  positive_patterns:
+    - fossil
+    - coal
+    - oil sands
+    - stranded
+    - thermal coal
+    - unconventional
+    - Arctic
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - M€
+    - USD millions
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 03_climate_report_tcfd_transition_plan
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Revenue share from fossil activities. Often percentage."
+
+# ───────────────────────────────────────────────────────────
+# SOCIAL (6)
+# ───────────────────────────────────────────────────────────
+
+turnover:
+  domain: social
+  expected_value_type: numeric
+  query_terms_en:
+    - employee turnover
+    - staff turnover
+    - attrition rate
+    - voluntary turnover
+    - retention rate
+    - employee departures
+  query_terms_fr:
+    - taux de rotation du personnel
+    - taux d attrition
+    - departs volontaires
+    - taux de retention
+  positive_patterns:
+    - turnover
+    - attrition
+    - departures
+    - retention
+    - voluntary
+  negative_patterns:
+    - revenue turnover
+    - sales turnover
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - employees
+    - FTE
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Do NOT confuse with revenue/sales turnover. Context must mention employees/staff."
+
+diversity:
+  domain: social
+  expected_value_type: numeric
+  query_terms_en:
+    - gender diversity
+    - women in leadership
+    - female employees
+    - gender pay gap
+    - diversity ratio
+    - women on board
+    - inclusion
+    - equity
+  query_terms_fr:
+    - parite femmes hommes
+    - femmes dans management
+    - ecart de salaire
+    - diversite
+    - inclusion
+    - femmes au conseil
+  positive_patterns:
+    - women
+    - female
+    - gender
+    - diversity
+    - inclusion
+    - parity
+    - minorities
+  negative_patterns:
+    - ISO
+    - section
+    - footnote
+  expected_units:
+    - percent
+    - "%"
+    - employees
+    - FTE
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Gender split as % is most common. Board diversity often separate from overall."
+
+work_accidents:
+  domain: social
+  expected_value_type: numeric
+  query_terms_en:
+    - work accidents
+    - workplace injuries
+    - TRIR
+    - LTIR
+    - lost time injury
+    - frequency rate
+    - fatalities
+    - occupational accidents
+    - health and safety
+  query_terms_fr:
+    - accidents du travail
+    - taux de frequence
+    - taux de gravite
+    - incidents de securite
+    - deces au travail
+    - securite au travail
+  positive_patterns:
+    - accident
+    - injury
+    - TRIR
+    - LTIR
+    - fatality
+    - fatalities
+    - frequency rate
+    - lost time
+    - safety
+    - occupational
+  negative_patterns:
+    - ISO 45001
+    - ISO
+    - section
+  expected_units:
+    - rate
+    - per million hours
+    - per 1000 employees
+    - accidents
+    - percent
+    - "%"
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO 45001"
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Frequency rate (TRIR/LTIR) is the standard metric. ISO 45001 is a certification, not a value."
+
+human_capital:
+  domain: social
+  expected_value_type: numeric_or_qualitative
+  query_terms_en:
+    - employees
+    - workforce
+    - headcount
+    - training
+    - permanent contracts
+    - FTE
+    - full-time equivalent
+    - total employees
+    - training hours
+  query_terms_fr:
+    - salaries
+    - effectifs
+    - employes
+    - formation
+    - equivalent temps plein
+    - heures de formation
+  positive_patterns:
+    - employees
+    - workforce
+    - headcount
+    - FTE
+    - training
+    - permanent
+    - staff
+    - people
+  negative_patterns:
+    - ISO
+    - section
+    - page
+    - footnote
+  expected_units:
+    - employees
+    - people
+    - FTE
+    - hours
+    - days
+    - percent
+    - "%"
+  forbidden_units:
+    - tCO2e
+    - MtCO2e
+    - m3
+    - kWh
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+    - "^\\d{1,2}\\.\\d{1,2}$"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Headcount and training hours are both valid. FTE preferred over total headcount."
+
+supply_chain:
+  domain: social
+  expected_value_type: numeric_or_qualitative
+  query_terms_en:
+    - supply chain
+    - suppliers
+    - responsible procurement
+    - supplier audit
+    - supplier assessment
+    - third party
+    - vendor
+    - procurement
+  query_terms_fr:
+    - chaine d approvisionnement
+    - fournisseurs
+    - achats responsables
+    - audit fournisseurs
+    - evaluation fournisseurs
+  positive_patterns:
+    - supplier
+    - supply chain
+    - procurement
+    - vendor
+    - sourcing
+    - audit
+    - assessment
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - suppliers
+    - sites
+    - M€
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Often expressed as % of suppliers audited or % of spend covered."
+
+human_rights:
+  domain: social
+  expected_value_type: numeric_or_qualitative
+  query_terms_en:
+    - human rights
+    - forced labor
+    - child labor
+    - modern slavery
+    - due diligence
+    - human rights policy
+    - labor standards
+    - UNGC
+  query_terms_fr:
+    - droits humains
+    - travail force
+    - travail des enfants
+    - devoir de vigilance
+    - droits de l homme
+    - esclavage moderne
+  positive_patterns:
+    - human rights
+    - forced labor
+    - child labor
+    - modern slavery
+    - due diligence
+    - labor standards
+    - UNGC
+    - UN Global Compact
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - cases
+    - sites
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Often qualitative (policy existence). Quantitative: % of contracts with clause."
+
+# ───────────────────────────────────────────────────────────
+# GOVERNANCE (5)
+# ───────────────────────────────────────────────────────────
+
+board_independence:
+  domain: governance
+  expected_value_type: numeric
+  query_terms_en:
+    - board independence
+    - independent directors
+    - non-executive directors
+    - board composition
+    - independent board members
+  query_terms_fr:
+    - independance du conseil
+    - administrateurs independants
+    - composition du conseil d administration
+  positive_patterns:
+    - independent
+    - board
+    - director
+    - non-executive
+    - governance
+    - conseil d administration
+  negative_patterns:
+    - ISO
+    - section
+    - footnote
+  expected_units:
+    - percent
+    - "%"
+    - directors
+    - members
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 04_governance_proxy_agm_report
+    - 16_agm_minutes_resolutions
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Expressed as % of board or absolute number of independent directors."
+
+ceo_chairman_separation:
+  domain: governance
+  expected_value_type: qualitative
+  query_terms_en:
+    - CEO chairman separation
+    - separation of roles
+    - non-executive chairman
+    - combined CEO chairman
+    - dual role
+    - leadership structure
+  query_terms_fr:
+    - separation des fonctions
+    - PDG et president non cumules
+    - president non executif
+    - cumul des fonctions dirigeantes
+  positive_patterns:
+    - CEO
+    - chairman
+    - separation
+    - dual
+    - combined
+    - leadership structure
+    - president
+    - directeur general
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - "yes"
+    - "no"
+    - "separated"
+    - "combined"
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 04_governance_proxy_agm_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Binary qualitative. Check if CEO and Chairman are the same person."
+
+remuneration:
+  domain: governance
+  expected_value_type: numeric_or_qualitative
+  query_terms_en:
+    - CEO remuneration
+    - executive compensation
+    - pay ratio
+    - variable pay
+    - long-term incentive
+    - CEO pay
+    - total compensation
+    - remuneration policy
+  query_terms_fr:
+    - remuneration du dirigeant
+    - remuneration variable
+    - ratio de remuneration
+    - compensation executif
+    - politique de remuneration
+  positive_patterns:
+    - remuneration
+    - compensation
+    - salary
+    - bonus
+    - pay ratio
+    - incentive
+    - LTI
+    - STI
+    - CEO pay
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - "€"
+    - "EUR"
+    - "USD"
+    - "M€"
+    - percent
+    - "%"
+    - ratio
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 04_governance_proxy_agm_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "CEO total compensation or pay ratio CEO/median worker."
+
+shareholder_rights:
+  domain: governance
+  expected_value_type: qualitative
+  query_terms_en:
+    - shareholder rights
+    - voting rights
+    - double voting rights
+    - shareholder AGM
+    - capital structure
+    - minority shareholders
+  query_terms_fr:
+    - droits des actionnaires
+    - droits de vote double
+    - assemblee generale
+    - capital social
+    - actionnaires minoritaires
+  positive_patterns:
+    - shareholder
+    - voting
+    - rights
+    - AGM
+    - capital
+    - minority
+    - proxy
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - percent
+    - "%"
+    - shares
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 04_governance_proxy_agm_report
+    - 16_agm_minutes_resolutions
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Double voting rights, loyalty shares, voting cap are common governance features."
+
+transparency:
+  domain: governance
+  expected_value_type: qualitative
+  query_terms_en:
+    - transparency
+    - disclosure
+    - reporting framework
+    - GRI
+    - TCFD
+    - SASB
+    - CSRD
+    - integrated reporting
+    - external assurance
+  query_terms_fr:
+    - transparence
+    - communication
+    - cadre de reporting
+    - rapport integre
+    - assurance externe
+    - reporting ESG
+  positive_patterns:
+    - transparency
+    - disclosure
+    - GRI
+    - TCFD
+    - SASB
+    - CSRD
+    - assurance
+    - verified
+    - reporting
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - frameworks
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+    - 03_climate_report_tcfd_transition_plan
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Qualitative indicator. Presence of GRI/TCFD alignment or external assurance."
+
+# ───────────────────────────────────────────────────────────
+# CONTROVERSIES (6)
+# ───────────────────────────────────────────────────────────
+
+esg_scandals:
+  domain: controversy
+  expected_value_type: qualitative
+  query_terms_en:
+    - ESG scandal
+    - greenwashing
+    - controversy
+    - sustainability violation
+    - ESG allegation
+    - environmental violation
+  query_terms_fr:
+    - scandale ESG
+    - greenwashing
+    - controverse
+    - violation environnementale
+    - allegation ESG
+  positive_patterns:
+    - scandal
+    - controversy
+    - allegation
+    - violation
+    - greenwashing
+    - fine
+    - penalty
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - cases
+    - M€
+    - USD millions
+  forbidden_units:
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Typically qualitative disclosure. Look for risk factor disclosures."
+
+fraud:
+  domain: controversy
+  expected_value_type: qualitative
+  query_terms_en:
+    - fraud
+    - financial fraud
+    - accounting irregularities
+    - financial restatement
+    - embezzlement
+    - insider trading
+  query_terms_fr:
+    - fraude
+    - irregularites comptables
+    - retraitement financier
+    - detournement
+  positive_patterns:
+    - fraud
+    - embezzlement
+    - restatement
+    - irregularities
+    - insider
+    - manipulation
+  negative_patterns:
+    - anti-fraud policy
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - cases
+    - M€
+  forbidden_units:
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Distinguish actual incidents from anti-fraud programs."
+
+corruption:
+  domain: controversy
+  expected_value_type: qualitative
+  query_terms_en:
+    - corruption
+    - bribery
+    - anti-corruption
+    - FCPA
+    - UKBA
+    - anti-bribery
+    - corruption fines
+  query_terms_fr:
+    - corruption
+    - pot de vin
+    - anti-corruption
+    - lutte contre la corruption
+    - amende corruption
+  positive_patterns:
+    - corruption
+    - bribery
+    - FCPA
+    - UKBA
+    - anti-bribery
+    - fine
+    - penalty
+  negative_patterns:
+    - anti-corruption policy
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - cases
+    - M€
+    - USD millions
+  forbidden_units:
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "FCPA/UKBA violations and settlements are key signals."
+
+pollution:
+  domain: controversy
+  expected_value_type: qualitative
+  query_terms_en:
+    - pollution
+    - environmental fine
+    - spill
+    - contamination
+    - environmental liability
+    - remediation
+  query_terms_fr:
+    - pollution
+    - amende environnementale
+    - deversement
+    - contamination
+    - passif environnemental
+    - remediation
+  positive_patterns:
+    - pollution
+    - spill
+    - contamination
+    - remediation
+    - fine
+    - penalty
+    - liability
+  negative_patterns:
+    - pollution prevention
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - cases
+    - M€
+    - tonnes
+  forbidden_units:
+    - kWh
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Major spills or environmental incidents causing fines or remediation costs."
+
+lawsuits:
+  domain: controversy
+  expected_value_type: qualitative
+  query_terms_en:
+    - lawsuit
+    - litigation
+    - legal proceedings
+    - court case
+    - regulatory investigation
+    - claim
+    - legal dispute
+  query_terms_fr:
+    - proces
+    - contentieux
+    - procedure judiciaire
+    - enquete reglementaire
+    - litige
+    - reclamation juridique
+  positive_patterns:
+    - lawsuit
+    - litigation
+    - proceeding
+    - court
+    - investigation
+    - claim
+    - dispute
+    - settlement
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - cases
+    - M€
+    - USD millions
+  forbidden_units:
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Focus on material legal proceedings disclosed in risk factors."
+
+social_controversies:
+  domain: controversy
+  expected_value_type: qualitative
+  query_terms_en:
+    - social controversy
+    - labor dispute
+    - strike
+    - employee conflict
+    - human rights violation
+    - social allegation
+    - community conflict
+  query_terms_fr:
+    - controverse sociale
+    - conflit social
+    - greve
+    - conflit employes
+    - allegation droits humains
+  positive_patterns:
+    - strike
+    - labor dispute
+    - conflict
+    - allegation
+    - social controversy
+    - community
+    - protest
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - qualitative
+    - cases
+    - employees
+  forbidden_units:
+    - kWh
+    - m3
+    - tCO2e
+  preferred_doc_types:
+    - 01_urd_annual_report
+    - 02_sustainability_statement_csrd_esrs
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Significant labor or community conflicts affecting operations."
+
+# ───────────────────────────────────────────────────────────
+# FINANCIAL (7)
+# ───────────────────────────────────────────────────────────
+
+market_cap:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - market capitalization
+    - market cap
+    - stock market value
+    - equity value
+    - market value
+  query_terms_fr:
+    - capitalisation boursiere
+    - valeur de marche
+    - capitalisation en bourse
+  positive_patterns:
+    - market cap
+    - capitalization
+    - equity value
+    - share price
+    - stock
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - M€
+    - B€
+    - MEUR
+    - BEUR
+    - USD millions
+    - USD billions
+    - billion
+    - million
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Often disclosed as of year-end date."
+
+volatility:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - stock volatility
+    - beta
+    - price volatility
+    - return volatility
+    - historical volatility
+  query_terms_fr:
+    - volatilite
+    - beta action
+    - volatilite historique
+  positive_patterns:
+    - volatility
+    - beta
+    - standard deviation
+    - price fluctuation
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - ratio
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Beta or annualized volatility. May not be in ESG reports."
+
+leverage:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - leverage
+    - debt to equity
+    - gearing ratio
+    - net debt
+    - financial leverage
+    - debt ratio
+  query_terms_fr:
+    - levier financier
+    - ratio d endettement
+    - dette nette
+    - gearing
+  positive_patterns:
+    - leverage
+    - gearing
+    - net debt
+    - debt to equity
+    - D/E
+    - debt ratio
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - ratio
+    - percent
+    - "%"
+    - M€
+    - MEUR
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Net debt/EBITDA is common. Debt/Equity ratio also valid."
+
+roa:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - return on assets
+    - ROA
+    - asset profitability
+    - net income to assets
+  query_terms_fr:
+    - retour sur actifs
+    - ROA
+    - rentabilite des actifs
+  positive_patterns:
+    - ROA
+    - return on assets
+    - asset profitability
+    - net income
+    - total assets
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - ratio
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Net income / Total assets. Usually expressed as percentage."
+
+roe:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - return on equity
+    - ROE
+    - equity profitability
+    - return on shareholders equity
+  query_terms_fr:
+    - retour sur capitaux propres
+    - ROE
+    - rentabilite des capitaux propres
+  positive_patterns:
+    - ROE
+    - return on equity
+    - equity profitability
+    - net income
+    - shareholders equity
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - ratio
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Net income / Shareholders equity. Usually expressed as percentage."
+
+liquidity:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - liquidity ratio
+    - current ratio
+    - quick ratio
+    - cash and equivalents
+    - working capital
+    - liquidity position
+  query_terms_fr:
+    - ratio de liquidite
+    - ratio courant
+    - tresorerie
+    - actif circulant
+    - besoin en fonds de roulement
+  positive_patterns:
+    - liquidity
+    - current ratio
+    - quick ratio
+    - cash
+    - working capital
+    - BFR
+    - EBITDA
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - ratio
+    - M€
+    - MEUR
+    - percent
+    - "%"
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Current assets/current liabilities. Also cash position in absolute terms."
+
+stock_returns:
+  domain: financial
+  expected_value_type: numeric
+  query_terms_en:
+    - stock return
+    - total shareholder return
+    - TSR
+    - share performance
+    - stock performance
+    - annual return
+  query_terms_fr:
+    - rendement total de l actionnaire
+    - TSR
+    - performance de l action
+    - retour sur action
+  positive_patterns:
+    - TSR
+    - total shareholder return
+    - stock return
+    - share performance
+    - annual return
+    - yield
+  negative_patterns:
+    - ISO
+    - section
+  expected_units:
+    - percent
+    - "%"
+    - ratio
+  forbidden_units:
+    - tCO2e
+    - kWh
+    - m3
+    - employees
+  preferred_doc_types:
+    - 01_urd_annual_report
+  structural_false_positive_patterns:
+    - "ISO \\d{5}"
+  minimum_relevance_score: 0.10
+  extraction_notes: "Typically expressed as annual % change. TSR includes dividends."

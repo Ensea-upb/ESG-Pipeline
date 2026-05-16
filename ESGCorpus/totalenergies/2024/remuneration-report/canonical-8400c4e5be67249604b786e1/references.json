@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_8400c4e5be67249604b786e1",
+  "sha256": "2d8daae3c9f81be34bd568c751cc0e45269f45e214c9ad323681b4b1dbc6b295",
+  "all_references": [
+    {
+      "document_id": "492a9bf8187fb6b1093d6f48",
+      "retriever_name": "RemunerationReportRetriever",
+      "document_family": "remuneration_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/totalenergies_sdg-reporting-2024_2025.pdf",
+      "source_title": "[PDF] TotalEnergies SDG REPORTING",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 1.2217,
+      "document_type": "remuneration_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T19:46:58+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

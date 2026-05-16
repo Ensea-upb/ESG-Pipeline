@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_446893b809f2a09f53a8b273",
+  "sha256": "97d562b899055eeaddecc8808af1469c384bb62d77bab918702fdaecc5d17cc3",
+  "all_references": [
+    {
+      "document_id": "5684b0b2bac949188c5e8501",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://s29.q4cdn.com/769728925/files/doc_downloads/2024/01/23/HFS-Global-Anticorruption-Policy.pdf",
+      "source_title": "Microsoft Word - HFS Global Anticorruption Policy (8.30.23) FINAL",
+      "source_name": "ddgs",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.2736,
+      "document_type": "corporate_policy_anticorruption",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:55:37+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

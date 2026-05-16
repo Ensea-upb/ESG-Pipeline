@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_86ce4322e842d7d005753ab0",
+  "sha256": "9cc1d783418da963215e66d87a39d2cd01cecdf6715a908aab839e14955a5d01",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "climate_report",
+  "document_families_detected": [
+    "climate_report"
+  ],
+  "retrievers_detected": [
+    "ClimateReportRetriever"
+  ],
+  "canonical_source_title": "aGbBGnfc4bHWjB6t_LVMH_RS...",
+  "canonical_source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbBGnfc4bHWjB6t_LVMH_RSE2024_FR_version_accessible.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_002_score_90_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\climate-report\\canonical-86ce4322e842d7d005753ab0\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

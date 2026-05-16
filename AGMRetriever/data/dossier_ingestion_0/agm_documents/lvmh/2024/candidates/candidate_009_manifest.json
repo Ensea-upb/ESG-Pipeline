@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 9,
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKd55m069VX13xF_formulaire-doption-pour-le-convocation.pdf",
+    "title": "Formulaire d’option pour l’e-convocation",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://www.lvmh.com/fr/le-calendrier-des-evenements-financiers/assemblee-generale-2024. Titre page : Assemblée Générale 2024 - LVMH. Texte du lien : Formulaire d’option pour l’e-convocation.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 83.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "CDN / asset domain",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_009_score_83_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_009_manifest.json",
+    "sha256": "06cc343bbe92b12c7e2a413d3673bafb99515be1140741b0072f396dcdc64d48",
+    "file_size_mb": 0.2106,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_ZnKd55m069VX13xF_formulaire-doption-pour-le-convocation.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:48:45+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

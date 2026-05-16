@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_9c49add355c9b39b62d04d96",
+  "sha256": "db86f699776ee068551a1ee263dafdc1943a869b983fa7e8120238504cdb8a02",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "vigilance_plan",
+  "official_doc_type": "04_vigilance_plan",
+  "official_doc_type_label": "Vigilance plan",
+  "doc_type_stratum": "due_diligence",
+  "doc_subtype": "vigilance_plan",
+  "period_type": "annual",
+  "regulatory_status": "regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\vigilance-plan\\canonical-9c49add355c9b39b62d04d96\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\04_vigilance_plan\\canonical-9c49add355c9b39b62d04d96\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:07+00:00"
+}

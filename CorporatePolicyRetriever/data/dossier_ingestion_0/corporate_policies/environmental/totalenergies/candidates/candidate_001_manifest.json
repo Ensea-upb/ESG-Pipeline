@@ -1,0 +1,47 @@
+{
+  "document_type": "corporate_policy_environmental",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 1,
+  "policy_type": "environmental",
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "reference_year": 2024,
+  "period_type": "perpetual",
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+    "title": "TotalEnergies_DEU_2024_VF",
+    "snippet": "TotalEnergies est associée depuis 2005 au ministère des Armées dans le cadre d’une Convention de Soutien à la Politique de Réserve militaire. Cette convention a été renouvelée régulièrement, la dernière datant de mars 2022 pour une nouvelle période de cinq ans (2022-2027).",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires : ['energie']",
+      "mots-clés faibles : ['politique']",
+      "année récente détectée : 2022",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : generic_policy_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_manifest.json",
+    "sha256": "c65ec5c295536fd09cb15ccf7c6172f35215556f5d9b9f74f802a602d22b238d",
+    "file_size_mb": 16.1175,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_environmental_totalenergies_document-enregistrement-universel-2024_2025_fr.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:53:59+00:00",
+    "storage_version": "corporate_policy_candidate_storage_v0"
+  }
+}

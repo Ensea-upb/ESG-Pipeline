@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_db3cccf9254818b900f045ba",
+  "sha256": "0f019457e993d0a078f19b99aa7088198008eeecab7c079df58c48852e70ef37",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "cdp_response",
+  "official_doc_type": "17_cdp_response",
+  "official_doc_type_label": "CDP response",
+  "doc_type_stratum": "external_questionnaire",
+  "doc_subtype": "cdp_response",
+  "period_type": "annual",
+  "regulatory_status": "voluntary",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\cdp-response\\canonical-db3cccf9254818b900f045ba\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\17_cdp_response\\canonical-db3cccf9254818b900f045ba\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:02+00:00"
+}

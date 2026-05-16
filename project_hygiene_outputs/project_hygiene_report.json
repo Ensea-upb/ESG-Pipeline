@@ -1,0 +1,1876 @@
+{
+  "project_root": "C:\\Users\\hp\\Desktop\\ESG",
+  "git": {
+    "git_available": true,
+    "is_git_repository": false,
+    "git_status_available": false,
+    "git_status_message": "fatal: not a git repository (or any of the parent directories): .git"
+  },
+  "test_helpers": {
+    "helpers_py": [
+      "ESGExtractionOrchestrator/tests/helpers.py",
+      "ESGIndicatorDatabase/tests/helpers.py",
+      "ESGIndicatorValidation/tests/helpers.py",
+      "ESGManualReview/tests/helpers.py",
+      "ESGTableExtraction/tests/helpers.py",
+      "ESGVariableDatasetBuilder/tests/helpers.py",
+      "ESGVisualExtraction/tests/helpers.py"
+    ],
+    "from_helpers_imports": [],
+    "suspicious_absolute_imports": []
+  },
+  "python_caches": {
+    "__pycache__": [
+      ".pytest_tmp/final_global/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/final_global/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/final_global_cache/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/final_info/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/final_info/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/final_info/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/final_info/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/final_info/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/final_info/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/final_info/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/global_onyxia_audit/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/global_var_builder_final/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/info/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/info/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/info/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/info/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/info/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/info/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/info/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/info_tests/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/v02_global3/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/v02_global4/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/v02_info/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/v03_tests/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/v03_tests2/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/v05_info/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_cli_detects_multipl0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_cli_overwrite_rewri0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_cli_refuses_to_over0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_cli_writes_expected0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_csv_contains_expect0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_markdown_contains_t0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_batch_status_counts_and_s0/outputs/__pycache__",
+      ".pytest_tmp/validation_global/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      ".pytest_tmp/validation_quick/test_clean_python_artifacts_dr0/pkg/__pycache__",
+      "AGMRetriever/scripts/__pycache__",
+      "AGMRetriever/src/agm_retriever/__pycache__",
+      "AnnualReportRetriever/scripts/__pycache__",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__",
+      "AssuranceReportRetriever/scripts/__pycache__",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__",
+      "CDPResponseRetriever/scripts/__pycache__",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__",
+      "ClimateReportRetriever/scripts/__pycache__",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__",
+      "CorporatePolicyRetriever/scripts/__pycache__",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__",
+      "DocumentPostProcessing/scripts/__pycache__",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__",
+      "DocumentPostProcessing/tests/__pycache__",
+      "ESGCSVExtraction/__pycache__",
+      "ESGCSVExtraction/scripts/__pycache__",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__",
+      "ESGCSVExtraction/tests/__pycache__",
+      "ESGExtractionOrchestrator/__pycache__",
+      "ESGExtractionOrchestrator/scripts/__pycache__",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__",
+      "ESGExtractionOrchestrator/tests/__pycache__",
+      "ESGIndicatorDatabase/__pycache__",
+      "ESGIndicatorDatabase/scripts/__pycache__",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__",
+      "ESGIndicatorDatabase/tests/__pycache__",
+      "ESGIndicatorValidation/__pycache__",
+      "ESGIndicatorValidation/scripts/__pycache__",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__",
+      "ESGIndicatorValidation/tests/__pycache__",
+      "ESGInformationExtraction/__pycache__",
+      "ESGInformationExtraction/document_base/__pycache__",
+      "ESGInformationExtraction/evidence/__pycache__",
+      "ESGInformationExtraction/extraction/__pycache__",
+      "ESGInformationExtraction/parsing/__pycache__",
+      "ESGInformationExtraction/quality_control/__pycache__",
+      "ESGInformationExtraction/schemas/__pycache__",
+      "ESGInformationExtraction/section_detection/__pycache__",
+      "ESGInformationExtraction/tests/__pycache__",
+      "ESGInformationExtraction/tools/__pycache__",
+      "ESGManualReview/__pycache__",
+      "ESGManualReview/scripts/__pycache__",
+      "ESGManualReview/src/esg_manual_review/__pycache__",
+      "ESGManualReview/tests/__pycache__",
+      "ESGOrchestrator/scripts/__pycache__",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__",
+      "ESGOrchestrator/tests/__pycache__",
+      "ESGProductionControlCenter/__pycache__",
+      "ESGProductionControlCenter/scripts/__pycache__",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__",
+      "ESGProductionControlCenter/tests/__pycache__",
+      "ESGTableExtraction/__pycache__",
+      "ESGTableExtraction/scripts/__pycache__",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__",
+      "ESGTableExtraction/tests/__pycache__",
+      "ESGVariableDatasetBuilder/__pycache__",
+      "ESGVariableDatasetBuilder/scripts/__pycache__",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__",
+      "ESGVariableDatasetBuilder/tests/__pycache__",
+      "ESGVisualExtraction/__pycache__",
+      "ESGVisualExtraction/scripts/__pycache__",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__",
+      "ESGVisualExtraction/tests/__pycache__",
+      "EarningsCallRetriever/scripts/__pycache__",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__",
+      "HalfYearReportRetriever/scripts/__pycache__",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__",
+      "InvestorPresentationRetriever/scripts/__pycache__",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__",
+      "SBTiRetriever/scripts/__pycache__",
+      "SBTiRetriever/src/sbti_retriever/__pycache__",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__",
+      "VigilancePlanRetriever/scripts/__pycache__",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__",
+      "__pycache__",
+      "scripts/__pycache__",
+      "tests/project_hygiene/__pycache__",
+      "tools/__pycache__"
+    ],
+    ".pytest_cache": [
+      ".pytest_cache"
+    ],
+    ".pytest_tmp": [
+      ".pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_global_cache/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/final_info/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_onyxia_audit/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/global_var_builder_final/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/info/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/info_tests/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_4dac2e40-90c2-4af7-826e-c7a4a70504e4/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_table_aa18d8f8-280e-4b6c-9470-62681d47bd4b/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_after_visual_28bb5f79-2e23-4bee-bae1-348f6c84a931/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_final_table_8fee517d-f344-4ddc-8ecd-a144eddbcc91/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/pytest_info_orch_final_2ff5c486-3805-45d2-a7e6-b4d813c95135/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global3/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_global4/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/v02_info/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/v05_info/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_ESGInformationExtraction/test_batch_status_counts_and_s0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_cli_detects_multipl0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_cli_overwrite_rewri0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_cli_refuses_to_over0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_cli_writes_expected0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_csv_contains_expect0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_markdown_contains_t0/outputs/.pytest_tmp",
+      ".pytest_tmp/validation_global/test_batch_status_counts_and_s0/outputs/.pytest_tmp"
+    ],
+    "pyc_files": [
+      ".pytest_tmp/final_global/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/final_global_cache/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/global_onyxia_audit/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/global_var_builder/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/global_var_builder_final/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/v03_tests/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/v03_tests2/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/validation_global/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      ".pytest_tmp/validation_quick/test_clean_python_artifacts_dr0/pkg/__pycache__/module.pyc",
+      "AGMRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/__init__.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/downloader.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/models.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/retriever.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/scorer.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/search.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/storage.cpython-313.pyc",
+      "AGMRetriever/src/agm_retriever/__pycache__/utils.cpython-313.pyc",
+      "AnnualReportRetriever/scripts/__pycache__/run_benchmark.cpython-313.pyc",
+      "AnnualReportRetriever/scripts/__pycache__/run_download.cpython-313.pyc",
+      "AnnualReportRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/models.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/search.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "AnnualReportRetriever/src/annual_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "AssuranceReportRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/models.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/search.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "AssuranceReportRetriever/src/assurance_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "CDPResponseRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/__init__.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/downloader.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/models.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/retriever.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/scorer.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/search.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/storage.cpython-313.pyc",
+      "CDPResponseRetriever/src/cdp_response_retriever/__pycache__/utils.cpython-313.pyc",
+      "ClimateReportRetriever/scripts/__pycache__/run_benchmark.cpython-313.pyc",
+      "ClimateReportRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/models.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/search.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "ClimateReportRetriever/src/climate_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "CorporatePolicyRetriever/scripts/__pycache__/run_benchmark.cpython-313.pyc",
+      "CorporatePolicyRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/__init__.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/downloader.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/models.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/retriever.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/scorer.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/search.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/storage.cpython-313.pyc",
+      "CorporatePolicyRetriever/src/corporate_policy_retriever/__pycache__/utils.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/audit_selected_documents.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/build_canonical_registry.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/build_registry.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/inspect_duplicates.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/inspect_selection_results.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/organize_corpus.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/organize_corpus_taxonomy.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/run_deduplication.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/run_validation.cpython-313.pyc",
+      "DocumentPostProcessing/scripts/__pycache__/select_final_documents.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/__init__.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/canonical_registry.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/corpus_organizer.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/deduplicator.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/document_selector.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/models.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/registry_builder.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/scope.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/taxonomy_corpus_organizer.cpython-313.pyc",
+      "DocumentPostProcessing/src/document_postprocessing/__pycache__/validator.cpython-313.pyc",
+      "DocumentPostProcessing/tests/__pycache__/test_quality_audit_v2.cpython-313-pytest-9.0.3.pyc",
+      "DocumentPostProcessing/tests/__pycache__/test_quality_audit_v2.cpython-313.pyc",
+      "ESGCSVExtraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGCSVExtraction/scripts/__pycache__/run_csv_extraction.cpython-313.pyc",
+      "ESGCSVExtraction/scripts/__pycache__/run_multi_document_audit.cpython-313.pyc",
+      "ESGCSVExtraction/scripts/__pycache__/validate_csv_outputs.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/audit.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/contract.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/extractor.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/multi_document_audit.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/typed_csv_exporter.cpython-313.pyc",
+      "ESGCSVExtraction/src/esg_csv_extraction/__pycache__/validators.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_boundary_methodology_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_boundary_methodology_v08.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_csv_contract_v09.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_csv_contract_v09.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_csv_extraction_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_csv_extraction_v01.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_multi_document_audit_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_multi_document_audit_v03.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_observed_metrics_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_observed_metrics_v05.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_policies_risks_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_policies_risks_v07.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_release_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_release_v10.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_targets_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_targets_v06.cpython-313.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_typed_csv_outputs_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGCSVExtraction/tests/__pycache__/test_typed_csv_outputs_v04.cpython-313.pyc",
+      "ESGExtractionOrchestrator/__pycache__/__init__.cpython-313.pyc",
+      "ESGExtractionOrchestrator/scripts/__pycache__/run_full_extraction.cpython-313.pyc",
+      "ESGExtractionOrchestrator/scripts/__pycache__/run_multi_document_full_extraction.cpython-313.pyc",
+      "ESGExtractionOrchestrator/scripts/__pycache__/validate_full_extraction_outputs.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/__init__.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/audit.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/candidate_consolidator.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/contract.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/io_utils.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/multi_document.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/output_collector.cpython-313.pyc",
+      "ESGExtractionOrchestrator/src/esg_extraction_orchestrator/__pycache__/runner.cpython-313.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/test_full_orchestrator_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/test_full_orchestrator_v10.cpython-313.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/test_full_orchestrator_v11.cpython-313-pytest-9.0.3.pyc",
+      "ESGExtractionOrchestrator/tests/__pycache__/test_full_orchestrator_v11.cpython-313.pyc",
+      "ESGIndicatorDatabase/__pycache__/__init__.cpython-313.pyc",
+      "ESGIndicatorDatabase/scripts/__pycache__/build_indicator_database.cpython-313.pyc",
+      "ESGIndicatorDatabase/scripts/__pycache__/run_multi_document_indicator_database.cpython-313.pyc",
+      "ESGIndicatorDatabase/scripts/__pycache__/validate_indicator_database_outputs.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/__init__.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/audit.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/contract.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/database_builder.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/evidence_linker.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/io_utils.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/lineage.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/loader.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/multi_document_audit.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/schema_mapper.cpython-313.pyc",
+      "ESGIndicatorDatabase/src/esg_indicator_database/__pycache__/validators.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_audit_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_audit_v06.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_builder_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_builder_v02.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_contract_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_contract_v07.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_loader_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_loader_v01.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_multi_document_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_multi_document_v08.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_release_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_database_release_v10.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_evidence_links_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_evidence_links_v04.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_lineage_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_lineage_v05.cpython-313.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_schema_mapping_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorDatabase/tests/__pycache__/test_indicator_schema_mapping_v03.cpython-313.pyc",
+      "ESGIndicatorValidation/__pycache__/__init__.cpython-313.pyc",
+      "ESGIndicatorValidation/scripts/__pycache__/run_indicator_validation.cpython-313.pyc",
+      "ESGIndicatorValidation/scripts/__pycache__/run_multi_document_indicator_validation.cpython-313.pyc",
+      "ESGIndicatorValidation/scripts/__pycache__/validate_indicator_validation_outputs.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/__init__.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/audit.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/contract.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/deduplicator.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/family_mapper.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/io_utils.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/loader.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/multi_document_audit.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/normalizer.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/prevalidator.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/review_queue.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/status_rules.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/validator.cpython-313.pyc",
+      "ESGIndicatorValidation/src/esg_indicator_validation/__pycache__/validators.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_audit_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_audit_v07.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_contract_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_contract_v08.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_dedup_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_dedup_v05.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_family_mapping_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_family_mapping_v04.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_loader_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_loader_v01.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_multi_document_v09.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_multi_document_v09.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_normalization_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_normalization_v03.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_release_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_release_v10.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_review_queue_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_review_queue_v06.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_status_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_status_v02.cpython-313.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGIndicatorValidation/tests/__pycache__/test_indicator_validation_v01.cpython-313.pyc",
+      "ESGInformationExtraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/__pycache__/run_pdf_extraction.cpython-313.pyc",
+      "ESGInformationExtraction/document_base/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/document_base/__pycache__/build_document_base.cpython-313.pyc",
+      "ESGInformationExtraction/evidence/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/evidence/__pycache__/evidence_store.cpython-313.pyc",
+      "ESGInformationExtraction/extraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/extraction/__pycache__/metric_candidate_extractor.cpython-313.pyc",
+      "ESGInformationExtraction/extraction/__pycache__/unit_normalizer.cpython-313.pyc",
+      "ESGInformationExtraction/parsing/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/parsing/__pycache__/page_index_builder.cpython-313.pyc",
+      "ESGInformationExtraction/parsing/__pycache__/pdf_text_parser.cpython-313.pyc",
+      "ESGInformationExtraction/quality_control/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/quality_control/__pycache__/quality_checks.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/document_record.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/evidence_record.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/metric_record.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/page_record.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/quality_check_record.cpython-313.pyc",
+      "ESGInformationExtraction/schemas/__pycache__/section_record.cpython-313.pyc",
+      "ESGInformationExtraction/section_detection/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/section_detection/__pycache__/heading_detector.cpython-313.pyc",
+      "ESGInformationExtraction/section_detection/__pycache__/section_index_builder.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_architecture_docs_v15.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_architecture_docs_v15.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_architecture_hygiene_v15.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_architecture_hygiene_v15.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_batch_compatibility_v12.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_batch_compatibility_v12.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_batch_execution_checklist_v14.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_batch_execution_checklist_v14.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_batch_remediation_v13.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_batch_remediation_v13.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_config_usage_documentation_v15.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_config_usage_documentation_v15.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_document_audit_cli_v09.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_document_audit_cli_v09.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_document_audit_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_document_audit_v08.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_evidence_policy_contract_v051.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_evidence_policy_contract_v051.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_jsonl_validity.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_jsonl_validity.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_multimodal_inventory_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_multimodal_inventory_v07.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_non_destructive_behavior.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_non_destructive_behavior.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_compatibility_v11.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_compatibility_v11.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_contract_notes_v15.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_contract_notes_v15.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_contract_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_contract_v10.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_contracts.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_output_contracts.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_overwrite_behavior.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_overwrite_behavior.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_block_classification_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_block_classification_v02.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_block_classification_v021.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_block_classification_v021.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_diagnostics_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_diagnostics_v01.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_evidence_store_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_evidence_store_v04.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_evidence_store_v041.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_evidence_store_v041.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_evidence_store_v042.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_evidence_store_v042.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_figure_detection_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_figure_detection_v06.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_figure_detection_v061.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_figure_detection_v061.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_section_detection_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_section_detection_v03.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_section_detection_v031.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_section_detection_v031.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_section_detection_v032.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_section_detection_v032.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_table_extraction_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_table_extraction_v05.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_table_quality_v052.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_pdf_table_quality_v052.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_quality_report.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_quality_report.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_real_output_schema_alignment_v15.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_real_output_schema_alignment_v15.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_run_pdf_extraction_cli.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_run_pdf_extraction_cli.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_schema_evidence_alignment_v15.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_schema_evidence_alignment_v15.cpython-313.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_schemas.cpython-313-pytest-9.0.3.pyc",
+      "ESGInformationExtraction/tests/__pycache__/test_schemas.cpython-313.pyc",
+      "ESGInformationExtraction/tools/__pycache__/audit_engine_architecture.cpython-313.pyc",
+      "ESGInformationExtraction/tools/__pycache__/audit_text_blocks.cpython-313.pyc",
+      "ESGInformationExtraction/tools/__pycache__/batch_check_outputs.cpython-313.pyc",
+      "ESGInformationExtraction/tools/__pycache__/check_output_compatibility.cpython-313.pyc",
+      "ESGInformationExtraction/tools/__pycache__/run_document_audit.cpython-313.pyc",
+      "ESGInformationExtraction/tools/__pycache__/validate_output_contract.cpython-313.pyc",
+      "ESGManualReview/__pycache__/__init__.cpython-313.pyc",
+      "ESGManualReview/scripts/__pycache__/apply_review_decisions.cpython-313.pyc",
+      "ESGManualReview/scripts/__pycache__/build_review_workspace.cpython-313.pyc",
+      "ESGManualReview/scripts/__pycache__/run_multi_document_manual_review_audit.cpython-313.pyc",
+      "ESGManualReview/scripts/__pycache__/validate_manual_review_outputs.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/__init__.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/audit.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/contract.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/decision_applier.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/decision_schema.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/io_utils.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/loader.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/multi_document_audit.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/review_rules.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/review_workspace.cpython-313.pyc",
+      "ESGManualReview/src/esg_manual_review/__pycache__/validators.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_apply_review_decisions_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_apply_review_decisions_v04.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_decision_template_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_decision_template_v03.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_audit_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_audit_v05.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_contract_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_contract_v06.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_loader_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_loader_v01.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_multi_document_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_multi_document_v07.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_release_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_manual_review_release_v10.cpython-313.pyc",
+      "ESGManualReview/tests/__pycache__/test_review_workspace_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGManualReview/tests/__pycache__/test_review_workspace_v02.cpython-313.pyc",
+      "ESGOrchestrator/scripts/__pycache__/build_coverage_report.cpython-313.pyc",
+      "ESGOrchestrator/scripts/__pycache__/run_pilot.cpython-313.pyc",
+      "ESGOrchestrator/scripts/__pycache__/run_pipeline.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/__init__.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/company_universe.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/models.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/pipeline_orchestrator.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/postprocessing_runner.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/reporting.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/retriever_runner.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/run_state.cpython-313.pyc",
+      "ESGOrchestrator/src/esg_orchestrator/__pycache__/task_builder.cpython-313.pyc",
+      "ESGOrchestrator/tests/__pycache__/test_postprocessing_runner_quality_audit.cpython-313-pytest-9.0.3.pyc",
+      "ESGOrchestrator/tests/__pycache__/test_postprocessing_runner_quality_audit.cpython-313.pyc",
+      "ESGProductionControlCenter/__pycache__/__init__.cpython-313.pyc",
+      "ESGProductionControlCenter/__pycache__/app.cpython-313.pyc",
+      "ESGProductionControlCenter/scripts/__pycache__/create_demo_workspace.cpython-313.pyc",
+      "ESGProductionControlCenter/scripts/__pycache__/run_control_center.cpython-313.pyc",
+      "ESGProductionControlCenter/scripts/__pycache__/run_multi_document_control_center.cpython-313.pyc",
+      "ESGProductionControlCenter/scripts/__pycache__/validate_control_center_outputs.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/__init__.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/audit.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/business_document_selector.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/business_labels.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/business_progress.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/business_report.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/business_results.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/command_builder.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/command_runner.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/config.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/contract.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/contract_checker.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/csv_viewer.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/dashboard_data.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/demo_data.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/indicator_database_viewer.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/module_registry.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/output_discovery.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/pipeline_control.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/review_editor.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/run_state.cpython-313.pyc",
+      "ESGProductionControlCenter/src/esg_production_control_center/__pycache__/validators.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_batch_control_v09.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_batch_control_v09.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_business_ui_v11.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_business_ui_v11.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_command_builder_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_command_builder_v02.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_command_runner_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_command_runner_v03.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_contract_checker_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_contract_checker_v05.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_control_center_contract_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_control_center_contract_v10.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_dashboard_data_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_dashboard_data_v06.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_demo_mode_v12.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_demo_mode_v12.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_output_discovery_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_output_discovery_v01.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_pipeline_control_v11.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_pipeline_control_v11.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_review_editor_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_review_editor_v07.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_run_state_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_run_state_v04.cpython-313.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_streamlit_app_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGProductionControlCenter/tests/__pycache__/test_streamlit_app_v08.cpython-313.pyc",
+      "ESGTableExtraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGTableExtraction/scripts/__pycache__/run_multi_document_table_audit.cpython-313.pyc",
+      "ESGTableExtraction/scripts/__pycache__/run_table_extraction.cpython-313.pyc",
+      "ESGTableExtraction/scripts/__pycache__/validate_table_outputs.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/audit.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/candidate_extractor.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/contract.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/io_utils.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/loader.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/metric_classifier.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/multi_document_audit.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/reconstructor.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/structure_detector.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/typed_csv_exporter.cpython-313.pyc",
+      "ESGTableExtraction/src/esg_table_extraction/__pycache__/validators.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_audit_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_audit_v06.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_candidate_extraction_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_candidate_extraction_v05.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_contract_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_contract_v08.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_loader_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_loader_v01.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_metric_classification_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_metric_classification_v04.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_multi_document_v09.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_multi_document_v09.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_reconstruction_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_reconstruction_v02.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_release_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_release_v10.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_structure_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_structure_v03.cpython-313.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_typed_csv_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGTableExtraction/tests/__pycache__/test_table_typed_csv_v07.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/__pycache__/__init__.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/scripts/__pycache__/build_esg_variables_dataset.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/scripts/__pycache__/run_multi_company_year_dataset.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/scripts/__pycache__/validate_esg_variables_dataset.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/__init__.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/company_year_resolver.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/config.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/contract.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/dataset_builder.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/evidence_builder.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/input_discovery.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/io_utils.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/multi_company_year.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/preparation_loader.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/quality_report.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/status_resolver.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/validators.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/value_selector.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/variable_dictionary.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/src/esg_variable_dataset_builder/__pycache__/variable_mapper.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_contract_v09.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_contract_v09.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_corrected_value_priority_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_corrected_value_priority_v05.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_dataset_builder_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_dataset_builder_v06.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_evidence_outputs_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_evidence_outputs_v07.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_input_discovery_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_input_discovery_v02.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_multi_company_year_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_multi_company_year_v10.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_preparation_loader_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_preparation_loader_v03.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_quality_report_v08.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_quality_report_v08.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_value_selection_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_value_selection_v05.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_variable_dictionary_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_variable_dictionary_v01.cpython-313.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_variable_mapping_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGVariableDatasetBuilder/tests/__pycache__/test_variable_mapping_v04.cpython-313.pyc",
+      "ESGVisualExtraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGVisualExtraction/scripts/__pycache__/run_visual_extraction.cpython-313.pyc",
+      "ESGVisualExtraction/scripts/__pycache__/validate_visual_outputs.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/__init__.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/audit.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/candidate_extractor.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/classifier.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/contract.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/cropper.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/loader.cpython-313.pyc",
+      "ESGVisualExtraction/src/esg_visual_extraction/__pycache__/ocr.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/__init__.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/conftest.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/conftest.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/helpers.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_audit_v06.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_audit_v06.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_candidates_v05.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_candidates_v05.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_classifier_v04.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_classifier_v04.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_contract_v07.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_contract_v07.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_cropper_v02.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_cropper_v02.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_loader_v01.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_loader_v01.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_ocr_v03.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_ocr_v03.cpython-313.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_release_v10.cpython-313-pytest-9.0.3.pyc",
+      "ESGVisualExtraction/tests/__pycache__/test_visual_release_v10.cpython-313.pyc",
+      "EarningsCallRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/__init__.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/downloader.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/models.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/retriever.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/scorer.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/search.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/storage.cpython-313.pyc",
+      "EarningsCallRetriever/src/earnings_call_retriever/__pycache__/utils.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/models.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/search.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "GovernanceReportRetriever/src/governance_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "HalfYearReportRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/models.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/search.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "HalfYearReportRetriever/src/half_year_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "InvestorPresentationRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/__init__.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/downloader.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/models.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/retriever.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/scorer.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/search.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/storage.cpython-313.pyc",
+      "InvestorPresentationRetriever/src/investor_presentation_retriever/__pycache__/utils.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/models.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/search.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "RemunerationReportRetriever/src/remuneration_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "SBTiRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/__init__.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/downloader.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/models.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/retriever.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/scorer.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/search.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/storage.cpython-313.pyc",
+      "SBTiRetriever/src/sbti_retriever/__pycache__/utils.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/__init__.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/downloader.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/models.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/retriever.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/scorer.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/search.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/storage.cpython-313.pyc",
+      "SustainabilityReportRetriever/src/sustainability_report_retriever/__pycache__/utils.cpython-313.pyc",
+      "VigilancePlanRetriever/scripts/__pycache__/run_benchmark.cpython-313.pyc",
+      "VigilancePlanRetriever/scripts/__pycache__/run_download_all.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/__init__.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/downloader.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/html_resolver.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/models.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/retriever.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/scorer.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/search.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/storage.cpython-313.pyc",
+      "VigilancePlanRetriever/src/vigilance_plan_retriever/__pycache__/utils.cpython-313.pyc",
+      "__pycache__/run_extraction_test.cpython-313-pytest-9.0.3.pyc",
+      "__pycache__/run_extraction_test.cpython-313.pyc",
+      "scripts/__pycache__/audit_esg_run.cpython-313.pyc",
+      "tests/project_hygiene/__pycache__/test_clean_python_artifacts.cpython-313-pytest-9.0.3.pyc",
+      "tests/project_hygiene/__pycache__/test_git_readiness.cpython-313-pytest-9.0.3.pyc",
+      "tests/project_hygiene/__pycache__/test_legacy_scripts.cpython-313-pytest-9.0.3.pyc",
+      "tests/project_hygiene/__pycache__/test_project_hygiene_audit.cpython-313-pytest-9.0.3.pyc",
+      "tests/project_hygiene/__pycache__/test_project_validation_runner.cpython-313-pytest-9.0.3.pyc",
+      "tests/project_hygiene/__pycache__/test_requirements_hygiene.cpython-313-pytest-9.0.3.pyc",
+      "tools/__pycache__/run_project_validation.cpython-313.pyc"
+    ],
+    "counts": {
+      "__pycache__": 223,
+      ".pytest_cache": 1,
+      ".pytest_tmp": 134,
+      "pyc_files": 635
+    }
+  },
+  "legacy_scripts": {
+    "legacy_suspects": [
+      {
+        "path": "run_extraction_test.py",
+        "is_run_extraction_test": true,
+        "legacy_markers": [
+          "document_base",
+          "parsing",
+          "section_detection",
+          "extraction",
+          "evidence"
+        ],
+        "imports_legacy_chain": true
+      },
+      {
+        "path": "ESGInformationExtraction/run_pdf_extraction.py",
+        "is_run_extraction_test": false,
+        "legacy_markers": [
+          "section_detection",
+          "extraction",
+          "evidence"
+        ],
+        "imports_legacy_chain": true
+      },
+      {
+        "path": "tools/project_hygiene_audit.py",
+        "is_run_extraction_test": false,
+        "legacy_markers": [
+          "document_base",
+          "parsing",
+          "section_detection",
+          "extraction",
+          "evidence"
+        ],
+        "imports_legacy_chain": true
+      },
+      {
+        "path": "ESGInformationExtraction/tools/audit_engine_architecture.py",
+        "is_run_extraction_test": false,
+        "legacy_markers": [
+          "document_base",
+          "parsing",
+          "section_detection",
+          "extraction",
+          "evidence"
+        ],
+        "imports_legacy_chain": true
+      },
+      {
+        "path": "ESGInformationExtraction/tools/batch_check_outputs.py",
+        "is_run_extraction_test": false,
+        "legacy_markers": [
+          "parsing",
+          "extraction",
+          "evidence"
+        ],
+        "imports_legacy_chain": true
+      }
+    ]
+  },
+  "requirements": {
+    "files": [
+      {
+        "path": "AGMRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "AnnualReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "AssuranceReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "CDPResponseRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "ClimateReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "CorporatePolicyRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "DocumentPostProcessing/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿pandas>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "ESGInformationExtraction/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "ESGOrchestrator/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿pandas>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "EarningsCallRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "GovernanceReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "HalfYearReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "InvestorPresentationRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "RemunerationReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "SBTiRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "SustainabilityReportRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "VigilancePlanRetriever/requirements.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "requirements-dev.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "pytest>=8.0,<10.0",
+            "is_bounded": true
+          }
+        ]
+      },
+      {
+        "path": "requirements_all.txt",
+        "entries": [
+          {
+            "line": 1,
+            "requirement": "﻿beautifulsoup4>=4.12,<5.0",
+            "is_bounded": true
+          },
+          {
+            "line": 2,
+            "requirement": "ddgs>=6.0,<10.0",
+            "is_bounded": true
+          },
+          {
+            "line": 3,
+            "requirement": "lxml>=5.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 4,
+            "requirement": "pandas>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 5,
+            "requirement": "pdfplumber>=0.10,<1.0",
+            "is_bounded": true
+          },
+          {
+            "line": 6,
+            "requirement": "pydantic>=2.0,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 7,
+            "requirement": "pyyaml>=6.0,<7.0",
+            "is_bounded": true
+          },
+          {
+            "line": 8,
+            "requirement": "requests>=2.31,<3.0",
+            "is_bounded": true
+          },
+          {
+            "line": 9,
+            "requirement": "streamlit>=1.30,<2.0",
+            "is_bounded": true
+          }
+        ]
+      }
+    ],
+    "unbounded_requirements": []
+  },
+  "retriever_tests": {
+    "retrievers": [
+      {
+        "module": "AGMRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "AnnualReportRetriever",
+        "has_tests_dir": true,
+        "test_files": [
+          "AnnualReportRetriever/tests/test_retriever.py",
+          "AnnualReportRetriever/tests/test_scorer.py"
+        ],
+        "empty_test_files": [],
+        "non_empty_test_count": 2
+      },
+      {
+        "module": "AssuranceReportRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "CDPResponseRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "ClimateReportRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "CorporatePolicyRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "EarningsCallRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "GovernanceReportRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "HalfYearReportRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "InvestorPresentationRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "RemunerationReportRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "SBTiRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "SustainabilityReportRetriever",
+        "has_tests_dir": true,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      },
+      {
+        "module": "VigilancePlanRetriever",
+        "has_tests_dir": false,
+        "test_files": [],
+        "empty_test_files": [],
+        "non_empty_test_count": 0
+      }
+    ]
+  },
+  "summary": {
+    "findings_count": 20,
+    "high_findings_count": 0,
+    "medium_findings_count": 20
+  }
+}

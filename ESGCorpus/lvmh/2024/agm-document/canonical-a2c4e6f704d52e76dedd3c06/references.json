@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_a2c4e6f704d52e76dedd3c06",
+  "sha256": "b4506523ba336ef52d4f380f2aa2a4171d13ccf5be79dff97d99dc018d601135",
+  "all_references": [
+    {
+      "document_id": "b47a332d2438190ae5affb51",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKcc5m069VX13wM_lvmh-ag-2024-vf.pdf",
+      "source_title": "Présentation",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_005_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+      "file_size_mb": 12,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 5,
+      "stored_at": "2026-05-09T20:48:43+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_005_manifest.json"
+    }
+  ]
+}

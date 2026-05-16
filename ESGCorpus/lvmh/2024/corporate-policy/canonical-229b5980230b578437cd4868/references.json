@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_229b5980230b578437cd4868",
+  "sha256": "d5f8f76237c76cbfbf5bf6c0f2a694e14617c2ffe9917212c66694a4f52874a2",
+  "all_references": [
+    {
+      "document_id": "27a2f7078af37783ef560052",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://irp.cdn-website.com/2600b7b6/files/uploaded/Charte+éthique.pdf",
+      "source_title": "Charte éthique",
+      "source_name": "ddgs",
+      "score": 85,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_score_85_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_manifest.json",
+      "file_size_mb": 1.8402,
+      "document_type": "corporate_policy_code_of_conduct",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 39,
+      "stored_at": "2026-05-09T20:48:45+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_039_manifest.json"
+    }
+  ]
+}

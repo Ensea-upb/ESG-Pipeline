@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_d273adf57ea1326cafa5b122",
+  "sha256": "401cf1249fc87c7789d1c4f5fcdb6fb3862b3b55729fe7b40b11204e43d13908",
+  "all_references": [
+    {
+      "document_id": "d35bec74316c908231434e97",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/Financial-Institutions-Near-Term-Criteria.pdf",
+      "source_title": "Financial Institutions’ Near-Term Criteria V2",
+      "source_name": "html_pdf_resolver",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_029_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_029_manifest.json",
+      "file_size_mb": 0.8752,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 29,
+      "stored_at": "2026-05-09T20:41:56+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_029_manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "0.1.0",
+  "generated_at": "2026-05-14T05:05:11+00:00",
+  "candidates_count": 310,
+  "information_type_distribution": {
+    "observed_metric": 82,
+    "target": 67,
+    "boundary_context": 42,
+    "policy_or_commitment": 18,
+    "methodology_context": 14,
+    "risk_statement": 3,
+    "visual_evidence": 84
+  },
+  "source_modality_distribution": {
+    "text": 226,
+    "table": 41,
+    "figure": 43
+  },
+  "checks_count": 9,
+  "findings_count": 9,
+  "warnings_count": 3,
+  "errors_count": 0,
+  "candidate_only": true,
+  "review_required_policy": "all candidates must have review_required=true",
+  "checks": {
+    "candidates_without_quote": 0,
+    "observed_metric_without_value": 0,
+    "observed_metric_without_unit": 33,
+    "target_without_target_year": 33,
+    "visual_evidence_low_confidence": 84,
+    "confidence_above_0_6": 0,
+    "review_required_missing_or_false": 0,
+    "duplicate_evidence_type_label": 0,
+    "ineligible_evidence_candidates": 0
+  }
+}

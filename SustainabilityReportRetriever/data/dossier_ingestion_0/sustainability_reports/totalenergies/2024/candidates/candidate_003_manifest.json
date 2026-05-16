@@ -1,0 +1,45 @@
+{
+  "document_type": "sustainability_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf",
+    "title": "2023 Universal Registration Document (PDF version)",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://totalenergies.com/sustainability/our-approach/esg-documentation. Titre page : ESG Documentation | TotalEnergies.com. Texte du lien : 2023 Universal Registration Document (PDF version).",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés faibles durabilité : ['sustainability', 'esg']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux durabilité : ['universal registration document']",
+      "classe documentaire : annual_report_with_sustainability_content"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "dba48e9f5e7e6fc9862dd95159960eb2a270d6975f2457f443ca422e7449e7d6",
+    "file_size_mb": 17.8381,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_universal-registration-document-2023_2023_en_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:45:20+00:00",
+    "storage_version": "sustainability_report_candidate_storage_v0"
+  }
+}

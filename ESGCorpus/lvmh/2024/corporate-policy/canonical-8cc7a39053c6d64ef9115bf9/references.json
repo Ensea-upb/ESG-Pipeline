@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_8cc7a39053c6d64ef9115bf9",
+  "sha256": "67515243db92f8bdd81ea6a3d876369d407adaf700f16ad0b39e230a60ba990b",
+  "all_references": [
+    {
+      "document_id": "a95869f4fb89c93397dd07ae",
+      "retriever_name": "CorporatePolicyRetriever",
+      "document_family": "corporate_policy",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.cloudybay.com/drupal/sites/default/files/2024-04/LVMHSupplierCodeConduct2022.pdf",
+      "source_title": "LVMH Group - Cloudy Bay",
+      "source_name": "ddgs",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.8619,
+      "document_type": "corporate_policy_supplier_code",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:51:30+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\supplier_code\\lvmh\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

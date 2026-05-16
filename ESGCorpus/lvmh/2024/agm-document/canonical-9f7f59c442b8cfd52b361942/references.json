@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_9f7f59c442b8cfd52b361942",
+  "sha256": "88cfbc49059818f657e92baf606444b702c639af066632748ac98acb3e4d1df5",
+  "all_references": [
+    {
+      "document_id": "b89923baf3089a3ebf75cf02",
+      "retriever_name": "AGMRetriever",
+      "document_family": "agm_document",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKm25m069VX135B_lvmh_questions_ecrites_va_18042024.usv_.pdf",
+      "source_title": "Answers to written questions",
+      "source_name": "html_pdf_resolver",
+      "score": 83,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_038_score_83_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_038_manifest.json",
+      "file_size_mb": 7.1203,
+      "document_type": "agm_document_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 38,
+      "stored_at": "2026-05-09T20:42:09+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_038_manifest.json"
+    }
+  ]
+}

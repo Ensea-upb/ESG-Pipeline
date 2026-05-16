@@ -1,0 +1,45 @@
+{
+  "document_type": "agm_document_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 5,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/system/files/documents/2024-05/TotalEnergies_CP-post-AG-2024_VF_PDF.pdf",
+    "title": "Assemblée générale ordinaire et extraordinaire du 24 mai 2",
+    "snippet": "Les résultats complets des votes ainsi que les présentations effectuées aux actionnaires seront disponibles le 31 mai sur le site internet totalenergies.com.",
+    "source_name": "ddgs"
+  },
+  "scoring": {
+    "score": 98.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés secondaires AGM : ['assemblée générale']",
+      "mots-clés faibles : ['assemblée', 'actionnaires', 'vote']",
+      "année trouvée : 2024",
+      "nom de l'entreprise détecté",
+      "domaine officiel : totalenergies.com",
+      "URL PDF directe",
+      "classe documentaire : agm_document"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_005_score_98_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_005_manifest.json",
+    "sha256": "6c78a4386e87c388104e63b88813e53f8c7cb3072cf8eb4c2b3e1485a30af804",
+    "file_size_mb": 0.1854,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_TotalEnergies_CP-post-AG-2024_VF_PDF.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:49:49+00:00",
+    "storage_version": "agm_document_candidate_storage_v0"
+  }
+}

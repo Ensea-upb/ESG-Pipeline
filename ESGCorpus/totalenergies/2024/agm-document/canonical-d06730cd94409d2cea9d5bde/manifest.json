@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_d06730cd94409d2cea9d5bde",
+  "sha256": "71d2edc9820a66c2fa34610d0d06cb98e59d894cfcfd7b5027a35e645ef9e25b",
+  "company_name": "TotalEnergies",
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "document_family": "agm_document",
+  "document_families_detected": [
+    "agm_document"
+  ],
+  "retrievers_detected": [
+    "AGMRetriever"
+  ],
+  "canonical_source_title": "Avis de convocation de l’Assemblée générale mixte paru au BALO du 3 mai 2024 (version PDF)",
+  "canonical_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Avis-convocation-paru-au-BALO-du-3-mai_2024_PDF.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_012_score_98_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\totalenergies\\2024\\agm-document\\canonical-d06730cd94409d2cea9d5bde\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:59+00:00"
+}

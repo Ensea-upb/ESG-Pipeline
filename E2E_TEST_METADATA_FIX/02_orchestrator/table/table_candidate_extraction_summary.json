@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.5.0",
+  "candidates_count": 28,
+  "metric_family_distribution": {
+    "energy": 18,
+    "unknown": 3,
+    "ghg_emissions": 6,
+    "governance": 1
+  },
+  "candidates_without_unit": 19,
+  "candidates_without_year": 0,
+  "candidate_only": true
+}

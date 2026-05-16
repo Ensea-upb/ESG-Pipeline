@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_afa0257c1849f991949a3c94",
+  "sha256": "c221f3684732fcb29102ce1830671fd49fe2e53fde24b3bbd976a7b54b10bea7",
+  "all_references": [
+    {
+      "document_id": "63cb1bbab84bae3c83542a40",
+      "retriever_name": "VigilancePlanRetriever",
+      "document_family": "vigilance_plan",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://www.voluntaryprinciples.org/wp-content/uploads/2025/04/TotalEnergies-2024-Annual-Report.pdf",
+      "source_title": "VPSHR 2024",
+      "source_name": "ddgs",
+      "score": 81,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\totalenergies\\2024\\candidates\\candidate_001_score_81_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 2.1385,
+      "document_type": "vigilance_plan_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T20:59:29+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

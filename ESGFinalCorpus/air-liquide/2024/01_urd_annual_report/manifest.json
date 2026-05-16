@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_6c97cfaaf78ce3c17defd70f",
+  "sha256": "6b522790fa357c4e454cafb605fad1ad3a448ff405985db5ac3e7de01014ab1f",
+  "company_name": "Air Liquide",
+  "company_slug": "air-liquide",
+  "fiscal_year": 2024,
+  "technical_document_family": "annual_report",
+  "official_doc_type": "01_urd_annual_report",
+  "official_doc_type_label": "URD / annual report",
+  "doc_type_stratum": "core_reporting",
+  "doc_subtype": "annual_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_standard_reporting",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\air-liquide\\2024\\annual-report\\canonical-6c97cfaaf78ce3c17defd70f\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\air-liquide\\2024\\01_urd_annual_report\\canonical-6c97cfaaf78ce3c17defd70f\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:04+00:00"
+}

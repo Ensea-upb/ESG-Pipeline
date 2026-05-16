@@ -1,0 +1,20 @@
+{"severity": "medium", "category": "git", "path": ".", "message": "Project root is not a Git repository."}
+{"severity": "medium", "category": "python_caches", "path": ".", "message": "Python cache artifacts detected: {'__pycache__': 223, '.pytest_cache': 1, '.pytest_tmp': 134, 'pyc_files': 635}"}
+{"severity": "medium", "category": "legacy_scripts", "path": "run_extraction_test.py", "message": "Legacy extraction-chain script suspected."}
+{"severity": "medium", "category": "legacy_scripts", "path": "ESGInformationExtraction/run_pdf_extraction.py", "message": "Legacy extraction-chain script suspected."}
+{"severity": "medium", "category": "legacy_scripts", "path": "tools/project_hygiene_audit.py", "message": "Legacy extraction-chain script suspected."}
+{"severity": "medium", "category": "legacy_scripts", "path": "ESGInformationExtraction/tools/audit_engine_architecture.py", "message": "Legacy extraction-chain script suspected."}
+{"severity": "medium", "category": "legacy_scripts", "path": "ESGInformationExtraction/tools/batch_check_outputs.py", "message": "Legacy extraction-chain script suspected."}
+{"severity": "medium", "category": "retriever_tests", "path": "AGMRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "AssuranceReportRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "CDPResponseRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "ClimateReportRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "CorporatePolicyRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "EarningsCallRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "GovernanceReportRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "HalfYearReportRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "InvestorPresentationRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "RemunerationReportRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "SBTiRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "SustainabilityReportRetriever", "message": "Retriever has no non-empty tests."}
+{"severity": "medium", "category": "retriever_tests", "path": "VigilancePlanRetriever", "message": "Retriever has no non-empty tests."}

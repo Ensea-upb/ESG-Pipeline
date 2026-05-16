@@ -1,0 +1,45 @@
+{
+  "document_type": "annual_report",
+  "storage_role": "final_selected_document",
+  "company": {
+    "name": "Air Liquide",
+    "official_domain": "airliquide.com",
+    "ticker": "AI",
+    "isin": "FR0000120073",
+    "jurisdiction": "France"
+  },
+  "company_slug": "air-liquide",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://usa.airliquide.com/sites/al_us/files/2025-05/2024-integrated-annual-report.pdf",
+    "title": "[PDF] 2024-integrated-annual-report.pdf - Air Liquide USA",
+    "snippet": "Performing with Integrated Annual Report Anna-Maria Pubill Melsió Combustion Team Leader, R&D, Air Liquide 2024 Contents Manifesto 03 Joint interview: Benoît Potier, Chairman of the Board of Directors & François Jackow, Chief Executive Officer 04 Highlights 08 Air Liquide in figures 11 12 Sustainable development: our commitments and 2024 results Joint Interview: Diana Schillag & Jérôme Pelletan, Executive Committee members 14 Our molecules, essential to industry and healthcare 17 A unique model 18 Innovation, driving our impact 20 OUR MODEL Interview with Annette Winkler, Director and Chairwoman of Air Liquide's Environment and Society Committee 41 The Board of Directors sets the strategic orientations 42 The Executive Committee steers the strategy 44 Making investment decisions 45 Managing risk 46 Steering our sustainability commitments 48 Upholding the Group’s ethical commitments 49 OUR GOVERNANCE Awards 51 Extra-financial ratings 52 Financial statements 53 Extra-financial reporting 54 Explore more 56 OUR PERFORMANCE OUR ADVANCES Our major advances worldwide 23 Our employees, at the heart of the Air Liquide’s long-term performance 34 Building tomorrow with our stakeholders 38 In Rotterdam, a CO2 Transportation and Storage Project to decarbonize European industry 24 ECO ORIGIN TM: a range of low-carbon industrial and medical gases 27 Renewable and low-carbon hydrogen for TotalEnergies’ Grandpuits biorefinery 30 Towards better management of sleep apnea in Italy 32 An investment project for low-carbon oxygen production in the Americas 26 An electrolyzer to accelerate the decarbonization of German industry 29 Electrification and renewable energy in Tianjin 28 Supporting the semiconductor industry while reducing its environmental footprint 31 Access Oxygen™ deployed in Mali 33 \u0007 Access the digital version INTEGRATED ANNUAL REPORT 2024 AIR LIQUIDE CONTENTS 2 Manifesto T he mastery of small molecules essential to life, energy, and matter has great impacts for the world.",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['annual report']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : usa.airliquide.com",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['annualreport']",
+      "signaux de périmètre groupe : ['group']",
+      "classe documentaire : main_annual_report"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\air-liquide\\2024\\annual_report.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\air-liquide\\2024\\manifest.json",
+    "sha256": "6b522790fa357c4e454cafb605fad1ad3a448ff405985db5ac3e7de01014ab1f",
+    "file_size_mb": 32.2359,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\air-liquide_2024_2024-integrated-annual-report.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:49:10+00:00",
+    "storage_version": "annual_report_storage_v0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_daeb83514bfcf245dbf0ef63",
+  "sha256": "ad9a34d297c6b6449538ade2021c61d7e05d530779dc291fc5079cb9e790120d",
+  "all_references": [
+    {
+      "document_id": "0ab93f9e928e2a977b2686fc",
+      "retriever_name": "RemunerationReportRetriever",
+      "document_family": "remuneration_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/TotalEnergies_Rapport-special-sur-attributions-gratuites-d-actions_PDF.pdf",
+      "source_title": "[PDF] Total Energies - Rapport spécial sur les attributions gratuites d'actions",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+      "file_size_mb": 0.2177,
+      "document_type": "remuneration_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 1,
+      "stored_at": "2026-05-09T19:46:58+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json"
+    }
+  ]
+}

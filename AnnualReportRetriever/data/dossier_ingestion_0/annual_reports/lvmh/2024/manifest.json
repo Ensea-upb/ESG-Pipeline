@@ -1,0 +1,45 @@
+{
+  "document_type": "annual_report",
+  "storage_role": "final_selected_document",
+  "company": {
+    "name": "LVMH",
+    "official_domain": "lvmh.com",
+    "ticker": "MC",
+    "isin": "FR0000121014",
+    "jurisdiction": "France"
+  },
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://r.lvmh-static.com/uploads/2024/03/lvmh_rapport-annuel-2023.pdf",
+    "title": "lvmh_rapport-annuel-2023.pdf",
+    "snippet": "No information is available for this page. · Learn why",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année fiscale trouvée : 2024",
+      "mots-clés forts rapport annuel : ['rapport annuel']",
+      "nom de l'entreprise détecté",
+      "URL PDF directe",
+      "nom de fichier PDF compatible : ['rapportannuel']",
+      "classe documentaire : main_annual_report"
+    ],
+    "negative_signals": [
+      "domaine non officiel : r.lvmh-static.com"
+    ]
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\annual_report.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\manifest.json",
+    "sha256": "344e51fa8b0fce588abb1fe44dba4eda378a840f9377c7b5a7b17cbfd33bef26",
+    "file_size_mb": 30.3619,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\lvmh_2024_lvmh_rapport-annuel-2023.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T18:48:25+00:00",
+    "storage_version": "annual_report_storage_v0"
+  }
+}

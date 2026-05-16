@@ -1,0 +1,19 @@
+{
+  "canonical_document_id": "canonical_08034bdb6fc4445b920d6323",
+  "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "technical_document_family": "sustainability_report",
+  "official_doc_type": "02_sustainability_statement_csrd_esrs",
+  "official_doc_type_label": "Sustainability statement / CSRD / ESRS",
+  "doc_type_stratum": "core_sustainability",
+  "doc_subtype": "sustainability_report",
+  "period_type": "annual",
+  "regulatory_status": "regulated_or_emerging_regulated",
+  "parent_doc_id": null,
+  "taxonomy_notes": [],
+  "original_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\sustainability-report\\canonical-08034bdb6fc4445b920d6323\\document.pdf",
+  "taxonomy_organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpusTaxonomy\\schneider-electric\\2024\\02_sustainability_statement_csrd_esrs\\canonical-08034bdb6fc4445b920d6323\\document.pdf",
+  "organization_created_at": "2026-05-10T03:10:04+00:00"
+}

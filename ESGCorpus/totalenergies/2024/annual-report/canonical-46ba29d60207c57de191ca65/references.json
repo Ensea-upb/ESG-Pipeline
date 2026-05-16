@@ -1,0 +1,48 @@
+{
+  "canonical_document_id": "canonical_46ba29d60207c57de191ca65",
+  "sha256": "c0294fa903042125e9347c0592847defd97f5da88182a640162598828d33b4f0",
+  "all_references": [
+    {
+      "document_id": "6a200102f172136fb22119b8",
+      "retriever_name": "AnnualReportRetriever",
+      "document_family": "annual_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+      "source_title": "[PDF] 2024 Universal Registration Document (PDF version) - Total Energies",
+      "source_name": "tavily",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\annual_report.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\manifest.json",
+      "file_size_mb": 16.3762,
+      "document_type": "annual_report",
+      "storage_role": "final_selected_document",
+      "candidate_rank": 0,
+      "stored_at": "2026-05-09T18:48:46+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\manifest.json"
+    },
+    {
+      "document_id": "b3f7d35f2501d394cbe21a3a",
+      "retriever_name": "SustainabilityReportRetriever",
+      "document_family": "sustainability_report",
+      "company_name": "TotalEnergies",
+      "company_slug": "totalenergies",
+      "fiscal_year": 2024,
+      "source_url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+      "source_title": "2024 Universal Registration Document (PDF version)",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+      "file_size_mb": 16.3762,
+      "document_type": "sustainability_report_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 2,
+      "stored_at": "2026-05-09T18:45:18+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json"
+    }
+  ]
+}

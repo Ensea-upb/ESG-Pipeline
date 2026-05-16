@@ -1,0 +1,45 @@
+{
+  "document_type": "climate_report_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "TotalEnergies",
+    "official_domain": "totalenergies.com",
+    "ticker": "TTE",
+    "isin": "FR0000120271",
+    "jurisdiction": "France"
+  },
+  "company_slug": "totalenergies",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-08/totalenergies_SGD-reporting_2024_en_pdf.pdf",
+    "title": "[PDF] TotalEnergies SDG REPORTING",
+    "snippet": "Climate and sustainable energy SDG Targets Related business theme Sources of information SDG 7 Ensure access to affordable, reliable, sustainable and modern energy for all 7.1 By 2030, ensure universal access to affordable, reliable and modern energy services Access to energy URD 2023, 2.6.5.5 Access to Energy, p.127 Sustainability and Climate 2024 Progress Report, Accessible and Affordable Energy for All p.92-93 TotalEnergies’ website, Access to Energy 7.2 By 2030, increase substantially the share of renewable energy in the global energy mix Renewable energies development URD 2023, 1.3.4 Electricity: the energy of decarbonation, p.24-25 URD 2023, 1.3.5.3 Innovating to accelerate the energy transition, p.26 URD 2023, 1.4 Our sustainability ambitions and targets > Advocacy and sector initiatives in support of the energy transition > The development of renewable energies, p.31 URD 2023, 2.4.2 Power generation from renewable sources, p.99-103 Sustainability & Climate 2024 Progress Report, More Energy, Less Emissions, p.3-4 Sustainability & Climate 2024 Progress Report, Electricity: the Energy of Decarbonation, p.46-48 7.2 By 2030, increase substantially the share of renewable energy in the global energy mix Low carbon energies development Biofuels, Biogas, Hydrogen and e-fuels URD 2023, 1.3.5.1 New low-carbon energy, p.25-26 URD 2023, 2.5.1 Refining & Chemicals > Biofuels, p.110 Sustainability & Climate 2024 Progress Report, New Low-carbon Energy p.49-50 Liquified Natural Gas URD 2023, 5.4.2 Strategy > Liquified Natural Gas, p.295 Sustainability & Climate 2024 Progress Report, p.34-35 Storage URD 2023, 2.4.4 Electricity storage, p.104-105 Sustainability & Climate 2024 Progress Report, Our Major Development in Electricity: an Integrated Approach, p.46 Mobility URD 2023, 5.4.2 Strategy > Electricity: the energy of decarbonation > c.Developing electric mobility, p.300 Sustainability & Climate 2024 Progress Report, Developing Electric Mobility p.48 CDP Climate Change 2023, (C4.5a) Please provide details of your 6 products and/or services that you classify as low-carbon products, p.61 7.3 By 2030, double the global rate of improvement in energy efficiency Energy efficiency URD 2023, 1.3.2.4 Our energy efficiency plan:",
+    "source_name": "tavily"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "année trouvée : 2024",
+      "mots-clés TCFD/CDP : ['décarbonation', 'decarbonation']",
+      "nom de l'entreprise détecté",
+      "domaine officiel détecté : totalenergies.com",
+      "URL PDF directe",
+      "rapport annuel/URD contenant signaux climat : ['urd']",
+      "classe documentaire : tcfd_cdp_disclosure"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "ebfaf0f9bf64f274739b49c7e0ba3279e2a988ea507d45c68347b4956194fa01",
+    "file_size_mb": 1.2778,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\totalenergies_2024_totalenergies_SGD-reporting_2024_en_pdf.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T19:18:05+00:00",
+    "storage_version": "climate_report_candidate_storage_v0"
+  }
+}

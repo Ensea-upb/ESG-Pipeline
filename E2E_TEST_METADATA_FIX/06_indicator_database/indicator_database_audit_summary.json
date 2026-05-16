@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "checks": {
+    "accepted_candidates_loaded_count": 2,
+    "preparation_indicators_count": 2,
+    "empty_database_warning": 0,
+    "preparation_only_count": 2,
+    "final_indicator_detected_count": 0,
+    "score_detected_count": 0,
+    "records_without_candidate_id_count": 0,
+    "records_without_document_id_count": 0,
+    "records_without_quote_count": 0,
+    "records_without_page_count": 0,
+    "records_without_evidence_link_count": 0,
+    "records_without_lineage_count": 0,
+    "records_with_corrected_values_count": 2,
+    "records_with_unknown_domain_count": 0,
+    "records_with_unknown_topic_count": 0,
+    "records_needing_value_review_count": 0,
+    "records_needing_unit_review_count": 0,
+    "records_needing_year_review_count": 0
+  },
+  "findings_count": 18,
+  "errors_count": 0,
+  "warnings_count": 1
+}

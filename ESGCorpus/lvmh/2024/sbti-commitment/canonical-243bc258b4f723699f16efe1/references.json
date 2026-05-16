@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_243bc258b4f723699f16efe1",
+  "sha256": "f0cc7827ade4f371b01b13012afd322d70ce442f4c392781a79a8756c7c46bea",
+  "all_references": [
+    {
+      "document_id": "1778b3434b1f752b7db00d72",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-SEG-KR.pdf",
+      "source_title": "Korean translation",
+      "source_name": "html_pdf_resolver",
+      "score": 100,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_020_score_100_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_020_manifest.json",
+      "file_size_mb": 6.1987,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 20,
+      "stored_at": "2026-05-09T20:41:44+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_020_manifest.json"
+    }
+  ]
+}

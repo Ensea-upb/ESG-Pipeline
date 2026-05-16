@@ -1,0 +1,101 @@
+{
+  "benchmark_name": "SBTI_retriever_benchmark",
+  "fiscal_year": 2024,
+  "created_at": "2026-05-09T22:49:03",
+  "total_companies": 3,
+  "records": [
+    {
+      "company_name": "LVMH",
+      "official_domain": "lvmh.com",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats validations SBTi terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "TotalEnergies",
+      "official_domain": "totalenergies.com",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats validations SBTi terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 0,
+      "downloaded": [],
+      "failed": [],
+      "skipped": []
+    },
+    {
+      "company_name": "Schneider Electric",
+      "official_domain": "se.com",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "jurisdiction": "France",
+      "fiscal_year": 2024,
+      "status": "completed",
+      "message": "Ingestion des candidats validations SBTi terminée.",
+      "downloaded_count": 0,
+      "failed_count": 0,
+      "skipped_count": 5,
+      "downloaded": [],
+      "failed": [],
+      "skipped": [
+        {
+          "rank": 1,
+          "source_search_rank": 1,
+          "title": "Company Name ISIN LEI Location Region Sector Organization Type...",
+          "url": "https://files.sciencebasedtargets.org/production/files/SBTiCTARestucturedSample202303.xlsx?dm=1734357654",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 2,
+          "source_search_rank": 2,
+          "title": "Company Name ISIN LEI Location Region Sector Organization Type...",
+          "url": "https://files.sciencebasedtargets.org/production/files/SBTiCTARestucturedSample202303.xlsx",
+          "score": 100.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : success - 0 lien(s) PDF extrait(s)."
+        },
+        {
+          "rank": 4,
+          "source_search_rank": 4,
+          "title": "ESG strategy FAQ | Schneider Electric",
+          "url": "https://www.se.com/ww/en/about-us/investor-relations/investment/esg/",
+          "score": 95.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : forbidden_403 - Accès refusé à la page HTML."
+        },
+        {
+          "rank": 5,
+          "source_search_rank": 5,
+          "title": "SBTi’s Standard: Defining the Net-Zero Future for Business",
+          "url": "https://perspectives.se.com/drive-sustainable-growth/sbti-standard-defining-net-zero-for-business",
+          "score": 85.0,
+          "decision": "pdf_resolution_required",
+          "reason": "Résolution HTML -> PDF échouée : not_found_404 - Page HTML introuvable."
+        },
+        {
+          "rank": "?",
+          "title": "PDFs extraits HTML sous le seuil",
+          "url": null,
+          "score": null,
+          "decision": "reject",
+          "reason": "5 PDF(s) ignorés (score < 80.0)."
+        }
+      ]
+    }
+  ]
+}

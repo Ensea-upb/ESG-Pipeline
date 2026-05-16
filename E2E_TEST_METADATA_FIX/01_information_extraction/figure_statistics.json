@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "totalenergies_2024_urd_e2e_metadata_fix",
+  "figures_count": 43,
+  "detected_figures_count": 43,
+  "low_confidence_figures_count": 0,
+  "detected_not_interpreted_figures_count": 0,
+  "failed_figures_count": 0,
+  "page_level_visual_count": 0,
+  "embedded_visual_count": 43,
+  "captioned_figure_count": 0,
+  "visual_page_candidates_count": 0,
+  "figures_without_bbox_count": 0,
+  "weak_visual_detections_count": 0,
+  "possible_cover_or_separator_figures_count": 6,
+  "figure_object_level_distribution": {
+    "embedded_object": 43
+  },
+  "figure_type_distribution": {
+    "image": 15,
+    "logo": 28
+  },
+  "figures_by_page": {
+    "1": 6,
+    "10": 4,
+    "11": 3,
+    "13": 2,
+    "17": 8,
+    "20": 4,
+    "25": 1,
+    "28": 1,
+    "29": 14
+  },
+  "figures_by_section": {
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0004": 9,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0008": 12,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0009": 2,
+    "totalenergies_2024_urd_e2e_metadata_fix_section_0010": 14
+  },
+  "quarantined_figures_count": 0,
+  "review_required_figures_count": 43,
+  "figures_with_caption_count": 0,
+  "figures_without_caption_count": 43,
+  "figure_evidence_count": 43,
+  "sample_figures": [
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0001_0000",
+      "page_number": 1,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0001_0001",
+      "page_number": 1,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0001_0002",
+      "page_number": 1,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0001_0003",
+      "page_number": 1,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0001_0004",
+      "page_number": 1,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0001_0005",
+      "page_number": 1,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0010_0000",
+      "page_number": 10,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0010_0001",
+      "page_number": 10,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0010_0002",
+      "page_number": 10,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0010_0003",
+      "page_number": 10,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0011_0000",
+      "page_number": 11,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0011_0001",
+      "page_number": 11,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0011_0002",
+      "page_number": 11,
+      "figure_type": "image",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0013_0000",
+      "page_number": 13,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0013_0001",
+      "page_number": 13,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0017_0000",
+      "page_number": 17,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0017_0001",
+      "page_number": 17,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0017_0002",
+      "page_number": 17,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0017_0003",
+      "page_number": 17,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    },
+    {
+      "figure_id": "fig_totalenergies_2024_urd_e2e_metadata_fix_p0017_0004",
+      "page_number": 17,
+      "figure_type": "logo",
+      "visual_object_level": "embedded_object",
+      "detection_method": "pdfplumber_image",
+      "nearby_caption_text": null,
+      "extraction_status": "detected"
+    }
+  ],
+  "sample_figures_with_caption": [],
+  "sample_low_confidence_figures": [],
+  "sample_page_level_visuals": [],
+  "sample_weak_visual_detections": []
+}

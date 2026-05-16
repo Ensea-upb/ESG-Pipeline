@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_6433e2342f80e4ea22b33d6d",
+  "sha256": "043619c4055d75c576e48cd8b5df9178cf7b0ce5b769899d2d48c33e5ff60567",
+  "all_references": [
+    {
+      "document_id": "dd141fb4bd6965db325e0bdf",
+      "retriever_name": "CDPResponseRetriever",
+      "document_family": "cdp_response",
+      "company_name": "LVMH",
+      "company_slug": "lvmh",
+      "fiscal_year": 2024,
+      "source_url": "https://www.unilever.com/files/cdp-integrated-questionnaire-2024.pdf",
+      "source_title": "CDP Integrated Questionnaire 2024",
+      "source_name": "ddgs",
+      "score": 95,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_010_score_95_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_010_manifest.json",
+      "file_size_mb": 3.011,
+      "document_type": "cdp_response_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 10,
+      "stored_at": "2026-05-09T20:41:29+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CDPResponseRetriever\\data\\dossier_ingestion_0\\cdp_responses\\lvmh\\2024\\candidates\\candidate_010_manifest.json"
+    }
+  ]
+}

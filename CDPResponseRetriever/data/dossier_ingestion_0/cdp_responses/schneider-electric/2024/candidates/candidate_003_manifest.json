@@ -1,0 +1,44 @@
+{
+  "document_type": "cdp_response_candidate",
+  "storage_role": "high_score_candidate",
+  "candidate_rank": 3,
+  "company": {
+    "name": "Schneider Electric",
+    "official_domain": "se.com",
+    "ticker": "SU",
+    "isin": "FR0000121972",
+    "jurisdiction": "France"
+  },
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "source": {
+    "url": "https://www.gstatic.com/gumdrop/sustainability/alphabet-2024-cdp-climate-change-response.pdf",
+    "title": "Descargar PDF",
+    "snippet": "PDF extrait depuis une page HTML. Page source : https://sustainability.google/intl/es-419/reports/alphabet-2024-cdp-climate-change-response/. Titre page : Respuesta de Alphabet al cuestionario de cambio climático de CDP (2024). Texte du lien : Descargar PDF.",
+    "source_name": "html_pdf_resolver"
+  },
+  "scoring": {
+    "score": 100.0,
+    "decision": "auto_download",
+    "positive_signals": [
+      "mots-clés forts CDP : ['cdp climate change response']",
+      "mots-clés CDP secondaires : ['cdp']",
+      "année trouvée : 2024",
+      "URL PDF directe",
+      "nom de fichier CDP : ['cdp-climate']",
+      "classe documentaire : cdp_response"
+    ],
+    "negative_signals": []
+  },
+  "file": {
+    "local_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+    "manifest_path": "data\\dossier_ingestion_0\\cdp_responses\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+    "sha256": "61ebbaaea8b3ab6a9027772f1fb4bddd44b515d896f4e886e6d89a2d5f144fbc",
+    "file_size_mb": 0.9936,
+    "original_temp_path": "data\\dossier_ingestion_0\\tmp\\schneider-electric_2024_alphabet-2024-cdp-climate-change-response.pdf"
+  },
+  "ingestion": {
+    "stored_at": "2026-05-09T20:42:41+00:00",
+    "storage_version": "cdp_response_candidate_storage_v0"
+  }
+}

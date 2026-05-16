@@ -1,0 +1,27 @@
+{
+  "canonical_document_id": "canonical_c16c36795149ca765ccba0e8",
+  "sha256": "6f802135ddac335a2bc0565b5afb5ed1e03953690fed909a21fcbe27cb66ea21",
+  "all_references": [
+    {
+      "document_id": "b7223d65353b2d5a5555835e",
+      "retriever_name": "SBTiRetriever",
+      "document_family": "sbti_commitment",
+      "company_name": "Schneider Electric",
+      "company_slug": "schneider-electric",
+      "fiscal_year": 2024,
+      "source_url": "https://media.xdconnects.com/Downloads/ESG/SBTi-Progress-Report-2024.pdf",
+      "source_title": "SBTi Progress Report 2024",
+      "source_name": "ddgs",
+      "score": 80,
+      "decision": "auto_download",
+      "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_016_score_80_0.pdf",
+      "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_016_manifest.json",
+      "file_size_mb": 0.6501,
+      "document_type": "sbti_commitment_candidate",
+      "storage_role": "high_score_candidate",
+      "candidate_rank": 16,
+      "stored_at": "2026-05-09T20:44:33+00:00",
+      "source_manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_016_manifest.json"
+    }
+  ]
+}

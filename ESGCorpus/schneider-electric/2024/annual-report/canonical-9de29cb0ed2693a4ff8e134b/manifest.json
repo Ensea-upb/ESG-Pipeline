@@ -1,0 +1,23 @@
+{
+  "canonical_document_id": "canonical_9de29cb0ed2693a4ff8e134b",
+  "sha256": "89d162c4a20b0b532fd6c15021ed8bf6cf65551b34fa5c5a0b757b0fa03ce25d",
+  "company_name": "Schneider Electric",
+  "company_slug": "schneider-electric",
+  "fiscal_year": 2024,
+  "document_family": "annual_report",
+  "document_families_detected": [
+    "annual_report",
+    "sustainability_report"
+  ],
+  "retrievers_detected": [
+    "AnnualReportRetriever",
+    "SustainabilityReportRetriever"
+  ],
+  "canonical_source_title": "[PDF] Document d'Enregistrement Universel 2024 - Schneider Electric",
+  "canonical_source_url": "https://www.se.com/ww/fr/assets/342/document/510443/2024-document-enregistrement-universel.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_004_score_100_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\schneider-electric\\2024\\annual-report\\canonical-9de29cb0ed2693a4ff8e134b\\document.pdf",
+  "duplicate_count": 2,
+  "is_duplicate_group": true,
+  "organization_created_at": "2026-05-10T03:10:00+00:00"
+}

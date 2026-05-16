@@ -1,0 +1,21 @@
+{
+  "canonical_document_id": "canonical_877449c466c67c56676ffc86",
+  "sha256": "47dbbb28fdc43b5dcbd65f8d74b60db4a6847b70b6510106596c671e7ff65a57",
+  "company_name": "LVMH",
+  "company_slug": "lvmh",
+  "fiscal_year": 2024,
+  "document_family": "sbti_commitment",
+  "document_families_detected": [
+    "sbti_commitment"
+  ],
+  "retrievers_detected": [
+    "SBTiRetriever"
+  ],
+  "canonical_source_title": "French translation",
+  "canonical_source_url": "https://sciencebasedtargets.org/resources/files/FINT-Criteria-V2-FRENCH.pdf",
+  "original_local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_032_score_95_0.pdf",
+  "organized_local_path": "C:\\Users\\hp\\Desktop\\ESG\\ESGCorpus\\lvmh\\2024\\sbti-commitment\\canonical-877449c466c67c56676ffc86\\document.pdf",
+  "duplicate_count": 1,
+  "is_duplicate_group": false,
+  "organization_created_at": "2026-05-10T03:09:58+00:00"
+}

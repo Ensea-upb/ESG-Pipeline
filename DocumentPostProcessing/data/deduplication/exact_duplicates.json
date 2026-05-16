@@ -1,0 +1,2548 @@
+[
+  {
+    "duplicate_group_id": "exact_dup_0001",
+    "sha256": "0040b3612bd5f18caffe67f994f1dbc5c1d8aa4889bd9a12ce5a9bf444886722",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "69a795b761f12567643c6b91",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Brochure de convocation à l’Assemblée générale mixte du 18 avril 2024 (e-accessible)",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKdr5m069VX13w8_lvmh_brochure_de_convocation_fr.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_007_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_007_manifest.json",
+        "file_size_mb": 3.7943,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "35f9d2080fff09d3f4cd6df0",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Rapports des Commissaires aux comptes sur les projets de résolutions",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKf0Zm069VX13x-_lvmh_brochure_de_convocation_fr-1-.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_011_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_011_manifest.json",
+        "file_size_mb": 3.7943,
+        "score": 83.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0002",
+    "sha256": "02226e1cf5328810510451e1e524e966389750963175a41474de835e18d5aaab",
+    "duplicate_count": 2,
+    "companies": [
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "5e7ce3cc62148c2d91ee737b",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] 2023 Sustainability Report - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/466155/2023-sustainability-report.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_score_85_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_006_manifest.json",
+        "file_size_mb": 14.1676,
+        "score": 85.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "493a8591bbf4e90fea159466",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] 2023 Sustainability Report - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/466155/2023-sustainability-report.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_score_85_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_007_manifest.json",
+        "file_size_mb": 14.1676,
+        "score": 85.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0003",
+    "sha256": "06ae7c56a149067b2a614758bf2688e41c698e9b666f5292fca58cd31c9739d9",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "645331bbaba6b77e40172e6c",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Zj4vX0FLKBtrWyER_210324_LVMH_CodeOfConduct_CN.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_005_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 1.6891,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "0fd5b22e4c71ea96c32108b9",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBVRJm069VX10DR_210324_lvmh_codeofconduct_cn.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_028_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_028_manifest.json",
+        "file_size_mb": 1.6891,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0004",
+    "sha256": "0e1fad746c06f32c697627f6dfbdcee2fb198a0ef95eb58520a569e9ff85fd42",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "003b914da105a5ddbc1411d5",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Document d’enregistrement universel 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PYoHdAxsiBv6v5_Documentd%27enregistrementuniversel2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_019_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_019_manifest.json",
+        "file_size_mb": 10.8591,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "767383d171611033e23e8b92",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Document d’enregistrement universel 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PYoHdAxsiBv6v5_Documentd%27enregistrementuniversel2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_052_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_052_manifest.json",
+        "file_size_mb": 10.8591,
+        "score": 83.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0005",
+    "sha256": "290509b3593aebcea58b06a8b6370ee1e62f4a3fe647b914ece755c0d38b5938",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "6358c0e435f0c8bf703b2cbe",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQR5m069VX1z-S_lvmh_codedeconduite_polish.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_024_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_024_manifest.json",
+        "file_size_mb": 1.511,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "eec03e6510695566e79034cd",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdYWyol0Zci9PhH_LVMH_CodeDeConduite_POLISH.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_035_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_035_manifest.json",
+        "file_size_mb": 1.511,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0006",
+    "sha256": "30fb774f8c30ee16e1c52fd801855a7310c5ad6db3287af503fb6dc80b00d9e5",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "2f9af8552dc3270e0c046a85",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQSZm069VX1z-V_lvmh_codeofconduct_greek-1.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_011_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_011_manifest.json",
+        "file_size_mb": 1.6223,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "40bf7429783083ad6f6af596",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdX_Col0Zci9Pg0_LVMH_CodeOfConduct_GREEK.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_031_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_031_manifest.json",
+        "file_size_mb": 1.6223,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0007",
+    "sha256": "3edeea9fa73aebeca0a5ebad5016bc7935c4bb6ddcdf3153906e89a27ed2d92f",
+    "duplicate_count": 4,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "1d3cd22b44669d7a086ea8a7",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_005_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 1.8336,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "9887ce41722311e977594168",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/Net-Zero-Standard.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_004_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 1.8336,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "1bfec73d1a85a6bfb684fe1f",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_008_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_008_manifest.json",
+        "file_size_mb": 1.8336,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "b68ac07cd33f651af49d23e3",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_005_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 1.8336,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0008",
+    "sha256": "47e80e9540a17891247b5edf451b2ffa6783fe5c196c2179c6ee037fee1a0eb4",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "b36430e492bd10f852b54498",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBPCpm069VX1z9l_210324_lvmh_codedeconduite_portuguese.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_026_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_026_manifest.json",
+        "file_size_mb": 1.4657,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "ea605055a8474de7fd67577f",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBVnJm069VX10Eo_210324_lvmh_codedeconduite_portuguese.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_037_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_037_manifest.json",
+        "file_size_mb": 1.4657,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0009",
+    "sha256": "4e67ffaaae7f880fd24e837c30f10c08b0a087ca1b4314dade86e7b5d32c12cb",
+    "duplicate_count": 4,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "annual_report",
+      "climate_report",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "AnnualReportRetriever",
+      "ClimateReportRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "7e11bfd5247ebeea6357c940",
+        "retriever_name": "AnnualReportRetriever",
+        "document_family": "annual_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "LVMH 2024 Universal Registration Document. - Prismic",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 7.7547,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "110d9a71319ef4d45443366a",
+        "retriever_name": "AnnualReportRetriever",
+        "document_family": "annual_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "LVMH 2024 Universal Registration Document. - Prismic",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 7.7547,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "f738142fa94f5623bdb1ab7f",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "LVMH 2024 Universal Registration Document. - Prismic",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_005_score_81_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 7.7547,
+        "score": 81.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "1f1ced821b30468f5e7f7b90",
+        "retriever_name": "ClimateReportRetriever",
+        "document_family": "climate_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "LVMH 2024 Universal Registration Document. - Prismic",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PY3HdAxsiBv6wN_UniversalRegistrationDocument2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_003_score_81_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 7.7547,
+        "score": 81.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0010",
+    "sha256": "5224b460bdd5a179676525f3fc6f8fb2a65dc21e86e03d7f672f1dd6b6624724",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "e33d7a473ab035cc01778c4a",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Near-Term Criteria",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_002_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 0.3944,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "9f2ad4cfb332f911950d9421",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Near-Term Criteria",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_005_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 0.3944,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "e070fae5deb28d6531d6a783",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Near-Term Criteria",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-criteria.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 0.3944,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0011",
+    "sha256": "539e75ccbf37782bb95f6b0d461d50cf615c40798d8a6746f3aeb4915f9e3c8c",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH",
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "earnings_call"
+    ],
+    "retrievers": [
+      "EarningsCallRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "ddce6ce70a02608577153346",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Privacy Policy",
+        "source_url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Inc-Privacy-Policy.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_001_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 0.2563,
+        "score": 90.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "d178ec429c72ad5db5f3eb99",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Privacy Policy",
+        "source_url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Inc-Privacy-Policy.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_001_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 0.2563,
+        "score": 90.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0012",
+    "sha256": "541c5fb3399b97e20779f0b9bee0e6c5ca3b0f2c07da7dcda3f848bf3699d7a4",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "448a6a7f86eb736a1129d9c1",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "SME FAQ",
+        "source_url": "https://sciencebasedtargets.org/resources/files/FAQs-for-SMEs.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_004_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 0.7979,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "061ed9a39a34453180a846cc",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "SME FAQ",
+        "source_url": "https://sciencebasedtargets.org/resources/files/FAQs-for-SMEs.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_007_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_007_manifest.json",
+        "file_size_mb": 0.7979,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "afad2247b2ff8f23353bef6b",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "SME FAQ",
+        "source_url": "https://sciencebasedtargets.org/resources/files/FAQs-for-SMEs.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_004_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 0.7979,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0013",
+    "sha256": "5c7265d598ec27abd353fa355dd6830b346c4f564701fea6db373b661af4f349",
+    "duplicate_count": 5,
+    "companies": [
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "annual_report",
+      "climate_report",
+      "governance_report",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "AnnualReportRetriever",
+      "ClimateReportRetriever",
+      "GovernanceReportRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "c03c868df3089ac9373db003",
+        "retriever_name": "AnnualReportRetriever",
+        "document_family": "annual_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Integrated report 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 26.721,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "4be24d46b96ab8224a21a0ae",
+        "retriever_name": "AnnualReportRetriever",
+        "document_family": "annual_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Integrated report 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\annual_report.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\manifest.json",
+        "file_size_mb": 26.721,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "939be4f9a16f0cdc1491ac93",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Integrated report 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 26.721,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "2474e4c7131e12a42ef9136c",
+        "retriever_name": "ClimateReportRetriever",
+        "document_family": "climate_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Integrated report 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 26.721,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "2aafb8fcdda5996006663915",
+        "retriever_name": "GovernanceReportRetriever",
+        "document_family": "governance_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Integrated report 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/en/assets/564/document/511188/Integrated-report-2024.pdf?p_enDocType=Financial+release&p_File_Name=Integrated+report+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\GovernanceReportRetriever\\data\\dossier_ingestion_0\\governance_reports\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\GovernanceReportRetriever\\data\\dossier_ingestion_0\\governance_reports\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 26.721,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0014",
+    "sha256": "5db02adad6fdc7c15ae084fe04edc3c34dfdfaee62f8230f58ac82ee5bc0521c",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "d059c60fcdcd9fa8e7bd8eb0",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBPhZm069VX1z92_210324_LVMH_CodeDeConduite_PT-BRAZIL.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_025_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_025_manifest.json",
+        "file_size_mb": 1.4984,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "2cd1308cc6c95b4b324e3fee",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBUq5m069VX10Bl_210324_LVMH_CodeDeConduite_PT-BRAZIL.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_036_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_036_manifest.json",
+        "file_size_mb": 1.4984,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0015",
+    "sha256": "60686f4d093955808a22a015e58e1937da8a594c0a1c3a1761462ac7fe376f05",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "7b5987898dfb81b8f53ffa31",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Avis de convocation publié au BALO le 27 mars 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKfgJm069VX13x6_avis-de-convocation-publie-au-balo-le-27-mars-2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_010_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_010_manifest.json",
+        "file_size_mb": 0.3551,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "d5f17c960f26930907fcd326",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Convening notice published to the BALO on March 27, 2024 – French version only",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKpmZm069VX136x_convening-notice-published-to-the-balo-on-march-27-2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_043_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_043_manifest.json",
+        "file_size_mb": 0.3551,
+        "score": 83.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0016",
+    "sha256": "60fc61d0c6771f724b54b76084d83a4900d2a068d1b88b3607fc5d387e4586eb",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "4fd4849feb99a130b39b7f07",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "SBTi COMMITMENT",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/SBT-Commitment-Letter.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_001_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 0.8929,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "6d7ddc4e455be2b6287863f9",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "SBTi COMMITMENT",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/SBT-Commitment-Letter.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_002_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 0.8929,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "da33213218372757fecddf57",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "SBTi COMMITMENT",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/SBT-Commitment-Letter.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_001_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 0.8929,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0017",
+    "sha256": "65b02fcd781febf91dfc3c3ac4117cdeeb2c7af67ca847c366c2aebac9c390e3",
+    "duplicate_count": 2,
+    "companies": [
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "climate_report",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "ClimateReportRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "b27ff26ea3f7a1b8eadd05ff",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Total Energies - Sustainability & Climate 2024 Progress Report",
+        "source_url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 10.0654,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "adf37b98b84157ab03bd94e8",
+        "retriever_name": "ClimateReportRetriever",
+        "document_family": "climate_report",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Total Energies - Sustainability & Climate 2024 Progress Report",
+        "source_url": "https://totalenergies.com/system/files/documents/2024-03/totalenergies_sustainability-climate-2024-progress-report_2024_fr_pdf.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 10.0654,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0018",
+    "sha256": "6b81b26a669c2109aa078cf19b65e68f2c1c036477977ae79e1d8635adac50c3",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH",
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "earnings_call"
+    ],
+    "retrievers": [
+      "EarningsCallRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "2d231fdc269ffa492833ce54",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Brokerage Disclaimer",
+        "source_url": "https://cdn.ainvest.com/agreement/Third-Party-Brokerage-Disclaimer.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_004_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 0.1716,
+        "score": 90.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "715738443746cc2e4835552d",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Brokerage Disclaimer",
+        "source_url": "https://cdn.ainvest.com/agreement/Third-Party-Brokerage-Disclaimer.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_004_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 0.1716,
+        "score": 90.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0019",
+    "sha256": "76e1374cf94a93c56d0db366908721488e38a576d0c577d6ed7caca5bba14714",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "bae9de18137c6d7abc71e757",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Avis préalable de réunion paru au BALO le 11 mars 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKhWZm069VX13zl_lvmh-avis-de-reunion-publie-au-balo-le-11.03.2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_014_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_014_manifest.json",
+        "file_size_mb": 0.5379,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "edc5824b6234a83f7ecf13ce",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Notice of meeting published to the BALO on March 11, 2024 – French version only",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKrnZm069VX138u_lvmh-avis-de-reunion-publie-au-balo-le-11.03.2024-1-.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_033_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_033_manifest.json",
+        "file_size_mb": 0.5379,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0020",
+    "sha256": "81a65cc24ce63f02d70b20e003567207d1dcbe36b4962a1a86f66917e2f606a4",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "24219770bae8b500bfccf0c8",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "slides",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Net-Zero-Standard-Event-slides.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_003_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 39.0553,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "c067161872db731478beb924",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "slides",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Net-Zero-Standard-Event-slides.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_006_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_006_manifest.json",
+        "file_size_mb": 39.0553,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "0b966f2368fa41cd50854535",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "slides",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Net-Zero-Standard-Event-slides.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 39.0553,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0021",
+    "sha256": "82fb67a4f9ee959e5bba5bb9ece304a5b51c59ff9f3c5da284e7f165dc977839",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "b131563ee2e770069aa41258",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBR4Zm069VX1z-5_lvmh_codeofconduct_turkish.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_021_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_021_manifest.json",
+        "file_size_mb": 1.5209,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "7052fe427bb4c48ef4061670",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdXpSol0Zci9Pgf_LVMH_CodeOfConduct_TURKISH.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_034_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_034_manifest.json",
+        "file_size_mb": 1.5209,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0022",
+    "sha256": "836f1acbdd9a7bc14a8dcbdf0a775b9525529a65a63a8fe29f0ba8c78d741c88",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "120f44c41e772e59b8f5d67c",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQSJm069VX1z-U_lvmh_codeofconduct_romanian.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_016_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_016_manifest.json",
+        "file_size_mb": 1.5284,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "82f6d59f8bf06347c10b427e",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdYJiol0Zci9Pg8_LVMH_CodeOfConduct_ROMANIAN.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_033_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_033_manifest.json",
+        "file_size_mb": 1.5284,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0023",
+    "sha256": "87b6b16a52c48e3f3148f3c47f67776984ee50e1eec10395663ff620381ac108",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "da536381ef2c4b957c9c77b4",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "also available in Japanese",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria-jp.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_007_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_007_manifest.json",
+        "file_size_mb": 0.6487,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "51374993f5fd02c838ba27cc",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "also available in Japanese",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria-jp.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_010_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_010_manifest.json",
+        "file_size_mb": 0.6487,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "c503a575ab8a40be993acd45",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "also available in Japanese",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria-jp.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_007_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_007_manifest.json",
+        "file_size_mb": 0.6487,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0024",
+    "sha256": "887f8e0927b65f32a7c30eb133ab14bbaaf32ba70a002f5e4daace2cac34058f",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "ed7689870177fc6458199c83",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBQaZm069VX1z-W_lvmh_codeofconduct_czech.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_007_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_007_manifest.json",
+        "file_size_mb": 1.5099,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "6b6493a4df883f795779168f",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZkdYryol0Zci9Pha_LVMH_CodeOfConduct_CZECH.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_030_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_030_manifest.json",
+        "file_size_mb": 1.5099,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0025",
+    "sha256": "89d162c4a20b0b532fd6c15021ed8bf6cf65551b34fa5c5a0b757b0fa03ce25d",
+    "duplicate_count": 2,
+    "companies": [
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "annual_report",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "AnnualReportRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "f012ee5ff2ed9fb6a06cbd76",
+        "retriever_name": "AnnualReportRetriever",
+        "document_family": "annual_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Document d'Enregistrement Universel 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/fr/assets/342/document/510443/2024-document-enregistrement-universel.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_004_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 13.9201,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "ef30c4bb053dded2c7972fa8",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Document d'Enregistrement Universel 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/fr/assets/342/document/510443/2024-document-enregistrement-universel.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 13.9201,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0026",
+    "sha256": "8b5dda203d109ab2d207db2deedda355a58e2ecc10a99d0401f9212346916513",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "840b9829dcbe766ee2958930",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard V1.3.1 Method Appendix",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/CNZS-V1.3.1-Method-Appendix.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_008_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_008_manifest.json",
+        "file_size_mb": 0.5188,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "e61260f399e34448d447a326",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard V1.3.1 Method Appendix",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/CNZS-V1.3.1-Method-Appendix.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_011_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_011_manifest.json",
+        "file_size_mb": 0.5188,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "7970dc144c75da8550bed966",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard V1.3.1 Method Appendix",
+        "source_url": "https://files.sciencebasedtargets.org/production/files/CNZS-V1.3.1-Method-Appendix.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_008_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_008_manifest.json",
+        "file_size_mb": 0.5188,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0027",
+    "sha256": "8c0adf253981086eac041a56a8aed211b460d104940e5add6f1138be763b1275",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH",
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "earnings_call"
+    ],
+    "retrievers": [
+      "EarningsCallRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "ae251ba6c48a08306ac1ad84",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "AI Risk Disclosures",
+        "source_url": "https://cdn.ainvest.com/agreement/Ainvest-AI-Risk-Disclosures.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_005_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 0.1258,
+        "score": 90.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "829fe458efc928c2c902a46a",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "AI Risk Disclosures",
+        "source_url": "https://cdn.ainvest.com/agreement/Ainvest-AI-Risk-Disclosures.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_005_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_005_manifest.json",
+        "file_size_mb": 0.1258,
+        "score": 90.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0028",
+    "sha256": "9030f042798f02536a2e288268dff0af1da30f0ac14e0482a1046be7ec85a7f4",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "7f5c1d388be70b4a6c32cf62",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Formulaire Unique de Participation",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKd05m069VX13xE_lvmh-2024-formulaire-unique-de-participation-single-attendance-form.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_008_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_008_manifest.json",
+        "file_size_mb": 0.4125,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "e099edbabc90e8c55b9959c9",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Single attendance form",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKpapm069VX136l_lvmh-2024-formulaire-unique-de-participation-single-attendance-form-1-.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_041_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_041_manifest.json",
+        "file_size_mb": 0.4125,
+        "score": 83.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0029",
+    "sha256": "91ea15aaa3408f434ce7402805abc7805c41f853058fa12f62655dcee6eb25b6",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "6c4265040ee1b162c563fe91",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Convening Brochure at the Shareholders’ Meeting April 18, 2024 (e-accessible)",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKpVJm069VX136g_convening-brochure-shareholders-meeting-april-18-2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_040_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_040_manifest.json",
+        "file_size_mb": 4.0128,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "078d02ea9620d11b1d450a2a",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Statutory Auditors’ Reports on the draft resolutions",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKqCJm069VX137F_convening-brochure-shareholders-meeting-april-18-2024-1-.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_044_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_044_manifest.json",
+        "file_size_mb": 4.0128,
+        "score": 83.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0030",
+    "sha256": "9c5c4949b391f334bb5fa48e37f255512d61ccf6308de9b56c1545b4f6cfa3e2",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH",
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "earnings_call"
+    ],
+    "retrievers": [
+      "EarningsCallRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "4dc7b5eda9b788df562ae846",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Terms of Use",
+        "source_url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Terms-of-Use.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_002_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 0.0833,
+        "score": 90.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "f3034c31808ff1a58d73d3c5",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Terms of Use",
+        "source_url": "https://cdn.ainvest.com/agreement/Ainvest-Fintech-Terms-of-Use.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 0.0833,
+        "score": 90.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0031",
+    "sha256": "9f36260d666604e27c0193792f964971a1315bcc570554a9450737fe9ebd57f2",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "4a8d1465a871dd721ca79b39",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Pathways to Net-Zero",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Pathway-to-Net-Zero.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_012_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_012_manifest.json",
+        "file_size_mb": 0.5251,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "0dbe333ae520bd22d873138d",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Pathways to Net-Zero",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Pathway-to-Net-Zero.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_015_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_015_manifest.json",
+        "file_size_mb": 0.5251,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "3c4a4f7cd5c1aeb5a4cc1e49",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Pathways to Net-Zero",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Pathway-to-Net-Zero.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_012_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_012_manifest.json",
+        "file_size_mb": 0.5251,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0032",
+    "sha256": "a3cfa122246d008c6742d664c2671f9d3252dfee3ffe76a05b7188b05bb2beda",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "5658b9fde1cf0cd23f42883a",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Nombre total de droits de vote et d’actions composant le capital à la date de parution de l’avis préalable du 11 mars 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKh45m069VX130K_droits-de-vote-lvmh-au-11.03.2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_017_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_017_manifest.json",
+        "file_size_mb": 0.1134,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "b1f32a5abcb4b7c585432045",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Disclosure of total outstanding shares and voting rights at the date of the publication of the Notice of Meeting on March 11, 2024 – French version only",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnKsB5m069VX139G_droits-de-vote-lvmh-au-11.03.2024-1-.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_034_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_034_manifest.json",
+        "file_size_mb": 0.1134,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0033",
+    "sha256": "a809cbd84ea01e4ab02cad9e4fbf65c1fe1420b9157d072948a2a5ca313c54e9",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "1a5900105a6bda741ef1978e",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard Criteria",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_006_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_006_manifest.json",
+        "file_size_mb": 0.3774,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "a53f9e23984fe377e6315df2",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard Criteria",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_009_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_009_manifest.json",
+        "file_size_mb": 0.3774,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "feb3ff8d6435f60369bea229",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Corporate Net-Zero Standard Criteria",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Net-Zero-Standard-Criteria.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_006_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_006_manifest.json",
+        "file_size_mb": 0.3774,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0034",
+    "sha256": "af3e861ccd5b9bce07cc6e078a5d820c898fbf5cc680c6700edd1f0117245785",
+    "duplicate_count": 2,
+    "companies": [
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "c6b0a47107298f70392f9d9a",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "SBTi Criteria Assessment Indicators",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Criteria-Assessment-Indicators.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_003_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 3.4952,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "adc5a0e05e4c6707a7fbfd14",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "SBTi Criteria Assessment Indicators",
+        "source_url": "https://sciencebasedtargets.org/resources/files/SBTi-Criteria-Assessment-Indicators.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_013_manifest.json",
+        "file_size_mb": 3.4952,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0035",
+    "sha256": "b322846a21ab10cee9a7056b598f07afebb87397810f878191c4b7f1621d626b",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "3d4aa1fa793ec6730dcfff68",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Above and Beyond: An SBTi report on the design and implementation of beyond value chain mitigation (BVCM)",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Above-and-Beyond-Report-on-BVCM.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_010_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_010_manifest.json",
+        "file_size_mb": 8.8254,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "106b2a4d7f3a408c8f42b55a",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Above and Beyond: An SBTi report on the design and implementation of beyond value chain mitigation (BVCM)",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Above-and-Beyond-Report-on-BVCM.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_013_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_013_manifest.json",
+        "file_size_mb": 8.8254,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "3a87eab1beb0c13c289efbe1",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Above and Beyond: An SBTi report on the design and implementation of beyond value chain mitigation (BVCM)",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Above-and-Beyond-Report-on-BVCM.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_010_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_010_manifest.json",
+        "file_size_mb": 8.8254,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0036",
+    "sha256": "be00dec2028e6e6f85973a289e9e5621e6543eb26d9aff578c6553ee46ce5fa7",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "3c02f5709f9b6b4c8275fb0a",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "View the previous version (1.0) here.",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Legacy-Net-Zero-Standard-V1.0.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_025_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_025_manifest.json",
+        "file_size_mb": 1.7128,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "207898190074fbd6de2bb5ef",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "SBTI CORPORATE",
+        "source_url": "https://www.wkcgroup.com/wp-content/uploads/2023/02/Science-Based-Targets-Initiative-SBTi-Net-Zero-Standard.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_score_80_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_047_manifest.json",
+        "file_size_mb": 1.7128,
+        "score": 80.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0037",
+    "sha256": "c0294fa903042125e9347c0592847defd97f5da88182a640162598828d33b4f0",
+    "duplicate_count": 2,
+    "companies": [
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "annual_report",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "AnnualReportRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "6a200102f172136fb22119b8",
+        "retriever_name": "AnnualReportRetriever",
+        "document_family": "annual_report",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] 2024 Universal Registration Document (PDF version) - Total Energies",
+        "source_url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\annual_report.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AnnualReportRetriever\\data\\dossier_ingestion_0\\annual_reports\\totalenergies\\2024\\manifest.json",
+        "file_size_mb": 16.3762,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "b3f7d35f2501d394cbe21a3a",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "2024 Universal Registration Document (PDF version)",
+        "source_url": "https://totalenergies.com/system/files/documents/totalenergies_universal-registration-document-2024_2025_en.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 16.3762,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0038",
+    "sha256": "c65ec5c295536fd09cb15ccf7c6172f35215556f5d9b9f74f802a602d22b238d",
+    "duplicate_count": 2,
+    "companies": [
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "corporate_policy",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "2c1f6d0efdb25e298d3ee346",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Document d'enregistrement universel 2024 (version PDF)",
+        "source_url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 16.1175,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "5ed58e7216f113d859dc0bf6",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "TotalEnergies_DEU_2024_VF",
+        "source_url": "https://totalenergies.com/system/files/documents/totalenergies_document-enregistrement-universel-2024_2025_fr.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\environmental\\totalenergies\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 16.1175,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0039",
+    "sha256": "cb4f46a0de5e59d280ed6ce687ecc690a6dd8a1cda47d95767f080d72887ca42",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "climate_report",
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "ClimateReportRetriever",
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "23ab3a73550e7b77601461dc",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_002_score_81_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 32.7079,
+        "score": 81.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "8ac8b1ba60a78ad9ceaac0f6",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_004_score_81_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\lvmh\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 32.7079,
+        "score": 81.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "eeb492802f5d479b9fa40e20",
+        "retriever_name": "ClimateReportRetriever",
+        "document_family": "climate_report",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "aGbA7Hfc4bHWjB6j_LVMH_RS...",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/aGbA7Hfc4bHWjB6j_LVMH_RSE2024_EN_accessible_version.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_001_score_98_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\ClimateReportRetriever\\data\\dossier_ingestion_0\\climate_reports\\lvmh\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 32.7079,
+        "score": 98.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0040",
+    "sha256": "cc0cd029bc515475dbbdd4efffb54c7f0cc5ccb96649d71034081e5eba02395a",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "6281c7885e550c4abbdc83bd",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Download",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBPzpm069VX1z-A_lvmh_codeofconduct_arabic.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_003_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 1.605,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "75b24f3776edff0e07538086",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "下载",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/ZnBUypm069VX10Bv_lvmh_codeofconduct_arabic.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_029_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\code_of_conduct\\lvmh\\candidates\\candidate_029_manifest.json",
+        "file_size_mb": 1.605,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0041",
+    "sha256": "ce91d3720450444782b07d4b490341b341e03119fa2229a064ca470181a94a55",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "7e3861965cde07fc64276a0e",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Getting Started Guide",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Getting-Started-Guide.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_009_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_009_manifest.json",
+        "file_size_mb": 0.8788,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "7bc2bc18254cc429f8df08f0",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Getting Started Guide",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Getting-Started-Guide.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_012_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_012_manifest.json",
+        "file_size_mb": 0.8788,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "39ea398a86b9603bf805d2f9",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Getting Started Guide",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Getting-Started-Guide.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_009_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_009_manifest.json",
+        "file_size_mb": 0.8788,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0042",
+    "sha256": "d7a00ea0de641481d93704cc0863f9a184c523ac7aab53459fd91696745050b6",
+    "duplicate_count": 3,
+    "companies": [
+      "LVMH",
+      "Schneider Electric",
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "sbti_commitment"
+    ],
+    "retrievers": [
+      "SBTiRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "53f6f3c71e13cb66622c75f9",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Raising the Bar: An SBTi report on accelerating corporate adoption of BVCM",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Raising-the-Bar-Report-on-BVCM.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_011_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\lvmh\\2024\\candidates\\candidate_011_manifest.json",
+        "file_size_mb": 4.6932,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "4467aaf5a08f8b9b00460759",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Raising the Bar: An SBTi report on accelerating corporate adoption of BVCM",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Raising-the-Bar-Report-on-BVCM.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_014_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\schneider-electric\\2024\\candidates\\candidate_014_manifest.json",
+        "file_size_mb": 4.6932,
+        "score": 95.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "ec177f9400985a7d1449f804",
+        "retriever_name": "SBTiRetriever",
+        "document_family": "sbti_commitment",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "Raising the Bar: An SBTi report on accelerating corporate adoption of BVCM",
+        "source_url": "https://sciencebasedtargets.org/resources/files/Raising-the-Bar-Report-on-BVCM.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_011_score_95_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SBTiRetriever\\data\\dossier_ingestion_0\\sbti_commitments\\totalenergies\\2024\\candidates\\candidate_011_manifest.json",
+        "file_size_mb": 4.6932,
+        "score": 95.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0043",
+    "sha256": "d8135fcc2fb6614634c916dd5b419677d0a9bcc16d3b1142d65338f50c84ea2d",
+    "duplicate_count": 2,
+    "companies": [
+      "TotalEnergies"
+    ],
+    "document_families": [
+      "agm_document",
+      "remuneration_report"
+    ],
+    "retrievers": [
+      "AGMRetriever",
+      "RemunerationReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "a3659f8a8008c1116417f911",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "AG 2024 Résultats des votes par résolution - VF - TotalEnergies",
+        "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_score_98_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\totalenergies\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 0.1999,
+        "score": 98.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "39aa9a6281e6c27b91fcce5c",
+        "retriever_name": "RemunerationReportRetriever",
+        "document_family": "remuneration_report",
+        "company_name": "TotalEnergies",
+        "company_slug": "totalenergies",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] AG 2024 Résultats des votes par résolution - Total Energies",
+        "source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/documents/2024-05/AG2024_Resultats-des-votes-par-resolution_FR_PDF.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\RemunerationReportRetriever\\data\\dossier_ingestion_0\\remuneration_reports\\totalenergies\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 0.1999,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0044",
+    "sha256": "db86f699776ee068551a1ee263dafdc1943a869b983fa7e8120238504cdb8a02",
+    "duplicate_count": 2,
+    "companies": [
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "vigilance_plan"
+    ],
+    "retrievers": [
+      "VigilancePlanRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "fed04beb785ef8e458309f0b",
+        "retriever_name": "VigilancePlanRetriever",
+        "document_family": "vigilance_plan",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Plan de vigilance 2023",
+        "source_url": "https://www.SE.com/ww/fr/assets/342/document/466150/plan-de-vigilance-2023.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 3.3289,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "01ded9182203906c0dee77f6",
+        "retriever_name": "VigilancePlanRetriever",
+        "document_family": "vigilance_plan",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "PDF Plan de vigilance 2023 - Schneider Electric Global",
+        "source_url": "https://www.se.com/ww/fr/assets/342/document/466150/plan-de-vigilance-2023.pdf?p_enDocType=Duty+of+Vigilance+plan&p_File_Name=Schneider+Vigilance+Plan+2023",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_002_score_85_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\VigilancePlanRetriever\\data\\dossier_ingestion_0\\vigilance_plans\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 3.3289,
+        "score": 85.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0045",
+    "sha256": "e587fc8f00f85c7a16c98fc231918507e0e77beaeaa6979e35e9af09f2261533",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH",
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "corporate_policy"
+    ],
+    "retrievers": [
+      "CorporatePolicyRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "1905aadfad85d9f17a526223",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Politique anticorruption",
+        "source_url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_score_80_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\lvmh\\candidates\\candidate_001_manifest.json",
+        "file_size_mb": 0.3323,
+        "score": 80.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "db8de61dad4deee233882f5e",
+        "retriever_name": "CorporatePolicyRetriever",
+        "document_family": "corporate_policy",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "Politique anticorruption",
+        "source_url": "https://ab-inbev.eu/wp-content/uploads/2022/02/ABInBev-FR-Politique-anticorruption-des-fournisseurs-2019.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_score_80_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\CorporatePolicyRetriever\\data\\dossier_ingestion_0\\corporate_policies\\anticorruption\\schneider-electric\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 0.3323,
+        "score": 80.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0046",
+    "sha256": "e821aee202d2c259db861cd67c4a3384a85c9c41fff5040378a95bf65c831763",
+    "duplicate_count": 2,
+    "companies": [
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "sustainability_report"
+    ],
+    "retrievers": [
+      "SustainabilityReportRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "cc973cfa33ac453a690952ff",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Rapport Développement Durable 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/fr/assets/342/document/513141/rapport-developpement-durable-2024.pdf?p_enDocType=EDMS&p_File_Name=Rapport+D%C3%A9veloppement+Durable+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_002_manifest.json",
+        "file_size_mb": 20.3544,
+        "score": 100.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "78dbed39cf972e4d6b23735d",
+        "retriever_name": "SustainabilityReportRetriever",
+        "document_family": "sustainability_report",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "[PDF] Rapport Développement Durable 2024 - Schneider Electric",
+        "source_url": "https://www.se.com/ww/fr/assets/342/document/513141/rapport-developpement-durable-2024.pdf?p_enDocType=EDMS&p_File_Name=Rapport+D%C3%A9veloppement+Durable+2024",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_004_score_100_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\SustainabilityReportRetriever\\data\\dossier_ingestion_0\\sustainability_reports\\schneider-electric\\2024\\candidates\\candidate_004_manifest.json",
+        "file_size_mb": 20.3544,
+        "score": 100.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0047",
+    "sha256": "f1122487b81978221c7f865fc1524b1fe1ae654072113ecbd93bcd82b7cad69b",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH"
+    ],
+    "document_families": [
+      "agm_document"
+    ],
+    "retrievers": [
+      "AGMRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "aead64b02868cd3440a7ee79",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Communiqué de mise à disposition du Document d’enregistrement universel 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PdQHdAxsiBv60m_Mise%C3%A0dispositionduDocumentd%27enregistrementuniversel2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_018_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_018_manifest.json",
+        "file_size_mb": 0.1305,
+        "score": 83.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "fd32c28b95e83c94b259163c",
+        "retriever_name": "AGMRetriever",
+        "document_family": "agm_document",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "Communiqué de mise à disposition du Document d’enregistrement universel 2024",
+        "source_url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Z-PdQHdAxsiBv60m_Mise%C3%A0dispositionduDocumentd%27enregistrementuniversel2024.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_051_score_83_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\AGMRetriever\\data\\dossier_ingestion_0\\agm_documents\\lvmh\\2024\\candidates\\candidate_051_manifest.json",
+        "file_size_mb": 0.1305,
+        "score": 83.0,
+        "decision": "auto_download"
+      }
+    ]
+  },
+  {
+    "duplicate_group_id": "exact_dup_0048",
+    "sha256": "f48e5bde5bcb4ea6fbb7433569758ec0c32220e203172bab4ef59830653d562f",
+    "duplicate_count": 2,
+    "companies": [
+      "LVMH",
+      "Schneider Electric"
+    ],
+    "document_families": [
+      "earnings_call"
+    ],
+    "retrievers": [
+      "EarningsCallRetriever"
+    ],
+    "documents": [
+      {
+        "document_id": "8884e44a3ba7dc0ee5e647f2",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "LVMH",
+        "company_slug": "lvmh",
+        "fiscal_year": 2024,
+        "source_title": "AIME Terms of Use",
+        "source_url": "https://cdn.ainvest.com/agreement/AIME-Terms-of-Use.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_003_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\lvmh\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 0.1135,
+        "score": 90.0,
+        "decision": "auto_download"
+      },
+      {
+        "document_id": "0c15da21b9ce1b0a78182b12",
+        "retriever_name": "EarningsCallRetriever",
+        "document_family": "earnings_call",
+        "company_name": "Schneider Electric",
+        "company_slug": "schneider-electric",
+        "fiscal_year": 2024,
+        "source_title": "AIME Terms of Use",
+        "source_url": "https://cdn.ainvest.com/agreement/AIME-Terms-of-Use.pdf",
+        "local_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_003_score_90_0.pdf",
+        "manifest_path": "C:\\Users\\hp\\Desktop\\ESG\\EarningsCallRetriever\\data\\dossier_ingestion_0\\earnings_calls\\schneider-electric\\2024\\candidates\\candidate_003_manifest.json",
+        "file_size_mb": 0.1135,
+        "score": 90.0,
+        "decision": "auto_download"
+      }
+    ]
+  }
+]
