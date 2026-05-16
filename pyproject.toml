@@ -1,0 +1,245 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "esg-pipeline"
+version = "1.0.0"
+description = "ESG data extraction and analysis pipeline — PDF corpus to validated ESG indicators database"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Ensea-upb", email = "161674895+Ensea-upb@users.noreply.github.com"}
+]
+keywords = [
+    "esg",
+    "sustainability",
+    "data-extraction",
+    "environmental",
+    "social",
+    "governance",
+    "pdf-parsing",
+    "compliance",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Financial and Insurance Industry",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+dependencies = [
+    "beautifulsoup4>=4.12,<5.0",
+    "ddgs>=6.0,<10.0",
+    "lxml>=5.0,<7.0",
+    "pandas>=2.0,<3.0",
+    "pdfplumber>=0.10,<1.0",
+    "pydantic>=2.0,<3.0",
+    "pyyaml>=6.0,<7.0",
+    "requests>=2.31,<3.0",
+    "streamlit>=1.30,<2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "pytest-xdist>=3.0",
+    "black>=23.0",
+    "flake8>=6.0",
+    "mypy>=1.0",
+    "pylint>=2.17",
+    "isort>=5.12",
+    "pre-commit>=3.0",
+]
+docs = [
+    "sphinx>=5.0",
+    "sphinx-rtd-theme>=1.2",
+    "myst-parser>=0.18",
+]
+ml = [
+    "scikit-learn>=1.3",
+    "transformers>=4.30",
+    "torch>=2.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/Ensea-upb/ESG-Pipeline"
+Documentation = "https://github.com/Ensea-upb/ESG-Pipeline/tree/main/docs"
+Repository = "https://github.com/Ensea-upb/ESG-Pipeline.git"
+"Bug Tracker" = "https://github.com/Ensea-upb/ESG-Pipeline/issues"
+"Changelog" = "https://github.com/Ensea-upb/ESG-Pipeline/releases"
+
+[tool.setuptools]
+packages = [
+    "AnnualReportRetriever",
+    "AGMRetriever",
+    "AssuranceReportRetriever",
+    "SustainabilityReportRetriever",
+    "ClimateReportRetriever",
+    "SBTiRetriever",
+    "CDPResponseRetriever",
+    "GovernanceReportRetriever",
+    "EarningsCallRetriever",
+    "InvestorPresentationRetriever",
+    "HalfYearReportRetriever",
+    "RemunerationReportRetriever",
+    "CorporatePolicyRetriever",
+    "VigilancePlanRetriever",
+    "DocumentPostProcessing",
+    "ESGTableExtraction",
+    "ESGVisualExtraction",
+    "ESGInformationExtraction",
+    "ESGVariableTargetedExtractionV2",
+    "ESGIndicatorValidation",
+    "ESGVariableDatasetBuilder",
+    "ESGCSVExtraction",
+    "ESGManualReview",
+    "ESGProductionControlCenter",
+    "ESGOrchestrator",
+    "ESGExtractionOrchestrator",
+    "ESGCorpusTaxonomy",
+]
+
+[tool.black]
+line-length = 100
+target-version = ["py39", "py310", "py311", "py312"]
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+  | data
+)/
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 100
+multi_line_mode = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+ensure_newline_before_comments = true
+skip_gitignore = true
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+disallow_incomplete_defs = false
+check_untyped_defs = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+strict_optional = true
+
+[[tool.mypy.overrides]]
+module = [
+    "pdfplumber.*",
+    "ddgs.*",
+    "streamlit.*",
+]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --strict-markers --tb=short"
+markers = [
+    "slow: marks tests as slow",
+    "integration: marks tests as integration tests",
+    "unit: marks tests as unit tests",
+]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
+
+[tool.coverage.run]
+source = [
+    "AnnualReportRetriever",
+    "AGMRetriever",
+    "AssuranceReportRetriever",
+    "DocumentPostProcessing",
+    "ESGIndicatorValidation",
+    "ESGVariableDatasetBuilder",
+]
+omit = [
+    "*/tests/*",
+    "*/__main__.py",
+    "*/scripts/*",
+]
+
+[tool.coverage.report]
+precision = 2
+show_missing = true
+skip_covered = false
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "if TYPE_CHECKING:",
+]
+
+[tool.pylint.messages_control]
+disable = [
+    "C0330",  # Wrong hanging indentation before block
+    "C0326",  # Bad whitespace
+    "R0913",  # Too many arguments
+    "R0914",  # Too many local variables
+    "W0212",  # Access to protected member
+]
+
+[tool.pylint.format]
+max-line-length = 100
+
+[tool.pylint.design]
+max-attributes = 10
+max-arguments = 8
+
+[tool.bandit]
+exclude_dirs = ["tests", "docs"]
+skips = ["B101"]  # assert_used
+
+[tool.flake8]
+max-line-length = 100
+exclude = [
+    ".git",
+    "__pycache__",
+    ".venv",
+    "venv",
+    "build",
+    "dist",
+    ".eggs",
+    "data",
+]
+ignore = ["E203", "W503", "W504"]
+per-file-ignores = [
+    "__init__.py:F401",
+]
